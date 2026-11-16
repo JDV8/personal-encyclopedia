@@ -9,6 +9,9 @@ So this folder does not open at Genesis 1. It opens with four foundation lessons
 
 The stories are retold faithfully, in their own terms. Notes on history and composition are labeled as traditional or scholarly where those two regularly come apart (for example: Mosaic authorship of the Torah; dating of the Gospels; whether a prophet's book is one voice). "Scholarly" here means the mainstream of historical-critical study, which itself contains disputes. It is not a synonym for "the true view."
 
+
+**Books, stories, deuterocanon, and glossary.** After the foundation lessons and the narrative paths, use the book-by-book overviews: [Old Testament books](old-testament/books/README.md) (all thirty-nine), [New Testament books](new-testament/books/README.md) (all twenty-seven), and the [deuterocanon](deuterocanon/README.md). The New Testament also has a [story path](new-testament/stories/README.md) that expands major episodes. A [glossary](glossary/README.md) of names and terms sits beside these files.
+
 ## Reading path
 
 **Foundations**

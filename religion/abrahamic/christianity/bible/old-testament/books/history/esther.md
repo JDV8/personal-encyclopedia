@@ -25,6 +25,8 @@ Mordecai's challenge to Esther in 4:13–14 — that relief may come from anothe
 
 The violence of chapters 8–9, in which the Jews kill large numbers of their enemies, is part of the book and of Purim's memory (sometimes carnivalized, sometimes troubling to later readers). A fair reading does not erase it. The Greek additions, treated in the [deuterocanon](../../../deuterocanon/README.md), show that some ancient readers wanted the theology said out loud.
 
+The book's silence about God has been read as a literary strategy (providence hidden in "chance") and as a problem (which is why the Greek additions speak the divine name out loud). Either way, the festival of Purim is the community's interpretive decision: this story is to be remembered with feasting, gifts to the poor, and the public reading of the Megillah. The encyclopedia's later [deuterocanon](../../../deuterocanon/README.md) file on the additions should be read as a second, more explicit theological edition of the same tale, not as a simple replacement.
+
 ## Themes and reception
 
 Themes include diaspora identity, hiddenness, courage, reversal, and the origin of a feast. The Megillah is read aloud at Purim, including the raucous treatment of Haman's name. Christian reception was for a long time thinner (Luther's unease is often cited); modern Christian and literary reading has been more attentive. Feminist interpretation has debated whether Esther is a model of agency or a figure constrained by a harem tale. All of that is reception. The book's own purpose is to underwrite Purim and to tell how a threatened people survived in a foreign court.

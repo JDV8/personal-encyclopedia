@@ -23,6 +23,11 @@ Traditional Christian reading takes these books as apostolic witness, theologica
 - Start with [Second Temple Judaism and Rome](01-second-temple-judaism-and-rome.md)
 - Back to the [Bible overview](../README.md)
 
+
+## Book-by-book and story paths
+
+For an overview of each of the twenty-seven books, see [books/](books/README.md): [Gospels](books/gospels/README.md), [history](books/history/README.md) (Acts), [Pauline epistles](books/pauline-epistles/README.md), [general epistles](books/general-epistles/README.md), and [prophecy](books/prophecy/README.md). For a more granular narrative than lesson 03, see the [story path](stories/README.md) (birth, baptism, Sermon on the Mount, miracles, parables, Passion, resurrection appearances, the early church, and Paul's journeys).
+
 ## References & further reading
 
 - Bart D. Ehrman, *The New Testament: A Historical Introduction to the Early Christian Writings* (Beginner). A clear scholarly introduction to the books and their settings.
