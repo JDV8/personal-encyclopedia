@@ -16,6 +16,12 @@ Pleasure is not the good (against a crude hedonism) but it properly completes ac
 
 This is the central text of virtue ethics in the European tradition, recovered again in the twentieth century (Anscombe, Foot, MacIntyre, and a large literature). It is also a book about a particular kind of free, typically male, citizen in a Greek *polis*; its silences and exclusions are part of reading it honestly. Compare, without collapsing, the Confucian work of [cultivation](../../../../concepts/ethics/cultivation-and-habit.md) in the [*Analects*](../../chinese/texts/analects.md) and [*Mencius*](../../chinese/texts/mencius.md).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Nicomachean Ethics*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Flourishing is activity of the rational soul in accordance with virtue over a life.

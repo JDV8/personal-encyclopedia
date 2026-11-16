@@ -14,6 +14,12 @@ The famous "chain" runs from the investigation of things (*[gewu](../../../../co
 
 Without Zhu Xi this would be a minor ritual chapter. With him it became the opening textbook of an empire's elite. Read the ancient short text, then read it again as a Song curriculum document.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Great Learning* (*Daxue*): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - An ancient *Liji* chapter, later made the gateway Four Book.

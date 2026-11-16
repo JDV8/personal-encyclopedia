@@ -14,6 +14,12 @@ It opens with the division of what is up to us and what is not, and it never rea
 
 Copied, adapted, and even Christianized in late antiquity, it has had a continuous life as a small book of training. Always read it back into the *Discourses* and into Stoic ethics if it starts to sound like a bag of tips.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["Epictetus, *Enchiridion* (Handbook): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A student's digest of Epictetus, not an autograph treatise.

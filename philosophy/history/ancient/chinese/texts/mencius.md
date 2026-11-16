@@ -14,6 +14,12 @@ Mencius debates kings about profit versus *ren* and rightness, defends the goodn
 
 Orthodox Confucianism, especially after the Song, reads Confucius through this book. [Xunzi](../thinkers/xunzi.md) is the great contemporary dissent. Together they are a better introduction to "Confucianism" as an argument than either is alone.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Mencius* (*Mengzi*): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Dialogues defending the goodness of nature, righteous politics, and graded love.

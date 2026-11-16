@@ -22,6 +22,12 @@ A pattern of **reversal** runs through the text: the soft wins, the full tips ov
 
 Later "Daoism" develops in several directions: philosophical commentary (Wang Bi), religious movements, and a long role as the official other of Confucianism. [Zhuangzi](zhuangzi.md) shares vocabulary and is stranger, funnier, and less interested in advising a throne. For this path, "Laozi" is the name of a short, layered classic that made *Dao*, *De*, and *wu wei* inexhaustible terms.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Laozi: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - The constant *Dao* is prior to names; language is already a thinning.

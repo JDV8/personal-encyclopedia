@@ -11,7 +11,7 @@ The Zhou political and ritual order was coming apart. States made war, hereditar
 
 A note on names and texts. "Confucius" is a Latinized form of Kongzi; "Mencius" of Mengzi; "Laozi" is both a name and a title ("Old Master"). Many of these books are layered: compiled, edited, and in some cases written down over generations. Traditional attribution and modern textual scholarship often diverge. This path will flag that where it matters, and will still use the received texts as the things later Chinese thought actually read.
 
-## Reading path
+## Suggested reading order
 
 1. [Foundational concepts: *Tian*, *Dao*, *De*, and the Hundred Schools](01-foundational-concepts.md)
 2. [Confucius and the *Analects*](02-confucius-and-the-analects.md)
@@ -24,7 +24,24 @@ A note on names and texts. "Confucius" is a Latinized form of Kongzi; "Mencius" 
 
 Then: [Greek and Chinese compared](../greek-and-chinese-compared.md).
 
-## Where this leads
+After the narrative path, use [thinkers](thinkers/README.md) and [texts](texts/README.md) for persons and books. Then: [Greek and Chinese compared](../greek-and-chinese-compared.md). Later Confucian rereadings live in [imperial Chinese thought](../../imperial/chinese/README.md).
 
-- Start with [foundational concepts](01-foundational-concepts.md)
-- For the parallel Greek path, see [Ancient Greek philosophy](../greek/README.md)
+## Contents
+
+- [Foundational concepts: *Tian*, *Dao*, *De*, and the Hundred Schools](01-foundational-concepts.md)
+- [Confucius and the *Analects*](02-confucius-and-the-analects.md)
+- [Mencius and Xunzi on human nature](03-mencius-and-xunzi.md)
+- [Laozi and the *Daodejing*](04-laozi-and-the-daodejing.md)
+- [Zhuangzi](05-zhuangzi.md)
+- [Mohism](06-mohism.md)
+- [Legalism](07-legalism.md)
+- [Yin-Yang and the Five Phases](08-yin-yang-and-five-phases.md)
+- [thinkers/](thinkers/README.md) — Confucius through Zou Yan
+- [texts/](texts/README.md) — Analects through the Four Books chapters and the *Changes*
+
+## References & further reading
+
+- Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (Beginner).
+- Philip J. Ivanhoe and Bryan W. Van Norden, eds., *Readings in Classical Chinese Philosophy* (Beginner).
+- A. C. Graham, *Disputers of the Tao* (Advanced).
+- Wing-tsit Chan, *A Source Book in Chinese Philosophy* (Intermediate).

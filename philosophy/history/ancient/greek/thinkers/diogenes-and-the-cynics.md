@@ -22,6 +22,12 @@ There is little patience, in this stream, for logic as a formal science or for p
 
 [Zeno of Citium](zeno-of-citium.md) studied with Crates; Stoicism can be read as Cynic ethics given a physics, a logic, and a less theatrical public style. Roman writers used Diogenes as a stock figure of frank speech (*parrhesia*). Modern readers sometimes see a proto-anarchism, sometimes a performance art of poverty. For this path, the Cynics keep the Socratic "care of the soul" from becoming merely academic: if virtue is the only good, what would it look like to live as if that were true?
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Diogenes and the Cynics: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - A way of life: train wants down, strike through conventional values, live in public.

@@ -14,6 +14,12 @@ Read first the chapters on Heaven, on ritual, on human nature, on "an exhortatio
 
 Sidelined by later Mencian orthodoxy, the book was recovered by modern readers as a major systematic Confucian work and as background to [Legalism](../thinkers/han-feizi.md) (with the caution that Xunzi is not Han Feizi).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Xunzi*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Essays, not sayings: nature, ritual, Heaven, names, learning.

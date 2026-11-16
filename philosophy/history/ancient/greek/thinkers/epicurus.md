@@ -18,6 +18,12 @@ Where the Stoic says virtue is the only good, Epicurus says virtue is valuable b
 
 The school lasted for centuries and was persistently slandered as coarse hedonism — a charge already answered in the surviving letters. Lucretius gave the physics its greatest poem. Early Christian writers often treated Epicureanism as the enemy (no providence, no immortal soul). Modern readers have returned to him as a philosopher of mortality, friendship, and the disciplined reduction of fear. For this path, he is the most complete ethical use of atomism, and a rival to the Stoa on the question of what a good life is for.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Epicurus: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Atoms and void, without providence; death is dispersal, hence nothing to us.

@@ -24,6 +24,12 @@ Whether Zeno meant these as a serious metaphysics, as a challenge to the mathema
 
 Aristotle answered them with his distinctions between potential and actual infinity and with a theory of continuity; whether the answers are complete is still discussed. Modern mathematics, with convergent series and a rigorous account of the continuum, gives a different set of replies, which some philosophers still find insufficient to the *arrow*. Zeno's real afterlife is this: he made [the problem of change](../../../../concepts/metaphysics/the-problem-of-change.md) precise enough that later physics and metaphysics have to work at his level of difficulty.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Zeno of Elea: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - The paradoxes defend Parmenides by attacking plurality and motion.

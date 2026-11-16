@@ -18,6 +18,12 @@ This is the charter text for philosophy as a public vocation: the unexamined lif
 
 No later European or Islamic image of the philosopher on trial is independent of this text. Read it with the [*Crito*](crito.md), which asks why the same man will not escape.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Apology*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A literary defense, not a stenographic record, centered on the examined life and the gadfly role.

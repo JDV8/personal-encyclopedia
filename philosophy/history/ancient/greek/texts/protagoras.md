@@ -14,6 +14,12 @@ A young man wants to study with Protagoras. Socrates asks what Protagoras teache
 
 This is the best place to see the sophist as a serious teacher of civic life, not only as the villain of the *Gorgias*. It is also a key text on whether virtue is knowledge (the Socratic thesis) and whether the virtues are a unity. The "Great Speech" of Protagoras is a founding document of a certain democratic pedagogy: justice is a shared human allotment, and education is everyone's business. Plato lets that speech be powerful, then refuses to let the question rest.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Protagoras*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Protagoras's myth: justice and shame as Zeus's gift, hence civic virtue is widely teachable.

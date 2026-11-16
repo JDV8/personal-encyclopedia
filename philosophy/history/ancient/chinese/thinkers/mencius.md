@@ -22,6 +22,12 @@ He argues against Mohist [impartial care](../../../../concepts/ethics/impartial-
 
 In the long run Mencius became the orthodox Confucian ancestor, especially after the Song. [Xunzi](xunzi.md) was often treated as wayward for saying nature is raw or bad. Modern readers sometimes find Mencius closer to a moral-sense theory, and sometimes too confident about nature. For this path, he is one half of the most important argument inside Confucianism, and the thinker who most explicitly ties human nature, Heaven, and the right to resist tyranny.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Mencius: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Human nature is good in the sense that virtue has native sprouts, which need nourishing.

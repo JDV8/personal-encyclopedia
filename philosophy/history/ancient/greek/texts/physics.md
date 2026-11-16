@@ -14,6 +14,12 @@ Nature is a principle of motion and rest in a thing *as such*. To understand nat
 
 This book, more than any other, was the framework of pre-modern natural science in the Islamic and Latin worlds, and the target of the early modern scientific revolt (on void, projectile motion, and teleology). Reading it now is not a substitute for physics, and it is not a museum piece. It is the most complete ancient attempt to make change intelligible without either denying it or reducing it to rearrangement in a void.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Physics*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Nature is an inner principle of motion; explanation is four-causal and often teleological.

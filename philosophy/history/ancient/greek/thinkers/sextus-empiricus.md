@@ -22,6 +22,12 @@ Sextus is also a historian of philosophy in spite of himself: to refute the scho
 
 His works were little discussed in the medieval Latin West, then explosively important after their Renaissance recovery. Montaigne's *Apology for Raymond Sebond* is steeped in them; early modern "skepticism" is unthinkable without that revival, even when the questions have changed. For this path, Sextus is the fullest surviving account of philosophy as a disciplined refusal to conclude — and a reminder that *ataraxia* was a shared Hellenistic prize, claimed by dogmatists and skeptics alike.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Sextus Empiricus: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Pyrrhonism, in Sextus's definition, keeps investigating; it does not assert that knowledge is impossible.

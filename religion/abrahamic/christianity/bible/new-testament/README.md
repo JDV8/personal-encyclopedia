@@ -22,3 +22,9 @@ Traditional Christian reading takes these books as apostolic witness, theologica
 
 - Start with [Second Temple Judaism and Rome](01-second-temple-judaism-and-rome.md)
 - Back to the [Bible overview](../README.md)
+
+## References & further reading
+
+- Bart D. Ehrman, *The New Testament: A Historical Introduction to the Early Christian Writings* (Beginner). A clear scholarly introduction to the books and their settings.
+- Raymond E. Brown, *An Introduction to the New Testament* (Intermediate). Fuller, more cautious, and widely used in seminary classrooms.
+- N. T. Wright, *The New Testament and the People of God* (Advanced). Places the texts inside Second Temple Jewish hope and early Christian claims.

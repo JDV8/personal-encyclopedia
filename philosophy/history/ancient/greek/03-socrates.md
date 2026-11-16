@@ -29,6 +29,13 @@ Plato's *Apology* presents the defense as a refusal to flatter the jury or to st
 
 He also marks a turn in the Greek story. The Presocratics had argued about nature and being. Socrates, as Cicero later put it, "called philosophy down from the heavens" and asked about human life. Plato will put the heavens back in, but he will do it in a way that still answers Socrates' question: how should one live, and what is it to know the good?
 
+```mermaid
+flowchart LR
+  C["A claim to know a virtue"] --> E["Elenchus: questions and cases"]
+  E --> A["Aporia: knowledge of ignorance"]
+  A --> T["The trial of 399 BCE"]
+```
+
 ## Where this leads
 
 - Next: [Plato](04-plato.md), who turns Socratic inquiry into a full metaphysics and politics

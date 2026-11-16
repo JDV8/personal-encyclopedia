@@ -14,6 +14,12 @@ There is no systematic argument. The book is a set of exercises: strip the thing
 
 Perhaps the most widely read ancient philosophical book in modern times, and therefore the most quoted out of context. It is a Stoic notebook, not a starter system; pair it with Epictetus and with [Zeno of Citium](../thinkers/zeno-of-citium.md)'s school overview.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["Marcus Aurelius, *Meditations*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A private exercise book, not a treatise for the public.

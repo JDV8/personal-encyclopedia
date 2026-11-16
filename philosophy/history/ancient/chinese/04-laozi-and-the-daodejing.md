@@ -27,6 +27,12 @@ A recurring pattern is reversal: what looks weak wins; what is full tips over; t
 
 It is also easy to misuse. "Don't force" can become an excuse not to resist cruelty. The text itself talks about weapons as ill-omened tools and about not delighting in victory. Read it as a discipline of desire and of government, then test it against [Zhuangzi](05-zhuangzi.md), who shares some of the vocabulary and is funnier, stranger, and less interested in advising a throne.
 
+```mermaid
+flowchart LR
+  D["Dao prior to names"] --> V["De: unforced potency"]
+  V --> W["Wu wei: non-forcing action"]
+```
+
 ## Where this leads
 
 - Next: [Zhuangzi](05-zhuangzi.md)

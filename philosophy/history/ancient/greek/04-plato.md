@@ -29,6 +29,14 @@ The political proposal is famous and easy to caricature: philosopher-rulers, a s
 
 Love (*eros*) gets its own treatment in the *Symposium* and *Phaedrus*: desire can be educated, climbing from attraction to beautiful bodies toward Beauty itself. Ethics, here, is not only rule-following. It is the shaping of desire.
 
+```mermaid
+flowchart TB
+  G["Form of the Good"] --> F["Forms"]
+  F --> S["Sensibles that participate"]
+  K["Knowledge"] --> F
+  O["Opinion"] --> S
+```
+
 ## Where this leads
 
 - Next: [Aristotle](05-aristotle.md), who accepts Plato's questions and rejects separate Forms

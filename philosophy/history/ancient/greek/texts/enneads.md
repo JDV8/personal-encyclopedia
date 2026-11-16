@@ -14,6 +14,12 @@ Across the six enneads Plotinus describes the **One**, **Intellect**, and **Soul
 
 The *Enneads* are the bible of Neoplatonism, and through Latin and Arabic channels one of the deep sources of medieval metaphysics and of later mystical philosophy. Read them as a late ancient system, not as a footnote to the *Republic*, even though they are a rereading of [Plato](../thinkers/plato.md).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["Plotinus, *Enneads*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Porphyry's arrangement of Plotinus's seminar-treatises.

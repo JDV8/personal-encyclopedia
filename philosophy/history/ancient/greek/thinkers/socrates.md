@@ -26,6 +26,12 @@ Athens had lost the Peloponnesian War and lived through oligarchic coups, includ
 
 Every later Greek school claimed him. The Cynics took his austerity and independence; the Skeptics, his profession of ignorance; the Stoics, his devotion to virtue; Plato, his person as the starting point of a full metaphysics. For this encyclopedia he remains the turn from nature-philosophy to the examined life — and the reminder that the turn can end in a court.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Socrates: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - We meet Socrates only through others; early Plato is our best, still partial, window.

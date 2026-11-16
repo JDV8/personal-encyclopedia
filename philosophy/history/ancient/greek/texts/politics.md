@@ -16,6 +16,12 @@ Books II–III survey and criticize schemes of the best city, including [Plato](
 
 The *Politics* is both a founding work of comparative political science and a theory of the good city. Its naturalism about the *polis* and its exclusions (slaves, women, laborers as incomplete citizens in some sketches) have to be held in view together. Medieval and early modern readers took what they needed (mixed constitution, the common good, natural law hints); modern liberal and democratic theory both inherits and rebels. For this path, it is the necessary sequel to the *Ethics* and the great Greek alternative to the *Republic*'s more radical design.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Politics*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Humans are political animals; the city exists for living well.

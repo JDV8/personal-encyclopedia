@@ -39,6 +39,17 @@ This is a metaphysical package with ethical consequences later exploited by Epic
 
 Other fifth-century figures belong in a fuller account — Anaxagoras (mind as orderer), Empedocles (four roots and the forces of love and strife), and the Sophists, who shifted attention to custom, rhetoric, and whether justice is natural or conventional. They set the stage for Socrates.
 
+```mermaid
+flowchart TD
+  M["Milesians: a natural arche"] --> T["Thales: water"]
+  M --> I["Anaximander: apeiron"]
+  M --> N["Anaximenes: air"]
+  Q["Other early bets"] --> Y["Pythagoreans: number, soul"]
+  Q --> H["Heraclitus: measured flux"]
+  Q --> P["Parmenides and Zeno"]
+  P --> A["Atomists: atoms and void"]
+```
+
 ## Where this leads
 
 - Next: [Socrates](03-socrates.md), who turns inquiry toward the soul and virtue

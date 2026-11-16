@@ -22,6 +22,12 @@ Two cautions. First, what "is" (*to eon*, *einai*) means here is itself a proble
 
 His student [Zeno of Elea](zeno-of-elea.md) designed paradoxes meant to show the cost of denying the Eleatic one. [Atomists](democritus-and-leucippus.md) will save change by admitting a real void (what-is-not, in one sense) and unchanging atoms (what-is). [Plato](plato.md) will keep a stable object of knowledge (the Forms) and a changing sensible world that participates in them. [Aristotle](aristotle.md) will relocate stability in substances and in [potentiality and actuality](../../../../concepts/metaphysics/potentiality-and-actuality.md). Almost every later metaphysics in this tradition is, among other things, a reply to Parmenides.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Parmenides: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - What-is is, and cannot not be; what-is-not cannot be thought or said.

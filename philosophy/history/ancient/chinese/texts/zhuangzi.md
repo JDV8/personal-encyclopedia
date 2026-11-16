@@ -14,6 +14,12 @@ Start with the Inner Chapters: the "Free and Easy Wandering," the "Sorting of Th
 
 A classic of Chinese literature as well as of philosophy, and a long-term partner and irritant to Confucian seriousness. Read it as stories first, then as argument.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Zhuangzi*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A layered book; Inner Chapters are the usual core.

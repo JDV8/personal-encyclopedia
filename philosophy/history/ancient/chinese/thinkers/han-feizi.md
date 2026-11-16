@@ -22,6 +22,12 @@ This is **not** liberal [rule of law](../../../../concepts/political/fa-shi-shu.
 
 Confucian memory treated Legalism as the philosophy of a short, cruel dynasty. The administrative achievement (clear standards, weakened hereditary nobility, a centralized state) is real, and so is the human cost. Han Feizi sometimes borrows Daoist language of emptiness for the ruler and fills it with surveillance. Shared words do not mean a shared project.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Han Feizi: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - *Fa*, *shi*, and *shu* are a toolkit for ruling without relying on sagehood.

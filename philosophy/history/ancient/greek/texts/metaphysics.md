@@ -14,6 +14,12 @@ The opening: all humans desire to know; wisdom is knowledge of first causes and 
 
 This is the book that named a branch of philosophy. Islamic and Christian medieval metaphysics is unimaginable without it (and without the arguments about the mover, the intellect, and the eternity of the world). Heidegger and a long modern literature still argue with "the question of being" as Aristotle posed it. For this path, it is the fullest Greek attempt to answer [Parmenides](../thinkers/parmenides.md) and [Plato](../thinkers/plato.md) in one science.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Metaphysics*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - First philosophy: being as being, substance, and first causes.

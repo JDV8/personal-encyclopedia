@@ -16,6 +16,12 @@ Along the way he recounts his disappointment with [Anaxagoras](../thinkers/anaxa
 
 The *Phaedo* is one of the founding texts of Western dualism and of the idea that philosophy is a "practice for death." Its arguments for immortality have been endlessly criticized (the harmony objection is especially sharp) and endlessly reused. The literary power — the jail, the cup, the friends — can make the arguments look more conclusive than they are. Read both: the myth and the drama, and the places where the proof is admitted to need another start. Together with the *Meno*, it is also a key text for recollection and for Forms as the objects that make knowledge possible.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Phaedo*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Forms, recollection, and several arguments for the soul's immortality, of uneven force.

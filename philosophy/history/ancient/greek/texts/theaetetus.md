@@ -16,6 +16,12 @@ Notably, the Theory of Forms is almost offstage. Some readers take this as a new
 
 The *Theaetetus* is the founding work of epistemology as a self-conscious subject in the Greek line. Later skeptics, empiricists, and rationalists all find ancestors or targets in it. Read it after the *Meno* (knowledge versus true opinion) and beside the *Sophist* (the problem of not-being and false statement).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Theaetetus*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Three failed definitions: perception, true opinion, true opinion plus an account.

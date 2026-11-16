@@ -14,6 +14,12 @@ Phaedrus has a speech by Lysias that recommends a non-lover as a safer partner. 
 
 The charioteer image became one of the most copied pictures of the tripartite soul. The writing passage is a founding text for later worries about books, literacy, and, much later, every new medium. Together with the *Symposium*, the *Phaedrus* completes Plato's main teaching on *eros*; together with the *Gorgias*, it complicates his teaching on rhetoric — not all persuasion is flattery, but the true art is rare and philosophical.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Phaedrus*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A palinode: *eros* as divine madness and recollection of Beauty.

@@ -16,6 +16,12 @@ Compared with the *Republic*, philosopher-kings recede; god, law, and habit do m
 
 The *Laws* is the ancestor of much later thinking about mixed constitutions, legal preambles, and civic education. It is less read than the *Republic* because it is long, legislative, and less metaphysically dazzling. It is also the book in which Plato, more than anywhere else, treats law as the realistic form of reason in a city of ordinary people. [Aristotle](../thinkers/aristotle.md)'s *Politics* argues with both this work and the *Republic*.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Laws*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A second-best city, designed in law, without Socrates and without philosopher-kings as in the *Republic*.

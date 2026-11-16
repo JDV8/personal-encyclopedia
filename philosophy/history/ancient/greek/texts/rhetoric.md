@@ -14,6 +14,12 @@ Rhetoric is the ability to see, in each case, the available means of persuasion.
 
 This is the founding systematic rhetoric of the Greek tradition, and a major source for later Roman writers (Cicero, Quintilian) and for the medieval curriculum. For this path, it also shows Aristotle as a more practical student of the city than the *Gorgias*'s war with flattery might have predicted.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Rhetoric*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Rhetoric as an art of seeing the available means of persuasion.

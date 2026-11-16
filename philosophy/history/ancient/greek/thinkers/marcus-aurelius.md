@@ -20,6 +20,12 @@ The book's tension is obvious and should not be tidied away. Its author is the m
 
 The *Meditations* became, much later, one of the most widely read ancient philosophical books in modern languages, often by people who do not read any other Stoic. That popularity has a cost (quotes detached from the school) and a benefit (a real ancient voice of self-examination is still in the room). For this path, Marcus is not the founder or the systematizer. He is evidence of what Stoicism looked like when it was used, daily, by someone who could not leave the world he was supposed to be indifferent to.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Marcus Aurelius: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - A private notebook of Stoic exercises, not a published system.

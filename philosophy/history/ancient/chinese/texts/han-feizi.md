@@ -14,6 +14,12 @@ The book teaches a ruler to use **[*fa*](../../../../glossary/chinese/fa.md)** (
 
 The Qin dynasty made this style of thought infamous and historically unavoidable. Confucian readers treated the book as a manual of tyranny. It remains essential: not as a guide to emulate, but as the clearest ancient Chinese theory of government by impersonal standard and positional power, and as a foil to [government by virtue](../../../../concepts/political/government-by-virtue.md).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Han Feizi*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A synthesis of law, positional power, and administrative technique.

@@ -27,6 +27,12 @@ The argument is a template, not just a date in the fourth and third centuries. I
 
 Mencius became the more official Confucian ancestor in later imperial orthodoxy (especially after the Song dynasty). Xunzi was often treated as a lesser or wayward Confucian, then recovered by modern readers who like his naturalism and his attention to artifice. For a first-principles education, you need both. They show that "Confucianism" was an argument, not a single doctrine of the East.
 
+```mermaid
+flowchart TD
+  X["What is human nature?"] --> M["Mencius: good, sprouts to nourish"]
+  X --> U["Xunzi: raw, ritual must transform"]
+```
+
 ## Where this leads
 
 - Next (a rival diagnosis of striving and nature): [Laozi and the *Daodejing*](04-laozi-and-the-daodejing.md)

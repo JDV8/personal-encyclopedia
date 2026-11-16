@@ -28,3 +28,9 @@ Then go to the [New Testament](../new-testament/README.md), beginning with its h
 
 - Start with [Creation and Eden](01-creation-and-eden.md)
 - After this path: [New Testament](../new-testament/README.md)
+
+## References & further reading
+
+- Robert Alter, *The Hebrew Bible: A Translation with Commentary* (Intermediate). Literary attention to the Hebrew narrative and poetry.
+- John J. Collins, *Introduction to the Hebrew Bible* (Intermediate). A standard historical-critical map of the books on this path.
+- *The Jewish Study Bible*, 2nd ed. (Beginner). For reading these texts as Tanakh rather than only as Old Testament.

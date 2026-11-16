@@ -24,3 +24,8 @@ Still to be written, and already implied by this heading: a Judaism branch (Tora
 
 - [The Bible](christianity/bible/README.md)
 - Cross-link to philosophy when questions of law, virtue, and the one/many arise: [philosophy](../../philosophy/README.md)
+
+## References & further reading
+
+- F. E. Peters, *The Children of Abraham* (Beginner). Shared ancestry and the points at which the three traditions diverge.
+- John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). Needed background for the scriptural half of this family.

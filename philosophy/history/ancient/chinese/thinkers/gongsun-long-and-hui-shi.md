@@ -22,6 +22,12 @@ Whether this is serious logic, verbal trickery, or a political-adjacent training
 
 They were often dismissed as sophists, a reception that resembles the fate of the Greek [Sophists](../../greek/thinkers/protagoras-and-the-sophists.md) without being the same movement. [Xunzi](xunzi.md) attacks name-trickery while offering his own theory of names. Modern philosophy of language has returned to the white-horse debate with sometimes anachronistic tools and sometimes real light. Read them next to the Mohist canons and next to Zhuangzi's warnings about disputation.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Gongsun Long and Hui Shi (the School of Names): thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Hui Shi: paradoxes of scale and relativity; the many as one.

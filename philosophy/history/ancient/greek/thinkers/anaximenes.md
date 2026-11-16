@@ -22,6 +22,12 @@ That is a decisive conceptual step. If you can explain apparent kinds as the sam
 
 He can look like a step back from Anaximander's *apeiron* toward a more ordinary element. Read alongside the mechanism, he is a step sideways and forward: a definite *arche* plus a theory of transformation. Later writers sometimes ran the three Milesians together as "material monists." That label is partly Aristotle's. It is still a useful way to see what they share, and what Anaximenes adds.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Anaximenes: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - The *arche* is air, associated with breath and life.

@@ -16,6 +16,12 @@ This is not a modern creation-from-nothing. Matter, or something like a receptac
 
 The *Timaeus* is Plato's main work of [cosmology](../../../../glossary/general/cosmology.md), and the main meeting point of his Forms with Pythagorean mathematics and with natural science. Aristotle will reject a craftsman of this sort and a beginning of time. [Plotinus](../thinkers/plotinus.md) will reread the Demiurge and the world-soul inside a procession from the One. Medieval readers often fused the Demiurge with a creator God. For this path, it is also the best place to see myth and mathematics working together in late Plato, after the political climax of the *Republic*.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Timaeus*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A likely story: a good Demiurge orders the world after an intelligible model.

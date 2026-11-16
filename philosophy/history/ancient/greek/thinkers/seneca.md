@@ -20,6 +20,12 @@ He is more willing than a textbook "Stoic" to quote [Epicurus](epicurus.md) with
 
 Christian readers (Tertullian, later monastic culture, and a medieval correspondence forged between Seneca and Paul) sometimes treated him as almost one of their own. Early modern essayists, especially Montaigne, found a model in the letters. Recent scholarship has also insisted on the political context: advice to a tyrant, wealth, and the limits of inner freedom under autocracy. Read the letters first, then ask how far the life and the teaching can be held together. The question is one Seneca almost invites.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Seneca: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - A Roman, literary Stoicism: daily training, time, anger, and the use of wealth.

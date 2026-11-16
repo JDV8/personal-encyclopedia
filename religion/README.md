@@ -34,3 +34,8 @@ Judaism's own organization of the same (or overlapping) scriptures — the Tanak
 
 - [The Bible](abrahamic/christianity/bible/README.md)
 - Related philosophical background: [ancient philosophy](../philosophy/history/ancient/README.md), especially Greek *logos* and questions of ethics and political order
+
+## References & further reading
+
+- John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). A careful account of how the biblical library formed and has been read.
+- F. E. Peters, *The Children of Abraham* (Beginner). A concise comparison of Judaism, Christianity, and Islam as related traditions.

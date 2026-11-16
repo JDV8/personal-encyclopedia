@@ -18,6 +18,12 @@ The dialogue then returns to teachability. If virtue is knowledge, it should be 
 
 The *Meno* is the most approachable introduction to Platonic epistemology: definition, paradox, recollection, and the difference between knowledge and true opinion (the "statues of Daedalus" that run away unless tied down by an account). It also leaves virtue's status unsettled, which is honest to the *elenchus* and opening toward the *Republic*.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Meno*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - The paradox of inquiry and recollection as a reply.

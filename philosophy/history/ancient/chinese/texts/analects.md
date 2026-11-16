@@ -16,6 +16,12 @@ Recommended translations for this path include Edward Slingerland (with traditio
 
 The *Analects* became the central Confucian book, and under [Zhu Xi](../../../imperial/chinese/thinkers/zhu-xi.md) one of the Four Books of the examination curriculum. Every later Confucian argument (nature, ritual, politics) claims it. It rewards the same kind of reading a book of short, repeatable conversations rewards — not a hunt for a single system on a first pass.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Analects* (*Lunyu*): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A layered compilation of sayings, not a single-authored treatise.

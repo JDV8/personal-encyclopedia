@@ -14,6 +14,12 @@ Each hexagram has a name, a judgment, and line statements used in divination. Th
 
 One of the Five Classics of the Confucian canon, a divination text still used, and a book so often occulted in the West that its first-principles place can be missed: it is an early Chinese attempt to think **change as patterned and readable**, not as chaos, and to tie decision (the oracle) to that pattern. Read it here as a cosmological classic with a long commentary tradition, not first as a fortune-telling app.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*I Ching* (*Yijing*, the Classic of Changes): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A layered work: hexagram divination plus later philosophical "Wings."

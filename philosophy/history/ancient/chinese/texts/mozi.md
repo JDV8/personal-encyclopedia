@@ -14,6 +14,12 @@ The ethical essays argue, often in a repeating, almost oral structure, that doct
 
 The organized Mohist movement faded after the early empire, and the book was neglected relative to the Confucian and Daoist classics. Modern interest in impartiality, just war, and the canons has brought it back. Read it as the *Analects*' most organized early rival, not as a footnote.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Mozi*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A school corpus: ethical essays first, canons and defense chapters later.

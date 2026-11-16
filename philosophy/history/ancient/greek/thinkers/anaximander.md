@@ -22,6 +22,12 @@ He is also associated with a proto-evolutionary picture of living things: the fi
 
 Anaximander is often judged the most conceptually daring of the Milesians, because he refuses to identify the source with a visible element and because he offers a reason why the earth need not fall (a symmetry argument). [Anaximenes](anaximenes.md) will return to a definite stuff (air) but add a clearer mechanism. The *apeiron* remains a landmark in the history of [first principles](../../../../concepts/metaphysics/arche-and-first-principles.md): sometimes the right source is not one of the things it is supposed to explain.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Anaximander: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - The *arche* is the *apeiron*, not a familiar element.

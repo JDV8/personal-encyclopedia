@@ -30,6 +30,15 @@ Yin-Yang and *wuxing* do not replace Confucius, Laozi, or Han Feizi. They often 
 
 For this encyclopedia, the first-principles takeaway is about **what kind of explanation is being offered**. Instead of reducing the many to one material *arche*, this style explains the many by placing them in a web of timed, opposed, and generating relations. Whether that is insight or an over-tidy grid is a question you can keep asking as you meet particular applications. The grid itself is part of the deep grammar of later Chinese thought.
 
+```mermaid
+flowchart LR
+  W["Wood"] --> F["Fire"]
+  F --> E["Earth"]
+  E --> M["Metal"]
+  M --> Wa["Water"]
+  Wa --> W
+```
+
 ## Where this leads
 
 - You now have the main pieces of the Chinese path: go to [Greek and Chinese compared](../greek-and-chinese-compared.md)

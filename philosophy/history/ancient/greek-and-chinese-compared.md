@@ -45,6 +45,12 @@ The useful comparison is not "democracy versus autocracy." Classical Greek democ
 
 When you meet a new text, try two questions. What problem is it answering first? And which of the five branches is it mainly working in? Then ask how it would sound in the other tradition's words. Sometimes a translation will click (*logos* and *Dao*, virtue and *De*). Sometimes the click is a false friend. Noticing the difference is the point of having both paths in the same tree.
 
+```mermaid
+flowchart TB
+  Q["Related questions, different emergencies"] --> G["Greek center: being, change, logos, the soul and the city"]
+  Q --> C["Chinese center: order after breakdown, Dao, cultivation, names"]
+```
+
 ## Where this leads
 
 - Revisit a specific pair with this in mind: [Plato](greek/04-plato.md) and [Confucius](chinese/02-confucius-and-the-analects.md); [Aristotle](greek/05-aristotle.md) and [Xunzi](chinese/03-mencius-and-xunzi.md); [Hellenistic ethics](greek/06-hellenistic-schools.md) and [Zhuangzi](chinese/05-zhuangzi.md)

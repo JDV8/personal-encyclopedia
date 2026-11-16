@@ -16,6 +16,12 @@ The second part is a deduction about "the one" and "the others," in eight (or ni
 
 The *Parmenides* is the reason one should not speak of "the Theory of Forms" as a single, unchanging Plato. Neoplatonists, especially [Plotinus](../thinkers/plotinus.md) and Proclus, made the second part a theology of the One. Analytic readers have treated the first part as a classic of self-critique. Both afterlives are real. For this path, the dialogue is Plato's most honest stress test of the metaphysics of the *Republic*.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Parmenides* (Plato): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Serious internal objections to the Forms, including the third-man regress.

@@ -22,6 +22,12 @@ Socrates, in the *Phaedo*, says he was excited by this and then disappointed: he
 
 He is a hinge between Ionian physics and the Athenian argument about reason and the good. Later ancient writers remember the impiety charge and the "everything in everything" slogan. Modern readers often emphasize the infinitely divisible mixture and the unusual status of *nous* as the one unmixed thing. Read him as a serious reply to Parmenides and as the thinker who put mind on the cosmological table without quite doing what Plato wanted with it.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Anaxagoras: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Everything contains a portion of everything; apparent kinds are predominances.

@@ -26,3 +26,9 @@ The stories are retold faithfully, in their own terms. Notes on history and comp
 
 - Next: [What the Bible is](01-what-the-bible-is.md)
 - For roughly contemporary philosophical traditions, see [ancient philosophy](../../../../philosophy/history/ancient/README.md)
+
+## References & further reading
+
+- John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). Composition, canon, and reception without treating "scholarly" as a single verdict.
+- *The Jewish Study Bible*, 2nd ed. (Intermediate). The Tanakh in a Jewish frame, which this path keeps distinct from the Christian Old Testament.
+- *The New Oxford Annotated Bible* (Beginner). A reliable annotated Christian-canon Bible for the reading path.

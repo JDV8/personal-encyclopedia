@@ -22,6 +22,12 @@ The moral problem is not hidden in the text. People are to be used. The state's 
 
 [Han Feizi](han-feizi.md) treats Shang Yang as a source for *fa*. Confucian and later memory made him a symbol of cruel efficiency. Modern historians still argue about how much of Qin's rise to credit him with, and how much of the book is his. For this path, he is the practical, Qin-facing face of Legalism, as Han Feizi is the synthesizer and stylist.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Shang Yang: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Public, uniform law and rewards tied to agriculture and war remake the elite.

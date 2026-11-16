@@ -37,6 +37,13 @@ Skepticism is easy to parody as a refusal to believe anything. In its careful fo
 
 These three schools, more than the Presocratics, became the popular philosophies of the Roman world. They are also the Greek side's reminder that metaphysics and logic were never only academic. They were tools for living.
 
+```mermaid
+flowchart TB
+  Goal["A settled mind"] --> Stoa["Stoics: virtue, apatheia, a logos-cosmos"]
+  Goal --> Garden["Epicureans: ataraxia, atoms, no fear of death"]
+  Goal --> Sk["Skeptics: epoché, then ataraxia"]
+```
+
 ## Where this leads
 
 - Step back and compare traditions: [Greek and Chinese compared](../greek-and-chinese-compared.md)

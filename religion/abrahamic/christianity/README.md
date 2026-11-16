@@ -17,3 +17,8 @@ Go next to [the Bible](bible/README.md) and follow the foundation lessons before
 
 - [The Bible](bible/README.md)
 - For the Greek word *logos* as it later enters a Gospel prologue, see [foundational Greek concepts](../../../philosophy/history/ancient/greek/01-foundational-concepts.md)
+
+## References & further reading
+
+- Diarmaid MacCulloch, *Christianity: The First Three Thousand Years* (Intermediate). A wide, readable history that does not start only at the Reformation.
+- The *New Oxford Annotated Bible* (Beginner). A standard study Bible for following the lessons with notes at hand.

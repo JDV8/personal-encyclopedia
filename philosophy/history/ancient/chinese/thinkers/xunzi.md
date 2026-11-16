@@ -22,6 +22,12 @@ He is also a fierce critic of [Mencius](mencius.md) on nature, of [Mozi](mozi.md
 
 The imperial Confucian canon, especially after the Song, preferred Mencius. Xunzi was often sidelined as too harsh, too close to Qin. Twentieth-century and later scholars have recovered him as a major philosopher of artifice, education, and naturalized Heaven. For this path, you need both him and Mencius: cultivation assumes something that can be cultivated, and it also assumes that without practice we do not arrive.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Xunzi: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Nature is raw or bad; ritual and teaching make people good.

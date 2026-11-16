@@ -35,6 +35,14 @@ This is the problem of change. It is not a historical curiosity. Any time you as
 
 Plato's Forms are one attempt to give knowledge a stable object while still having a changing world that "participates" in those objects. Aristotle's distinction between potentiality and actuality is another: a seed *is* a tree in potential, so becoming a tree is not a leap from being to non-being. You will meet both answers soon. They are much easier to see once the problem is in view.
 
+```mermaid
+flowchart LR
+  A["Arche: a source or principle"] --> P["The problem of change"]
+  L["Logos: account and order"] --> P
+  P --> H["Flux: Heraclitus"]
+  P --> R["Unchanging being: Parmenides"]
+```
+
 ## Where this leads
 
 - Next: [The Presocratics](02-presocratics.md), who first put these concepts to work

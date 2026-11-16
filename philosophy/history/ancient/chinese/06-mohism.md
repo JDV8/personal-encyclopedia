@@ -25,6 +25,13 @@ The **later Mohists** (chapters sometimes called the "Mohist Canons") developed 
 
 Mohism as an organized movement fades after the Qin and early Han, while Confucianism becomes state orthodoxy. The questions did not fade. Every time a tradition argues about impartiality versus loyalty, or about wasteful ritual versus social benefit, it is on Mohist terrain.
 
+```mermaid
+flowchart TB
+  Mo["Mozi"] --> J["Jian ai: impartial care"]
+  Mo --> H["Heaven's will as a standard"]
+  Mo --> T["Tests by benefit; against aggression and waste"]
+```
+
 ## Where this leads
 
 - Next: [Legalism](07-legalism.md), which also wants objective standards, but for state power rather than impartial care

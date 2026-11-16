@@ -40,6 +40,15 @@ Yin-Yang and Five Phases thought is less a single "school" in the same sense and
 
 The first-principles point is simple: start with the shared problem (order after breakdown) and the shared words (*Tian*, *Dao*, *De*). The schools then become competing specifications of those words.
 
+```mermaid
+flowchart TB
+  Prob["How to restore order?"] --> Words["Shared words: Tian, Dao, De"]
+  Words --> Ru["Ru / Confucians"]
+  Words --> Dao["Daoist texts"]
+  Words --> Mo["Mohists"]
+  Words --> Fa["Legalists"]
+```
+
 ## Where this leads
 
 - Next: [Confucius and the *Analects*](02-confucius-and-the-analects.md)

@@ -20,6 +20,12 @@ He is also reported to have said that all things are full of gods, and that the 
 
 Greek tradition treated Thales as the beginning of philosophy, and that honor is itself a historical fact: later thinkers needed a first. Modern scholarship is more cautious about the details and more interested in the Milesian pattern he opens — [Anaximander](anaximander.md) and [Anaximenes](anaximenes.md) will specify other *archai* and, crucially, mechanisms of change. The question he is taken to have asked, "what is the source of the many?", remains the first metaphysical question in this path.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Thales: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - A single natural *arche* (water) is offered as the source of the world's variety.

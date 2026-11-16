@@ -22,6 +22,12 @@ Ethics follows. The only genuine good is **virtue**, a well-ordered rational sou
 
 The Stoa became the most influential philosophy of the Hellenistic and Roman elite, then a resource for Christian and modern writers, then a contemporary popular ethics often detached from the physics. Reading Zeno's school well means putting the ethics back next to the *logos*-cosmos that was supposed to support it, and remembering how much of the early writing is gone.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Zeno of Citium: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Logic, physics, and ethics are one system, not three hobbies.

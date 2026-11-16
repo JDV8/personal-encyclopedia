@@ -14,6 +14,12 @@ A short, difficult collection attributed to [Gongsun Long](../thinkers/gongsun-l
 
 Often dismissed as sophistry, then recovered by modern philosophy of language, sometimes with anachronistic tools. It is a small book with a large afterlife in the problem of [names and actuality](../../../../concepts/epistemology/names-and-actuality.md).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Gongsun Longzi*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A short, uneven corpus; "White Horse" is the center.

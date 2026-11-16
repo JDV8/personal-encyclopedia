@@ -28,16 +28,20 @@ The process for adding or expanding a topic — first principles, where to nest 
 ```
 personal-encyclopedia/
   README.md
-  philosophy/          What philosophy is, and its core branches
+  SKILL.md             How a topic is added or expanded
+  philosophy/
+    concepts/          Granular lessons by branch
+    glossary/          193 short entries (general, Greek, Chinese)
     history/
       ancient/
-        greek/         First principles of Greek thought, through the Hellenistic schools
-        chinese/       First principles of early Chinese thought, through the Hundred Schools
+        greek/         Lessons, plus thinkers/ and texts/
+        chinese/       Lessons, plus thinkers/ and texts/
         greek-and-chinese-compared.md
+      imperial/        Song-Ming Confucian bridges (Zhu Xi, Wang Yangming)
   religion/
     abrahamic/
       christianity/
-        bible/         What the Bible is (canon, languages, composition, genres)
+        bible/
           old-testament/
           new-testament/
 ```
@@ -49,3 +53,10 @@ Start here:
 3. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), before any particular story.
 
 Future topics should be added as new branches of this tree (for example `engineering/mechanical/…`), not as loose files at the root.
+
+## References & further reading
+
+- The process itself is in [SKILL.md](SKILL.md).
+- Julia Annas, *Ancient Philosophy: A Very Short Introduction* (Beginner). A first book for the Greek side of the philosophy branch.
+- Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (Beginner). A first book for the Chinese side.
+- John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). A careful, readable overview of how the biblical library formed.

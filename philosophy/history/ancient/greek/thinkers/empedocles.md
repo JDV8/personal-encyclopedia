@@ -22,6 +22,12 @@ The religious side is not an afterthought. *Purifications* speaks of a fallen *d
 
 The four roots become, in later popular science, the "four elements," a scheme that lasts through Aristotle, Galen, and medieval medicine. Aristotle himself takes Empedocles seriously as a predecessor in physics and biology and criticizes him on teleology and on the inadequacy of chance mixtures. For this path, Empedocles is a model of how to honor Parmenides' ban on coming-to-be while still explaining the colorful, changing world: keep the ingredients eternal, and let change be arrangement.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Empedocles: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Four eternal roots; change is mixture and separation, not generation from nothing.

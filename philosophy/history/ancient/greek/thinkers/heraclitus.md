@@ -24,6 +24,12 @@ He is also a moralist of waking up. Most people, he says, are like sleepers, eac
 
 Plato and Aristotle already treat him as the flux philosopher, sometimes too simply. The Stoics will take up his fire and *logos* and turn them into a providential cosmology. Hegel and a long modern tradition will claim him for dialectic and becoming. Read the fragments first, on their own terms: a thinker of measured change, of conflict as structure, and of a common account that is hard to hear.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Heraclitus: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Flux is real, but it is measured; the *logos* is common.

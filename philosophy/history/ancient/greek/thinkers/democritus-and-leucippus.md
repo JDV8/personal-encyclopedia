@@ -22,6 +22,12 @@ Ethics in the surviving Democritean maxims prizes cheerfulness (*euthymia*), mea
 
 Aristotle rejected a void and actual indivisibles, and he thought atomism could not explain form, purpose, or the real structure of living things. Plato barely mentions the school by name, though some readers see a shadow of it in later dialogues. Epicureanism made atomism a complete way of life. In the early modern period, a revived atomism (or corpuscularianism) would help shape the new science, at a long historical distance and with many changes. For this path, the first-principles achievement is already clear: a way to grant Parmenides stable being *and* save a world of motion, at the cost of admitting the void and reducing quality to arrangement.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Democritus and Leucippus: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Atoms and void: unchanging beings plus empty space make motion possible.

@@ -5,7 +5,7 @@
 
 Philosophy is the attempt to ask, and to answer carefully, questions that sit underneath more specialized work: what there is, what we can know, how we should live, what follows from what, and how we should live together. The word is Greek (*philosophia*, "love of wisdom"), but the activity is not a Greek monopoly. China, India, and other traditions developed rigorous ways of posing the same kinds of question, often in a different vocabulary and with different starting problems.
 
-This folder does not begin with a biography of a famous thinker, and it does not begin with "Greek philosophy" as if that were the whole subject. It begins with the branches. Those branches are the first-principles map. Historical schools then become case studies in how people actually worked those questions.
+This folder does not begin with a biography of a famous thinker, and it does not begin with "Greek philosophy" as if that were the whole subject. It begins with the branches. Those branches are the first-principles map. Historical schools then become case studies in how people actually worked those questions. The [concepts](concepts/README.md) folder unpacks the branches at lesson length; the [glossary](glossary/README.md) is the lookup list; the [history](history/README.md) folder is the narrative path.
 
 ## Core branches
 
@@ -21,20 +21,35 @@ This folder does not begin with a biography of a famous thinker, and it does not
 
 These branches overlap. A claim about human nature is metaphysical and ethical at once, and it usually has political consequences. The point of naming the branches is not to keep them in separate rooms. It is to notice *which question* a text is primarily answering.
 
-## How this folder is organized
+## Suggested reading order
 
-The first historical path in this encyclopedia is ancient philosophy, because those texts are the soil for so much later thought, including the Bible's later philosophical readers. The tree is:
+1. This overview, then a first pass through the [glossary](glossary/README.md) branches (metaphysics, epistemology, ethics, logic, political philosophy).
+2. [Ancient philosophy](history/ancient/README.md): take the [Greek](history/ancient/greek/README.md) or [Chinese](history/ancient/chinese/README.md) path, or both, then the [comparison](history/ancient/greek-and-chinese-compared.md).
+3. Use [concepts](concepts/README.md) to go deeper on a single idea, [thinkers](history/ancient/greek/thinkers/README.md) and [texts](history/ancient/greek/texts/README.md) (or the [Chinese](history/ancient/chinese/thinkers/README.md) equivalents) for a person or a book.
+4. Then the later bridges in [imperial Chinese thought](history/imperial/chinese/README.md).
 
-- [History of philosophy](history/README.md)
-  - [Ancient philosophy](history/ancient/README.md)
-    - [Ancient Greek philosophy](history/ancient/greek/README.md)
-    - [Ancient Chinese philosophy](history/ancient/chinese/README.md)
-    - [Greek and Chinese compared](history/ancient/greek-and-chinese-compared.md)
+## Contents
 
-Read the Greek and Chinese sequences independently if you want; read the comparison after you have done at least the foundational lessons in both.
+- [concepts/](concepts/README.md) — granular lessons by branch
+  - [metaphysics/](concepts/metaphysics/README.md)
+  - [epistemology/](concepts/epistemology/README.md)
+  - [ethics/](concepts/ethics/README.md)
+  - [logic/](concepts/logic/README.md)
+  - [political/](concepts/political/README.md)
+- [glossary/](glossary/README.md) — 193 short entries
+  - [general/](glossary/general/README.md)
+  - [greek/](glossary/greek/README.md)
+  - [chinese/](glossary/chinese/README.md)
+- [history/](history/README.md) — narrative paths
+  - [ancient/](history/ancient/README.md)
+  - [imperial/](history/imperial/README.md)
 
-## Where this leads
+For the religious texts that often travel with these questions, start at [Religion](../religion/README.md) and [the Bible](../religion/abrahamic/christianity/bible/README.md).
 
-- [History of philosophy](history/README.md)
-- Later branches (medieval, modern, and non-Western traditions not yet written) will hang off this same tree.
-- For the religious texts that often travel with these questions, start at [Religion](../religion/README.md) and [the Bible](../religion/abrahamic/christianity/bible/README.md).
+## References & further reading
+
+- Julia Annas, *Ancient Philosophy: A Very Short Introduction* (Beginner). A short, reliable map of the Greek questions these branches name.
+- Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (Beginner). The matching first map for the Chinese side.
+- Pierre Hadot, *What Is Ancient Philosophy?* (Intermediate). Argues that ancient philosophy was a way of life, not only a set of doctrines.
+- A. C. Graham, *Disputers of the Tao* (Advanced). The best single English history of early Chinese argument.
+- Aristotle, *Nicomachean Ethics* and *Metaphysics*, standard translations (Intermediate). Still the densest source for several of the branches as later Europe named them.

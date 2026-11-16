@@ -14,6 +14,12 @@ Several speakers offer competing portraits of Love: a god, a cosmic force, a spu
 
 The *Symposium* is Plato's great work on desire as something that can be educated, not merely suppressed or indulged. It is also a study in how speech, comedy, myth, and argument share a table. Later Christian and Islamic readers sometimes allegorized the ladder; modern readers sometimes isolate Aristophanes or Alcibiades. The first-principles yield is that ethics, for Plato, is a shaping of *eros* toward a stable object (the Beautiful, close to the Good of the *Republic*), and that the philosopher's life is itself an erotic one.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Symposium*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - *Eros* is interpreted many ways; Diotima's ascent is the philosophical climax, not the only voice.

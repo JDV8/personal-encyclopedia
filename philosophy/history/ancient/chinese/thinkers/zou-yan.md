@@ -22,6 +22,12 @@ Zou Yan, as reported, is the person who tried to make this a comprehensive, almo
 
 The "Yin-Yang school" is a bibliographic category as much as a movement. Sima Qian already treats Zou Yan as famous, slightly extravagant, and widely imitated. For this path, he is the named bridge between Warring States cosmology and the Han imperial synthesis — and a reminder that [Yin-Yang and the Five Phases](../08-yin-yang-and-five-phases.md) have a history, not only an atmosphere.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Zou Yan: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Traditional founder-name for a systematic Five-Phase and yin-yang historiography.

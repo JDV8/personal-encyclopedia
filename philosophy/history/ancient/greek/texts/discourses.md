@@ -14,6 +14,12 @@ Themes of the *Handbook* are here in their native length: *prohairesis* as the t
 
 Marcus Aurelius knew this work. It is the main long Stoic text in Greek that a modern reader can still inhabit at length, now that Chrysippus is lost.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["Epictetus, *Discourses*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - The living lecture record behind the *Handbook*.

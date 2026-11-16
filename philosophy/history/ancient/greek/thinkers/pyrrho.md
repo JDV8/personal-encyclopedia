@@ -20,6 +20,12 @@ A cautious first picture: Pyrrho offered *ataraxia* not by discovering the true 
 
 The Academic skeptics ([Arcesilaus](../../../../glossary/greek/academic-skepticism.md), Carneades) developed a related, more argumentative skepticism inside Plato's Academy, often aimed at the Stoics. A later revival, known through Sextus, claimed Pyrrho as ancestor. Modern philosophy's uses of "skepticism" (Descartes, Hume) are another story again, often more about the justification of science than about a way of life. Start with Pyrrho as a Hellenistic therapist of belief, not as a modern epistemologist in a cloak.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Pyrrho: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - A founder known only through later, sometimes conflicting, reports.

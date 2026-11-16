@@ -27,6 +27,14 @@ On death, Zhuangzi is startlingly calm. When his wife dies, he is found drumming
 
 The *Zhuangzi* is one of the great books about freedom, if freedom means not being owned by conventional success, fear of death, or the need to win the argument. It can also be read as dangerously quietist. As with the *Daodejing*, the right first step is to let the stories work, then to ask what kind of life they make possible — and what kind of injustice they might decline to name.
 
+```mermaid
+flowchart TB
+  Z["Zhuangzi"] --> P["Perspective: butterfly, Peng bird"]
+  Z --> S["Skill: Cook Ding"]
+  Z --> U["Usefulness of the useless"]
+  Z --> T["Death as transformation"]
+```
+
 ## Where this leads
 
 - Next: [Mohism](06-mohism.md), which wants the clear standards Zhuangzi distrusts

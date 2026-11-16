@@ -22,6 +22,12 @@ He argues with [materialists](democritus-and-leucippus.md), with [Aristotle](ari
 
 Through Porphyry, Iamblichus, Proclus, and the later Academy, Neoplatonism became the common high philosophy of late antiquity. Augustine read Plotinus (in Latin translation) at a decisive point in his own thought. Islamic and medieval Latin philosophers inherited versions of this hierarchy. For this encyclopedia, Plotinus is the great late ancient attempt to make [Plato](plato.md)'s Good, Forms, and soul into one structured picture of reality and of the soul's return.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Plotinus: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - The One, Intellect, and Soul are a hierarchy of procession and return.

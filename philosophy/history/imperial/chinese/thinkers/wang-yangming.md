@@ -22,6 +22,12 @@ The risks were noticed early: a teaching of innate knowing can become, in lesser
 
 His school was influential in the mid- to late Ming, controversial as "too close to Chan Buddhism" in some official eyes, and important in later East Asian Confucianism (especially in Japan). Modern readers sometimes treat him as an apostle of moral autonomy or of praxis. For this encyclopedia he is the second half of the Song-Ming bridge: if Zhu Xi explains how the ancient Confucian books became a metaphysical and examination curriculum, Wang Yangming shows the most powerful internal revolt against that curriculum's outward turn.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Wang Yangming: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Innate knowing (*liangzhi*) is the starting point; investigating outer things first is a mistake.

@@ -14,6 +14,12 @@ The essays return to a few harsh, clear claims. Agriculture and war are the two 
 
 [Han Feizi](../thinkers/han-feizi.md) treats Shang Yang as a source for *fa*. Later memory made the book a symbol of cruel efficiency, and Qin's brief empire after unification gave that memory a historical hook. It is one of the hardest political texts in this encyclopedia, and one of the most important for understanding how Qin was imagined to have worked.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Book of Lord Shang* (*Shangjunshu*): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A Legalist school text around Shang Yang's reforms, of mixed date.

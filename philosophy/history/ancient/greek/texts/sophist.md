@@ -16,6 +16,12 @@ The dialogue's constructive core is an analysis of **the very large kinds** (*me
 
 The *Sophist* is a bridge between Eleatic logic and later accounts of predication, negation, and image. It also keeps the ethical-political worry of the *Gorgias*: the sophist is a producer of distorting appearances. [Aristotle](../thinkers/aristotle.md)'s logic and [Plotinus](../thinkers/plotinus.md)'s treatment of being and difference both live downstream, in different ways.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Sophist*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Definition by division, used to trap the sophist as a maker of appearances.

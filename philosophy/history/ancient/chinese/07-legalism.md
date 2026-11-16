@@ -27,6 +27,13 @@ The tradition is also not simply "cruelty." Shang Yang's reforms (land policy, c
 
 Read alongside [Xunzi](03-mencius-and-xunzi.md), Legalism looks like what happens if you take "nature will not save us" and discard ritual as the main corrective. Read alongside the *Daodejing*, Han Feizi sometimes borrows the language of emptiness and stillness for the ruler, then fills it with surveillance. The shared words (*Dao*, *De*, *wu wei*) do not mean the shared project.
 
+```mermaid
+flowchart TB
+  Toolkit["Legalist toolkit"] --> Fa["Fa: public law"]
+  Toolkit --> Shi["Shi: positional power"]
+  Toolkit --> Shu["Shu: administrative technique"]
+```
+
 ## Where this leads
 
 - Next: [Yin-Yang and the Five Phases](08-yin-yang-and-five-phases.md), a cosmology later used to legitimize and organize imperial order

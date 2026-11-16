@@ -16,6 +16,12 @@ The argument is not "always obey the state." It is more nearly: this man, who ha
 
 Read next to the *Apology*, the *Crito* is startling. The same Socrates who defies the jury's wish that he be silent now submits to the legal process. The consistency he claims is that he has never agreed to do injustice, and escape would be injustice to the laws. Later contract theories, civil disobedience debates, and readings of "Socratic citizenship" all pass through this short text. It should not be flattened into either simple quietism or a complete theory of the state.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Crito*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - The only question is whether escape is just, not whether it is convenient or good for one's reputation.

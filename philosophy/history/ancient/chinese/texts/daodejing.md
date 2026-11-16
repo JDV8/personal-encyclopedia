@@ -14,6 +14,12 @@ There is no plot. A set of short, often paradoxical chapters returns to the unsa
 
 The most translated Chinese book after some world-religion lists, a founding text of philosophical and religious Daoism, and a perennial resource for critics of striving. Keep [Zhuangzi](zhuangzi.md) next to it so "Daoism" does not collapse into one tone.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Daodejing*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A short, layered, manuscript-rich classic, not a single-author treatise with a secure biography.

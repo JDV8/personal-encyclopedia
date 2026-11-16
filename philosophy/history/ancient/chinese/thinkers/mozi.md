@@ -22,6 +22,12 @@ Practical campaigns follow: **against aggressive war** (though not against defen
 
 Mohism as an organized movement fades after Qin and early Han, while Confucianism becomes state orthodoxy. The questions did not fade. Every time a tradition argues about impartiality versus loyalty, or about wasteful ritual versus social benefit, it is on Mohist terrain.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Mozi: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Impartial care is the ethical first principle, tested by benefit and by Heaven's will.

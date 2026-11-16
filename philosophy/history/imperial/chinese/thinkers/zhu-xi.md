@@ -20,6 +20,12 @@ Self-cultivation, in his program, includes **[investigating things](../../../../
 
 From the later Song and especially the Yuan and Ming, his curriculum and many of his interpretations were official orthodoxy, which made him both a teacher of a civilization and a target. [Wang Yangming](wang-yangming.md) would reject the outward-leaning investigation of things as he understood it, in favor of innate knowing. Modern reformers sometimes blamed "Zhu Xi Confucianism" for rigidity. For this path, he is the reason the Four Books exist as a set, and the thinker through whom *li* and *qi* became the default metaphysical vocabulary of later Confucianism.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Zhu Xi: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - A Song synthesis: *li* (principle) and *qi* (vital stuff); Mencian nature; a Four Books curriculum.

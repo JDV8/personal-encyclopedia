@@ -14,6 +14,12 @@ There is no single plot. Themes recur: the shortness of time, the daily review, 
 
 They shaped the essay as a European form (Montaigne above all) and kept Stoicism available when the early Greek sources were thinner. The tension between Seneca's life at court and the letters' advice is part of the reading, as his overview says.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["Seneca, *Letters to Lucilius*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A literary, practical Stoicism in letter form.

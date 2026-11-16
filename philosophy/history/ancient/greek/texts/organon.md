@@ -16,6 +16,12 @@ This is term logic: it works with "all," "some," "none," and with subjects and p
 
 The *Organon* was the logic textbook of the Islamic and Latin medieval worlds, and "Aristotelian logic" became, for early modern rebels, a name for scholastic method as a whole. For this path, it is the technical counterpart to the more inviting ethics and metaphysics, and the place to see why [logic](../../../../concepts/logic/syllogism-and-the-organon.md) is a branch of philosophy in the Greek tree.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["The *Organon*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A later collection of logical works, not a title Aristotle used for one book.

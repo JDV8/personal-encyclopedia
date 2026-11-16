@@ -22,6 +22,12 @@ On death, Zhuangzi is startlingly calm. When his wife dies, he drums on a tub: s
 
 The book became a classic of literary Chinese as well as of philosophy, a resource for later poets, Chan Buddhist writers, and critics of Confucian stiffness. It can also be read as quietist. As with the *Daodejing*, the first step is to let the stories work, then to ask what kind of life they make possible — and what kind of injustice they might decline to name.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Zhuangzi: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Perspective, skillful spontaneity, and the usefulness of the useless are the central therapies.

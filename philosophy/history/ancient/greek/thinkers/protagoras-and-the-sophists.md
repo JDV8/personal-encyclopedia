@@ -26,6 +26,12 @@ The first-principles point is not "the Sophists were cynics." It is that they ma
 
 Plato and, to a degree, Aristotle defined the Sophists as the other of philosophy: paid, display-oriented, careless of truth. That contrast helped invent "philosophy" as a vocation. Modern scholarship has recovered sophistic fragments as serious work in language, epistemology, and political thought. [Socrates](socrates.md) shares their interest in argument and virtue and refuses their fees and, in Plato's picture, their claim to teach success. The fight between them is in the family.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Protagoras and the Sophists: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Paid teachers of rhetoric and civic excellence shift inquiry from cosmos to city and speech.

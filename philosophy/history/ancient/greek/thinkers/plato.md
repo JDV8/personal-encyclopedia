@@ -26,6 +26,12 @@ Plato also inherits [Pythagorean](pythagoras.md) mathematics and a story of the 
 
 The Academy, Aristotle's twenty years there, Middle Platonism, and [Plotinus](plotinus.md) make him a founder of a tradition, not only an author. Christian, Islamic, and Jewish philosophers would later reread the Forms, the soul, and the *Timaeus*'s craftsman. Modern philosophy still argues with the *Republic* and the *Theaetetus*. To study him well is to read dialogues as dramas — who is speaking, to whom, after what political disaster — and not only as a store of doctrines.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Plato: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Dialogues are the form, not a wrapper; characters and occasion matter.

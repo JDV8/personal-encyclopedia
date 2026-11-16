@@ -22,6 +22,12 @@ The theology is Stoic and often intimate: Zeus, the god within, the kinship of h
 
 The *Handbook* was adopted, adapted, and even Christianized (a later *Enchiridion* with God replacing Zeus). It has had a continuous life as a short book of exercises, from late antiquity through early modern Europe to contemporary "practical Stoicism." The risk of the afterlife is to keep the exercises and drop the claim about what is truly good. Read him first as a Stoic, not as a life-hack.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Epictetus: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Some things are up to us; the good lives only there.

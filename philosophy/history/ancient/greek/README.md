@@ -11,7 +11,7 @@ The next question is the one that organizes so much of what follows: **how is ch
 
 Socrates turns the same energy on ethics and the care of the soul. Plato builds a metaphysics of Forms and a political vision around that turn. Aristotle builds a comprehensive science of substances, causes, living things, argument, virtue, and the polis. After Alexander, the Hellenistic schools — Stoics, Epicureans, Skeptics — treat philosophy as a way of life aimed at a settled mind in an uncertain world.
 
-## Reading path
+## Suggested reading order
 
 1. [Foundational concepts: *arche*, *logos*, and the problem of change](01-foundational-concepts.md)
 2. [The Presocratics](02-presocratics.md)
@@ -22,7 +22,23 @@ Socrates turns the same energy on ethics and the care of the soul. Plato builds 
 
 Then: [Greek and Chinese compared](../greek-and-chinese-compared.md), ideally after at least the Chinese foundational lesson.
 
-## Where this leads
+After the narrative path, use [thinkers](thinkers/README.md) and [texts](texts/README.md) to go person by person and book by book. Then: [Greek and Chinese compared](../greek-and-chinese-compared.md), ideally after at least the Chinese foundational lesson.
 
-- Start with [foundational concepts](01-foundational-concepts.md)
-- For a parallel tradition, see [Ancient Chinese philosophy](../chinese/README.md)
+## Contents
+
+- [Foundational concepts: *arche*, *logos*, and the problem of change](01-foundational-concepts.md)
+- [The Presocratics](02-presocratics.md)
+- [Socrates](03-socrates.md)
+- [Plato](04-plato.md)
+- [Aristotle](05-aristotle.md)
+- [Hellenistic schools: Stoics, Epicureans, Skeptics](06-hellenistic-schools.md)
+- [thinkers/](thinkers/README.md) — one overview per major figure, from Thales to Plotinus
+- [texts/](texts/README.md) — one overview per major work (dialogues, treatises, handbooks)
+
+## References & further reading
+
+- Jonathan Barnes, *Early Greek Philosophy* (Beginner). Fragments of the Presocratics in a readable English collection.
+- John M. Cooper, ed., *Plato: Complete Works* (Intermediate). The standard single-volume Plato.
+- A. A. Long, *Hellenistic Philosophy* (Intermediate). Clear on Stoics, Epicureans, and Skeptics.
+- G. S. Kirk, J. E. Raven, and M. Schofield, *The Presocratic Philosophers* (Advanced).
+- Pierre Hadot, *What Is Ancient Philosophy?* (Intermediate).

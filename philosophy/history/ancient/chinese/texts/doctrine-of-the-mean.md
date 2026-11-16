@@ -14,6 +14,12 @@ Another *Book of Rites* chapter, later extracted by [Zhu Xi](../../../imperial/c
 
 A Four Books pillar, a resource for later Confucian spirituality, and sometimes a text read too quickly as if it were already Neo-Confucianism. Keep it next to the *Analects* so the earlier, drier moral psychology is not forgotten, and next to Zhu Xi so you can see what was made of it.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Doctrine of the Mean* (*Zhongyong*): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A *Liji* chapter later canonized as a Four Book.

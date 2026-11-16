@@ -24,6 +24,12 @@ Ethics asks what the human good is. The answer is [*eudaimonia*](../../../../glo
 
 His influence is hard to overstate: Hellenistic schools argue with him; Islamic and Christian medieval philosophy build with and against his vocabulary of substance, cause, and soul; modern science begins, in part, as a revolt against a late Aristotelian school picture of nature. You do not have to be an Aristotelian to need to know what you are refusing.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Aristotle: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Substances, not separate Forms, are primary; form and matter compose them.

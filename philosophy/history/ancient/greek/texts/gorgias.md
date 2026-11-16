@@ -16,6 +16,12 @@ Socrates argues that the soul has an order, that oratory as practiced is a knack
 
 The *Gorgias* is Plato's most sustained fight with rhetoric as a political technology, and one of his clearest statements that the good is not power or pleasure. Callicles is too strong a character to be a mere straw man; many readers have felt the pull of his speech. The dialogue is also a study in what argument can and cannot do with someone who will not admit a shared standard. It looks forward to the [*Republic*](republic.md) (justice, the soul's order, the myth) and sideways to the [*Protagoras*](protagoras.md) (can virtue be taught? what is the sophist's art?).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Gorgias*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Rhetoric, as flattery, is contrasted with a craft that knows the good of the soul.

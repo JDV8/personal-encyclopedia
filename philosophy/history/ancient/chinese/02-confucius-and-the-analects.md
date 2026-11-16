@@ -29,6 +29,14 @@ Government, at its best, works by *De*, moral power. "If you lead them with virt
 
 Confucius presents himself as a transmitter, not an innovator, looking back to early Zhou ideals and to sage-kings. That conservatism is real. It is also a reform program: the present is judged by a moral past, and almost no actual ruler measures up. The *Analects* is less a constitution than a portrait of a kind of person, and a claim that states are only as good as those persons.
 
+```mermaid
+flowchart LR
+  R["Ren: humaneness"] --- L["Li: ritual form"]
+  R --> J["The junzi"]
+  L --> J
+  J --> G["Government by De"]
+```
+
 ## Where this leads
 
 - Next: [Mencius and Xunzi](03-mencius-and-xunzi.md), who inherit Confucius and split over human nature

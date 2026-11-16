@@ -34,6 +34,14 @@ Because flourishing requires a certain kind of community, ethics opens onto poli
 
 His influence is hard to overstate: Islamic and Christian medieval philosophy, the vocabulary of substance and cause, and large stretches of ethics still argue with him. You do not have to be an Aristotelian to need to know what you are refusing.
 
+```mermaid
+flowchart TB
+  S["Substance: this horse, this person"] --> FM["Form + matter"]
+  S --> C["Four causes, including telos"]
+  C --> E["Ethics: eudaimonia, habit, the mean"]
+  E --> P["Politics: the political animal"]
+```
+
 ## Where this leads
 
 - Next: [Hellenistic schools](06-hellenistic-schools.md), which often start from ethics as a way of life

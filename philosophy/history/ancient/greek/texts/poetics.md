@@ -14,6 +14,12 @@ Poetry is a form of **[mimesis](../../../../glossary/greek/mimesis.md)** (imitat
 
 After a relatively quiet ancient life, the *Poetics* became, in the Renaissance and after, *the* theory of tragedy, sometimes turned into rigid "rules" Aristotle did not quite write (the three unities, for example, are largely a later construction). It remains the starting point for talking about plot, recognition, and what representation is for.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Poetics*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Tragedy as mimesis of a complete action, working pity and fear toward a catharsis.

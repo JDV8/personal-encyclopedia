@@ -16,6 +16,12 @@ Euthyphro offers a series of definitions: piety is what he is doing now; it is w
 
 The dialogue is a model of the [elenchus](../../../../glossary/greek/elenchus.md) and a first lesson in asking for a definition that can survive cases and consequences. The "Euthyphro dilemma" has a long afterlife in philosophy of religion, often restated as a question about God and the good. Plato does not, here, give a Theory of Forms as the answer; he shows why a certain kind of answer fails. Read it before the *Apology* to feel the irony: a man who cannot get a religious expert to define piety is about to be tried for impiety.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Euthyphro*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Piety cannot be reduced to "what the gods love" without a further standard, or without emptying the term.

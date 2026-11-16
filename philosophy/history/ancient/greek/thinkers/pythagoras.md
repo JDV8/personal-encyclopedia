@@ -24,6 +24,12 @@ A note of caution: later writers also attached to Pythagoras a long list of tabo
 
 Plato is the great heir (the *Timaeus* is unthinkable without this atmosphere). Aristotle discusses Pythagorean number-metaphysics with mixed respect and criticism. In late antiquity, Neopythagorean and [Neoplatonic](plotinus.md) authors remade Pythagoras as a nearly divine founder. For this encyclopedia, he is the hinge between Milesian questions about stuff and a philosophy in which form, ratio, and the soul's education become first-class topics.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Pythagoras: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - Structure (number, ratio, harmony) can be more fundamental than a material element.

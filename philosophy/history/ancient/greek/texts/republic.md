@@ -16,6 +16,12 @@ The *Republic* is not only a political blueprint, and it may not be one at all. 
 
 No later work in [political philosophy](../../../../concepts/political/philosopher-rulers.md) is quite out from under it — including [Aristotle](../thinkers/aristotle.md)'s criticisms in the *Politics*, and the very different civic visions of [Confucius](../../chinese/thinkers/confucius.md).
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*Republic*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Justice in city and soul is a harmony of parts, with reason ruling.

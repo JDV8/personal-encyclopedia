@@ -14,6 +14,12 @@ Philosophy is urgent at every age; no one is too young or too old to care for th
 
 The letter has always been the antidote to the slander of Epicurean coarseness. It is also a compact philosophy of death, still readable without any other Hellenistic background — though it is richer with the [atomic physics](../../../../concepts/metaphysics/atoms-and-void.md) in view.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["Epicurus, *Letter to Menoeceus*: outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - A short, authentic handbook of Epicurean ethics.

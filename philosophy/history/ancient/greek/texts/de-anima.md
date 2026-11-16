@@ -16,6 +16,12 @@ Book III's treatment of **active or productive intellect** — whether it is sep
 
 This is the founding work of philosophical psychology in the Greek-to-medieval line. Descartes will start from a very different split of mind and body; much contemporary Aristotle scholarship is an effort to recover a non-dualist, biological soul without anachronism. For this path, *De Anima* shows what [hylomorphism](../../../../glossary/greek/hylomorphism.md) looks like when applied to life and thought.
 
+```mermaid
+flowchart LR
+  A["Dating and authorship"] --> O["*On the Soul* (*De Anima*): outline"]
+  O --> R["Themes and reception"]
+```
+
 ## Key ideas
 
 - Soul is the form and first actuality of a living body, with nested capacities.

@@ -22,6 +22,12 @@ Government at its best works by *De*, moral power, not by punishments that make 
 
 After a period of rivalry with [Mohists](mozi.md), [Daoist](laozi.md) texts, and [Legalists](han-feizi.md), the *Ru* tradition became, from the Han onward, the main official philosophy of imperial China, reread in every dynasty. [Mencius](mencius.md) and [Xunzi](xunzi.md) split over human nature while claiming him. [Zhu Xi](../../../imperial/chinese/thinkers/zhu-xi.md) later fixed the *Analects* among the Four Books. He is not "Chinese thought" by himself; he is the most consequential teacher in one argumentative family.
 
+```mermaid
+flowchart LR
+  S["Sources"] --> T["Confucius: thought"]
+  T --> R["Reception"]
+```
+
 ## Key ideas
 
 - *Ren* and *li* are paired: feeling and form, humaneness and ritual.
