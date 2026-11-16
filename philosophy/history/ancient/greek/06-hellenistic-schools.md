@@ -41,4 +41,4 @@ These three schools, more than the Presocratics, became the popular philosophies
 
 - Step back and compare traditions: [Greek and Chinese compared](../greek-and-chinese-compared.md)
 - A very different "way" that also prizes non-forcing and a settled life: [Laozi](../chinese/04-laozi-and-the-daodejing.md) and [Zhuangzi](../chinese/05-zhuangzi.md)
-- For the later religious world that inherited this Greek vocabulary, see [the Bible](../../../../../../religion/abrahamic/christianity/bible/README.md)
+- For the later religious world that inherited this Greek vocabulary, see [the Bible](../../../../religion/abrahamic/christianity/bible/README.md)

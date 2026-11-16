@@ -42,4 +42,4 @@ Read either tradition straight through, or interleave the two foundational lesso
 ## Where this leads
 
 - [Greek and Chinese compared](greek-and-chinese-compared.md)
-- Biblical literature, which is roughly contemporary with the later parts of both stories, begins at [the Bible](../../../../religion/abrahamic/christianity/bible/README.md)
+- Biblical literature, which is roughly contemporary with the later parts of both stories, begins at [the Bible](../../../religion/abrahamic/christianity/bible/README.md)

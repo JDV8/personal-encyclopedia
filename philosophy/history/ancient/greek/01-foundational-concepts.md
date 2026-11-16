@@ -19,7 +19,7 @@ An *arche* can be material (water, air, atoms) or more formal (number, for the P
 
 Heraclitus uses *logos* in a stronger sense: there is a common structure or measure to things, even though people live as if they had a private understanding. The world is not a heap of episodes. It is ordered, and that order can be spoken — though speaking it well is hard.
 
-This is why *logos* later sits so close to logic and to science. Aristotle's logic is a discipline for inspecting accounts. When the Gospel of John opens with "In the beginning was the *Logos*," it is using a word already thick with philosophical history (see [the four Gospels](../../../../../../religion/abrahamic/christianity/bible/new-testament/02-the-four-gospels.md)). You do not need to collapse John into Heraclitus. You do need to hear that the word was not empty.
+This is why *logos* later sits so close to logic and to science. Aristotle's logic is a discipline for inspecting accounts. When the Gospel of John opens with "In the beginning was the *Logos*," it is using a word already thick with philosophical history (see [the four Gospels](../../../../religion/abrahamic/christianity/bible/new-testament/02-the-four-gospels.md)). You do not need to collapse John into Heraclitus. You do need to hear that the word was not empty.
 
 ## The problem of change
 

@@ -39,14 +39,14 @@ Chinese masters argue too — Mozi and Xunzi are often pointedly argumentative; 
 
 Plato bets on education and philosophic rule; Aristotle on constitutions and the political animal; the Stoics on an inner citadel and a cosmic citizenship. Confucius bets on moral power and ritual; Mozi on impartial standards and anti-aggression; the Legalists on law, position, and technique; the *Daodejing* on ruling lightly.
 
-The most useful comparison is not "democracy versus autocracy" (classical Greek democracy is not modern liberalism, and Chinese thought is not a single authoritarian script). It is where each tradition places its trust when order fails: in the formed soul, in the law, in Heaven's will, in the unforced Way, in the machinery of the state. Those options exist on both sides of the map, in different proportions.
+The useful comparison is not "democracy versus autocracy." Classical Greek democracy is not modern liberalism, and Chinese thought is not one authoritarian script. It is where each tradition places its trust when order fails: the formed soul, the law, Heaven's will, the unforced Way, or the machinery of the state. Those options exist on both sides of the map, in different proportions.
 
 ## How to use this comparison
 
-When you meet a new text, try two questions. What problem is it answering first? And which of the five branches is it mainly working in? Then, and only then, ask how it would sound in the other tradition's words. Sometimes a translation will click (*logos* and *Dao*, virtue and *De*, ataraxia and a Zhuangzian ease). Sometimes the click is a false friend. Noticing the difference is the point of having both paths in the same tree.
+When you meet a new text, try two questions. What problem is it answering first? And which of the five branches is it mainly working in? Then ask how it would sound in the other tradition's words. Sometimes a translation will click (*logos* and *Dao*, virtue and *De*). Sometimes the click is a false friend. Noticing the difference is the point of having both paths in the same tree.
 
 ## Where this leads
 
 - Revisit a specific pair with this in mind: [Plato](greek/04-plato.md) and [Confucius](chinese/02-confucius-and-the-analects.md); [Aristotle](greek/05-aristotle.md) and [Xunzi](chinese/03-mencius-and-xunzi.md); [Hellenistic ethics](greek/06-hellenistic-schools.md) and [Zhuangzi](chinese/05-zhuangzi.md)
-- A neighboring ancient library, with its own first principles: [the Bible](../../../../religion/abrahamic/christianity/bible/README.md)
+- A neighboring ancient library, with its own first principles: [the Bible](../../../religion/abrahamic/christianity/bible/README.md)
 - Back to [ancient philosophy](README.md)
