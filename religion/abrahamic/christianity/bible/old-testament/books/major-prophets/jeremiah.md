@@ -28,7 +28,7 @@ The Hebrew order (followed here) is not strictly chronological:
 
 The temple sermon (chapters 7 and 26) attacks trust in the temple as a talisman: "the temple of the Lord" is not enough if justice is neglected and other gods are served. Shiloh, Jeremiah says, is the warning. The letter to the exiles (29:4–14) tells them to build houses, plant gardens, and seek the peace of the city where they have been carried; the famous "plans to give you a future and a hope" belongs in that setting of a seventy-year wait, not as a free-floating slogan.
 
-The new covenant of 31:31–34 is one of the load-bearing texts of both later Judaism and the New Testament (the [Last Supper](../../../new-testament/stories/07-passion-week.md) and [Hebrews](../../../new-testament/books/general-epistles/hebrews.md) take it up). In Jeremiah it is a promise after judgment: the law internalized, knowledge of the Lord widespread, sins remembered no more. The confessions (for example 12, 15, 20) show a prophet who curses the day of his birth and feels the word as a fire in the bones. Prophecy here is not a calm career.
+The new covenant of 31:31–34 is one of the load-bearing texts of both later Judaism and the New Testament (the [Last Supper](../../../new-testament/stories/06-passion-week.md) and [Hebrews](../../../new-testament/books/general-epistles/hebrews.md) take it up). In Jeremiah it is a promise after judgment: the law internalized, knowledge of the Lord widespread, sins remembered no more. The confessions (for example 12, 15, 20) show a prophet who curses the day of his birth and feels the word as a fire in the bones. Prophecy here is not a calm career.
 
 ## Themes and reception
 

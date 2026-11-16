@@ -34,6 +34,9 @@ Then go to the [New Testament](../new-testament/README.md), beginning with its h
 
 For an overview of each of the thirty-nine books, in Christian order, see [books/](books/README.md): [law / Torah](books/law-torah/README.md), [history](books/history/README.md), [wisdom and poetry](books/wisdom-poetry/README.md), [major prophets](books/major-prophets/README.md), and [minor prophets](books/minor-prophets/README.md). The numbered lessons above retell the main stories; the book files study each writing as a writing.
 
+
+Closer looks at a few episodes are in the [story path](stories/README.md): the binding of Isaac, Elijah and Elisha, and the court tales of Daniel.
+
 ## References & further reading
 
 - Robert Alter, *The Hebrew Bible: A Translation with Commentary* (Intermediate). Literary attention to the Hebrew narrative and poetry.

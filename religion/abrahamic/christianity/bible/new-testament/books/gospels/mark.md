@@ -17,7 +17,7 @@ Mark's Jesus is the [Son of God](../../../../glossary/son-of-god.md) and the suf
 - **1:1–13.** The beginning: John, baptism, temptation, with no infancy narrative.
 - **1:14–8:21.** Ministry in Galilee: calling, exorcisms and healings, controversy, parables, feedings; growing conflict and incomprehension.
 - **8:22–10:52.** The turning point: Peter's confession, three passion predictions, teaching on discipleship, the transfiguration, the road to Jerusalem; two healings of the blind frame the section.
-- **11–13.** Entry, temple conflict, [Olivet discourse](../../../stories/07-passion-week.md).
+- **11–13.** Entry, temple conflict, [Olivet discourse](../../../stories/06-passion-week.md).
 - **14–16.** Passion, death, burial, the empty tomb — and, in the earliest ending, silence and fear.
 
 ## Key passages and ideas
@@ -35,5 +35,5 @@ Themes include secrecy and revelation, the cost of discipleship, the failure of 
 ## Where this leads
 
 - Next: [Luke](luke.md)
-- Story path: [baptism and temptation](../../../stories/02-baptism-and-temptation.md), [miracles](../../../stories/04-miracles.md), [Passion week](../../../stories/07-passion-week.md)
+- Story path: [baptism and temptation](../../../stories/02-baptism-and-temptation.md), [miracles](../../../stories/04-miracles.md), [Passion week](../../../stories/06-passion-week.md)
 - Glossary: [Gospel](../../../../glossary/gospel.md), [Son of Man](../../../../glossary/son-of-man.md), [messianic secret](../../../../glossary/messianic-secret.md)

@@ -30,7 +30,7 @@ The setting assumes New Kingdom Egypt as a place of brick, store-cities, and roy
 
 The divine name revealed at the bush (3:14, often rendered "I AM WHO I AM" or "I will be what I will be") is one of the most discussed sentences in the Bible. It is tied to the four-letter name [YHWH](../../../glossary/yhwh.md), which Jewish tradition does not pronounce and Christian Bibles often render as "the Lord."
 
-The Passover (chapter 12) becomes a permanent rite: a lamb, unleavened bread, a night of watching, a story told to children. Christian liturgy will reread it through the [Passion](../../../new-testament/stories/07-passion-week.md) and the Last Supper; Jewish liturgy keeps it as the festival of freedom. Both rereadings depend on the Exodus text itself being a story that already commands its own remembrance.
+The Passover (chapter 12) becomes a permanent rite: a lamb, unleavened bread, a night of watching, a story told to children. Christian liturgy will reread it through the [Passion](../../../new-testament/stories/06-passion-week.md) and the Last Supper; Jewish liturgy keeps it as the festival of freedom. Both rereadings depend on the Exodus text itself being a story that already commands its own remembrance.
 
 The Decalogue (chapter 20, with a close parallel in Deuteronomy 5) and the Covenant Code (21–23) are Israel's first large legal collections in narrative sequence. Law here is not a later appendix to religion; it is how a delivered people lives with the God who delivered them. The golden calf episode shows how quickly worship can be turned into a controllable image, and how covenant can be broken and, at Moses' pleading, restored. The book ends not with the land but with a mobile sanctuary: God dwells in the midst of a traveling people.
 
@@ -44,5 +44,5 @@ In Jewish life Exodus is the foundation of identity and of Passover. In Christia
 
 - Next: [Leviticus](leviticus.md), the worship and holiness that belong to the people of this covenant
 - Story path: [Moses, the Exodus, and Sinai](../../05-moses-exodus-and-sinai.md)
-- Later echo: [Passover](../../../glossary/passover.md) in the [Passion week](../../../new-testament/stories/07-passion-week.md)
+- Later echo: [Passover](../../../glossary/passover.md) in the [Passion week](../../../new-testament/stories/06-passion-week.md)
 - Glossary: [covenant](../../../glossary/covenant.md), [Torah](../../../glossary/torah.md), [YHWH](../../../glossary/yhwh.md)

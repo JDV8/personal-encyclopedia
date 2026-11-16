@@ -2,7 +2,7 @@
 
 **Name and meaning.** The Letter of Paul to the Galatians, a fierce argument that Gentile believers must not be required to take on circumcision and the works of the law as a condition of belonging to Abraham's family. It is shorter than Romans and, in some respects, the rawer version of the same theology.
 
-**Prerequisites:** [Romans](romans.md) (or read Galatians first, then Romans), [Acts](../history/acts.md) 15, and [Paul's journeys](../../../stories/10-pauls-journeys.md).
+**Prerequisites:** [Romans](romans.md) (or read Galatians first, then Romans), [Acts](../history/acts.md) 15, and [Paul's journeys](../../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 

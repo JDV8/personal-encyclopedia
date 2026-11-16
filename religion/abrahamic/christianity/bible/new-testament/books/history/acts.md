@@ -2,7 +2,7 @@
 
 **Name and meaning.** The Acts of the Apostles, the second volume of Luke–Acts, addressed again to Theophilus. The English title overpromises: after the first chapters, the book is mainly the acts of Peter, then of Paul, and of the Spirit who drives the witness from Jerusalem to Rome. It is the only canonical narrative of the earliest church.
 
-**Prerequisites:** [Luke](../gospels/luke.md), [Second Temple Judaism and Rome](../../../01-second-temple-judaism-and-rome.md), and the survey [Acts](../../../04-acts.md). Story companions: [early church](../../../stories/09-early-church.md) and [Paul's journeys](../../../stories/10-pauls-journeys.md).
+**Prerequisites:** [Luke](../gospels/luke.md), [Second Temple Judaism and Rome](../../../01-second-temple-judaism-and-rome.md), and the survey [Acts](../../../04-acts.md). Story companions: [early church](../../../stories/08-early-church.md) and [Paul's journeys](../../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
@@ -34,5 +34,5 @@ Themes include the Holy Spirit, witness, the inclusion of the nations, the innoc
 ## Where this leads
 
 - Next section: [Pauline epistles](../pauline-epistles/README.md), beginning with [Romans](../pauline-epistles/romans.md)
-- Story path: [early church](../../../stories/09-early-church.md), [Paul's journeys](../../../stories/10-pauls-journeys.md)
+- Story path: [early church](../../../stories/08-early-church.md), [Paul's journeys](../../../stories/09-pauls-journeys.md)
 - Glossary: [Pentecost](../../../../glossary/pentecost.md), [Holy Spirit](../../../../glossary/holy-spirit.md), [apostle](../../../../glossary/apostle.md), [Gentile](../../../../glossary/gentile.md)

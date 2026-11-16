@@ -30,5 +30,5 @@ Themes include return, temple, visions, priest and branch, a humble king, a stri
 ## Where this leads
 
 - Next: [Malachi](malachi.md)
-- Story path: [Passion week](../../../new-testament/stories/07-passion-week.md)
+- Story path: [Passion week](../../../new-testament/stories/06-passion-week.md)
 - Glossary: [Branch](../../../glossary/branch.md), [Messiah](../../../glossary/messiah.md), [Second Temple](../../../glossary/second-temple.md), [Zerubbabel](../../../glossary/zerubbabel.md)

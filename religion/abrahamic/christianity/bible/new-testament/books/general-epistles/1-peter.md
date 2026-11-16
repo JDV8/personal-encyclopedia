@@ -2,7 +2,7 @@
 
 **Name and meaning.** The First Letter of Peter, addressed to "elect exiles of the Dispersion" in five provinces of Asia Minor. It is a baptismally flavored exhortation to a mostly Gentile community to live hopefully and honorably under pressure, with Christ the suffering and risen stone as their pattern.
 
-**Prerequisites:** [early church](../../../stories/09-early-church.md) and [Isaiah](../../../../old-testament/books/major-prophets/isaiah.md) (the letter is soaked in Isaiah's stone and servant language).
+**Prerequisites:** [early church](../../../stories/08-early-church.md) and [Isaiah](../../../../old-testament/books/major-prophets/isaiah.md) (the letter is soaked in Isaiah's stone and servant language).
 
 ## Dating and authorship
 

@@ -2,7 +2,7 @@
 
 **Name and meaning.** The First Letter of Paul to the Thessalonians, almost certainly the earliest surviving Pauline letter, and probably the earliest document in the New Testament. It is a thanksgiving, a defense of Paul's manner of ministry, and a pastoral word about holiness and about those who have died before the Lord's coming.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md) 17, and [Paul's journeys](../../../stories/10-pauls-journeys.md).
+**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md) 17, and [Paul's journeys](../../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 

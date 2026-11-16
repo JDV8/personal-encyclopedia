@@ -2,7 +2,7 @@
 
 **Name and meaning.** The Letter of Paul to the Romans, the longest and most systematic of the Pauline epistles, written to a church Paul had not founded and had not yet visited. It is a sustained argument about the gospel, the righteousness of God, Jew and Gentile, and the life that follows from mercy.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md), and [Paul's journeys](../../../stories/10-pauls-journeys.md). Helpful: [Habakkuk](../../../../old-testament/books/minor-prophets/habakkuk.md) 2:4, and [Genesis](../../../../old-testament/books/law-torah/genesis.md) on Abraham.
+**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md), and [Paul's journeys](../../../stories/09-pauls-journeys.md). Helpful: [Habakkuk](../../../../old-testament/books/minor-prophets/habakkuk.md) 2:4, and [Genesis](../../../../old-testament/books/law-torah/genesis.md) on Abraham.
 
 ## Dating and authorship
 

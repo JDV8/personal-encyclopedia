@@ -2,7 +2,7 @@
 
 **Name and meaning.** The First Letter of Paul to the Corinthians (at least the first that entered the canon; 5:9 mentions an earlier letter). It is a pastoral and argumentative letter to a gifted, divided, and morally messy church in a major Greek city, covering factions, lawsuits, sexuality, idol-food, worship, spiritual gifts, and the resurrection.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md) and [Paul's journeys](../../../stories/10-pauls-journeys.md). Acts 18 is the founding narrative.
+**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md) and [Paul's journeys](../../../stories/09-pauls-journeys.md). Acts 18 is the founding narrative.
 
 ## Dating and authorship
 

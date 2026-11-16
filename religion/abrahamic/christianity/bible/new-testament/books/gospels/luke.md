@@ -18,7 +18,7 @@ Luke places Jesus in the frame of world and Jewish history (the emperors, the go
 - **3–4.** John's preaching; genealogy back to Adam; baptism, temptation, and the Nazareth sermon.
 - **5–9.** Galilean ministry: call of the disciples, sermons, [miracles](../../../stories/04-miracles.md), the sending of the Twelve, Peter's confession, transfiguration.
 - **9:51–19.** The journey to Jerusalem: the Samaritan villages, the seventy, many [parables](../../../stories/05-parables.md) unique to Luke (the good Samaritan, the prodigal son, the rich man and Lazarus, the Pharisee and the tax collector).
-- **19–24.** Entry, temple teaching, [Passion](../../../stories/07-passion-week.md), crucifixion (with words unique to Luke: "Father, forgive them"; "today you will be with me in Paradise"; "into your hands I commend my spirit"), the Emmaus road, appearances in Jerusalem, and blessing at Bethany — see [resurrection appearances](../../../stories/08-resurrection-appearances.md).
+- **19–24.** Entry, temple teaching, [Passion](../../../stories/06-passion-week.md), crucifixion (with words unique to Luke: "Father, forgive them"; "today you will be with me in Paradise"; "into your hands I commend my spirit"), the Emmaus road, appearances in Jerusalem, and blessing at Bethany — see [resurrection appearances](../../../stories/07-resurrection-appearances.md).
 
 ## Key passages and ideas
 

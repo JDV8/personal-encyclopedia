@@ -2,7 +2,7 @@
 
 **Name and meaning.** The Letter of Paul to the Philippians, a warm, often joyful letter from prison to the first European church of the Acts narrative (Acts 16), thanking them for a gift, urging unity, and including the famous hymn (or poem) of Christ's self-emptying in 2:6–11.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md) 16, and [Paul's journeys](../../../stories/10-pauls-journeys.md).
+**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md) 16, and [Paul's journeys](../../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 

@@ -21,7 +21,7 @@ Matthew writes for a community that knows the scriptures of Israel intimately an
 - **11–13.** Controversy, parables of the kingdom — see [parables](../../../stories/05-parables.md).
 - **14–18.** Confession of Peter, transfiguration, community discourse.
 - **19–25.** The journey and the Jerusalem teaching, including the Olivet discourse.
-- **26–28.** [Passion](../../../stories/07-passion-week.md), empty tomb, and the Great Commission in Galilee — see [resurrection appearances](../../../stories/08-resurrection-appearances.md).
+- **26–28.** [Passion](../../../stories/06-passion-week.md), empty tomb, and the Great Commission in Galilee — see [resurrection appearances](../../../stories/07-resurrection-appearances.md).
 
 The five large teaching blocks (5–7, 10, 13, 18, 24–25) are often compared to a new Torah, though the book never says that outright.
 

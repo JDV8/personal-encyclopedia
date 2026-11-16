@@ -2,7 +2,7 @@
 
 **Name and meaning.** The Second Letter of Paul to the Corinthians in the canon, though the relationship was more complicated than the numbering suggests: a painful visit, a severe letter, and a reconciliation lie behind this text, and many scholars think the canonical book itself may combine more than one letter. It is Paul's most personal letter, a defense of his apostleship and of a ministry that looks weak.
 
-**Prerequisites:** [1 Corinthians](1-corinthians.md) and [Paul's journeys](../../../stories/10-pauls-journeys.md).
+**Prerequisites:** [1 Corinthians](1-corinthians.md) and [Paul's journeys](../../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
