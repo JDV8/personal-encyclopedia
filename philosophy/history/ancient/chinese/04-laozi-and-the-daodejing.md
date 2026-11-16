@@ -3,6 +3,10 @@
 **Prerequisites:** [Foundational concepts](01-foundational-concepts.md). [Confucius](02-confucius-and-the-analects.md) helps as a foil.
 **Key ideas:** a short, layered text rather than a clear biography; the unsayable *Dao*; *wu wei* as non-forcing action; softness, reversal, and critique of conventional virtue; a political teaching, not only a private mysticism.
 
+
+![Paintings after Ancient Masters: Laozi Riding an Ox title QS:P1476,en:"Paintings after Ancient Masters: Laozi Riding an Ox "label QS:Len,"Paintings after…](images/04-laozi-and-the-daodejing.jpg)
+
+*Paintings after Ancient Masters: Laozi Riding an Ox title QS:P1476,en:"Paintings after Ancient Masters: Laozi Riding an Ox "label QS:Len,"Paintings after… Credit: Chen Hongshou. License: Public domain. Source: [File:Chen Hongshou - Paintings after Ancient Masters, Laozi Riding an Ox - 1979.27.1.2 - Cleveland Museum of Art.tiff](https://commons.wikimedia.org/wiki/File:Chen_Hongshou_-_Paintings_after_Ancient_Masters,_Laozi_Riding_an_Ox_-_1979.27.1.2_-_Cleveland_Museum_of_Art.tiff).*
 "Laozi" names both a legendary figure (the "Old Master," sometimes identified with a Zhou archivist named Li Er or Lao Dan) and the short book also called the *Daodejing* or *Laozi*. Traditional stories have Confucius consulting him and the old man departing west, leaving the book with a gatekeeper. Modern scholarship generally treats the text as composite, taking shape over the Warring States period, with a received version later standardized. Read the book; hold the biography lightly.
 
 The text is about five thousand characters, poetic, repetitive, and deliberately elusive. That style is part of the argument. If the real Way could be captured in a confident definition, the opening line would be false: "The *Dao* that can be told is not the constant *Dao*. The name that can be named is not the constant name."

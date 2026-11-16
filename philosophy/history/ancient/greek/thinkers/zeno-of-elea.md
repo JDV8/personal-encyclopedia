@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Parmenides](parmenides.md)
 
+
+![Engraving depicting the marble bust of Zeno of Citium. Farnese Collection, National Archaeological Museum of Naples (cat. no. 6128). By comparison with the…](images/zeno-of-elea.jpg)
+
+*Engraving depicting the marble bust of Zeno of Citium. Farnese Collection, National Archaeological Museum of Naples (cat. no. 6128). By comparison with the… Credit: http://www.uic.edu/classes/phil/phil105nh/105lectures/105lecture03.html. License: Public domain. Source: [File:Zeno of Citium, drawing.jpg](https://commons.wikimedia.org/wiki/File:Zeno_of_Citium,_drawing.jpg).*
 ## Name and dates
 
 Zeno of Elea (c. 490–430 BCE) was a student and defender of [Parmenides](parmenides.md). Plato's [*Parmenides*](../texts/parmenides.md) imagines him in Athens with his teacher, reading a book of arguments against plurality and motion. The scene is dramatized, but the role is right: Zeno is not mainly offering a new first principle. He is showing what you are committed to if you reject the Eleatic one and try to live with ordinary many-things-in-motion.

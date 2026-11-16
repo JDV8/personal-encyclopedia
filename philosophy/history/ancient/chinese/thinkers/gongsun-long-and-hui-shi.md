@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md); helpful: [Zhuangzi](zhuangzi.md) and [Mozi](mozi.md)
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/gongsun-long-and-hui-shi.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 ## Names and dates
 
 The "School of Names" (*mingjia*) is a later label for a cluster of Warring States thinkers who specialized in disputation about names, kinds, sameness and difference, and paradox. The two outstanding figures are Hui Shi (Hui Shih, fourth century BCE), a friend and foil of [Zhuangzi](zhuangzi.md), and Gongsun Long (late fourth to early third century BCE), author of the notorious claim that "a white horse is not a horse." They are not a school with a founder and a church. They are the early Chinese specialists in what this encyclopedia would put under [logic](../../../../concepts/logic/paradox-and-the-school-of-names.md) and the theory of [names and actuality](../../../../concepts/epistemology/names-and-actuality.md).

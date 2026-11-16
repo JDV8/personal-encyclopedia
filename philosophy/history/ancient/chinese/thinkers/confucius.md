@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md) and the survey [Confucius and the *Analects*](../02-confucius-and-the-analects.md)
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/confucius.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 ## Name and dates
 
 Kongzi (Master Kong, 551–479 BCE), latinized as Confucius, was a teacher and sometime minor official from the state of Lu, in a world where the Zhou ritual order was already fraying. Like [Socrates](../../greek/thinkers/socrates.md), he left no systematic treatise in his own hand. The person we meet is already a tradition: a transmitter of older ways who, in transmitting them, remade what a human life and a government could be.

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Socrates](socrates.md)
 
+
+![A small Roman marble statue (54.1 cm with plinth) depicting Diogenes the Cynic, in the collection of the Met Museum](images/diogenes-and-the-cynics.jpg)
+
+*A small Roman marble statue (54.1 cm with plinth) depicting Diogenes the Cynic, in the collection of the Met Museum Credit: Met Museum. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:MET - Diogenes 2.jpg](https://commons.wikimedia.org/wiki/File:MET_-_Diogenes_2.jpg).*
 ## Names and dates
 
 Cynicism (*kynikos*, "dog-like") is a way of life more than a school with a curriculum. Its traditional founder is Antisthenes, a companion of [Socrates](socrates.md). Its emblem is Diogenes of Sinope (c. 404–323 BCE), who lived in Athens and Corinth with a deliberate poverty that later stories turned into theater: a tub for a house, a lamp in daylight looking for a human being, a request to Alexander the Great to stand out of his sun. Many anecdotes are later and should be read as moral emblems, not as reportage. Other names in the line include Crates of Thebes (teacher of [Zeno of Citium](zeno-of-citium.md)) and, later, popular preachers such as Dio Chrysostom in a related vein.

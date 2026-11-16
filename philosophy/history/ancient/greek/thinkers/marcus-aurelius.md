@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Epictetus](epictetus.md)
 
+
+![Head of Emperor Marcus Aurelius, 2nd-century. Marble](images/marcus-aurelius.jpg)
+
+*Head of Emperor Marcus Aurelius, 2nd-century. Marble Credit: Jebulon. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Head Marcus Aurelius archmus Heraklion.jpg](https://commons.wikimedia.org/wiki/File:Head_Marcus_Aurelius_archmus_Heraklion.jpg).*
 ## Name and dates
 
 Marcus Aurelius (121–180 CE) was Roman emperor from 161 until his death, last of the "five good emperors" in a later shorthand, and a Stoic who wrote notes to himself in Greek while on campaign and at court. The reign included plague, wars on the northern and eastern frontiers, and the difficult elevation of his son Commodus. The book we call the [*Meditations*](../texts/meditations.md) was not composed as a treatise for the public.

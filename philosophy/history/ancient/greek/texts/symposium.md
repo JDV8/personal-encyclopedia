@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Plato](../thinkers/plato.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/symposium.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A middle-period dialogue, a series of after-dinner speeches in praise of [*eros*](../../../../glossary/greek/eros.md) at a party in Agathon's house, with a famous interruption by Alcibiades. It is as much literature as argument, and it should be read as a whole, not only for "Diotima's ladder."
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Symposium*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+Read the *Symposium* in order, as a sequence of speeches at a party, and resist the urge to skip to Socrates (and to Diotima) on a first pass. Each speech — Phaedrus, Pausanias, Eryximachus, Aristophanes, Agathon — states a real view of *erōs* that the next speech, or Socrates, will recast. Aristophanes' myth of the split humans is unforgettable and is not the dialogue's last word. Diotima's ladder, from one beautiful body to the Beautiful itself, is the philosophical climax, and Alcibiades' drunken entrance is a test: what does the theory look like when a particular, disastrous love walks in?
+
+The work is literature at a high level and should be read in a translation that keeps some of the humor. Pair it with the *Phaedrus*. Do not reduce it to a doctrine of "Platonic love" in the later, often desexualized, sense, and do not ignore the Athenian erotic conventions the speakers take for granted. A second reading can ask how the form of a symposium (praise speeches, drink, competition) both enables and threatens the philosophical claim.
 
 ## Key ideas
 

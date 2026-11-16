@@ -3,6 +3,10 @@
 **Prerequisites:** [Foundational concepts](01-foundational-concepts.md)
 **Key ideas:** correlative cosmology rather than a single founder-school; yin and yang as paired, complementary processes; the Five Phases as a cycle of relations; a framework later applied to bodies, seasons, colors, and states.
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/08-yin-yang-and-five-phases.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 Yin-Yang thought and the Five Phases (*wuxing*) are often packaged as "a school" (sometimes associated with Zou Yan in the late Warring States). It is more accurate, for a first pass, to treat them as a **cosmological toolkit** that many traditions used, especially in the Qin and Han, to organize the world into intelligible patterns. The question this toolkit answers is not "what is the one *arche*?" in the Milesian sense. It is "how do processes relate, succeed one another, and resonate across scales?"
 
 ## Yin and yang

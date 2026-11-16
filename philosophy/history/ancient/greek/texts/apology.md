@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Socrates](../thinkers/socrates.md); helpful: [*Euthyphro*](euthyphro.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/apology.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 Plato's dramatization of Socrates' defense speech at the trial of 399 BCE, usually classed among the early dialogues. It is not a court transcript. Xenophon also wrote an *Apology*, and the two differ. Treat Plato's as a philosophical portrait of the defense Socrates *should* be understood to have made, which may be close to, or may idealize, the day itself.
@@ -23,6 +27,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Apology*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+Plato's *Apology* is a composed speech, not a transcript, and it should be read as a philosophical drama of self-defense. Watch the three parts: the answer to old rumors and to the official charges, the examination of Meletus, and the last words after the verdict and the sentence. Socrates' claim that the unexamined life is not worth living, his story of the oracle, and his insistence that he will not stop questioning the Athenians, are the argument. So is his refusal to beg for mercy in the usual way.
+
+Read it next to the *Crito* and the *Phaedo* as a death-sequence, and next to Xenophon's *Apology* if you want a different portrait. Historical questions (what was said in 399, how much is Plato) are real and mostly unresolvable in detail; they should not stop you from following the ethical claim the speech makes about piety, justice, and the city's authority. A first reading can be done in a sitting. A second should mark every place Socrates redefines a charge (corrupting the young, not believing in the city's gods) by changing the terms.
 
 ## Key ideas
 

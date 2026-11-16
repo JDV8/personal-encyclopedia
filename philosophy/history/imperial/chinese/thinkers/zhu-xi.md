@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Confucius](../../../ancient/chinese/thinkers/confucius.md), [Mencius](../../../ancient/chinese/thinkers/mencius.md), and the [Great Learning](../../../ancient/chinese/texts/great-learning.md) and [Doctrine of the Mean](../../../ancient/chinese/texts/doctrine-of-the-mean.md)
 
+
+![Portraits of Famous Men: Zhu Xi](images/zhu-xi.jpg)
+
+*Portraits of Famous Men: Zhu Xi Credit: Unknown Chinese artist. License: Public domain. Source: [File:Portraits of Famous Men - Zhu Xi.jpg](https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Zhu_Xi.jpg).*
 ## Name and dates
 
 Zhu Xi (1130–1200), also written Chu Hsi, was a Song-dynasty scholar, official, and the most influential systematizer of what is often called Neo-Confucianism (*daoxue*, the Learning of the Way). He lived centuries after the Warring States classics. He belongs in this encyclopedia as a **later bridge**: the person who most shaped how those classics were later read, taught, and examined.
@@ -25,6 +29,11 @@ flowchart LR
   S["Sources"] --> T["Zhu Xi: thought"]
   T --> R["Reception"]
 ```
+
+
+## Going further
+
+Zhu Xi's lasting power is institutional as well as intellectual: the Four Books, the commentary practice, and the civil-service curriculum that carried his readings across East Asia. That is why later critics (including Wang Yangming) are not only arguing with an opinion; they are arguing with a pedagogy. When you return to the *Great Learning* and the *Doctrine of the Mean* after this overview, try reading a passage first without Zhu Xi, then with his emphasis on investigating things and on *li* as pattern. The difference is a good introduction to what "Neo-Confucianism" changed, and what it claimed merely to recover.
 
 ## Key ideas
 

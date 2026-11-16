@@ -3,6 +3,10 @@
 **Prerequisites:** [Ancient Chinese philosophy](README.md)
 **Key ideas:** *Tian* as heaven and moral-cosmic order; *Dao* as way or path; *De* as virtue, potency, or obtained power; the Hundred Schools as a response to Zhou breakdown.
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/01-foundational-concepts.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 Three words appear across almost every early Chinese school, with different meanings in each. Learning the words first prevents the later lesson from sounding like a string of untranslatable nouns.
 
 ## *Tian* (Heaven)

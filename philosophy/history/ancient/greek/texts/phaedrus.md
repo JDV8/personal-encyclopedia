@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Symposium*](symposium.md) or [Plato](../thinkers/plato.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/phaedrus.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 Usually treated as a middle-to-late-middle dialogue, unusual for its setting (a walk along the Ilissus, outside the walls) and for joining two topics that might seem unrelated: *eros* and rhetoric, plus a famous myth of the soul and a critique of writing.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Phaedrus*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Phaedrus* is a conversation about love, rhetoric, and writing, held outside the city, and its structure is part of its meaning: a written speech, a palinode, a myth of the soul's chariot, and a long discussion of what a genuine art of speech would be, ending with the critique of writing (and the play of a written text saying it). Do not excerpt only the palinode. The dialogue is arguing, among other things, about whether speech can be fitted to a soul, and about what philosophy does that a clever pamphlet cannot.
+
+On a second reading, compare the account of love and madness with the *Symposium*, and the account of rhetoric with the *Gorgias*. The psychology of the chariot (charioteer and two horses) is a different image from the *Republic*'s three parts of the soul; note likeness and difference rather than forcing a single system too early. The written/oral theme has a long modern afterlife; let Plato's own terms (memory, reminding, the living word) lead before you import later media theory.
 
 ## Key ideas
 

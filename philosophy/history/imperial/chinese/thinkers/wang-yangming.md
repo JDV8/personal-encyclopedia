@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Zhu Xi](zhu-xi.md)
 
+
+![Illustration showing the large intestine channel of armyangmingfromRenti jingmai tu(Illustrations of the Channels of the Human Body), a manuscript text…](images/wang-yangming.jpg)
+
+*Illustration showing the large intestine channel of armyangmingfromRenti jingmai tu(Illustrations of the Channels of the Human Body), a manuscript text… Credit: https://wellcomeimages.org/indexplus/obf_images/64/e0/2170af32b42d3c0a584100ffe176.jpg (hi-res image) Gallery: https://wellcomeimages.org/indexplus/image/L0039964.html Wellcome Collection gallery (2018-03-30): https://wellcomecollection.org/works/m3ns2hxz CC-BY-4.0. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Large intestine channel of arm yangming, C17-18 Chinese Wellcome L0039964.jpg](https://commons.wikimedia.org/wiki/File:Large_intestine_channel_of_arm_yangming,_C17-18_Chinese_Wellcome_L0039964.jpg).*
 ## Name and dates
 
 Wang Yangming (Wang Shouren, 1472–1529) was a Ming-dynasty official, general, and philosopher, the most consequential critic of the official [Zhu Xi](zhu-xi.md) program from inside Confucianism. His life included exile, a campaign against a rebellion, and teaching that drew a large school. He is a still later bridge than Zhu Xi: not a source of the ancient texts, but a rival way of *using* them.

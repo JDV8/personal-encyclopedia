@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Nicomachean Ethics*](nicomachean-ethics.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/politics.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 ## Dating and authorship
 
 Aristotle's main work of political philosophy, in eight books, partly empirical (he and his school collected constitutions, of which the *Constitution of the Athenians* is the surviving example) and partly normative. The work as we have it may be composed of courses from different times; the joins show.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Politics*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Politics* continues the *Ethics* and should be read after it if you can. Begin with Book I (the *polis*, the household, the infamous discussions of slavery and of women) and Book III (citizenship and the classification of constitutions), then the analyses of democracy and oligarchy, the best practicable city, and education. Aristotle is an empirical collector of constitutions as well as a theorist; the tone is less utopian than the *Republic*, and more willing to talk about stability, the middle class, and mixed arrangements.
+
+You should neither skip nor casually endorse the hierarchical passages. They are part of his picture of nature and of the household, and later political thought has had to argue with them. Use a complete translation with Bekker numbers. After this, go back to the *Republic* and the *Laws* and you will hear a conversation, not three isolated classics. The book is also the right place to ask, later, how a Confucian state centered on household and ruler differs from a *polis* of citizens.
 
 ## Key ideas
 

@@ -3,6 +3,10 @@
 **Prerequisites:** [Confucius and the *Analects*](02-confucius-and-the-analects.md)
 **Key ideas:** both are Confucians; the argument is about *xing* (human nature) and therefore about education and politics; Mencius's moral "sprouts"; Xunzi's claim that nature is raw or bad and that ritual transforms it.
 
+
+![Gongsun Chou Wen Hao Ran (公孫丑問浩然), depicted the portrait of Mencius (right) and his student Gongsun, Chou (left). The illustration was a rubbing of a stone…](images/03-mencius-and-xunzi.jpg)
+
+*Gongsun Chou Wen Hao Ran (公孫丑問浩然), depicted the portrait of Mencius (right) and his student Gongsun, Chou (left). The illustration was a rubbing of a stone… Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Gongsun Chou Wen Hao Ran, Heritage Illustrations for Descent of Mencius.jpg](https://commons.wikimedia.org/wiki/File:Gongsun_Chou_Wen_Hao_Ran,_Heritage_Illustrations_for_Descent_of_Mencius.jpg).*
 The most important argument inside early Confucianism is not with a Daoist. It is between two heirs of Confucius: Mengzi (Mencius, fourth century BCE) and Xunzi (third century BCE). They agree that ritual, learning, and rightness matter, and that a good order depends on cultivated persons. They disagree about what we are starting with. That disagreement is metaphysics, ethics, and pedagogy at once.
 
 ## Mencius: nature is good

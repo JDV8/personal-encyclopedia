@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md) and the [Presocratics survey](../02-presocratics.md)
 
+
+![Carved Italian marble bust depicting Heraclitus at the Victoria and Albert Museum Knightsbridge London England. It has been dated to 1700-1750, and was…](images/heraclitus.jpg)
+
+*Carved Italian marble bust depicting Heraclitus at the Victoria and Albert Museum Knightsbridge London England. It has been dated to 1700-1750, and was… Credit: Afshin Darian. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Bust of Heraclitus - Victoria and Albert Museum.jpg](https://commons.wikimedia.org/wiki/File:Bust_of_Heraclitus_-_Victoria_and_Albert_Museum.jpg).*
 ## Name and dates
 
 Heraclitus of Ephesus (around 500 BCE) was an Ionian, from a city not far from Miletus, writing a generation or two after the Milesians. Ancient biography paints him as aristocratic, obscure, and contemptuous of the crowd and of famous poets and sages (including [Pythagoras](pythagoras.md) and [Homer](../../../../glossary/general/tradition.md) as popular teachers). The personality may be a mask inferred from the style. The style is not in doubt: short, tense, riddling sentences that later earned him the nickname "the Obscure."

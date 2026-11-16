@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Confucius](../thinkers/confucius.md)
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/analects.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 ## Dating and authorship
 
 A compiled record of sayings and conversations of [Confucius](../thinkers/confucius.md) and his disciples, assembled over generations. Traditional reading treats it as the authentic voice of the master. Modern scholarship sees strata (some clusters of chapters looking earlier, some later) and editorial shaping into the early empire. The received text is twenty "books" of short entries, not a treatise with a plot.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Analects* (*Lunyu*): outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Analects* is a book of scenes and sayings, not a treatise with a single argument you can outline in five points. Read it in clusters, not only as isolated aphorisms. Follow one theme — *ren*, filiality, the gentleman, government, learning — across several books, and notice how a later remark qualifies an earlier one. Pay attention to who is speaking and who is being corrected: a saying to Zilu is not always a saying to Zigong. Traditional chapter and book divisions are later, but they still help you pace the work.
+
+A common mistake is to extract a modern inspirational sentence and leave the ritual and political frame behind. Another is to treat the whole as Confucius' diary. Much of the text is a school memory, compiled and shaped after his death; some passages are widely thought later than others. That does not make the book unusable. It makes it a record of a tradition thinking with a founder. Compare, when you are ready, the warmer moral psychology of the *Mencius* and the tougher ritualism of the *Xunzi*, both of which inherit this book and argue about what it requires.
 
 ## Key ideas
 

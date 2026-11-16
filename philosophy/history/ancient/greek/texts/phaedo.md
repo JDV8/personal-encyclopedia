@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Apology*](apology.md) and [Plato](../thinkers/plato.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/phaedo.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A middle-period dialogue, still starring Socrates on the day of his death, but now clearly a vehicle for Platonic metaphysics: the Theory of [Forms](../../../../concepts/metaphysics/the-forms.md), the immortality of the soul, and [recollection](../../../../concepts/epistemology/anamnesis.md). How much of the arguments and the calm is historical Socrates is doubtful. The scene of the death itself has been enormously influential as literature.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Phaedo*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Phaedo* is a death scene and a set of arguments for the soul's immortality, and it should be read as both. The arguments (opposites, recollection, affinity, the final "more subtle" argument about the soul and life) are not equally strong, and Simmias and Cebes are there to say so. Plato also gives you the form-theory in a living context, a critique of purely material explanation, and a myth of the afterlife. The last pages, the cup of hemlock, are part of the philosophical claim about how a life and a death can hang together.
+
+A first reading can follow the drama. A second should outline each argument and the objections, and should notice what is myth, what is argument, and where Plato signals the difference. Read it after the *Apology* and *Crito*, and before or with the *Republic*'s psychology. Aristotle will not accept this as a finished science of the soul; later Platonism will live in this dialogue. You can learn from it without pretending that every argument succeeds.
 
 ## Key ideas
 

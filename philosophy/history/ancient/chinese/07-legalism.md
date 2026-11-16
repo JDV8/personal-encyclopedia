@@ -3,6 +3,10 @@
 **Prerequisites:** [Foundational concepts](01-foundational-concepts.md). [Xunzi](03-mencius-and-xunzi.md) and [Mohism](06-mohism.md) are useful background.
 **Key ideas:** *fa*, *shi*, and *shu* as instruments of statecraft; a bet on institutions over moral example; Qin as historical fulfillment and warning; "Legalism" is not liberal rule of law.
 
+
+![18th century Chinese Painting of a Father with his four children; one who is riding on a mythological creature above the roof tops pleading for mercy. The…](images/07-legalism.jpg)
+
+*18th century Chinese Painting of a Father with his four children; one who is riding on a mythological creature above the roof tops pleading for mercy. The… Credit: Unknown authorUnknown author. License: Public domain. Source: [File:18th Century Chinese Painting on Silk of Father & His Children.png](https://commons.wikimedia.org/wiki/File:18th_Century_Chinese_Painting_on_Silk_of_Father_&_His_Children.png).*
 "Legalism" (*fajia*) is a later label for a cluster of Warring States statecraft thinkers, above all Shang Yang, Shen Buhai, Shen Dao, and Han Feizi (d. 233 BCE). They are not a school in the sense of a single founder and a canon of virtue. They are a set of answers to the same problem everyone else is facing — how to make a state survive and prevail — that refuse to put their trust in the ruler's *ren*.
 
 The Qin state adopted much of this program, unified China in 221 BCE, and collapsed within a generation. That history has colored the tradition ever since: impressive administrative clarity, and a reputation for harshness.

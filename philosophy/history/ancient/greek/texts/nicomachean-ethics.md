@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Aristotle](../thinkers/aristotle.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/nicomachean-ethics.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 ## Dating and authorship
 
 Aristotle's main ethical treatise, in ten books, traditionally dedicated to or edited by his son Nicomachus (the exact reason for the title is not certain). A related *Eudemian Ethics* overlaps it in parts; the relationship of the two works is a scholarly problem. The *Nicomachean Ethics* is the standard text.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Nicomachean Ethics*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Nicomachean Ethics* is a lecture-course, not a polished dialogue, and it should be read in order: the opening account of the good and of *eudaimonia*, the treatment of ethical virtue and the mean, the particular virtues, justice, the intellectual virtues (especially *phronesis*), weakness of will, friendship (two books, not a side note), and pleasure and contemplation at the end. The last book's praise of the contemplative life is a real tension with the civic and friendly life earlier, not a typo. Stay in that tension.
+
+Use a complete translation with Bekker numbers (Ross, Irwin, Crisp, Reeve, or another careful one). The *Eudemian Ethics* and the *Magna Moralia* are related works for later study; they are not required for a first path. After this book, the *Politics* is the advertised continuation: the human good is at home in a *polis*. When you compare Confucian cultivation, compare practices and pictures of the good life, not isolated slogans about "virtue."
 
 ## Key ideas
 

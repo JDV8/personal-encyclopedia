@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Aristotle](../thinkers/aristotle.md); helpful: [*Physics*](physics.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/de-anima.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 ## Dating and authorship
 
 Aristotle's central treatise on *psyche*, the principle of life, in three books. The Latin title *De Anima* is conventional. It belongs with the biological works as well as with the metaphysics: a soul is not, first of all, an immortal passenger. It is the form of a living body.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*On the Soul* (*De Anima*): outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+*De Anima* (*On the Soul*) is Aristotle's account of soul as the form of a natural body potentially having life — not a separate passenger in a machine, at least for the nutritive and sensitive powers. Read the opening methodological books, then the accounts of nutrition, perception, imagination, and thought. The brief, difficult stretch on the intellect (III.4–5), including the "active intellect," is the seed of centuries of commentary. Do not start there; arrive there.
+
+The work sits between the *Physics* (nature and form) and the ethics (a human life). Compare it, later, with the *Phaedo*'s more separable soul, and with Stoic and Epicurean psychologies. A good translation with notes is almost required for III.4–5. The point of a first pass is to see a hylomorphic alternative to both materialism of a crude kind and a simple two-substance dualism, and to see why perception and thought then need careful, separate analysis.
 
 ## Key ideas
 

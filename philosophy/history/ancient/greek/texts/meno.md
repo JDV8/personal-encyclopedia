@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Socrates](../thinkers/socrates.md); helpful: [*Euthyphro*](euthyphro.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/meno.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 Often placed at the transition from early to middle Plato: the first half is a classic *elenchus* about virtue, the second introduces [recollection](../../../../concepts/epistemology/anamnesis.md) and a geometry lesson with an enslaved boy, and the end offers a "true opinion" account that is not yet the full *Republic*. It is a good first long dialogue after the trial group.
@@ -23,6 +27,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Meno*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Meno* opens with a blunt question — can virtue be taught? — and immediately becomes a lesson in how not to skip definition, and then a lesson in how learning is possible at all. The geometry conversation with the slave is the center of the epistemology; the appearance of Anytus and the turn toward *theia moira* (divine allotment) at the end keep the political stakes of teaching virtue in view. Read it as one design, not as a logic bit plus a myth bit.
+
+On a second pass, track what happens to the word "knowledge" and to "true opinion." The dialogue is a natural partner of the *Phaedo* (recollection in a different key) and of the *Protagoras* and *Gorgias* (virtue, teaching, sophists). Aristotle's later account of habit and teaching is a critique you can already feel coming. Do not let the slave-boy scene be excerpted so often that you forget Meno himself, a man who wants a transferable technique and is given, instead, a demand to start over.
 
 ## Key ideas
 

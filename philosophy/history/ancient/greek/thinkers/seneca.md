@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Zeno of Citium](zeno-of-citium.md)
 
+
+![Bust of Hesiod](images/seneca.jpg)
+
+*Bust of Hesiod Credit: Yair Haklai. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Bust of Lucius Annaeus Seneca-Busts of philosophers in Sanssouci.jpg](https://commons.wikimedia.org/wiki/File:Bust_of_Lucius_Annaeus_Seneca-Busts_of_philosophers_in_Sanssouci.jpg).*
 ## Name and dates
 
 Lucius Annaeus Seneca (c. 4 BCE–65 CE), often called Seneca the Younger, was a Roman senator, a writer of Latin prose and tragedy, a tutor and later adviser to the emperor Nero, and a Stoic moralist. In 65, after the Pisonian conspiracy, he was ordered to kill himself and did so. The life and the writings sit in an uncomfortable, productive tension: a man of enormous wealth and political compromise who argued for simplicity, the examination of conscience, and the equality of human beings as shares of the same *logos*.

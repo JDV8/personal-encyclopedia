@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Parmenides](parmenides.md) and the [Presocratics survey](../02-presocratics.md)
 
+
+![Ancient Libraries Exhibition (Colosseum, 2014). Bronze bust of a philosopher doubtfully identified as the philosopher Heraclitus. The original was found in…](images/empedocles.jpg)
+
+*Ancient Libraries Exhibition (Colosseum, 2014). Bronze bust of a philosopher doubtfully identified as the philosopher Heraclitus. The original was found in… Credit: Sailko. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Busto di c.d. eraclito, da villa papiri ercolano, copia romana da orig. del III sec ac., MANN 01.JPG](https://commons.wikimedia.org/wiki/File:Busto_di_c.d._eraclito,_da_villa_papiri_ercolano,_copia_romana_da_orig._del_III_sec_ac.,_MANN_01.JPG).*
 ## Name and dates
 
 Empedocles of Akragas (Agrigento, Sicily; c. 495–435 BCE) was a poet, a political figure, and, in later stories, a wonder-worker who leapt into Etna. The legend is late and should be held lightly. The poetry is the thing we can still read in fragments: two poems, or one poem later divided by scholars, often titled *On Nature* and *Purifications*.
@@ -27,6 +31,11 @@ flowchart LR
   S["Sources"] --> T["Empedocles: thought"]
   T --> R["Reception"]
 ```
+
+
+## Going further
+
+Empedocles is a poet-philosopher, and the religious and purificatory fragments should not be torn away from the physical ones as if only the four roots "count." Love and Strife, the cycle of the cosmos, and the fate of the daimon-soul are parts of one imagination, even if modern readers would rather have a physics chapter and a religion chapter. The surviving lines are incomplete and often difficult to order. Use a good fragment collection with context, and let the strangeness stand: this is not yet a school treatise, and it is already a serious rival to monism and to later atomism.
 
 ## Key ideas
 

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md) and the [Presocratics survey](../02-presocratics.md)
 
+
+![Museo dei Marmi, palazzo Medici-Riccardi, Firenze](images/thales.jpg)
+
+*Museo dei Marmi, palazzo Medici-Riccardi, Firenze Credit: Sailko. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Arte romana, testa di talete di mileto, II sec..JPG](https://commons.wikimedia.org/wiki/File:Arte_romana,_testa_di_talete_di_mileto,_II_sec..JPG).*
 ## Name and dates
 
 Thales of Miletus (traditionally c. 624–546 BCE) is the first name in the standard Greek philosophical lineage. Miletus was a wealthy Ionian port on the coast of Asia Minor, looking across trade routes toward Egypt and the Near East. Almost nothing about his life is certain. Later antiquity made him one of the "Seven Sages," credited him with predicting a solar eclipse (often identified with the eclipse of 585 BCE), with measuring the height of pyramids, and with diverting a river for an army. Some of these stories are possible; many are the sort of invention that gathers around a founder.

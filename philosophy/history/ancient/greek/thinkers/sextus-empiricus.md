@@ -28,6 +28,11 @@ flowchart LR
   T --> R["Reception"]
 ```
 
+
+## Going further
+
+Sextus is our library of Pyrrhonism, and he is also a source, sometimes our only source, for arguments of earlier skeptics and for the doctrines he opposes. That double role requires care: a position may be stated in his pages because he wants to neutralize it, not because he is quietly teaching it. When you read the *Outlines of Pyrrhonism*, keep the therapeutic aim (*epochē*, then quiet) in view, and test, as modern scholars do, whether the stance can be lived without becoming a doctrine. He is the right author with whom to end a first Greek path that began with the Presocratics' confidence that nature could be told.
+
 ## Key ideas
 
 - Pyrrhonism, in Sextus's definition, keeps investigating; it does not assert that knowledge is impossible.

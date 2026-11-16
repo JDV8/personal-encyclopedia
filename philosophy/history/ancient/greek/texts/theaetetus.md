@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Plato](../thinkers/plato.md); helpful: [*Meno*](meno.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/theaetetus.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A late-middle dialogue on the question **what is knowledge?** It is often grouped with the *Sophist* and *Statesman* as a more technical, less mythic Plato, still using Socrates as the main speaker. A frame presents the conversation as a remembered discussion with the mathematician Theaetetus, later a wounded war hero.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Theaetetus*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Theaetetus* is a long inquiry into the question "what is knowledge?" that tests three answers — perception, true opinion, and true opinion with an account — and does not, officially, rest in a finished definition. That *aporia* is the pedagogical point, not a defect. Read the midwife image and the treatment of Protagorean relativism and of Heraclitean flux as parts of one design: if knowledge were perception, the world and the knower would have to be a certain way, and Plato is showing the cost.
+
+A modern reader will hear "justified true belief" in the third attempt. The echo is real; the identity is not. Stay with Plato's terms (*epistēmē*, *doxa*, *logos*). The dialogue is a companion to the *Sophist* and the *Statesman* in the late series, and to the *Meno*'s earlier contrast of knowledge and true opinion. Outline each definition and its breakdown on a second reading, and notice what problems remain unsolved (including the problem of false judgment). That list is already a map of later epistemology.
 
 ## Key ideas
 

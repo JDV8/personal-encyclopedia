@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md) and the survey [Laozi and the *Daodejing*](../04-laozi-and-the-daodejing.md)
 
+
+![Paintings after Ancient Masters: Laozi Riding an Ox title QS:P1476,en:"Paintings after Ancient Masters: Laozi Riding an Ox "label QS:Len,"Paintings after…](images/laozi.jpg)
+
+*Paintings after Ancient Masters: Laozi Riding an Ox title QS:P1476,en:"Paintings after Ancient Masters: Laozi Riding an Ox "label QS:Len,"Paintings after… Credit: Chen Hongshou. License: Public domain. Source: [File:Chen Hongshou - Paintings after Ancient Masters, Laozi Riding an Ox - 1979.27.1.2 - Cleveland Museum of Art.tiff](https://commons.wikimedia.org/wiki/File:Chen_Hongshou_-_Paintings_after_Ancient_Masters,_Laozi_Riding_an_Ox_-_1979.27.1.2_-_Cleveland_Museum_of_Art.tiff).*
 ## Name and dates
 
 "Laozi" names both a legendary figure (the "Old Master," sometimes identified with a Zhou archivist, Li Er or Lao Dan) and the short book also called the [*Daodejing*](../texts/daodejing.md). Traditional stories have [Confucius](confucius.md) consulting him and the old man departing west, leaving the text with a gatekeeper. These stories are late relative to the Warring States, and they should be read as a way a tradition imagined its founder, not as a biography we can date.

@@ -3,6 +3,10 @@
 **Prerequisites:** [Foundational concepts](01-foundational-concepts.md) and [Confucius](02-confucius-and-the-analects.md)
 **Key ideas:** Mozi as a rival to the Confucians; impartial care; opposition to aggressive war and to lavish ritual; Heaven's will as a standard; later Mohist work on language and inference.
 
+
+![Portrait von Friedrich Mohs](images/06-mohism.jpg)
+
+*Portrait von Friedrich Mohs Credit: Kriehuber (artist); Gebr. Mansfeld &amp; Comp. (printer). License: Public domain. Source: [File:Friedrich Mohs portrait by Kriehuber 1832.jpg](https://commons.wikimedia.org/wiki/File:Friedrich_Mohs_portrait_by_Kriehuber_1832.jpg).*
 Mozi (Mo Di, fifth to early fourth century BCE) founded the most organized early rival to the Confucian school. Mohists were known as a disciplined community, sometimes involved in organizing the defense of cities under siege. Their core texts, collected in the *Mozi*, argue in a more explicitly reasoned, chapter-by-chapter style than the *Analects*. If Confucius teaches mainly by pointing at an exemplary life, Mozi often teaches by stating a standard and testing policies against it.
 
 ## Impartial care

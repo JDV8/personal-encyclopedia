@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Confucius](confucius.md) and [Mencius](mencius.md)
 
+
+![Xun Zi (simplified Chinese: 荀子; traditional Chinese: 荀子; pinyin: Xún Zǐ; Wade–Giles: Hsün Tzu, ca. 312–230 BC) was a Chinese Confucian philosopher who lived…](images/xunzi.jpg)
+
+*Xun Zi (simplified Chinese: 荀子; traditional Chinese: 荀子; pinyin: Xún Zǐ; Wade–Giles: Hsün Tzu, ca. 312–230 BC) was a Chinese Confucian philosopher who lived… Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Xun zi.jpg](https://commons.wikimedia.org/wiki/File:Xun_zi.jpg).*
 ## Name and dates
 
 Xunzi (Xun Kuang, third century BCE) is the great late Warring States Confucian systematizer, a generation or more after Mencius, teaching at the Jixia academy and elsewhere in a world already close to Qin's wars of unification. Traditional accounts make him the teacher of Han Feizi and of Li Si, Qin's chancellor — a lineage that later damaged his reputation, fairly or not.

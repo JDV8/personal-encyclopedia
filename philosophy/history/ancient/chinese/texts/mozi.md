@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Mozi](../thinkers/mozi.md) and [*Analects*](analects.md)
 
+
+![This depicts Meng Ke (孟軻), also known as Mencius.](images/mozi.jpg)
+
+*This depicts Meng Ke (孟軻), also known as Mencius. Credit: anonymous. License: Public domain. Source: [File:Half Portraits of the Great Sage and Virtuous Men of Old - Meng Ke (孟軻).jpg](https://commons.wikimedia.org/wiki/File:Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_(孟軻).jpg).*
 ## Dating and authorship
 
 A corpus in the name of [Mozi](../thinkers/mozi.md) and his school: ethical-political essays, later technical "canons" on language and inference, and chapters on defensive warfare and fortification. It was compiled over more than one generation. The essays on impartial care, Heaven's will, and the campaigns against aggression, fatalism, and lavish ritual and music are the first reading. The canons are harder and later. There is no complete, easy English *Mozi*; Ian Johnston's translation is the fullest recent attempt, and earlier selections (Watson, Ivanhoe and Van Norden's reader) are better for a first pass through the ethical chapters.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Mozi*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Mozi* is a school corpus. The essays that state the "ten doctrines" — inclusive care, against aggressive war, the will of Heaven, frugality, against costly funerals and music, honoring the worthy, and the rest — are the place to start. Read them as designed persuasion: they repeat, they offer tests of benefit and harm, and they often address a ruler. Then, if you are willing to work harder, look at the later Mohist *Canons* and the military chapters, which show a different, more technical face of the same tradition.
+
+Traditional ascription to Mozi as founder is the frame; the writings as we have them are the work of a movement over time, and some sections are fragmentary or corrupt. The book is the best counter-voice to early Confucianism we have from the same era, and it should be read that way: not as a footnote, but as a rival account of what Heaven wants and of how love should be distributed. After the core essays, read Mencius' attacks on Yang Zhu and Mozi, and decide what is fair. A selection (Watson, or the more complete later translations) is enough for a first path; the *Canons* can wait until you have the doctrines clear.
 
 ## Key ideas
 

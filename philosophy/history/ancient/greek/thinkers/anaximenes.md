@@ -28,6 +28,11 @@ flowchart LR
   T --> R["Reception"]
 ```
 
+
+## Going further
+
+Anaximenes is easy to reduce to a single word, "air," and then to skip. The more useful question is what the move from Anaximander's indefinite to a *determinate* principle was supposed to gain: a stuff that can rarefy and condense, and so explain change without leaving the world of ordinary materials. Whether that is a philosophical improvement or a failure of nerve is already an ancient kind of debate. Read him as a third Milesian step, not as a lesser repeat of Thales, and then compare the later atomist and Aristotelian criticisms of purely material principles.
+
 ## Key ideas
 
 - The *arche* is air, associated with breath and life.

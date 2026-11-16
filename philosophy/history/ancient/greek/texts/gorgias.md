@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Protagoras and the Sophists](../thinkers/protagoras-and-the-sophists.md) and [Socrates](../thinkers/socrates.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/gorgias.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A substantial early-to-middle Platonic dialogue on rhetoric, power, justice, and the good life. It is among the most dramatic of the dialogues: three successive interlocutors, each harder than the last, and a Socrates who is more combative than in the *Apology*.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Gorgias*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Gorgias* is a fight about rhetoric, power, and the good life, staged as three increasingly hard conversations: with Gorgias, with Polus, and with Callicles. Stay with the movement. What begins as a question about the nature of oratory becomes a question about whether it is better to suffer injustice than to do it, and about whether the tyrant's life is the happy one. Socrates' long closing myth should be read as part of the argument, not as an optional flourish.
+
+The dialogue is among Plato's most uncompromising moral texts, and it is also a document of his quarrel with a certain picture of politics as the skill of dominating others. Read it before or after the *Republic*, and with the *Protagoras* if you want a different tone of engagement with sophists. A practical method: after each conversation, write down what the interlocutor wants from rhetoric and what Socrates has made expensive about that want. The dialogue is long enough that a single tired sitting will flatten Callicles; give it time.
 
 ## Key ideas
 

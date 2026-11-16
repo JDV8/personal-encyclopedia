@@ -3,6 +3,10 @@
 **Prerequisites:** At least [Greek foundational concepts](greek/01-foundational-concepts.md) and [Chinese foundational concepts](chinese/01-foundational-concepts.md). The comparison is richer after both reading paths.
 **Key ideas:** related questions, different starting problems and vocabularies; substance and being versus process and relation; the soul and the city versus cultivation, family, and the Way; argument as demonstration versus argument as diagnosis and persuasion; resist the cartoon of "rational West" and "spiritual East."
 
+
+![Alto dos Moinhos, Lisbon, Portugal FREE TRANSLATION: "FREEING THEMSELVES FROM THE DEATH LAW" Author: Year: 1991 in Wikipedia Luís Vaz de Camões (Portuguese…](images/greek-and-chinese-compared.jpg)
+
+*Alto dos Moinhos, Lisbon, Portugal FREE TRANSLATION: "FREEING THEMSELVES FROM THE DEATH LAW" Author: Year: 1991 in Wikipedia Luís Vaz de Camões (Portuguese… Credit: Pedro Ribeiro Simões from Lisboa, Portugal. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:"Se vão da lei da morte libertando" (Luis de Camões) (14358994550).jpg](https://commons.wikimedia.org/wiki/File:"Se_vão_da_lei_da_morte_libertando"_(Luis_de_Camões)_(14358994550).jpg).*
 It is tempting to turn this into a contest, or into a pair of essences: Greeks think, Chinese feel; Greeks are atomists of the self, Chinese are holists; Greeks love being, Chinese love becoming. Some of those contrasts point at real tendencies. As essences, they fail. The Greek tradition includes Heraclitus and the Skeptics; the Chinese tradition includes later Mohist canons and Han Feizi's hard proceduralism. What follows are patterns, with exceptions built in.
 
 ## Different emergencies

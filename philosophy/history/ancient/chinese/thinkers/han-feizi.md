@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Xunzi](xunzi.md), [Shang Yang](shang-yang.md), and the survey [Legalism](../07-legalism.md)
 
+
+![A modern statue of the First Emperor and his attendants, on display at Xian.](images/han-feizi.jpg)
+
+*A modern statue of the First Emperor and his attendants, on display at Xian. Credit: GwydionM at English Wikipedia. License: Public domain. Source: [File:First Emperor.jpg](https://commons.wikimedia.org/wiki/File:First_Emperor.jpg).*
 ## Name and dates
 
 Han Feizi (d. 233 BCE) was a prince of the state of Han, traditionally a student of [Xunzi](xunzi.md), and the great synthesizer of the tradition later called Legalism (*fajia*). He presented his ideas at the Qin court and, in the traditional story, died in prison at the instigation of Li Si, a former fellow student. The story may be embroidered; the book is the main fact.

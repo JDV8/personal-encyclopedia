@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Thales](thales.md)
 
+
+![Photograph; frontispiece published in Anaximander and the Origins of Greek Cosmology (1960) by Charles Henry Kahn](images/anaximander.jpg)
+
+*Photograph; frontispiece published in Anaximander and the Origins of Greek Cosmology (1960) by Charles Henry Kahn Credit: Charles Kahn. License: Public domain. Source: [File:Anaximander and the Origins of Greek Cosmology (1960) frontispiece.jpg](https://commons.wikimedia.org/wiki/File:Anaximander_and_the_Origins_of_Greek_Cosmology_(1960)_frontispiece.jpg).*
 ## Name and dates
 
 Anaximander of Miletus (c. 610–546 BCE) is usually presented as Thales' younger associate or successor. Later sources credit him with making the first Greek world map, with a gnomon (a shadow-caster for telling time and seasons), and with a bold picture of the earth as a short cylinder floating unsupported at the center of things, because it has no reason to go one way rather than another. As with other Presocratics, biography is thin and late.

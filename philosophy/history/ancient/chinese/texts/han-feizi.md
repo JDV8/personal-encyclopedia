@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Han Feizi](../thinkers/han-feizi.md); helpful: [*Xunzi*](xunzi.md) and the [*Book of Lord Shang*](book-of-lord-shang.md)
 
+
+![A modern statue of the First Emperor and his attendants, on display at Xian.](images/han-feizi.jpg)
+
+*A modern statue of the First Emperor and his attendants, on display at Xian. Credit: GwydionM at English Wikipedia. License: Public domain. Source: [File:First Emperor.jpg](https://commons.wikimedia.org/wiki/File:First_Emperor.jpg).*
 ## Dating and authorship
 
 A large collection of essays under the name of [Han Feizi](../thinkers/han-feizi.md) (d. 233 BCE). A core is widely taken as his; some chapters may be later or school material. It is the most complete surviving Legalist book, and one of the best-written political works of the Warring States. Burton Watson's selection is a good start; complete translations exist for a fuller pass.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Han Feizi*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Han Feizi* is a collected set of essays and illustrations, some more systematic than others, and it is best read first for the three tools — *fa*, *shi*, and *shu* — and for the diagnosis of why moralistic talk fails in a dangerous court. "The Five Vermin," "The Two Handles," and the essays on preventing ministers from capturing the state are a good spine. The historical anecdotes are not decoration; they are the evidence the argument thinks it has. Han Fei is a bitter, lucid writer, and a complete translation (Burton Watson's selection, or a fuller modern version) should be read slowly enough that the ruthlessness does not become a blur.
+
+Authorship is, as usual, a mix of a named master and a school corpus; some chapters may be earlier Legalist or later compilation. The book is also in conversation with the *Laozi* (a quieter ruler, a use of emptiness) and with Xunzi (a dark view of unaided nature, a trust in artifice), even when it does not footnote them. Read a stretch of Confucian political hope just before or after, so that you can hear the objection as an objection. Do not tidy the book into "realism" in a modern IR sense; its world is a Warring States court, with spies, positional power, and a ruler who must not show his likes.
 
 ## Key ideas
 

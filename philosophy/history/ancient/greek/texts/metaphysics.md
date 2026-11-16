@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Aristotle](../thinkers/aristotle.md), [*Physics*](physics.md); helpful: the [*Organon*](organon.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/metaphysics.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 ## Name, dating, and authorship
 
 *Ta meta ta physika* ("the things after the physics") is almost certainly a later editorial name for a set of related treatises, not Aristotle's own title. He speaks of **first philosophy**, or of a science of being as being, and of theology. The work as we have it (fourteen books, numbered with Greek letters) is not a single smooth composition; Book Alpha and Book Lambda are often read first, the central "substance books" (Zeta, Eta, Theta) are the hardest.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Metaphysics*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Metaphysics* is a collection of treatises, not a single long argument with a tidy outline, and some books (especially Book II, and the relation of Books XIII–XIV to the rest) have a life of their own in the scholarly tradition. A first path: Book I (the history of the search for causes), Book IV (being as being, and the principle of non-contradiction), Book VII (substance), Books VIII–IX (form, matter, potentiality and actuality), and Book XII (the unmoved mover). You will not "finish" the work in the sense of settling every aporia. Aristotle often thinks by working through difficulties.
+
+Use a translation with Bekker numbers and a reliable guide (even a short one) for the architecture. The traditional title is later; the project is first philosophy, a science of first principles and of being. Read some of the *Physics* and the *Categories* first if you can. Later commentaries — Greek, Arabic, Latin — are a vast reception history; they should not be your first interpreters until you have struggled with a few books yourself.
 
 ## Key ideas
 

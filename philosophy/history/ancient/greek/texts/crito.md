@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Apology*](apology.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/crito.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A short early dialogue, a companion to the *Apology*. Socrates is in prison, days from execution. Crito, a loyal friend, has arranged an escape. The dramatic question is practical; the argument is about justice, gratitude, and whether a citizen may harm the city that has raised him.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Crito*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Crito* is short and should be read in one sitting, then again with a pencil on the speech of the Laws. The dramatic question is simple — should Socrates escape? — and the philosophical pressure is not. Friendship, the care of the soul, the injustice of the verdict, and the city's claim on a citizen who has lived under its laws and had children there, are all in play. Notice that Socrates will not let the opinion of "the many" settle the matter, and that he still takes the city's *logos* more seriously than a modern individualist might expect.
+
+Whether the historical Socrates would have spoken just so is less important, on a first path, than seeing the problem the dialogue leaves: how a person who thinks a verdict unjust can still refuse to injure the civic order that made his life possible. Read it after the *Apology* and before the *Phaedo*. Then, later, put it beside the *Crito*'s modern afterlife in discussions of political obligation, without letting those discussions replace the Greek dramatic particularity of a man in prison at dawn.
 
 ## Key ideas
 

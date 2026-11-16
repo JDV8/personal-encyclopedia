@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Confucius](confucius.md) and the survey [Mencius and Xunzi](../03-mencius-and-xunzi.md)
 
+
+![Gongsun Chou Wen Hao Ran (公孫丑問浩然), depicted the portrait of Mencius (right) and his student Gongsun, Chou (left). The illustration was a rubbing of a stone…](images/mencius.jpg)
+
+*Gongsun Chou Wen Hao Ran (公孫丑問浩然), depicted the portrait of Mencius (right) and his student Gongsun, Chou (left). The illustration was a rubbing of a stone… Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Gongsun Chou Wen Hao Ran, Heritage Illustrations for Descent of Mencius.jpg](https://commons.wikimedia.org/wiki/File:Gongsun_Chou_Wen_Hao_Ran,_Heritage_Illustrations_for_Descent_of_Mencius.jpg).*
 ## Name and dates
 
 Mengzi (Mencius, fourth century BCE; traditional dates often given as c. 372–289) was a later Confucian who traveled among Warring States courts arguing for a politics of *ren* and rightness, and against what he took to be the errors of [Mozi](mozi.md) and Yang Zhu. He is the most eloquent early defender of the claim that human nature (*[xing](../../../../glossary/chinese/xing.md)*) is good.
@@ -27,6 +31,11 @@ flowchart LR
   S["Sources"] --> T["Mencius: thought"]
   T --> R["Reception"]
 ```
+
+
+## Going further
+
+Mencius' political sharpness is easy to under-read if one stops at the sprouts. He is willing to say that a ruler who harms the people has, in effect, ceased to be a true king, and that the people's well-being is a test of legitimacy, not a courtesy. That is still a theory of kingship, not a modern popular sovereignty, but it is one of the most candid Confucian challenges to a sitting power. When you move from this overview to the [text](../texts/mencius.md), watch how a court anecdote and a thought-experiment are made to do the same work: they try to show a king something he already half-knows and will not act on.
 
 ## Key ideas
 

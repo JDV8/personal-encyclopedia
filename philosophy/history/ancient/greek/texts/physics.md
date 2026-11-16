@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Aristotle](../thinkers/aristotle.md) and [the problem of change](../../../../concepts/metaphysics/the-problem-of-change.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/physics.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 ## Dating and authorship
 
 Aristotle's main work of natural philosophy, a treatise (or course) in eight books on nature, change, place, time, the infinite, and the first unmoved mover. It is "physics" in the Greek sense: the study of *physis*, of things that have a principle of motion and rest in themselves — not a synonym for modern mathematical physics.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Physics*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Physics* is Aristotle's fundamental inquiry into nature (*physis*) as an inner principle of motion and rest. Read it for the account of the four causes in a natural setting, for the analysis of motion, place, time, and the infinite, and for the argument that there is no beginning of motion without an unmoved mover (Book VIII). The work is not "physics" in a modern laboratory sense, and it should not be graded as a failed preview of Newton. It is a conceptual map of changeable being.
+
+A first reading can take Books I–II carefully (principles and causes), sample the discussions of time and the continuum, and look at the close of Book VIII. The later *De Anima* and the biological works extend the same style of explanation into life. Use Bekker numbers. When early modern philosophers reject Aristotelian physics, they are often rejecting this book's authority over motion and final causes; knowing what they reject makes that history sharper.
 
 ## Key ideas
 

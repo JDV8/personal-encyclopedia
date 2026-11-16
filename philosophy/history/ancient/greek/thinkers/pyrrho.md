@@ -2,6 +2,10 @@
 
 **Prerequisites:** the [Hellenistic schools survey](../06-hellenistic-schools.md)
 
+
+![Marble head, early Roman copy (2nd century BC) with ancient restorations of a Greek original from the 4th century. Traditioanlly, it has been identified as…](images/pyrrho.jpg)
+
+*Marble head, early Roman copy (2nd century BC) with ancient restorations of a Greek original from the 4th century. Traditioanlly, it has been identified as… Credit: Zde. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Philosopher, marble head, Roman copy, AM Corfu, Krfm22.jpg](https://commons.wikimedia.org/wiki/File:Philosopher,_marble_head,_Roman_copy,_AM_Corfu,_Krfm22.jpg).*
 ## Name and dates
 
 Pyrrho of Elis (c. 365–270 BCE) is the traditional fountainhead of Greek skepticism as a way of life. He is said to have traveled with Alexander's army to India, to have met gymnosophists (ascetic "naked philosophers"), and to have returned to live in a startling calm. Almost every biographical detail is late and may be emblem. The afterlife of his name — Pyrrhonism — is more solid than any single anecdote.

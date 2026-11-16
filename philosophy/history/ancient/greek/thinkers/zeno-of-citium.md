@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Diogenes and the Cynics](diogenes-and-the-cynics.md) and the [Hellenistic schools survey](../06-hellenistic-schools.md)
 
+
+![Herma of Zeno of Citium. Cast in Pushkin museum from original in Naples.](images/zeno-of-citium.jpg)
+
+*Herma of Zeno of Citium. Cast in Pushkin museum from original in Naples. Credit: user:shakko. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Zeno of Citium pushkin.jpg](https://commons.wikimedia.org/wiki/File:Zeno_of_Citium_pushkin.jpg).*
 ## Name and dates
 
 Zeno (c. 334–262 BCE) came from Citium in Cyprus, arrived in Athens, studied with the Cynic Crates and with Megarian and Academic teachers, and began to teach at the Painted Stoa (*Stoa Poikile*), from which the school takes its name. He is the founder; the system's classic shape is often credited more to later "old Stoics," especially Chrysippus (c. 279–206 BCE), who wrote at enormous length and almost none of whose work survives intact. To study "Zeno" is, in practice, to study early Stoicism, with Chrysippus as the great systematizer in the same folder of ideas.

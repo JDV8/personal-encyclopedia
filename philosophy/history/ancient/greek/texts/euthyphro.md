@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Socrates](../thinkers/socrates.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/euthyphro.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A short early Platonic dialogue, generally treated as close to the historical [Socrates](../thinkers/socrates.md) in method, and as Plato's own writing. It is often grouped with the [*Apology*](apology.md) and [*Crito*](crito.md) as a "trial" sequence: Socrates is on his way to the porch where the indictment will be processed.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Euthyphro*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Euthyphro* is the cleanest short introduction to Socratic definition and to a problem in the philosophy of religion: is the pious loved by the gods because it is pious, or is it pious because it is loved? Read it as a failed search that still changes the question. Euthyphro's first answers (what he is doing, what the gods love, a trading relation of care) are not stupid; they are the ordinary religious vocabulary of a confident man, and they come apart under questions. The dialogue ends in *aporia* on purpose.
+
+Do not jump immediately to the later "Euthyphro dilemma" in monotheistic theology, though that is a real descendant. First get the Greek problem about piety, knowledge, and authority clear, including the awkward fact that Socrates himself is on his way to face a charge of impiety. The dialogue is a companion to the *Apology*, not only a logic exercise. A second reading should list each definition, the refutation, and what, if anything, still seems right in the abandoned formula.
 
 ## Key ideas
 

@@ -2,6 +2,10 @@
 
 **Prerequisites:** the survey [Legalism](../07-legalism.md); helpful: [Han Feizi](han-feizi.md)
 
+
+![Statue of Shang Yang, an Ancient Chinese celebrity](images/shang-yang.jpg)
+
+*Statue of Shang Yang, an Ancient Chinese celebrity Credit: Taken by Fanghong. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Statue of Shang Yang.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Shang_Yang.jpg).*
 ## Name and dates
 
 Shang Yang (d. 338 BCE), also known as Gongsun Yang, Lord Shang, was a minister in the western state of Qin whose reforms helped turn Qin into the war-capable machine that would later unify China. He was, in the traditional narrative, a foreign adviser who broke the power of hereditary nobility, standardized measures and laws, tied rank to military and agricultural merit, and was eventually killed when court politics turned — torn apart by chariots, in the grim anecdote, under laws he himself had made strict.

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Plato](../thinkers/plato.md) and the [*Republic*](republic.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/timaeus.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 A late dialogue, mostly a long monologue by the title character, a Pythagorean-leaning astronomer from Locri. It was, for centuries, *the* Plato of the Latin West (partly through Calcidius's incomplete translation and commentary), and so its cosmology has a reception history even larger than its place in a modern reading list.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Timaeus*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Timaeus* is Plato's cosmological dialogue: a likely story (*eikōs muthos*) of how a craftsman-god, looking to an eternal model, orders a world of becoming from a pre-existing, wandering "receptacle." Read the methodological warnings first. This is not the *Republic*'s dialectic, and Plato says so. Then follow the construction of the world-soul, the regular solids and the elements, time as a moving image of eternity, and the account of the human body and of sensation. The details of the science are historically dated; the philosophical claims about model, image, necessity, and intellect are not thereby emptied.
+
+The *Timaeus* had an afterlife out of proportion to its place in a modern Plato course, especially in later antiquity and in the Latin Middle Ages (often through partial translation). Read it after you have some of the theory of forms in view, and do not skip the opening that links it, dramatically, to the *Republic*. A good edition with notes will keep you from drowning in the harmonics. The question to keep asking is what, in this "likely story," is offered as necessary and what is offered as the best account we can give of a changing world.
 
 ## Key ideas
 

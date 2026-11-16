@@ -3,6 +3,10 @@
 **Prerequisites:** [The Presocratics](02-presocratics.md)
 **Key ideas:** we meet Socrates mainly through others; the *elenchus* as a method of testing claims; "knowledge of ignorance"; virtue and the care of the soul; the trial of 399 BCE as a political and philosophical event.
 
+
+![Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.](images/03-socrates.jpg)
+
+*Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos. Credit: Copy of Lysippos (?). License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Source: [File:Socrate du Louvre.jpg](https://commons.wikimedia.org/wiki/File:Socrate_du_Louvre.jpg).*
 Socrates of Athens (c. 470–399 BCE) wrote nothing that survives. That is the first fact to hold onto. Almost everything we "know" about him comes from other people, who wanted different things from him.
 
 ## The problem of sources

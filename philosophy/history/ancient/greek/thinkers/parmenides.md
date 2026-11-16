@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md) and [Heraclitus](heraclitus.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/parmenides.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Name and dates
 
 Parmenides of Elea (in southern Italy, early fifth century BCE) wrote a poem in hexameter in which a unnamed youth is taken by chariot to a goddess, who instructs him in the way of truth and warns him off the way of mortal opinion. The form matters. This is philosophy in the clothing of a religious revelation, and it is the most consequential metaphysical argument of early Greek thought.

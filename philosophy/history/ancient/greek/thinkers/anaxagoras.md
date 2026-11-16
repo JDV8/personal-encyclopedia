@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Parmenides](parmenides.md) and [Empedocles](empedocles.md)
 
+
+![Roof figure Anaxagoras by Friedrich Beer, Naturhistorisches Museum in Vienna, Austria, Bellariastraße](images/anaxagoras.jpg)
+
+*Roof figure Anaxagoras by Friedrich Beer, Naturhistorisches Museum in Vienna, Austria, Bellariastraße Credit: Hubertl. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:AT 13766 Anaxagoras, roof figure by Friedrich Beer at the Naturhistorisches Museum, Vienna 8931-Bearbeitet.jpg](https://commons.wikimedia.org/wiki/File:AT_13766_Anaxagoras,_roof_figure_by_Friedrich_Beer_at_the_Naturhistorisches_Museum,_Vienna_8931-Bearbeitet.jpg).*
 ## Name and dates
 
 Anaxagoras of Clazomenae (c. 500–428 BCE) brought Ionian natural philosophy to Athens. He was associated with Pericles, and he was eventually tried, or at least threatened, on charges that included impiety — in particular, the claim that the sun is a fiery stone rather than a god. He left Athens for Lampsacus. The episode is an early sign that cosmology in the city could become a political and religious problem, a generation before [Socrates](socrates.md)' trial.

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Laozi](laozi.md) and the survey [Zhuangzi](../05-zhuangzi.md)
 
+
+![Bian Zhuangzi Killing Tigerslabel QS:Lzh,"宋人卞莊子刺虎圖 卷"label QS:Len,"Bian Zhuangzi Killing Tigers"](images/zhuangzi.jpg)
+
+*Bian Zhuangzi Killing Tigerslabel QS:Lzh,"宋人卞莊子刺虎圖 卷"label QS:Len,"Bian Zhuangzi Killing Tigers" Credit: Unknown authorUnknown author. License: Public domain. Source: [File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg](https://commons.wikimedia.org/wiki/File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg).*
 ## Name and dates
 
 Zhuang Zhou (fourth century BCE), called Zhuangzi, is the name attached to the most imaginative book of early Chinese philosophy. He is a slightly less legendary figure than Laozi — a person from the state of Song, in later anecdote a minor official who refused high office — but the anecdotes are still stories. The voice of the book is what we have.

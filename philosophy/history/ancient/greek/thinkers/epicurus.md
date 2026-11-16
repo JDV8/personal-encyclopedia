@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Democritus and Leucippus](democritus-and-leucippus.md) and the [Hellenistic schools survey](../06-hellenistic-schools.md)
 
+
+![Marble bust of Epicurus. Roman copy of Greek original, 3rd century BC/2nd century BC. On display in the British Museum, London.](images/epicurus.jpg)
+
+*Marble bust of Epicurus. Roman copy of Greek original, 3rd century BC/2nd century BC. On display in the British Museum, London. Credit: ChrisO (Own work). License: Public domain. Source: [File:Epicurus bust.jpg](https://commons.wikimedia.org/wiki/File:Epicurus_bust.jpg).*
 ## Name and dates
 
 Epicurus (341–270 BCE) was born on Samos to Athenian parents, taught in several cities, and around 307 founded the Garden in Athens, a philosophical community that included women and enslaved persons among its members — unusual in the landscape of the schools. He wrote voluminously. Almost all of it is lost. What remains are three letters (to Herodotus, Pythocles, and Menoeceus), a collection of *Principal Doctrines*, the *Vatican Sayings*, and a mass of later testimony, especially from Lucretius's Latin poem *De rerum natura* and from critics such as Cicero.

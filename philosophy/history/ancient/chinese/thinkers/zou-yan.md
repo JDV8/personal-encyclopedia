@@ -2,6 +2,10 @@
 
 **Prerequisites:** the survey [Yin-Yang and the Five Phases](../08-yin-yang-and-five-phases.md)
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/zou-yan.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 ## Name and dates
 
 Zou Yan (also Tsou Yen, probably late fourth to early third century BCE) was a thinker from the state of Qi, associated in later memory with the Jixia academy, and the name most often attached to a systematic early use of **yin-yang** and the **Five Phases** (*[wuxing](../../../../glossary/chinese/wuxing.md)*) as a way to organize history and the cosmos. He is more a hinge than a man we can really know.

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Protagoras and the Sophists](../thinkers/protagoras-and-the-sophists.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/protagoras.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 An early-to-middle dialogue and Plato's most generous, though still critical, portrait of [Protagoras](../thinkers/protagoras-and-the-sophists.md). It is also one of the liveliest pieces of intellectual theater in the corpus: a gathering of sophists at the house of Callias, a myth of Prometheus, and a running joke about long speeches versus short questions.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Protagoras*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Protagoras* is a brilliant, crowded dialogue: a gathering of sophists, a myth about the gift of political virtue, a debate on whether virtue can be taught, and a surprising Socratic stretch on the unity of virtue and on measuring pleasures. Read the opening scenes (the visit to Callias' house) as philosophy, not only as color; Plato is showing you a market of teachers. Then take Protagoras' Great Speech seriously as a rival anthropology before you watch it come under pressure.
+
+The apparent reversal — Socrates arguing in a way that sounds hedonist, Protagoras hesitating — is a famous problem of interpretation, not a slip. Use a commentary or a good introduction the second time through. Pair the dialogue with the *Gorgias* (a harsher fight) and with the *Meno* (the teaching problem again). The historical Protagoras is a shadow behind Plato's character; do not flatten one into the other, but do let this text show you why "sophist" in Plato is a serious intellectual opponent, not a cartoon.
 
 ## Key ideas
 

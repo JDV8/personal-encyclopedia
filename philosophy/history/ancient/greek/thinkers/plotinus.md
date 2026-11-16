@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Plato](plato.md); helpful: [Aristotle](aristotle.md)
 
+
+![Ancient Roman bust in the Museo Ostiense (Ostia Antica). Marble head. Ostia Antica, Museo, inv. 1386. Neck broken along line of beard. Tip of nose and part…](images/plotinus.jpg)
+
+*Ancient Roman bust in the Museo Ostiense (Ostia Antica). Marble head. Ostia Antica, Museo, inv. 1386. Neck broken along line of beard. Tip of nose and part… Credit: Sailko. License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Source: [File:Head of Plotinus, Museo Ostiense inv.JPG](https://commons.wikimedia.org/wiki/File:Head_of_Plotinus,_Museo_Ostiense_inv.JPG).*
 ## Name and dates
 
 Plotinus (204/5–270 CE) was born in Egypt, studied at Alexandria under Ammonius Saccas, joined a failed imperial expedition east, and from about 245 taught in Rome. He is the central figure of what we now call **Neoplatonism**, a late-antique systematizing and spiritualizing of Plato (and of much Aristotle) that would shape pagan, Christian, Jewish, and Islamic philosophy for centuries. He is later than the Hellenistic schools; he belongs on this path as the last great ancient Greek metaphysical voice, not as a "Presocratic" or a classical Athenian.

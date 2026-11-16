@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Plato](plato.md) and the survey [Aristotle](../05-aristotle.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/aristotle.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 ## Name and dates
 
 Aristotle (384–322 BCE) was born at Stagira in the north, the son of a physician with ties to the Macedonian court. He entered [Plato](plato.md)'s Academy as a young man and stayed about twenty years. After Plato's death he left Athens, later tutored Alexander the Great, and returned to found the Lyceum, a rival research community with a library and organized inquiry into nature, constitutions, and texts. He left Athens again after Alexander's death and died at Chalcis.

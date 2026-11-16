@@ -3,6 +3,10 @@
 **Prerequisites:** [Foundational concepts](01-foundational-concepts.md)
 **Key ideas:** a teacher known through recorded sayings; *ren* (humaneness) and *li* (ritual propriety) as paired first principles; the *junzi* as an ethical ideal; rectification of names; government by moral power rather than force.
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/02-confucius-and-the-analects.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 Kongzi (551–479 BCE), latinized as Confucius, was a teacher and sometime minor official from the state of Lu. Like [Socrates](../greek/03-socrates.md), he left no systematic treatise in his own hand. The *Analects* (*Lunyu*) is a compiled record of sayings and conversations, assembled by later disciples and disciples of disciples. Traditional reverence treats it as a faithful window on the master. Modern scholarship sees layers and editorial shaping. Either way, this is the book that made "Confucian" a tradition.
 
 ## *Ren* and *li*

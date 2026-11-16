@@ -2,6 +2,10 @@
 
 **Prerequisites:** the [Presocratics survey](../02-presocratics.md); helpful to have [Socrates](socrates.md) nearby as a foil
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/protagoras-and-the-sophists.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Names and dates
 
 "Sophist" (*sophistes*) began as a word for a person of skill or wisdom and, in the fifth century BCE, came to name a set of itinerant, paid teachers of rhetoric, argument, and civic success. They belong to the same century as the later Presocratics and as [Socrates](socrates.md), and they shift the center of gravity from the cosmos to *nomos*, speech, and the city. Protagoras of Abdera (c. 490–420 BCE) is the most famous. Other major figures include Gorgias of Leontini, Prodicus, Hippias, and, in a more ambiguous place, Thrasymachus (as Plato presents him in the [*Republic*](../texts/republic.md)).

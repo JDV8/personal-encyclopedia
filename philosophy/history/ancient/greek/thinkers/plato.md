@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Socrates](socrates.md) and the survey [Plato](../04-plato.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/plato.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Name and dates
 
 Plato (c. 427–347 BCE) was an Athenian of a distinguished family, a student of Socrates, and the founder of the Academy, a community of research and teaching that lasted, with interruptions and changes, for centuries. He lived through the Peloponnesian War, the Thirty, the restoration of democracy, and Socrates' death. Those events are not background color; they are the political wound of the [*Republic*](../texts/republic.md) and the *Apology*.

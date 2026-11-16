@@ -3,6 +3,10 @@
 **Prerequisites:** [Socrates](03-socrates.md)
 **Key ideas:** dialogues as a form, not a defect; Forms as stable objects of knowledge; the Cave and the divided line; the tripartite soul; the *Republic*'s political wager; knowledge versus opinion.
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/04-plato.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 Plato (c. 427–347 BCE) was an Athenian, a student of Socrates, and the founder of the Academy. He is the first Greek philosopher whose works survive complete, and they survive as **dialogues** — dramatized conversations, not treatises. That form is part of the philosophy. A dialogue can test a view, withdraw it, surround it with myth, or leave it unresolved. Reading Plato well means watching the argument *and* the dramatic situation (who is speaking, to whom, after what political disaster).
 
 ## Forms

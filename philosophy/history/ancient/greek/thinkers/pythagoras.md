@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Foundational concepts](../01-foundational-concepts.md) and the [Presocratics survey](../02-presocratics.md)
 
+
+![Ancient Libraries Exhibition (Colosseum, 2014). So-called "Archytas" bust. Found in the Villa of the Papyri in Herculaneum, and is now in the Museo…](images/pythagoras.jpg)
+
+*Ancient Libraries Exhibition (Colosseum, 2014). So-called "Archytas" bust. Found in the Villa of the Papyri in Herculaneum, and is now in the Museo… Credit: Sailko. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Busto di c.d. archita, da villa papiri ercolano, copia romana da orig. del III sec ac., MANN.JPG](https://commons.wikimedia.org/wiki/File:Busto_di_c.d._archita,_da_villa_papiri_ercolano,_copia_romana_da_orig._del_III_sec_ac.,_MANN.JPG).*
 ## Name and dates
 
 Pythagoras of Samos (c. 570–490 BCE) left Samos, in the stories, for a life in Magna Graecia, especially Croton in southern Italy. There he founded a community that was at once a philosophical school, a religious society, and, for a time, a political force. He became a legend almost immediately: a man with a golden thigh, a soul that had lived before, a teacher whose students were forbidden to speak of him by name. The legend is part of the historical problem.

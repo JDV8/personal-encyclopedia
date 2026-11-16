@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Protagoras and the Sophists](protagoras-and-the-sophists.md) and the survey [Socrates](../03-socrates.md)
 
+
+![Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.](images/socrates.jpg)
+
+*Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos. Credit: Copy of Lysippos (?). License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Source: [File:Socrate du Louvre.jpg](https://commons.wikimedia.org/wiki/File:Socrate_du_Louvre.jpg).*
 ## Name and dates
 
 Socrates of Athens (c. 470–399 BCE) is the hinge of the Greek path and a man we never hear in his own written voice. He served as a hoplite, lived in public, and spent his later years questioning fellow citizens about virtue, knowledge, and the care of the soul. In 399 he was tried on charges of impiety and of corrupting the young, and he was executed by hemlock. The trial, not a lost book, is his central documented act.

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Great Learning*](great-learning.md) or [*Analects*](analects.md)
 
+
+![The Bust of Zhu Xi at Yuelu Academy (likely crafted from terracotta or resin with a copper finish) was created to commemorate Zhu Xi (1130–1200), the…](images/doctrine-of-the-mean.jpg)
+
+*The Bust of Zhu Xi at Yuelu Academy (likely crafted from terracotta or resin with a copper finish) was created to commemorate Zhu Xi (1130–1200), the… Credit: Uploaded by Huangdan2060. License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Source: [File:Yuelu Academy 151.jpg](https://commons.wikimedia.org/wiki/File:Yuelu_Academy_151.jpg).*
 ## Dating and authorship
 
 Another *Book of Rites* chapter, later extracted by [Zhu Xi](../../../imperial/chinese/thinkers/zhu-xi.md) as one of the Four Books. Traditional ascription to Zisi (Confucius's grandson) is traditional, not a settled historical fact. The text as we use it is again an ancient short work seen through a Song commentator. It is denser and more metaphysical than the *Great Learning*.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Doctrine of the Mean* (*Zhongyong*): outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Doctrine of the Mean* (*Zhongyong*) should be read twice: once for its ethical claim about hitting a timely, balanced course and about sincerity (*cheng*), and once for its more cosmic register, in which the sincere person forms a triad with Heaven and Earth. The "mean" here is not Aristotle's *mesotes* under another name. It is closer to an unwavering centrality that still knows how to be timely, and to a metaphysical confidence about the way of Heaven that the *Analects* usually leaves unspoken.
+
+Like the *Great Learning*, this is a *Liji* chapter that later became a Four Book, with a decisive Song commentary tradition. Traditional links to Zisi (Confucius' grandson) are the received story; dating is discussed and later than the historical Confucius. Read a modest translation with the Chinese terms kept in view (*zhong*, *yong*, *cheng*), and resist the urge to shrink the text into "moderation." After Zhu Xi and Wang Yangming have appeared on your path, come back: much of their argument about the heart and principle is an argument about how far this short text can be taken.
 
 ## Key ideas
 

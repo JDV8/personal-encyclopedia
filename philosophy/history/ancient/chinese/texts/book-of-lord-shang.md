@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Shang Yang](../thinkers/shang-yang.md)
 
+
+![The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.](images/book-of-lord-shang.jpg)
+
+*The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. Credit: Wu Daozi, 685-758, Tang Dynasty.. License: Public domain. Source: [File:Confucius Tang Dynasty (cropped).jpg](https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty_(cropped).jpg).*
 ## Dating and authorship
 
 A collection of essays in the name of [Shang Yang](../thinkers/shang-yang.md) (d. 338 BCE), the Qin reformer. Some chapters may be close to his milieu; others are later Legalist writing under his prestige. Yuri Pines's recent translation and study is the best scholarly English entry. The book should be read as a school text as well as a window on Qin policy, not as a signed autobiography.
@@ -19,6 +23,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Book of Lord Shang* (*Shangjunshu*): outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Book of Lord Shang* is harsher and more narrowly statist than the *Han Feizi*, and it should be read as a program for turning a state into a war-and-agriculture machine: rewards and punishments aligned to grain and fighting, old status and inherited honor weakened, the people's energies directed. It is attributed to Shang Yang, the Qin reformer, but as a book it is a later Legalist compilation around his name and measures. Read it for the logic of *fa* as a public, impersonal standard, and for the explicit willingness to reshape customs rather than to restore ancient ones.
+
+The text can be repetitive and is not a pleasure in the way the *Zhuangzi* is a pleasure. That is part of its evidence: it is a policy book. Use a modern annotated translation and keep a historical timeline of Qin's rise nearby. Then ask what problem of the age this program thinks ritual monarchy cannot solve, and what kind of person it aims to produce. Comparison with the *Han Feizi* will show a shared family and a difference of emphasis (Shang Yang more on institutions and the people as a resource; Han Fei more on the ruler's techniques against ministers).
 
 ## Key ideas
 

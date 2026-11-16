@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Zeno of Citium](zeno-of-citium.md)
 
+
+![Engraving of the Greek philosopher Epictetus by Henri Bonnart. Caption reads: "Epictete estoit un philosophe de la Secte des Stoiciens qui fut beaucoup…](images/epictetus.jpg)
+
+*Engraving of the Greek philosopher Epictetus by Henri Bonnart. Caption reads: "Epictete estoit un philosophe de la Secte des Stoiciens qui fut beaucoup… Credit: Henri Bonnart. License: Public domain. Source: [File:Epictetus - Henri Bonnart engraving c. 1700.png](https://commons.wikimedia.org/wiki/File:Epictetus_-_Henri_Bonnart_engraving_c._1700.png).*
 ## Name and dates
 
 Epictetus (c. 50–135 CE) was born into slavery in Hierapolis (in today's Turkey), brought to Rome, and later freed. He studied Stoicism under Musonius Rufus, was expelled from Rome with other philosophers under Domitian, and taught at Nicopolis in Epirus. His own body, including a lame leg, is part of the tradition of his teaching: philosophy is training under conditions you did not choose. He wrote nothing for publication.

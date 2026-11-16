@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Republic*](republic.md)
 
+
+![Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens](images/laws.jpg)
+
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens Credit: Marie-Lan Nguyen. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Plato Silanion Musei Capitolini MC1377.jpg](https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg).*
 ## Dating and authorship
 
 Plato's last and longest work, almost certainly left not fully polished. Socrates is absent. Three old men — an unnamed Athenian, a Spartan, and a Cretan — walk toward the cave of Zeus and design a "second-best" city, Magnesia, in conversation. The absence of Socrates and the greater role of written law, religion, and mixed institutions mark a late political turn, or at least a different project from the *Republic*.
@@ -21,6 +25,13 @@ flowchart LR
   A["Dating and authorship"] --> O["*Laws*: outline"]
   O --> R["Themes and reception"]
 ```
+
+
+## How to read it
+
+The *Laws* is Plato's longest work, a late conversation among three old men designing a city (Magnesia) in which law, piety, and education do much of the work that the *Republic* had assigned to philosopher-rulers. It is a second-best city, and it says so. Read first the opening books on the purpose of law and on education and drink, then the more concrete constitutional and penal material as you can, and the famous theological passage in Book X (the case against atheism and for a soul that moves the heavens). Do not expect the literary sparkle of the *Symposium*; do expect a more institutional imagination.
+
+A first path need not master every statute. It should grasp how this work both continues and revises the *Republic*: law as the expression of reason, a mixed constitution, a heavier religious framework, less confidence that a few perfectly educated rulers will suffice. Aristotle's *Politics* is a natural next or companion reading. Use a complete translation and a commentary when the legal detail thickens. The *Laws* is also a document of Plato's late theology and should not be mined only for "Plato's practical politics."
 
 ## Key ideas
 

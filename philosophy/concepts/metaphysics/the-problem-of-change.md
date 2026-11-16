@@ -2,6 +2,10 @@
 
 **Prerequisites:** [*Arche* and first principles](arche-and-first-principles.md)
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/the-problem-of-change.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 Everyday life is full of change: a seed becomes a tree, a person grows old, fire consumes wood. The philosophical problem is not that change happens. It is how change is possible without contradiction, and how knowledge is possible if things will not stay put.
 
 Two pressures pull in opposite directions. If you emphasize flux, you get something like [Heraclitus](../../history/ancient/greek/thinkers/heraclitus.md): the world is process, a river you cannot step into twice. But then what do our words latch onto, and how is knowledge more than a snapshot of something already gone? If you emphasize stability, you get [Parmenides](../../history/ancient/greek/thinkers/parmenides.md): what-is is, and cannot not be; coming-to-be looks like a confusion that talks about what-is-not. [Zeno](../../history/ancient/greek/thinkers/zeno-of-elea.md) sharpens the second pressure into paradoxes of motion.
@@ -19,6 +23,15 @@ flowchart TD
   Prob --> AR["Aristotle: potentiality and actuality"]
   Prob --> AT["Atomists: rearrangement in the void"]
 ```
+
+
+## Working the idea
+
+The problem of change is the thread that makes early Greek metaphysics one inquiry rather than a list of quirks. If something changes, does what-is become what-is-not? If it does not, how is change real? Heraclitus (in the popular picture, and in some fragments more carefully) leans into flux and into a unity of opposites held by a *logos*. Parmenides denies the usual talk of coming-to-be. Zeno attacks plurality and motion with paradoxes that still teach people to define their terms. Later answers — atoms in the void, Plato's forms and a world of becoming, Aristotle's potentiality and actuality, four causes, and a continuum that is not composed of indivisible points — are all, in part, attempts to have a changing world without contradiction.
+
+A good way to work the problem is to pick a single ordinary change (a leaf yellows, a person walks from here to there, a child becomes an adult) and force each theory to describe it. What persists? What is new? Is time composed of instants? Is motion a series of rests? Is the yellow in the leaf a rearrangement of atoms, a participation in a form, or an actualization of a capacity in a living substance? If a theory cannot describe the case except by calling the change an illusion, that is a cost. If it describes it too easily, without hearing Parmenides or Zeno, that is another cost.
+
+Chinese texts are not silent about change, but they often frame it as seasonal, correlative, or as the turning of *dao* and of *yin* and *yang*, rather than as a crisis of being and not-being. The comparison is worth making only after the Greek problem is sharp. Otherwise "change" becomes a word that seems to link everything and explains nothing.
 
 ## Key ideas
 

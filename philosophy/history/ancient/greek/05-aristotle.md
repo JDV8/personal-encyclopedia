@@ -3,6 +3,10 @@
 **Prerequisites:** [Plato](04-plato.md)
 **Key ideas:** substances in a changing world; the four causes; potentiality and actuality; syllogistic logic; virtue as a mean acquired by habit; humans as political animals.
 
+
+![Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.](images/05-aristotle.jpg)
+
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition. Credit: After Lysippos. License: Public domain. Source: [File:Aristotle Altemps Inv8575.jpg](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg).*
 Aristotle (384–322 BCE) studied in Plato's Academy for about twenty years, tutored Alexander the Great, and founded the Lyceum in Athens. Where Plato wrote dialogues, Aristotle's surviving works are mainly lecture-style treatises, often dense and apparently compiled from teaching materials. He is the first great systematizer in the Greek tradition: logic, nature, the soul, ethics, politics, rhetoric, and poetics are all treated as parts of one intellectual project.
 
 ## Being, change, and the four causes
