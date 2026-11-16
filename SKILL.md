@@ -33,18 +33,24 @@ The repo location comes from memory or from the user. Typically it's a private r
    Overview files (a book, a thinker, a text) can use their own structure: name and meaning, dating and authorship (traditional vs scholarly), context, an outline, key passages or ideas, themes, connections and reception.
 11. Stay accurate and neutral. Where traditions or scholars disagree, present each view fairly. Never invent quotes, dates, citations or books.
 
-## D. Folder conventions (required in every folder)
-12. **The first file is `README.md` and it is a table of contents.** It gives a one-paragraph overview, a suggested reading order, and a complete linked list of every file and subfolder inside, with each subfolder's contents listed one level deep.
-13. **References.** End every folder's README with `## References & further reading`. Recommend only real, well-known books: primary sources with recommended translations, accessible introductions, and deeper scholarly works. Tag each as Beginner, Intermediate or Advanced, with a one-line reason. If you're unsure a book exists, leave it out.
-14. Keep the root `README.md` map current: the top-level branches and the newest additions.
+## D. Images and diagrams (every lesson)
+12. Give every lesson and overview file at least one relevant image. Use real public-domain or openly licensed images (Wikimedia Commons is the default source): artifacts, manuscripts, maps, artworks, photos, technical drawings.
+13. Download each image into an `images/` subfolder next to the lesson. Resize it to about 1200px wide at most and compress it. Check that each file really is an image and not an HTML error page.
+14. Embed it with a relative link, `![alt text](images/name.jpg)`, then add an italic caption line with the credit, the license and the source URL. Never invent an image source or license.
+15. For abstract ideas such as cycles, hierarchies, timelines, processes and comparisons, add a fenced `mermaid` diagram, either alongside a photo or instead of one.
 
-## E. Verify and publish
-15. Script a link check so that every relative markdown link resolves. Fix every broken link.
-16. Check that every folder has a README with a TOC listing all of its children, plus a references section.
-17. Commit in logical chunks, one per branch or section, with clear messages, and push to `main` as you go so progress isn't lost.
+## E. Folder conventions (required in every folder)
+16. **The first file is `README.md` and it is a table of contents.** It gives a one-paragraph overview, a suggested reading order, and a complete linked list of every file and subfolder inside, with each subfolder's contents listed one level deep. `images/` folders are exempt.
+17. **References.** End every folder's README with `## References & further reading`. Recommend only real, well-known books: primary sources with recommended translations, accessible introductions, and deeper scholarly works. Tag each as Beginner, Intermediate or Advanced, with a one-line reason. If you're unsure a book exists, leave it out.
+18. Keep the root `README.md` map current: the top-level branches and the newest additions. Keep a copy of this skill as `SKILL.md` at the repo root, linked from the README, and update it whenever the process changes.
 
-## F. Report to the user
-18. Send the repo link, a short tree of the new or changed branch (3 to 5 levels deep), the file and word counts, and one or two suggested next topics or expansions. Keep the message short: the repo is the deliverable, not the chat.
+## F. Verify and publish
+19. Script a link check so that every relative markdown link and image path resolves. Fix every broken one.
+20. Check that every folder has a README with a TOC listing all of its children, plus a references section, and that every lesson has an image or a diagram.
+21. Commit in logical chunks, one per branch or section, with clear messages, and push to `main` as you go so progress isn't lost.
+
+## G. Report to the user
+22. Send the repo link, a short tree of the new or changed branch (3 to 5 levels deep), the file, word and image counts, and one or two suggested next topics or expansions. Keep the message short: the repo is the deliverable, not the chat.
 
 ## Large requests
-For a big subject (for example a whole scripture or a whole tradition), work in passes. Do the skeleton and READMEs first, then the foundation lessons, then the per-item overviews, then the glossary and references, committing after each pass.
+For a big subject (for example a whole scripture or a whole tradition), work in passes. Do the skeleton and READMEs first, then the foundation lessons, then the per-item overviews, then the glossary and references, then images, committing after each pass.
