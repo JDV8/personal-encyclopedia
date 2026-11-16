@@ -27,6 +27,13 @@ The author does not hide the violence of the revolt, including campaigns against
 
 The last chapters, which honor Simon in almost royal language and then record his murder at a banquet, already contain the seed of later unease about the Hasmoneans. A family can be deliverers in one generation and a dynasty with ordinary political cruelties in the next. The book itself mostly praises; the history that followed (which Josephus and, later, the Roman conquest would tell) is the commentary no narrator here provides. Read to the end, and then go back to the New Testament's world of parties and memories that this independence helped to form.
 
+
+```mermaid
+flowchart LR
+  Crisis[Antiochus and the revolt] --> Judas[Judas]
+  Judas --> Dyn[The Hasmonean rise]
+```
+
 ## Themes and reception
 
 Themes include zeal for the law, temple, political independence, and the legitimacy of a new priestly-royal house. The book is scripture in Catholic and Orthodox canons. Jewish tradition kept Hanukkah but did not canonize 1 Maccabees; the rabbis had their own reasons to be ambivalent about later Hasmoneans. Protestant Bibles usually include the book, if at all, in an Apocrypha. For New Testament readers, it is essential background to [Second Temple Judaism](../new-testament/01-second-temple-judaism-and-rome.md): parties, temple politics, and the memory of a successful revolt.

@@ -28,6 +28,14 @@ Nicodemus and new birth, the Samaritan woman's living water, and Thomas's "my Lo
 
 Chapter 21, which many scholars read as an epilogue added to a book that could have ended at 20:31, does important pastoral work. Peter, who has denied Jesus, is restored with a threefold "do you love me?" and is told to feed the sheep, and then told by what death he will glorify God. The beloved disciple remains, and a rumor about his not dying is corrected. The last verses of the Gospel admit that the world itself could not contain all the books that might be written. John is therefore both a highly selective "spiritual Gospel" and a book that refuses to pretend it has said everything. Its purpose is not complete reportage. It is faith that Jesus is the Messiah, the Son of God, and life in his name.
 
+
+```mermaid
+flowchart TD
+  Prol[Prologue: the Word] --> Signs[Book of Signs]
+  Signs --> Glory[Book of Glory]
+  Glory --> App[Appearances]
+```
+
 ## Themes and reception
 
 Themes include incarnation, glory, truth, witness, remaining (abiding), the Spirit-Paraclete, love within the community, and a dualism of light and darkness that must be handled with care. John's Gospel has shaped Christian theology more than any other, from the creeds to modern debates about history and interpretation (the "spiritual Gospel," already so called in antiquity). It should be read both with the Synoptics and as itself.

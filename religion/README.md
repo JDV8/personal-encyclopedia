@@ -35,6 +35,9 @@ Judaism's own organization of the same (or overlapping) scriptures — the Tanak
 - [The Bible](abrahamic/christianity/bible/README.md)
 - Related philosophical background: [ancient philosophy](../philosophy/history/ancient/README.md), especially Greek *logos* and questions of ethics and political order
 
+
+The Bible branch now includes foundation lessons, Old and New Testament narrative paths, [book-by-book overviews](abrahamic/christianity/bible/old-testament/books/README.md) for all thirty-nine Old Testament and twenty-seven New Testament writings, a [deuterocanon](abrahamic/christianity/bible/deuterocanon/README.md) folder, story lessons, and a [glossary](abrahamic/christianity/bible/glossary/README.md).
+
 ## References & further reading
 
 - John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). A careful account of how the biblical library formed and has been read.

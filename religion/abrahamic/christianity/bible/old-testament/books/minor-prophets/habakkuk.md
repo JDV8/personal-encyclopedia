@@ -27,6 +27,13 @@ Chapter 3's resolve — joy in God when agriculture has failed — is not optimi
 
 The five woes of chapter 2 (against plunder, unjust gain, violence that builds a town, shaming of neighbors, and trust in an idol) widen the charge beyond Babylon alone. The oppressor becomes a type, and the silence of the temple at the end of the chapter is a worldwide silence, not a local ceasefire. That is why the book could be reused at Qumran and in the New Testament without being ripped entirely from its roots: it was already teaching a way to live when the vision is slow and the facts are ugly. Waiting, here, is an ethical stance, not a blank calendar.
 
+
+```mermaid
+flowchart TD
+  Complaint[The prophet's complaint] --> Wait[Watch and wait]
+  Wait --> Faith[The righteous shall live by faithfulness]
+```
+
 ## Themes and reception
 
 Themes include theodicy, imperial violence, waiting, faithfulness, and praise before the facts have turned. Paul and the Reformers made 2:4 central to justification debates. The Qumran pesher applied the book to its own enemies and teacher. Read it first as a late-monarchic conversation with God about history.

@@ -31,6 +31,13 @@ The daughters of Zelophehad (chapter 27, revisited in 36) win the right to inher
 
 Aaron's budding staff, the bronze serpent, Moses' exclusion from the land after striking the rock, and the zeal of Phinehas are further scenes that later tradition worked hard. Numbers is not a mere appendix of lists.
 
+
+```mermaid
+flowchart LR
+  Sinai[Census at Sinai] --> Wild[Wilderness generation]
+  Wild --> Plains[Plains of Moab]
+```
+
 ## Themes and reception
 
 Themes include census and order, holiness of the camp, complaint, leadership under pressure, divine judgment and provision, and the transfer of hope to a new generation. The wilderness becomes, in later scripture, a shorthand for testing and for God's unexpected care (and, in some prophets, for a honeymoon period of loyalty).

@@ -19,7 +19,7 @@ The process for adding or expanding a topic — first principles, where to nest 
 - **Nest by discipline.** Place a subject under the broader field it belongs to. Resist putting a proper name or a gadget at the root just because that was the prompt.
 - **Every folder has a `README.md`.** That file says what the folder is, lists prerequisites (with relative links), and gives an ordered reading path through the files inside it.
 - **Lessons are numbered.** Use names like `01-foundational-concepts.md`, `02-presocratics.md`. Numbers mark the suggested order, not a claim that the history was that tidy.
-- **Each lesson has the same spine:** a short **Prerequisites** line, a **Key ideas** list, the body, and a **Where this leads** section with relative links. Write enough to be useful (roughly 300–900 words). Do not pad.
+- **Each lesson has the same spine:** a short **Prerequisites** line, a **Key ideas** list, the body, and a **Where this leads** section with relative links. Write enough to be useful (roughly 500–1200 words for lessons). Do not pad. Overviews of books, thinkers, and texts may use their own structure.
 - **Cross-link with relative links.** When Greek ethics meets Confucian cultivation, or when a Gospel scene depends on an Exodus pattern, link it. Do not assume the reader is browsing in order.
 - **Be accurate and even-handed.** Where a traditional reading and a scholarly one differ, say so plainly and leave the disagreement visible. This is a study tool, not a brief for a side.
 
@@ -42,15 +42,18 @@ personal-encyclopedia/
     abrahamic/
       christianity/
         bible/
-          old-testament/
-          new-testament/
+          01–04 foundation lessons
+          old-testament/   story lessons, stories/, books/ (all 39)
+          new-testament/   survey lessons, stories/, books/ (all 27)
+          deuterocanon/    Catholic and common Orthodox extras
+          glossary/        228 entries (people, places, terms, themes)
 ```
 
 Start here:
 
 1. [Philosophy](philosophy/README.md) — what the discipline is, and the five branches that structure later questions.
 2. [Ancient philosophy](philosophy/history/ancient/README.md) — then either the [Greek](philosophy/history/ancient/greek/README.md) or [Chinese](philosophy/history/ancient/chinese/README.md) path, and the [comparison](philosophy/history/ancient/greek-and-chinese-compared.md) after both.
-3. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), before any particular story.
+3. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), its [book overviews](religion/abrahamic/christianity/bible/old-testament/books/README.md), and the [glossary](religion/abrahamic/christianity/bible/glossary/README.md).
 
 Future topics should be added as new branches of this tree (for example `engineering/mechanical/…`), not as loose files at the root.
 

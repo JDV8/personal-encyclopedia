@@ -25,6 +25,15 @@ Meanwhile the people, anxious, make a golden calf. Moses shatters the tablets, t
 
 Traditional Jewish and Christian teaching holds **Moses as the author** of these five books (with a small allowance, often, for the account of his death). This is the bedrock of "the Law of Moses." Historical-critical study generally sees the Pentateuch as a work that reached its present form much later, combining older traditions, including a Deuteronomic voice associated by many scholars with a seventh-century reform, and priestly material often dated to the exile or after — though debates about dating remain active. On the Exodus as a historical event, archaeology and Egyptology have not produced a consensus picture that simply confirms the biblical scale and date; some scholars argue for a smaller historical core, others for a founding myth of liberation shaped in later Israel. The story's force in Jewish and Christian memory does not wait on that consensus: a people is a people because they were brought out, and because they stand under a covenant given in the wilderness, before they ever held a king.
 
+
+```mermaid
+flowchart LR
+  Bondage[Bondage] --> Plagues[Plagues and Passover]
+  Plagues --> Sea[Sea crossing]
+  Sea --> Sinai[Sinai covenant]
+  Sinai --> Tent[Tabernacle]
+```
+
 ## Where this leads
 
 - Next: [Joshua and Judges](06-joshua-and-judges.md)

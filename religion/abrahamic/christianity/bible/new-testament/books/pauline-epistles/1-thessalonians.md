@@ -27,6 +27,13 @@ Paul's self-description in chapter 2 is a first-principles lesson in apostleship
 
 The letter also shows how quickly a Gentile mission had to invent a way of life. Sexual holiness, a "quiet" work, and love of the brothers and sisters are not afterthoughts to a sermon about the coming. They are how a converted household looks different from the city around it while it waits. That combination — intense hope and ordinary labor — is already the shape of Pauline ethics in this first surviving letter.
 
+
+```mermaid
+flowchart LR
+  Thanks[Thanksgiving] --> Holy[Holiness]
+  Holy --> Coming[The coming of the Lord]
+```
+
 ## Themes and reception
 
 The letter is short, affectionate, and already theologically dense: election, imitation, holiness, work, and the coming of the Lord are all here in pastoral form. It has been used to reconstruct the earliest Gentile mission and to fuel later debates about the rapture and the day of the Lord. Read it as a first surviving word to a young church, and then read [2 Thessalonians](2-thessalonians.md), which may be a follow-up or a later word in Paul's name about delay.

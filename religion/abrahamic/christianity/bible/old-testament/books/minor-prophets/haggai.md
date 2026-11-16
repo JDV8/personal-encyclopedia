@@ -27,6 +27,13 @@ The signet-ring word to Zerubbabel (2:23) is a careful, loaded image after Jerem
 
 Haggai is sometimes dismissed as less "spiritual" than prophets who attack the cult. The book is, in fact, a necessary correction to that taste. There are moments, after exile, when the holy work is not to critique a standing temple but to admit that the absence of the house has become normal. The priestly ruling in 2:10–19 is easy to skip; it is doing something precise, namely, showing that holiness is not contagious in the way defilement is, and that the people's labor will not automatically become blessing until the work is taken up. The prophet thinks in rituals and in harvests at once.
 
+
+```mermaid
+flowchart LR
+  Delay[The delayed temple] --> Build[Build now]
+  Build --> Signet[Zerubbabel as signet]
+```
+
 ## Themes and reception
 
 Themes include priorities, the temple as the center of a restored life, discouragement, priestly holiness, and a subdued but real Davidic hope. Ezra 5–6 is the narrative companion. Later Jewish and Christian readers have used Haggai for "rebuild the house" exhortation; the first task is to hear a specific moment in 520, when a small community had to decide whether the ruin in its midst was acceptable.

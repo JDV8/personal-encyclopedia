@@ -25,6 +25,14 @@ Jonah's psalm in chapter 2 sounds like a thanksgiving psalm and can be read as s
 
 The "three days and three nights" in the fish becomes, in Matthew and Luke, a sign of the [Son of Man](../../../glossary/son-of-man.md)'s burial and rising, and also, in Luke, a sign of Gentile repentance shaming unrepentant hearers. Those are receptions that the story can bear; they should not erase the Old Testament narrative's own ending.
 
+
+```mermaid
+flowchart TD
+  Flee[Jonah flees] --> Fish[The fish]
+  Fish --> Nineveh[Nineveh repents]
+  Nineveh --> Plant[The plant and the question]
+```
+
 ## Themes and reception
 
 Themes include flight from vocation, the piety of outsiders (sailors, Ninevites), repentance, the freedom of God to have pity, and the prophet's scandalized nationalism (or wounded justice). Jewish liturgy reads Jonah on Yom Kippur afternoon, a deep placing: it is a book about repentance and mercy. Christian reception has emphasized typology and mission. Literary readers have admired its irony. It is a short book that should be read slowly, all four chapters, including the question that is left open.

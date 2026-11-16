@@ -25,6 +25,15 @@ On the way back, Jacob wrestles at night with a mysterious "man," is wounded in 
 
 Traditional reading treats the patriarchs as historical founders. Scholarly estimates of their "historicity" vary widely; many historians treat these chapters as ancestral sagas, shaped over time, encoding later Israel's sense of itself (relations with Edom, Aram, Moab, Ammon, and Egypt are already in the family tree). The first-principles point does not require settling that debate. It requires seeing what the text is claiming: God has tied a promise to a particular, flawed family, by covenant, and the future of the nations is somehow bound to them.
 
+
+```mermaid
+flowchart TD
+  Abram[Abram called] --> Promise[Promise of land and seed]
+  Promise --> Isaac[Isaac, near-offering]
+  Isaac --> Jacob[Jacob / Israel]
+  Jacob --> Twelve[Twelve sons]
+```
+
 ## Where this leads
 
 - Next: [Joseph](04-joseph.md), which carries the family into Egypt

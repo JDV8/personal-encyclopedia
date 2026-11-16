@@ -24,6 +24,13 @@ Ezra's questions are as important as the answers: they belong with Job and with 
 
 Because of the Christian frame, printed editions can give a false impression that the whole is a church book. A first-principles reading isolates 4 Ezra first, then notes the later Christian envelope.
 
+
+```mermaid
+flowchart LR
+  Ezra[Ezra's dialogues] --> Visions[Visions of history]
+  Visions --> Comfort[Comfort after disaster]
+```
+
 ## Themes and reception
 
 Themes include theodicy, law, a remnant, messianic hope, empire, and the making of books. 4 Ezra is a cousin of 2 Baruch and of other post-70 apocalypses. It influenced later Christian thought (and was itself framed by Christians) while remaining, at its core, a Jewish argument with God after the temple's second fall. It is one of the most rewarding "extra" books a serious student of the Bible can read, whether or not it is in their canon.

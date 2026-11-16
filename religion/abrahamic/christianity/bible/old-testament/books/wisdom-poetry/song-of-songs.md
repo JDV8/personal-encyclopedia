@@ -28,6 +28,13 @@ The woman's voice is unusually prominent for ancient literature: she speaks firs
 
 The city watchmen who beat the woman in 5:7 are a dark note; the Song is not an unbroken idyll. Royal luxury and rural freedom sometimes seem to stand in tension, which is why dramatic readings have multiplied.
 
+
+```mermaid
+flowchart LR
+  Desire[Desire and search] --> Garden[Garden imagery]
+  Garden --> Close[Love as strong as death]
+```
+
 ## Themes and reception
 
 Themes include desire, mutuality, the senses, waiting, the public and private faces of love, and a celebration of bodies without a fall narrative attached. The book has generated an enormous commentary tradition: Jewish midrash and Targum, Origen, Bernard of Clairvaux's sermons, mystical readings in both traditions, and modern literary and feminist studies. Some religious communities have been nervous of the literal sense; some modern readers have been nervous of allegory. The canon holds a love song, and communities have had to grow up to it in more than one way.

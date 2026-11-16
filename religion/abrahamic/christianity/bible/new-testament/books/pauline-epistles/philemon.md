@@ -28,6 +28,12 @@ The letter is also a lesson in Christian persuasion: thanksgiving before the ask
 
 Colossians 4:9, which commends Onesimus as "the faithful and beloved brother, who is one of you," is the canonical companion to this note. If the two letters traveled together, the church in Philemon's house heard the personal appeal in public and also heard Onesimus named as a coworker. That is more than a private favor. It is a community being asked to recognize a new status that the law of the household did not yet know how to name.
 
+
+```mermaid
+flowchart LR
+  Appeal[An appeal for Onesimus] --> Brother[No longer a slave, a brother]
+```
+
 ## Themes and reception
 
 Themes include partnership, intercession, the transformation of a social relationship by the gospel, and the limits of what a short letter will say. Onesimus later appears in tradition as a bishop; that is reception, not a claim of the text. Read Philemon with Colossians, and with the household codes, as part of one early Christian conversation about existing social structures — a conversation the churches have had to continue, and in some centuries failed badly.

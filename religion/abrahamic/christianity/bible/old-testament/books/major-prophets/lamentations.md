@@ -26,6 +26,13 @@ The poetry refuses to choose between confession of sin and protest at the scale 
 
 Personification of the city as Daughter Zion is a major literary and theological device: the catastrophe is not only strategic but personal. The silence of chapter 2, where the speaker tells Zion to weep, and the almost unsparing images of chapter 4, belong to the truth-telling of lament.
 
+
+```mermaid
+flowchart TD
+  Zion[Zion sits alone] --> Acrostic[Acrostic laments]
+  Acrostic --> Hope[A hope in the middle of ruin]
+```
+
 ## Themes and reception
 
 Themes include grief, guilt, the hidden or hostile face of God, memory, and a hope that is more plea than possession. The book has taught Jewish and Christian communities how to remain with disaster without premature cheer. Christian Holy Week liturgies have sometimes used it; the primary living context remains Tisha B'Av. Literary study of the acrostics and of trauma has been especially fruitful. Historical reconstruction of 586 should be done, but not in place of praying the poems.

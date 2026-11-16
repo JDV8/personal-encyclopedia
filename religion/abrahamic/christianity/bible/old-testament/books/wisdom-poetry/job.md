@@ -31,6 +31,14 @@ Job's early "the Lord gave, and the Lord has taken away" (1:21) and "shall we re
 
 The Lord's speeches refuse the friends' calculus and also refuse to give Job the explanation the prologue has given the reader. God questions Job about the making and governing of the world, about rain on uninhabited land, about creatures that are not made for human use. The answer, if it is an answer, is about the scale and wildness of creation, not about Job's guilt. Job's final words include recantation or, in some readings, a more ironic concession; the Hebrew of 42:6 can be construed more than one way. The epilogue, in which Job prays for his friends and receives a doubled estate, has struck some readers as too neat and others as a necessary restoration of relationship. The book holds the tension.
 
+
+```mermaid
+flowchart TD
+  Prose[Prose frame] --> Talk[Poetic debate]
+  Talk --> Yhwh[YHWH from the whirlwind]
+  Yhwh --> End[The frame returns]
+```
+
 ## Themes and reception
 
 Themes include innocent suffering, the failure of retributive clichés, friendship as a moral test, the hiddenness of wisdom, and the possibility of encounter without explanation. The satan of the prologue should not be silently equated with later Christian or Jewish demonology, though later tradition did make that move.

@@ -31,6 +31,13 @@ Diotrephes has been variously identified as a proto-monarchical bishop, a schism
 
 The wish that Gaius "may be in good health, just as it is well with your soul" (v. 2) later became a convenient proof-text for some modern prosperity teaching. In the letter it is a courteous opening, not a theory of wealth. What the elder actually praises is not Gaius's prosperity but his open door. Demetrius, who is "well spoken of by everyone — and even by the truth itself," may be the bearer of the letter, another reminder that these notes traveled with people, not as detached tracts.
 
+
+```mermaid
+flowchart LR
+  Gaius[Gaius the host] --> Diot[Diotrephes]
+  Diot --> Dem[Demetrius]
+```
+
 ## Themes and reception
 
 Themes include hospitality, truth, local versus itinerant authority, and ambition. The letter is a small, sharp window on real names in a real conflict, and it should be allowed to stay small. Together with 2 John it balances the Johannine love command: love is not credulity, and it is not control.

@@ -26,6 +26,13 @@ The locusts are described with military poetry, which is why some readers hear a
 
 The book's reuse of earlier scripture is not a weakness. Joel 3 (English) echoes Isaiah's and Micah's language of plowshares and judgment, and the divine-name formula of Exodus 34 is quoted as a reason to repent now. A later prophet who lives inside the already-written word is still doing prophetic work: choosing, combining, and aiming those words at a present disaster. That is one reason a firm date is so hard to fix, and one reason the book traveled so easily into new settings, including a Pentecost sermon in Jerusalem centuries later.
 
+
+```mermaid
+flowchart LR
+  Locust[Locust plague] --> Day[The day of YHWH]
+  Day --> Spirit[The Spirit poured out]
+```
+
 ## Themes and reception
 
 Themes include catastrophe, repentance, liturgical response, the spirit, and the day of the Lord. Joel is a good first-principles example of a prophet who may be late and still be a genuine prophet: he lives in earlier scripture and speaks a new word. Pentecost is the New Testament's most famous use. Liturgical traditions of fasting and penitence have also lived here.

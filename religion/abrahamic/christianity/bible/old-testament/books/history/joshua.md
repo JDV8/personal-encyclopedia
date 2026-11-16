@@ -25,6 +25,14 @@ Jericho (chapter 6) is the iconic scene: walls, seven days, ram's horns, a city 
 
 The violence of herem cannot be softened away. Later Jewish and Christian readers have interpreted it typologically, morally, historically, or as a problem to be wrestled with. A first-principles reading should first hear what the book itself claims: the land is the Lord's to give, and the campaigns are narrated as an act of that giving, not as ordinary imperialism.
 
+
+```mermaid
+flowchart LR
+  Cross[Jordan crossing] --> Jericho[Jericho and campaigns]
+  Jericho --> Allot[Tribal allotment]
+  Allot --> Cov[Covenant at Shechem]
+```
+
 ## Themes and reception
 
 Themes include succession after Moses, the gift of the land, obedience and memory, and the incomplete character of "completion." The name Joshua/Jesus made typological reading almost inevitable in Christian tradition (a Joshua who brings the people into rest, as in [Hebrews](../../../new-testament/books/general-epistles/hebrews.md)). Jewish reading keeps the book among the Prophets and as the start of Israel's life in the land. Historical study tests the conquest model against settlement archaeology. All three belong in view.

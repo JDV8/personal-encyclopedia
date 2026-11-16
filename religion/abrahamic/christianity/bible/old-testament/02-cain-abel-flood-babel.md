@@ -27,6 +27,15 @@ The story is brief and dense. It has been read as a tale of pride, as a tale abo
 
 Genealogies in these chapters (the "table of nations" in Genesis 10, the line from Shem toward Terah) are doing work: they connect the universal story to a particular family. The next lesson leaves "humanity in general" and follows that family.
 
+
+```mermaid
+flowchart TD
+  Eden[East of Eden] --> Cain[Cain and Abel]
+  Cain --> Flood[Flood and rainbow]
+  Flood --> Babel[Babel and scattering]
+  Babel --> Abram[Call of Abram]
+```
+
 ## Where this leads
 
 - Next: [Abraham, Isaac, and Jacob](03-abraham-isaac-jacob.md)

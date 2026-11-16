@@ -25,6 +25,15 @@ The **temple** remains the center of sacrifice and pilgrimage. The **synagogue**
 
 This is the air the Gospels breathe: Torah and temple, Roman crosses, Galilee and Jerusalem, dispute about purity and sabbath, and a question hanging over the land — how long, and by what means, will God redeem Israel?
 
+
+```mermaid
+flowchart TD
+  Pers[Persian Yehud] --> Hell[Hellenistic kingdoms]
+  Hell --> Hasm[Hasmoneans]
+  Hasm --> Rome[Rome and the Herods]
+  Rome --> Parties[Pharisees, Sadducees, Essenes, others]
+```
+
 ## Where this leads
 
 - Next: [the four Gospels](02-the-four-gospels.md)

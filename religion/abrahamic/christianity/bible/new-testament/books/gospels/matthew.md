@@ -33,6 +33,13 @@ The Passion is marked by the cry from Psalm 22, the torn curtain, and the unique
 
 Matthew's Jesus is also a teacher of a church that must live after Easter among mixed loyalties. Chapter 18's community discourse (the lost sheep, reproof, binding and loosing, forgiveness "seventy-seven times") is as characteristic as the Sermon on the Mount. The eschatological parables of chapters 24–25 (the faithful servant, the bridesmaids, the talents, the sheep and the goats) tie judgment to ordinary faithfulness and to care for "the least of these." A teaching Gospel is not a softer Gospel. It is a Gospel that expects a people to be formed, and then held to account, in the time between resurrection and the coming of the Son of Man.
 
+
+```mermaid
+flowchart LR
+  Inf[Infancy] --> Disc[Five teaching blocks]
+  Disc --> Pass[Passion and commission]
+```
+
 ## Themes and reception
 
 Themes include fulfillment, Jesus as son of David and son of Abraham, righteousness, the kingdom of heaven, the church, and a mission that finally includes the nations. Matthew became the church's teaching Gospel par excellence. It is also, because of its sharp polemic (chapter 23), a text that requires moral care in teaching after the history of Christian anti-Judaism. Historical-critical work on sources (Mark, Q, M) helps explain its relationship to the other Synoptics without deciding, by itself, the question of truth.

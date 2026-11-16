@@ -30,6 +30,14 @@ The temple sermon (chapters 7 and 26) attacks trust in the temple as a talisman:
 
 The new covenant of 31:31–34 is one of the load-bearing texts of both later Judaism and the New Testament (the [Last Supper](../../../new-testament/stories/06-passion-week.md) and [Hebrews](../../../new-testament/books/general-epistles/hebrews.md) take it up). In Jeremiah it is a promise after judgment: the law internalized, knowledge of the Lord widespread, sins remembered no more. The confessions (for example 12, 15, 20) show a prophet who curses the day of his birth and feels the word as a fire in the bones. Prophecy here is not a calm career.
 
+
+```mermaid
+flowchart TD
+  Call[Call] --> Warn[Warnings to Judah]
+  Warn --> Fall[The fall]
+  Fall --> After[Afterlife in Egypt and hope]
+```
+
 ## Themes and reception
 
 Themes include the word as a burden, false versus true prophecy, the temple, political realism under empire, suffering, and hope on the far side of judgment. The book's textual history (Hebrew and Greek) is a first-principles lesson in how scripture was transmitted.

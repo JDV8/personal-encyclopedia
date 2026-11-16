@@ -25,6 +25,13 @@ The household code (5:21–6:9) begins, in many readings, at "be subject to one 
 
 The prayers in chapters 1 and 3 are as important as the arguments. The author wants the readers to have "the eyes of the heart" enlightened, to know a hope, an inheritance, and a power already at work in the raising of Christ. That is why the later ethical material can be so ordinary — speaking truth, putting away bitterness, making the most of the time. The letter does not think that a cosmic Christ makes daily speech unimportant. It thinks the opposite: the one who has filled all things now fills a people whose words and tables and households are the place the unity is proved or denied.
 
+
+```mermaid
+flowchart TD
+  Unity[One new humanity] --> Walk[Walk worthy]
+  Walk --> Armor[The armor of God]
+```
+
 ## Themes and reception
 
 Themes include election, grace, the church, unity, cosmic reconciliation, and a distinctive Christian walk. The letter has been central to ecclesiology and to discussions of predestination, marriage, and spiritual warfare (the armor of chapter 6). Whether written by Paul or by a student, it is one of the New Testament's most influential accounts of what the church is for.

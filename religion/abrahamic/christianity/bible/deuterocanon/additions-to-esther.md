@@ -31,6 +31,13 @@ When reading a Catholic Bible that interleaves these additions with the Hebrew s
 
 A practical warning: when a study Bible prints the additions as chapters 10–16 after the Hebrew ending, the narrative order is no longer chronological. When it interleaves them, the Hebrew silence is harder to hear. The best first exercise is to read the Masoretic story once, the additions once as a block, and only then a combined text, so that the work of the Greek editors stays visible.
 
+
+```mermaid
+flowchart LR
+  Prayers[Added prayers] --> Dream[Mordecai's dream]
+  Dream --> Edicts[Royal edicts spelled out]
+```
+
 ## Themes and reception
 
 Themes include named providence, prayer in political danger, and the interpretation of a story that had been more reserved. Jerome placed some of the additions at the end of Esther in the Vulgate, which is why older Catholic chapter numbers can be confusing. Protestant Bibles that include an Apocrypha usually print the additions as a block. The existence of two Esthers is one of the cleanest illustrations of how canon and textual tradition are not the same question.

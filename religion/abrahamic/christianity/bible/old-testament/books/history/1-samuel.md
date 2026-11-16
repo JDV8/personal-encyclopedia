@@ -26,6 +26,14 @@ David's anointing (chapter 16) and the Goliath story (chapter 17) establish a pa
 
 The arc of Saul is tragic in a nearly classical sense. He is genuinely chosen, genuinely gifted, and then genuinely rejected, without the narrator making him a simple villain. His first victory at Jabesh-gilead is clean; his later fear of the people, his rash oath, and his jealousy of David are written as a slow unmaking. David's early career is equally careful: the text can praise him and still show him among the Philistines, collecting wives, and leaving Amalekite raids in his wake. Readers who want a clean moral diagram will be frustrated. The book is interested in the Lord's freedom to choose, and in the human wreckage that can accompany that choice, long before the explicit promise of 2 Samuel 7.
 
+
+```mermaid
+flowchart LR
+  Hannah[Hannah and Samuel] --> Saul[Saul made king]
+  Saul --> David[David rises]
+  David --> Break[The break with Saul]
+```
+
 ## Themes and reception
 
 Themes include vocation, the ark and the presence of God, the ambiguity of monarchy, envy, loyalty, and the slow rise of the one who will receive the promise in [2 Samuel](2-samuel.md). The book is also a literary masterpiece of dialogue and irony.

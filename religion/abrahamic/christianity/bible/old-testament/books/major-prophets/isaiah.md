@@ -35,6 +35,13 @@ The Servant of 52:13–53:12, who suffers, is pierced, and bears the sins of man
 
 "Comfort" (40:1), the highway (40:3, taken up by the Gospels of John the Baptist), the ridicule of idols, Cyrus as *mashiach* (anointed) in 45:1, and "a house of prayer for all peoples" (56:7) are further load-bearing texts. The book's monotheism in the exilic chapters is not a new god but a newly explicit claim: besides the Lord there is no savior.
 
+
+```mermaid
+flowchart LR
+  A[1-39 Assyrian crisis] --> B[40-55 Comfort to exiles]
+  B --> C[56-66 After the return]
+```
+
 ## Themes and reception
 
 Themes include holiness, justice, trust versus political anxiety, remnant, messianic hope, monotheism, suffering and witness, and inclusion. Isaiah is quoted or echoed constantly in the New Testament. Jewish liturgy and later prophecy also live in its language. Historical-critical division of the book should not prevent a reader from hearing how 1–39's judgment and 40–66's comfort were meant to be read as one scroll of warning and hope.

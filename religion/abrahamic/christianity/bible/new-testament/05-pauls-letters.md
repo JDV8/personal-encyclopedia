@@ -25,6 +25,12 @@ Paul's **ethics** is eschatological: time is short; the community already lives 
 
 Acts gives you a narrative of Paul's roads. The letters give you his mind under pressure. Read them as letters, and as the first extended Christian theology we have.
 
+
+```mermaid
+flowchart TD
+  Undisputed["Undisputed: Rom, 1-2 Cor, Gal, Phil, 1 Thess, Phlm"] --> Disputed["Disputed / pastoral: Eph, Col, 2 Thess, 1-2 Tim, Titus"]
+```
+
 ## Where this leads
 
 - Next: [Revelation](06-revelation.md)

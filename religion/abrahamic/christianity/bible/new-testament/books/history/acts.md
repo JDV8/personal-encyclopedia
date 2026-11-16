@@ -27,6 +27,15 @@ The conversion of Cornelius (10–11) and the council of Jerusalem (15) are the 
 
 The speeches, which occupy a large fraction of the book, are not stenographic records in the modern sense, and ancient historians did not pretend that they were. They are the author's way of interpreting events: Peter's Pentecost sermon, Stephen's history of Israel, Peter's speech to Cornelius, James at the council, and Paul's defenses. Together they argue that the way of Jesus is the fulfillment of Israel's hope, not a novelty invented in Antioch, and that it can be explained to synagogue, Sanhedrin, philosopher, and Roman official. Whether every legal and nautical detail is precise is a matter of ongoing historical debate; the shipwreck of chapters 27–28 is unusually vivid and has often been judged to rest on close knowledge. The theological close is clearer than the biographical one: the gospel has reached the capital, and the last word is a preaching that is not shut up.
 
+
+```mermaid
+flowchart LR
+  Jer[Jerusalem] --> Sam[Judea and Samaria]
+  Sam --> Ant[Antioch]
+  Ant --> Aegean[Aegean journeys]
+  Aegean --> Rome[Rome]
+```
+
 ## Themes and reception
 
 Themes include the Holy Spirit, witness, the inclusion of the nations, the innocence of the apostles before Rome, prayer, and the unhindered word. Acts has been used as a church-growth manual, a defense of apostolic succession, a charter for pentecostal experience, and a historical source. All of those uses should be tested against the book's own shape. It does not tell everything (it is silent on most of the other apostles), and it is theologically driven. It remains the indispensable narrative of how a Jewish messianic movement became, without ceasing to argue from Moses and the prophets, a mission among the Gentiles.

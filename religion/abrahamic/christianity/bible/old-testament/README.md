@@ -37,6 +37,8 @@ For an overview of each of the thirty-nine books, in Christian order, see [books
 
 Closer looks at a few episodes are in the [story path](stories/README.md): the binding of Isaac, Elijah and Elisha, and the court tales of Daniel.
 
+Names, places, and terms used on this path are gathered in the [Bible glossary](../glossary/README.md). The [deuterocanonical writings](../deuterocanon/README.md) are a sibling folder for books in Catholic and Orthodox canons that Protestant Old Testaments omit.
+
 ## References & further reading
 
 - Robert Alter, *The Hebrew Bible: A Translation with Commentary* (Intermediate). Literary attention to the Hebrew narrative and poetry.

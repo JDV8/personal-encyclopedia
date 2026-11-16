@@ -33,6 +33,13 @@ The promise to Abraham in 12:1–3 (a people, a land, and blessing that reaches 
 
 Joseph's story is a long, nearly novelistic close: hidden identity, reunion, and a theological summary in 50:20, that what the brothers meant for harm God meant for good. The book ends with a coffin in Egypt, not with possession of the land. Promise is in force; fulfillment is not yet.
 
+
+```mermaid
+flowchart TD
+  P1[1-11 Primeval history] --> P2[12-36 Patriarchs]
+  P2 --> P3[37-50 Joseph]
+```
+
 ## Themes and reception
 
 Recurring themes include blessing and curse, brotherly rivalry, barrenness and unexpected birth, divine promise under threat, and the tension between human scheming and God's purpose. Genealogy is not decoration; it is how the book maps peoples and keeps the promise line visible.

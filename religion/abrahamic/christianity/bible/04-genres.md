@@ -31,6 +31,18 @@ A **letter** (epistle) is addressed to a situation: a church, a person, a cluste
 
 Once these kinds are in your ear, the stories can be retold without flattening them into a single type of writing.
 
+
+```mermaid
+flowchart TD
+  Nar[Narrative] --> Law[Law]
+  Nar --> Wis[Wisdom and psalm]
+  Nar --> Proph[Prophetic oracle]
+  Proph --> Apoc[Apocalyptic]
+  Gos[Gospel] --> Ep[Letter / epistle]
+  Gos --> Act[Acts]
+  Apoc --> Rev[Revelation]
+```
+
 ## Where this leads
 
 - Next: the narrative path, starting at the [Old Testament](old-testament/README.md)

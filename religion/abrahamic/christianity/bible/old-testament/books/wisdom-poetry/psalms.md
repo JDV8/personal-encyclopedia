@@ -32,6 +32,13 @@ Psalm 23 ("the Lord is my shepherd") and Psalm 51 (a plea for mercy, headed as D
 
 The collection teaches by juxtaposition: praise next to despair, private confession next to coronation liturgy, a curse next to "his mercy endures forever." To extract only the comforting psalms is to misread the book.
 
+
+```mermaid
+flowchart LR
+  B1[Books 1-2] --> B3[Books 3-4]
+  B3 --> B5[Book 5 and hallelujah close]
+```
+
 ## Themes and reception
 
 Themes include the character of God (refuge, judge, shepherd, king), the reality of enemies, the goodness and difficulty of Torah, Zion as the place of the Lord's presence, and the movement from complaint to praise. Hebrew parallelism is the basic poetic engine; good translations try to keep it visible.

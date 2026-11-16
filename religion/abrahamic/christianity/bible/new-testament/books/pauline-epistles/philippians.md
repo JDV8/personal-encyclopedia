@@ -29,6 +29,13 @@ The gift in chapter 4 is handled with a delicacy that says a great deal about an
 
  Even the opening greeting, with its unusual mention of overseers and deacons, hints at a church already organized enough to send a gift and to need a word about shared mind rather than about first principles of the gospel itself.
 
+
+```mermaid
+flowchart LR
+  Joy[Joy in prison] --> Hymn[The Christ hymn]
+  Hymn --> Press[Pressing on]
+```
+
 ## Themes and reception
 
 Themes include joy, partnership, humility, the mind of Christ, and contentment in plenty and in want. The letter has been a favorite for Christian spirituality and for Christology. Historical questions about the prison and about a possible hymn behind 2:6–11 are real; they do not reduce the text's force.

@@ -26,6 +26,13 @@ The work command in chapter 3 has had a social afterlife far beyond its occasion
 
 The greeting and closing, which mention a signature in Paul's own hand, belong to the authorship debate: they can be taken as the apostle's mark, or as the kind of authenticating note a later writer might add in a world of forged letters (see 2:2). Either way, the community is being taught to test claims made "in the Spirit" against a remembered tradition. That itself is a first-principles lesson for later churches tempted by confident announcements of the end.
 
+
+```mermaid
+flowchart LR
+  Persec[Persecution] --> Man[The man of lawlessness]
+  Man --> Work[Stay at work]
+```
+
 ## Themes and reception
 
 Themes include justice at the Lord's coming, resistance to eschatological panic, tradition, and disciplined daily life. The letter has been a quarry for antichrist speculation and for work ethic preaching. It is shorter and harder than 1 Thessalonians, and it should be read as a conversation with that letter, whether by Paul or by a later Pauline teacher trying to keep hope from dissolving into rumor or idleness.

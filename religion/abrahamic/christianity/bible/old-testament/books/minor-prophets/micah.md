@@ -26,6 +26,13 @@ The temple-judgment word (3:12) is shockingly concrete: the holy mountain can be
 
 Micah's village voice matters. He names towns in the Shephelah in a chain of wordplays in chapter 1, as if the disaster were already walking from door to door. The urban elites of Jerusalem are not allowed to think of judgment as something that happens to Samaria or to someone else's fields. That is why the book can hold both the plowed Zion of 3:12 and the magnet-mountain of 4:1 without simply canceling either image. A people can be judged in its holy place and still be promised that nations will one day stream to that same place to learn a different way of settling disputes.
 
+
+```mermaid
+flowchart LR
+  Judge[Judgment] --> Bethlehem[A ruler from Bethlehem]
+  Bethlehem --> Require[What the Lord requires]
+```
+
 ## Themes and reception
 
 Themes include rural protest against elite injustice, the vulnerability of Zion, messianic hope from a small town, and a religion summarized as justice, loyalty, and humility. Micah has been a staple of both Jewish ethical teaching and Christian Advent reading. Historical study uses him alongside Isaiah for eighth-century Judah. Read the judgment and the hope as one book.

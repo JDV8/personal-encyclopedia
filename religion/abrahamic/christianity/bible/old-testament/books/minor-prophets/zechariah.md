@@ -23,6 +23,13 @@ The first part shares Haggai's world: a small Yehud, a temple going up, Joshua t
 
 The Branch (3:8; 6:12), already a Davidic image in Jeremiah and Isaiah, is here tied to temple building and to a priestly crowning that has generated much interpretation (one figure or two? priest and king together?). 9:9, the humble king on a donkey, is enacted in the [Gospels](../../../new-testament/books/gospels/README.md) at Jesus' entry into Jerusalem. 11:12–13, the thirty pieces of silver thrown to the potter (or into the temple treasury, in Matthew's reading), is taken up in the Passion story of Judas. 12:10 and 13:7 are likewise woven into New Testament Passion and mourning language. These receptions are central to Christian reading and should be taught as reception, with the Old Testament context kept first: a post-exilic and later Jewish hope for the Lord's reign and for a cleansed people.
 
+
+```mermaid
+flowchart TD
+  Night[Night visions] --> Joshua[Joshua and Zerubbabel]
+  Joshua --> Later[Later oracles of a coming king]
+```
+
 ## Themes and reception
 
 Themes include return, temple, visions, priest and branch, a humble king, a stricken shepherd, and the Lord's universal rule. The book is dense and sometimes obscure (already in antiquity). It is also indispensable for Gospel readers. Jewish messianic interpretation has its own history with these chapters. Historical-critical division of 1–8 and 9–14 helps explain the texture; it should not prevent reading the scroll as the community received it.

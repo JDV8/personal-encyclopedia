@@ -26,6 +26,13 @@ The mention of Cush in the genealogy and in the oracles has generated discussion
 
 The geography of chapter 2 is a map of humility. Philistia on the west, Moab and Ammon on the east, Cush in the far south, and Assyria in the north are all brought into the same "day." Judah is not the spectator of other people's judgment; it is named first. The remnant hope is therefore not a national boast. It is "a people humble and lowly" who take refuge in the Lord's name (3:12). When the closing song says that the Lord will exult over Zion with loud singing, the singer has already been through that narrowing. Joy is the last word, not the first.
 
+
+```mermaid
+flowchart LR
+  Day[The coming day] --> Remnant[A remnant]
+  Remnant --> Sing[Zion sings]
+```
+
 ## Themes and reception
 
 Themes include the day of the Lord, complacency, humility, a remnant, the nations, and divine joy. Christian Advent and later apocalyptic imagination have used Zephaniah's day; Jewish reading keeps it among the Twelve as a Josiah-era word with a Zion ending. Historical study ties it to the religious politics of the late seventh century, the same world as the early Deuteronomic reform.

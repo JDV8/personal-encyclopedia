@@ -28,6 +28,13 @@ The opening line already names "Jesus Christ, the Son of God" (in most manuscrip
 
 Mark's style is part of its theology. Sentences pile up with "and" and "immediately"; scenes cut quickly; emotions are raw (Jesus is angry, moved with pity, or distressed). This is not primitiveness. It is a way of making the reader feel the press of the kingdom and the approach of the cross. The two-stage healing of the blind man at Bethsaida (8:22–26), just before Peter's half-seeing confession, is a narrative clue: sight comes in stages, and even insiders may see people "like trees walking." The Gentile spaces of the book (the Decapolis, the Syrophoenician woman, the centurion) quietly widen the field of mercy before any formal mission charge is given. Mark has no Great Commission in the earliest ending; it has a promise that the risen one goes ahead, and a dare to follow him to Galilee.
 
+
+```mermaid
+flowchart TD
+  Gal[Galilee: power and secret] --> Road[The road to Jerusalem]
+  Road --> Pass[Passion, empty tomb]
+```
+
 ## Themes and reception
 
 Themes include secrecy and revelation, the cost of discipleship, the failure of insiders, the power of Jesus over chaos and demons, and a Messiah who is recognized in suffering. Mark was relatively neglected in liturgy compared with Matthew and John, then rediscovered in modern criticism as a theological narrative, not a crude first draft. The Synoptic Problem (Markan priority versus other solutions, including a minority who still prefer Matthean priority) belongs in any serious introduction.

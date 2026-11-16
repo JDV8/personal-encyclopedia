@@ -27,6 +27,13 @@ Chapter 5 shows Nehemiah confronting Judahite nobles who were exacting interest 
 
 The memoir's prayers are part of its politics. Nehemiah constantly interrupts the narrative to ask God to remember him, or to remember his opponents, which can sound unsaintly and is historically precious: we hear a governor interpreting his own work as service that should be counted. The wall dedication (chapter 12) with two thanksgiving choirs marching in opposite directions on the wall is the memoir's liturgical climax. It also makes a point the lists have been making all along: priests, Levites, and lay families have to live in the city, not only visit it, if Jerusalem is to be more than a shrine in ruins. Restoration, in this book, is demographic and economic as well as religious.
 
+
+```mermaid
+flowchart LR
+  Wall[The wall rebuilt] --> Reform[Community reform]
+  Reform --> Law[The law read]
+```
+
 ## Themes and reception
 
 Themes include leadership, prayer, opposition, the wall as a sign of restored peoplehood, Torah reading, and social justice inside the community. The book has been a favorite of practical leadership literature, sometimes at the cost of its harder ethnic and religious boundaries. Historical study uses it as a prime source for mid-fifth-century Yehud, alongside what is known of the Persian western provinces. Read it with Ezra, and with the post-exilic prophets, as one conversation about what the restored community should be.

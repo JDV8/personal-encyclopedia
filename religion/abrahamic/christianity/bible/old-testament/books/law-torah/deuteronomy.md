@@ -30,6 +30,14 @@ Chapter 12 commands the centralization of sacrifice at "the place the Lord will 
 
 Moses' death in chapter 34 is deliberately unfinished business. He sees the land and does not enter it. The closing lines say there has not since arisen a prophet in Israel like Moses, whom the Lord knew face to face. Later Jewish and Christian hopes for a prophet like Moses (18:15–18) start here.
 
+
+```mermaid
+flowchart TD
+  Sermons[Moses' speeches] --> Law[The law restated]
+  Law --> Choice[Blessing and curse]
+  Choice --> Succ[Joshua as successor]
+```
+
 ## Themes and reception
 
 Themes include covenant loyalty (*hesed* and love as allegiance), memory versus forgetting, centralized worship, law as teaching (*torah*), social protection for the poor, the widow, the orphan, and the stranger, and the land as contingent gift. The book's style is recognizable: repetitive, hortatory, "today," "with all your heart."

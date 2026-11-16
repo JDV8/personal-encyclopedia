@@ -27,6 +27,13 @@ The book is frank about Judith's use of beauty and of lying. Later Jewish and Ch
 
 The book's patriotism is not naïve about danger. The men of Bethulia are ready to surrender on a schedule; Judith will not bargain with the timetable of heaven. That conflict, between official caution and a woman's initiative, is as important as the beheading itself. After the victory she refuses marriage and lives to a great age, which is the narrator's way of saying that the story was never a romance of Holofernes, only a brief, terrible use of his desire.
 
+
+```mermaid
+flowchart TD
+  Siege[A siege of Bethulia] --> Judith[Judith's plan]
+  Judith --> Head[Holofernes falls]
+```
+
 ## Themes and reception
 
 Themes include trust versus putting God to the test, the unexpected deliverer, sexual danger and self-control, and the shame of an empire. The book is scripture in Catholic and Orthodox canons. It has had an enormous afterlife in art (Donatello, Caravaggio, Artemisia Gentileschi) and in later political allegory. Historically, it belongs with other Second Temple stories in which a woman saves the people (Esther, and, in a different key, Susanna).

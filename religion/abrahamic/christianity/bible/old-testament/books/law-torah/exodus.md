@@ -34,6 +34,13 @@ The Passover (chapter 12) becomes a permanent rite: a lamb, unleavened bread, a 
 
 The Decalogue (chapter 20, with a close parallel in Deuteronomy 5) and the Covenant Code (21–23) are Israel's first large legal collections in narrative sequence. Law here is not a later appendix to religion; it is how a delivered people lives with the God who delivered them. The golden calf episode shows how quickly worship can be turned into a controllable image, and how covenant can be broken and, at Moses' pleading, restored. The book ends not with the land but with a mobile sanctuary: God dwells in the midst of a traveling people.
 
+
+```mermaid
+flowchart LR
+  A[1-18 Deliverance] --> B[19-24 Covenant]
+  B --> C[25-40 Tabernacle]
+```
+
 ## Themes and reception
 
 Major themes include oppression and release, the name and character of God, covenant, law, presence, and the danger of idolatry. Pharaoh is a political and theological figure: a hard heart, a claim to power that will not acknowledge the Lord.

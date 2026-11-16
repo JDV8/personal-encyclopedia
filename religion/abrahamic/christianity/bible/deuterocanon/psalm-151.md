@@ -27,6 +27,12 @@ The line about being "outside the number" is already a canonical comment in the 
 
 For a student of the Psalter, the main point is not to inflate a short poem. It is to notice that "150 psalms" is a decision, a beautiful and early one, and not the only way Jewish tradition remembered David as a poet.
 
+
+```mermaid
+flowchart LR
+  Shepherd[The shepherd-youngest] --> Goliath[Victory over Goliath]
+```
+
 ## Themes and reception
 
 Themes include election of the youngest, anointing, and victory. The Orthodox liturgy and Psalter keep the poem; Western Bibles generally print it, if at all, in an appendix or in notes on the Dead Sea Scrolls. The Qumran discovery made it newly important for scholarly work on the shape of the Psalter. Read it after 1 Samuel 16–17 and after a walk through the five books of Psalms, as a small reminder that collections have edges, and that edges sometimes still sing.

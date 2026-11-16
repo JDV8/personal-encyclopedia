@@ -31,6 +31,14 @@ The passages on women in worship (11:2–16; 14:34–35) and on sexuality are am
 
 The collection of chapter 16, easy to treat as housekeeping, is in fact part of the letter's theology of the body. The Gentile churches are to remember "the saints" in Jerusalem with money, not only with doctrine. That project will dominate [2 Corinthians](2-corinthians.md) 8–9 and will take Paul, in Acts, toward a dangerous appointment in the city. A church divided by status at the Lord's table is being asked to become, across the empire, a single economy of gift. The closing "Maranatha" and the grace of the Lord Jesus belong with that horizon: this community is not a local club. It waits for a coming, and it already owes itself to others.
 
+
+```mermaid
+flowchart LR
+  Div[Divisions] --> Body[Body, sex, worship]
+  Body --> Love[Love]
+  Love --> Rise[Resurrection]
+```
+
 ## Themes and reception
 
 Themes include the cross, unity, the body, holiness, love, and resurrection. The letter is a primary source for early Christian worship, social life, and conflict. It has been used for church order, for charismatic renewal, and for moral discipline, sometimes wisely and sometimes as a blunt instrument. Read it as a conversation with one ancient city church, not as a manual dropped from the sky.

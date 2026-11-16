@@ -29,6 +29,13 @@ Chapters 17–21 are among the darkest in the Bible. They are not a children's c
 
 The book's structure is itself an argument. The early judges are treated more briefly and, in some cases, more cleanly (Othniel is almost a type of the "good" deliverer). As the cycle repeats, the heroes become more compromised, and the stories lengthen into moral ambiguity. Abimelech is not a deliverer at all but a king-like killer of his brothers, an inner-Israelite version of the violence the book otherwise attributes to foreign oppression. By the time of Samson, the judge barely knows he is a judge; he is driven by appetite and grievance, and his victories are personal before they are national. The final chapters then drop the judge-cycle altogether. That downward literary slope is how the book teaches, not just what it reports.
 
+
+```mermaid
+flowchart TD
+  Cycle[Apostasy → oppression → cry → judge] --> Repeat[The cycle repeats]
+  Repeat --> End[In those days no king]
+```
+
 ## Themes and reception
 
 Themes include the cycle of apostasy and deliverance, the Spirit of the Lord rushing upon unlikely figures, the incomplete conquest, gendered violence, and the question of political order. Later readers have moralized the heroes, feminist and literary critics have attended to the women of the book (Deborah, Jael, Jephthah's daughter, Delilah, the Levite's concubine), and historians have used it, cautiously, as a window on pre-monarchic Israel. The book resists simple hero-worship.

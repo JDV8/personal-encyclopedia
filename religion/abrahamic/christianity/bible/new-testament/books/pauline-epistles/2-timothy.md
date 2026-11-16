@@ -27,6 +27,13 @@ The atmosphere of chapter 4 — a desertion, a finished course, a request for a 
 
 The named people in chapter 4 make the letter feel like a doorway into a real network: some have gone to other cities, some have failed the prisoner, one cloak is still at Troas. Even if a later author constructed this scene, it is constructed out of the memory of a missionary life that was itinerant, dependent, and unfinished in the world's terms. The "heavenly kingdom" is the last horizon; the books and the parchments are the last errand.
 
+
+```mermaid
+flowchart LR
+  Fan[Fan the gift] --> Script[Scripture and teaching]
+  Script --> Finish[The finished course]
+```
+
 ## Themes and reception
 
 Themes include courage, sound teaching, scripture, endurance, and a good death (or a good imprisonment). The letter is often read at ordinations and at funerals. The authorship debate remains; the pastoral voice is unmistakable.

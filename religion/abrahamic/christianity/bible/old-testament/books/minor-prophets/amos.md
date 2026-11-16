@@ -26,6 +26,13 @@ The closing promise (9:11–15) of a rebuilt Davidic booth, a people planted on 
 
 The Amaziah scene (7:10–17) is a first-principles lesson in the conflict between prophet and institution. The priest of Bethel tells Amos to flee south and earn his bread there; Amos answers that he was taken from the flock and that Amaziah's own household will bear the coming judgment. The book therefore does not only announce justice for the poor. It also shows what it costs to announce it in a royal sanctuary. The lion has roared; the prophet does not have the option of silence (3:8). That constraint, not professional zeal, is his authority.
 
+
+```mermaid
+flowchart TD
+  Nations[Oracles on the nations] --> Israel[Oracle on Israel]
+  Israel --> Justice[Justice at the gate]
+```
+
 ## Themes and reception
 
 Themes include justice (*mishpat*) and righteousness, the danger of liturgy without ethics, the Lord's sovereignty over other nations, and a day of the Lord that is not automatically comfort. Amos has been especially important for modern social ethics, Jewish and Christian. Historical study uses him as a window on eighth-century Israel. He should not be reduced to a social reformer; the book is theology about the Lord of Zion who roars from Jerusalem.

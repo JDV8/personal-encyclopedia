@@ -27,6 +27,13 @@ Proverbs 1:7 and 9:10 state the thesis: the fear of the Lord is the beginning of
 
 The two-line sayings teach by comparison, not by exception. They are observations about ordinary patterns (hard work tends toward life; loose talk wrecks a house), not iron laws, which is why [Job](job.md) can protest when the pattern fails without thereby "disproving" Proverbs. The book is also socially pointed: bribes, false weights, mockery of the poor, and lazy privilege are not small faults. The "capable woman" of 31:10–31 is a household economist, trader, and benefactor, not a decorative afterthought; she is wisdom in civic and domestic form.
 
+
+```mermaid
+flowchart TD
+  Prol[Prologue: fear of YHWH] --> Coll[Collections]
+  Coll --> Woman[Woman Wisdom and the capable woman]
+```
+
 ## Themes and reception
 
 Themes include the fear of the Lord, speech, work, sex and marriage, justice in trade, the formation of character, and Wisdom as a cosmic and personal invitation. The book's confidence that the world is morally readable is its gift and, in the company of Job and Ecclesiastes, its limit.

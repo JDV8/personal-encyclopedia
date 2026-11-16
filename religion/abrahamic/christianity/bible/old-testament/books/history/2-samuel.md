@@ -30,6 +30,14 @@ The appendix is not an afterthought. The census and the purchase of Araunah's th
 
 The political map matters. David first rules only Judah at Hebron for seven years, while Ish-bosheth, Saul's son, is propped up in the north by Abner. The civil war, Abner's defection, and the murders of Abner and Ish-bosheth (which David ostentatiously mourns) are the messy path to a united throne. Jerusalem, a Jebusite city, becomes a capital not identified with a single tribe — a political stroke as well as a theological one when the ark arrives. The later revolt of Sheba son of Bichri ("we have no portion in David") shows that the north–south fault line of 1 Kings 12 is already cracking here. The promise of chapter 7 does not erase the kingdom's fragility; it is spoken over it.
 
+
+```mermaid
+flowchart TD
+  King[David at Hebron and Jerusalem] --> Prom[Promise of a house]
+  Prom --> Sin[Bathsheba and aftermath]
+  Sin --> Succ[Struggle over succession]
+```
+
 ## Themes and reception
 
 Themes include covenant promise, the holiness of the ark, royal justice and royal crime, succession, and the cost of power. The book has been a school for political realism in both religious and secular reading (from rabbinic midrash to modern novels and political theory).

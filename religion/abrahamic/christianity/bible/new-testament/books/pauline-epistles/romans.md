@@ -30,6 +30,14 @@ Chapters 9–11 must not be skipped. They are not an appendix. Paul's grief for 
 
 The ethical section begins not with rules but with "therefore" and the mercies of God (12:1). The weak and the strong in chapters 14–15 (food, holy days) are a practical test of that theology in a mixed church.
 
+
+```mermaid
+flowchart TD
+  Human[The human plight] --> Just[Justification by faith]
+  Just --> Israel[Israel and the nations]
+  Israel --> Life[The renewed life]
+```
+
 ## Themes and reception
 
 Themes include gospel, righteousness, faith, grace, the law, Adam and Christ, the Spirit, Israel, and a life of embodied worship. Romans has been the most argued-over letter in Christian history: Augustine, Luther, Wesley, Barth, and the New Perspective all found a center of gravity here, not always the same center. Jewish readers have had their own reasons to contest later Christian uses of the letter. Read it as a first-century argument before making it a system.

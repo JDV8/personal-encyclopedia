@@ -33,6 +33,19 @@ Traditional accounts often emphasize apostolic origin and divine guidance in the
 
 The practical lesson is simple: when someone says "the Bible says," ask *which Bible*, and remember that order and inclusion already steer interpretation.
 
+
+```mermaid
+flowchart LR
+  subgraph Tanakh
+    T[Torah] --> N[Nevi'im] --> K[Ketuvim]
+  end
+  subgraph ChristianOT["Christian Old Testament"]
+    Law[Law] --> Hist[History] --> Wis[Wisdom] --> Proph[Prophets]
+  end
+  Tanakh -.->|"same books, different shape"| ChristianOT
+  Prot["Protestant: 39"] --- Cath["Catholic: 46"] --- Orth["Orthodox: 46 + extras"]
+```
+
 ## Where this leads
 
 - Next: [Languages, dating, and composition](03-languages-dating-and-composition.md)

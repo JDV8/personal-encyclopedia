@@ -30,6 +30,13 @@ The last chapter is stripped and grim: famine, the king's flight, the temple bur
 
 Two reformations structure the Judah narrative and also show the book's severity. Hezekiah trusts the Lord in the Assyrian crisis (Sennacherib's invasion, reported also in Isaiah 36–37 and in Sennacherib's own inscriptions, which boast of shutting Hezekiah in Jerusalem "like a bird in a cage" but do not claim the city's capture). Josiah's reform is still more thorough, and yet it cannot cancel the announced judgment. The book refuses cheap optimism: even the best kings cannot unwind a history of covenant breach at will. That severity is why the last lines about Jehoiachin's allowance in Babylon have been read so carefully — as a faint Davidic ember, or as merely a historical footnote. The narrator does not explain them.
 
+
+```mermaid
+flowchart LR
+  Elisha[Elisha] --> FallN[Fall of Samaria]
+  FallN --> FallS[Fall of Jerusalem]
+```
+
 ## Themes and reception
 
 Themes include prophetic succession, imperial power, reform and its limits, the theology of exile, and the fate of the Davidic house. The book trained later generations to read disaster as covenant lawsuit, not as the Lord's defeat.

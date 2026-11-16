@@ -25,6 +25,13 @@ The Prayer of Azariah is an important exilic (or typologically exilic) confessio
 
 Together these additions show that the Daniel tradition kept growing in Greek-speaking and Hebrew-speaking Judaism. They should be read as a cycle, not as random extras.
 
+
+```mermaid
+flowchart TD
+  Song[Song of the Three] --> Susan[Susanna]
+  Susan --> Bel[Bel and the Dragon]
+```
+
 ## Themes and reception
 
 Themes include confession in danger, cosmic praise, sexual slander and vindication, and the unmasking of idols. Catholic and Orthodox canons include them; the Protestant Apocrypha usually prints them; the Jewish canon does not, though Susanna and the furnace stories were not forgotten in later telling. A first-principles study of Daniel is incomplete without knowing what the Greek book also contains, even if one's own community does not call it scripture.

@@ -29,6 +29,14 @@ The closing genealogy (4:18–22) ties the story to Perez (and so to Genesis' Ju
 
 The legal and social texture is unusually precise for so short a tale. Gleaning is not charity invented for the plot; it is the Torah's provision (Leviticus 19; Deuteronomy 24) made visible in a field. Boaz's instructions to his workers, the public negotiation with the nearer kinsman, and the blessing of the elders at the gate all show a community whose ordinary procedures still work — the opposite of Gibeah in Judges 19. The nearer kinsman's refusal, because redeeming the land would jeopardize his own inheritance, keeps the cost of hesed in view. Loyalty here is not costless feeling. It is public, legal, and expensive, and the book honors it.
 
+
+```mermaid
+flowchart LR
+  Moab[Moab and return] --> Glean[Gleaning]
+  Glean --> Goel[Redeemer]
+  Goel --> David[David's line]
+```
+
 ## Themes and reception
 
 Themes include hesed (loyal kindness) practiced by a foreigner and by a Bethlehem landowner, the vulnerability of widows, the Torah's harvest provisions actually being used, and the unexpected means by which David's line arrives. The book is a deliberate contrast to the chaos at the end of Judges: here there is no king yet, but there is integrity in a small town.

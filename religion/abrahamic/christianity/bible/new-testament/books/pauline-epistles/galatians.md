@@ -28,6 +28,13 @@ Paul's autobiographical chapters are doing theology, not padding a résumé. If 
 
  The closing autograph in large letters (6:11) and the scarred body of the apostle (6:17) are the letter's last evidence: this gospel has already cost him something, and he will not trade it for a quieter life in someone else's good opinion.
 
+
+```mermaid
+flowchart LR
+  Def[Paul defends his gospel] --> Faith[Faith, not works of law]
+  Faith --> Spirit[Life in the Spirit]
+```
+
 ## Themes and reception
 
 Themes include gospel, apostleship, justification, Abraham, law and promise, freedom, and the Spirit. Galatians was a favorite of Luther and of every later movement that has feared a return to "works." The New Perspective has again asked what "works of the law" were (boundary markers such as circumcision, or meritorious good works, or both). Read the letter in its mid-first-century crisis, then listen to the later uses.

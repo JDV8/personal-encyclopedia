@@ -27,6 +27,13 @@ The qualification lists in chapter 3 are a window on an emerging office structur
 
 The letter's concern for public reputation — a bishop must be "well thought of by outsiders" — shows a church no longer only on the move. It has a household to keep, a table, a list of widows, and a stake in civic peace. Whether one laments that settling or honors it, the Pastorals are indispensable evidence that the movement had to become an institution without, in its own mind, losing the gospel of mercy at its center.
 
+
+```mermaid
+flowchart TD
+  Charge[A charge to Timothy] --> Order[Order in the household of God]
+  Order --> Fight[Fight the good fight]
+```
+
 ## Themes and reception
 
 Themes include sound teaching, church order, the household of God, and the dangers of controversy and wealth. The Pastorals have been central to later Catholic, Orthodox, and Protestant debates about ministry and, more recently, about gender. Whether or not Paul wrote them, they show what a second (or late first) generation thought a Pauline church should look like as it settled in the world.

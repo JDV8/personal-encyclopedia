@@ -25,6 +25,13 @@ The Twelve add, among other things, Jonah's comic-serious mission to Nineveh (a 
 
 Prophetic books rarely offer only doom or only consolation. The pattern is often: accusation, warning, sometimes a historical blow, then a promise that goes beyond the blow — a remnant, a restored Davidic shoot, a pilgrimage of nations, a new heart. Christians have read many of these hopes as fulfilled in Jesus. Jewish reading has generally kept them attached to Israel's ongoing life and to a still-future redemption. The texts themselves are older than that argument, and they earn a reading in their own setting first: as speeches toward kings, priests, and people who already knew [the covenant of Sinai](05-moses-exodus-and-sinai.md) and the pretensions of [Zion and dynasty](07-saul-david-solomon.md).
 
+
+```mermaid
+flowchart LR
+  Pre[Pre-exilic: Amos, Hosea, Isaiah, Jeremiah] --> Exil[Exilic: Ezekiel, later Isaiah]
+  Exil --> Post[Post-exilic: Haggai, Zechariah, Malachi]
+```
+
 ## Where this leads
 
 - Next: [wisdom literature](09-wisdom-literature.md), a different way of speaking about God and the good life

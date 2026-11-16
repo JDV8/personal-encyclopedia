@@ -26,6 +26,14 @@ Chapter 1 is the fountainhead of later Jewish *merkavah* (chariot) mysticism and
 
 The valley of dry bones (37) is a vision of national resurrection: "these bones are the whole house of Israel." Later Christian reading also heard bodily resurrection here, a meaning the image easily carries but is not the only one. The temple vision (40–48) is architectural theology. Some read it as a blueprint still awaiting fulfillment; some as a symbolic vision; some as a program that the Second Temple only partly resembled. The closing name of the city, *YHWH Shammah* ("the Lord is there"), is the book's last word on exile.
 
+
+```mermaid
+flowchart LR
+  Throne[Throne vision] --> Judg[Judgment]
+  Judg --> Dry[Valley of bones]
+  Dry --> New[New temple]
+```
+
 ## Themes and reception
 
 Themes include glory and presence, priestly holiness, responsibility, judgment beginning among the people of God, and restoration that is as concrete as a floor plan. The prophet's sign-acts (lying on his side, shaving his head, not mourning his wife in public) make the body a text.

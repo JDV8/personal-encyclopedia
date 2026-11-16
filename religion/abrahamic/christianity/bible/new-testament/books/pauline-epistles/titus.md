@@ -28,6 +28,13 @@ Crete, in this letter, is a test case for whether the gospel can produce a recog
 
 Titus himself, in the undisputed letters, had already been Paul's test case for Gentile freedom (Galatians 2) and his agent of reconciliation in Corinth. The Pastoral letter that bears his name is asking that same kind of coworker to do a slower work: not a crisis visit, but the appointment of leaders and the long teaching of a way of life.
 
+
+```mermaid
+flowchart LR
+  Elders[Elders in Crete] --> Sound[Sound teaching]
+  Sound --> Works[Good works]
+```
+
 ## Themes and reception
 
 Themes include sound doctrine, appointed leadership, household virtue, and salvation by mercy. With 1 Timothy, it has shaped Christian ideas of ministry and of "respectable" public life. Read it with the hymn-like gospel summaries at its center, so that order does not swallow grace.

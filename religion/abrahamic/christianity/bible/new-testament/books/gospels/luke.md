@@ -28,6 +28,14 @@ Luke's Passion is less desolate than Mark's: Jesus remains composed, heals the s
 
 Luke's special material also includes a sharper warning about wealth than many casual readers remember. The woes that follow his Beatitudes, the parable of the rich fool, the dishonest manager, and the rich man and Lazarus are not asides. They belong to a Gospel that sings of the lowly being lifted up and then asks whether the church will live as if that song were true. The same author will, in Acts, describe goods held in common in Jerusalem. Whether one takes those scenes as historical report, as ideal type, or as both, Luke–Acts is interested in money, status, and the reversal of both. Theophilus, if he was a real patron of some rank, was being taught as well as informed.
 
+
+```mermaid
+flowchart LR
+  Inf[Infancy and Nazareth] --> Gal[Galilee]
+  Gal --> Travel[The travel narrative]
+  Travel --> Jer[Jerusalem: passion and appearances]
+```
+
 ## Themes and reception
 
 Themes include the poor, women as witnesses and patrons, prayer and the Spirit, joy, repentance, table fellowship, and a salvation that is "for all people" without cancelling Israel's story. Luke has been called the Gospel of the poor and of the Spirit. Its historical reliability in details of official titles is often praised; its relationship to Paul's letters (the theology of Acts is not simply a copy of the epistles) is a standard scholarly debate. Read it as volume one.

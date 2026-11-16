@@ -32,6 +32,15 @@ The millennium of chapter 20 has generated premillennial, amillennial, and postm
 
 Art, music, and political reading have probably done as much as commentary to keep this book alive: Dürer's woodcuts, African-American spirituals, Blake, and a long tradition of under-empire protest have heard the Lamb's victory when official theology was cautious or obsessed with timetables. That reception is not an optional extra. It is evidence that the book was always meant to be seen and sung, not only decoded.
 
+
+```mermaid
+flowchart TD
+  Lett[Seven letters] --> Throne[The throne]
+  Throne --> Cycles[Seals, trumpets, bowls]
+  Cycles --> Babylon[Babylon falls]
+  Babylon --> New[New Jerusalem]
+```
+
 ## Themes and reception
 
 Themes include worship, witness, empire, judgment, endurance, and new creation. The book's path into the canon was contested, especially in the East. Its afterlife has included liturgy, art, political resistance, and a long history of predictive systems, some of them destructive. A first-principles approach learns the genre (apocalyptic symbolism, not newspaper prose), the first-century setting, and the pastoral aim: to keep the churches faithful to the Lamb. Then, and only then, it asks what the visions still unveil.

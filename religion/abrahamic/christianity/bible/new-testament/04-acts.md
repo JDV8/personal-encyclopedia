@@ -23,6 +23,15 @@ Paul travels, argues, is beaten, founds communities, and is finally arrested in 
 
 Traditional authorship identifies the writer with Luke the physician, a companion of Paul, and notes "we" passages as eyewitness traces. Many scholars agree that Acts and the Gospel of Luke share an author, date the work late in the first century, and treat the "we" as a convention or a source; they also note that Acts' Paul and the Paul of the letters do not always match in tone or in the order of events. Acts is our only narrative of this generation on this scale, and it is a narrative with a purpose: the Spirit drives a witness "in Jerusalem, in all Judea and Samaria, and to the end of the earth." Rome, in that geography, is not a defeat. It is a sign of how far the word has gone.
 
+
+```mermaid
+flowchart LR
+  Jer[Jerusalem] --> Judea[Judea and Samaria]
+  Judea --> Ant[Antioch]
+  Ant --> J1[Paul's journeys]
+  J1 --> Rome[Rome]
+```
+
 ## Where this leads
 
 - Next: [Paul's letters](05-pauls-letters.md), earlier than Acts as documents, and a different angle on the same person

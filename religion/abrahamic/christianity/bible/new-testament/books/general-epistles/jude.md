@@ -25,6 +25,13 @@ The delayed purpose (v. 3) is a rare glimpse of an author changing course. The c
 
 The closing doxology (vv. 24–25) — to the one who is able to keep you from falling — has been used constantly in Christian worship. It should not be detached from the severity of the letter: the God who keeps is the God in whose love the community must also keep itself, while practicing a careful mercy toward the wavering.
 
+
+```mermaid
+flowchart LR
+  Contend[Contend for the faith] --> Examples[Examples of judgment]
+  Examples --> Keep[Keep yourselves in love]
+```
+
 ## Themes and reception
 
 Themes include contention for the faith, judgment, the use of older stories (canonical and not), and a mercy that is not naive. The literary relationship with 2 Peter is the main scholarly issue: most conclude that 2 Peter adapted Jude, which, if true, is an instance of early Christian rewriting, not a problem to be hidden. The letter's harshness has made it a rarer preaching text; its doxology has made it a common one. Read both.

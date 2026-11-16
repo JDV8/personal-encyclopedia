@@ -26,6 +26,13 @@ Chapter 7 is the theological center for later Jewish and Christian martyrdom lit
 
 The letters and the temple-defense stories make 2 Maccabees a festival book as well as a war book. Hanukkah here is "the purification of the temple," with a second festival (Nicanor's Day) that later faded.
 
+
+```mermaid
+flowchart TD
+  Temple[Temple under threat] --> Martyrs[Martyrs]
+  Martyrs --> Victory[Judas and the rededication]
+```
+
 ## Themes and reception
 
 Themes include martyrdom, resurrection, creation, temple, and a more miraculous historiography. The book is scripture in Catholic and Orthodox canons. [Hebrews](../new-testament/books/general-epistles/hebrews.md) 11:35, the ones "tortured, refusing to accept release, in order to obtain a better resurrection," almost certainly looks toward this tradition. 4 Maccabees will later rewrite the same martyrdoms as a philosophical treatise. Read 1 and 2 Maccabees together: one is closer to a chronicle, the other to a theological oration.

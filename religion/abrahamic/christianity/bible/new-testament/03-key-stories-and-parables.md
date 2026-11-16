@@ -29,6 +29,14 @@ The burial is hurried. On the first day of the week, women (Mary Magdalene forem
 
 Traditional Christian faith takes these events, especially the resurrection, as historical and world-changing: God has vindicated Jesus. Historical scholarship generally agrees that Jesus was a first-century Jew baptized by John, that he taught and was crucified under Pilate, and that his earliest followers claimed to have seen him afterward; it debates how to describe those claims, how far particular sayings and scenes go back to Jesus himself, and how much is later theological shaping. A student can learn the shape of the story, and the shape of that debate, without rushing either.
 
+
+```mermaid
+flowchart LR
+  Birth[Birth narratives] --> Min[Baptism, teaching, miracles, parables]
+  Min --> Pass[Passion week]
+  Pass --> Rise[Resurrection appearances]
+```
+
 ## Where this leads
 
 - Next: [Acts](04-acts.md), what the same author as Luke says happened next

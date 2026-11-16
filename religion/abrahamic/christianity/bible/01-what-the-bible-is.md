@@ -21,6 +21,14 @@ That sketch is already Christian in shape. The Hebrew Bible's own arrangement en
 
 None of this tells you, yet, whether the events "happened as written." That is a separate question, and it does not have one answer for every book. Jonah is not doing the same kind of work as a list of kings, and a Gospel is not doing the same kind of work as a proverb. Foundations first: what kind of collection this is. Then genres, then stories.
 
+
+```mermaid
+flowchart TD
+  HB["Hebrew Bible / Tanakh<br/>Torah · Nevi'im · Ketuvim"] --> OT["Christian Old Testament<br/>same writings, different order"]
+  OT --> NT["New Testament<br/>27 Greek writings"]
+  DC["Deuterocanon / Anagignoskomena"] -.-> OT
+```
+
 ## Where this leads
 
 - Next: [Canon, and the Hebrew Bible versus the Christian Old Testament](02-canon-and-hebrew-bible-vs-old-testament.md)

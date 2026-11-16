@@ -11,7 +11,7 @@ Even the names on the spine are already interpretive. "Old Testament" and "New T
 
 ## Reading path
 
-Go next to [the Bible](bible/README.md) and follow the foundation lessons before any particular story.
+Go next to [the Bible](bible/README.md) and follow the foundation lessons before any particular story. After the foundations, use the [book overviews](bible/old-testament/books/README.md), the [story paths](bible/old-testament/stories/README.md) and [New Testament stories](bible/new-testament/stories/README.md), and the [glossary](bible/glossary/README.md).
 
 ## Where this leads
 

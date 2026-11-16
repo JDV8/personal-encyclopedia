@@ -27,6 +27,16 @@ Chronicles, retelling the history from Adam to the exile with an emphasis on Jud
 
 Traditional reading takes these books as a straightforward continuation of sacred history. Scholarship discusses Persian-period politics, the slow canonization of Torah as the community's center, and the way earlier stories may have been edited in light of exile. For the path into the New Testament, the first-principles facts are these: by the late sixth century there is again a temple in Jerusalem; there is no independent Davidic kingdom; scripture and communal practice are becoming, more and more, what holds the people together; and the promises of prophets and of David's house are now hopes under foreign rule. That is the situation [Second Temple Judaism](../new-testament/01-second-temple-judaism-and-rome.md) inherits.
 
+
+```mermaid
+timeline
+  title Exile and return, in the biblical story
+  722 BCE : Fall of Samaria
+  587 BCE : Fall of Jerusalem
+  538 BCE : Cyrus and the return
+  Later : Temple rebuilt; Ezra and Nehemiah
+```
+
 ## Where this leads
 
 - This completes the Old Testament path. Go to the [New Testament](../new-testament/README.md)

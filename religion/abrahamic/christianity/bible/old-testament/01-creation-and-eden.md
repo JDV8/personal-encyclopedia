@@ -25,6 +25,13 @@ Historical-critical scholarship typically sees **two compositional voices** (oft
 
 For this path, the first-principles yield is: the Bible's story begins with a good, ordered creation and a break in trust and obedience that sends human beings east of Eden. Everything that follows happens in that aftermath.
 
+
+```mermaid
+flowchart LR
+  C1["Genesis 1: seven-day ordering"] --> C2["Genesis 2-3: garden, pair, exile"]
+  C2 --> After["Cain, flood, Babel"]
+```
+
 ## Where this leads
 
 - Next: [Cain and Abel, the Flood, and Babel](02-cain-abel-flood-babel.md)

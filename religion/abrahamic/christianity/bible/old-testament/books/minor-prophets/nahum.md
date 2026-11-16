@@ -24,6 +24,12 @@ The opening theophany refuses to make God a tribal mascot, even as it announces 
 
 Read alongside Jonah, Nahum raises a first-principles question rather than a contradiction. Jonah's Nineveh repents and is spared; Nahum's Nineveh falls and is not invited to repent. The canon keeps both. One way to hear them together is historical: a city may turn, and an empire may later return to bloodshed and be judged. Another is literary: mercy and uncompromising justice are both claimed as the Lord's, and neither book is allowed to erase the other. A reader who likes only Jonah, or only Nahum, is preferring a simpler God than the Twelve will give.
 
+
+```mermaid
+flowchart LR
+  Nineveh[Oracle against Nineveh] --> Fall[The city falls]
+```
+
 ## Themes and reception
 
 Themes include the justice of God against empire, the poetry of siege, and comfort as the fall of a tyrant. Reception has been thinner than for Jonah or Micah, partly because the book is hard to preach in a moralizing key. It remains a first-principles witness that biblical prophecy includes not only "repent" but also "it is enough." Historical study of 612 and of Assyrian records gives the book a firm external anchor.

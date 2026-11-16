@@ -33,6 +33,14 @@ Several episodes appear here in much fuller form than in Kings, and they show th
 
 The ending in Cyrus' decree is a literary and theological hinge. By closing with the same words that open Ezra, the Chronicler (or a final editor) binds the restored temple to the whole sweep from Adam's genealogy to the exile. The seventy years of rest for the land, named in 36:21 with a nod to Jeremiah, interpret the exile not as a gap in the story but as sabbath for a land that had been denied its rest. Hope, in this book, is not a new monarchy first of all. It is a reopened house and a people invited to "go up."
 
+
+```mermaid
+flowchart LR
+  Temple[Solomon's temple] --> Kings[Kings of Judah]
+  Kings --> Reform[Hezekiah and Josiah]
+  Reform --> Exile[Exile and Cyrus' word]
+```
+
 ## Themes and reception
 
 Themes include the temple, repentance, prophetic warning, and a Judah-centered memory of the past. The book has been used as a resource for reform movements (Hezekiah, Josiah) and for theologies of revival. Historical study compares it carefully with Kings and with what is known of Persian Yehud. It should not be harmonized silently with Kings; the differences are the point.

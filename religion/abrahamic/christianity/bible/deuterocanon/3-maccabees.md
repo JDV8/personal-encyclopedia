@@ -24,6 +24,13 @@ The prayers of Simon and of Eleazar are the theological centers, rehearsing God'
 
 Comparison with 2 Maccabees (another festival book with a persecuting king and a heavenly intervention) and with Esther (another reversal and feast) is the right method. 3 Maccabees is more ornate in its Greek and more Egyptian in its setting. The "Maccabee" title is a later grouping, not a claim about Judas and his brothers.
 
+
+```mermaid
+flowchart TD
+  Threat[A threat in Egypt] --> Prayer[Prayer]
+  Prayer --> Deliver[Deliverance]
+```
+
 ## Themes and reception
 
 Themes include temple sanctity, diaspora danger, festival memory, and a king who can be stopped and changed. The Orthodox canon keeps the book; Western canons generally do not, except in Apocrypha appendices. It is one of the clearer proofs that "the deuterocanon" is not a single identical list even among churches that go beyond the Hebrew Bible.

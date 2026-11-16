@@ -21,6 +21,13 @@ The judges are an uneven gallery. **Deborah**, a prophet, with Barak, defeats Si
 
 If Joshua is a picture (perhaps an idealized one) of a people united under faithful command, Judges is a picture of fragmentation. It also does political work: it can be read as making the case that kingship is needed, or as showing what happens when covenant is ignored, or both. The next lesson will not treat kings as a simple cure.
 
+
+```mermaid
+flowchart TD
+  Josh[Joshua: entry and allotment] --> Jdg[Judges: cycles]
+  Jdg --> Cycle["Apostasy → oppression → cry → deliverer"]
+```
+
 ## Where this leads
 
 - Next: [Saul, David, and Solomon](07-saul-david-solomon.md)

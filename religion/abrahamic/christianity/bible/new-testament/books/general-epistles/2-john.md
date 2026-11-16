@@ -30,6 +30,12 @@ The identification of love with walking in the commandments (vv. 5–6) keeps "l
 
 The "elect lady" as a church is supported by the "elect sister" at the end and by the corporate "children." The letter then becomes a window on sister-churches in a Johannine network, writing short, sharp notes to one another.
 
+
+```mermaid
+flowchart LR
+  Truth[Walk in truth] --> Warn[Do not welcome the deceiver]
+```
+
 ## Themes and reception
 
 Themes include truth, love, incarnation, and the ethics of hospitality. With 3 John it is a reminder that some of the New Testament is occasional correspondence, not a treatise, and that doctrine was already a matter of who ate at whose table. Read the two short letters as a pair, after 1 John, and then compare the hospitable severity of 2 John with the hospitable complaint of 3 John.

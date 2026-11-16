@@ -27,6 +27,13 @@ The enthusiasm of the first return has faded. People say "how have you loved us?
 
 The disputes are a method: an accusation or a divine claim, a hypothetical objection ("but you say…"), and an answer. It is prophecy as argument with a tired community. The "sun of righteousness" with healing in its wings (4:2) became a rich image in later hymnody. The last word of the Christian Old Testament, in this order, is a threat and a promise about a curse on the land unless hearts of parents and children are turned; the Tanakh, which does not end here, ends instead with Chronicles' "let him go up."
 
+
+```mermaid
+flowchart LR
+  Dispute[Disputations] --> Messenger[A messenger]
+  Messenger --> Day[The coming day]
+```
+
 ## Themes and reception
 
 Themes include covenant love, corrupt worship, marriage, justice, a book of remembrance, and the coming messenger. Placement at the end of the Twelve and of the Christian Old Testament has shaped Advent and "intertestamental" imagination; historically, other Jewish writings continued, and the Tanakh's order tells a different last word. Read Malachi as a Persian-period disputation first, then as a hinge in Christian Bibles.

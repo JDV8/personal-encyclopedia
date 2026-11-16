@@ -31,6 +31,15 @@ Leviticus 19 places cult and ethics side by side: reverence for parents, sabbath
 
 The Jubilee legislation in chapter 25 (release of debts and landed property in a fiftieth year) is among the most socially radical programs in the Torah. How fully it was ever practiced is debated; that it was written as law is not.
 
+
+```mermaid
+flowchart TD
+  Sac[Sacrifices 1-7] --> Priests[Priests 8-10]
+  Priests --> Pure[Purity 11-15]
+  Pure --> Day[Day of Atonement 16]
+  Day --> Hol[Holiness Code 17-26]
+```
+
 ## Themes and reception
 
 Themes include holiness, atonement, purity and impurity (which are not simply synonyms for morality and immorality), priesthood, sacred time, and the land as the Lord's. Blood is treated as life and is reserved for the altar, not for food.

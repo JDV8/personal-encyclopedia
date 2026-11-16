@@ -29,6 +29,13 @@ David's prayer and the people's offerings in chapters 28–29 present a willing,
 
 Comparison with Samuel is the right method, not a suspicion. The Chronicler is not hiding the fact that other stories exist; he is writing for a different need. A community that already knows about Bathsheba and Absalom may need, more urgently, to know how the singers are organized and why the temple site is holy. The long lists of gatekeepers and musicians are a claim that worship is a craft with a pedigree, not an improvisation of the Persian period. When the book says that the Lord "broke through" David's enemies, or that seeking the Lord brings success, it is teaching a pattern for life after exile, when there is no empire of David to lean on and there is a sanctuary to maintain.
 
+
+```mermaid
+flowchart TD
+  Gene[Genealogies] --> David[David and the ark]
+  David --> Prep[Temple preparations]
+```
+
 ## Themes and reception
 
 Themes include continuity, the temple and its personnel, immediate retribution, and a purified memory of David. Compared with Samuel, Chronicles is less tragic and more liturgical. That is a choice, not a defect.

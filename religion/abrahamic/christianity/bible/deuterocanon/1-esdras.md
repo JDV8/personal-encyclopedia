@@ -28,6 +28,13 @@ Because the book overlaps so much with material already in the Protestant and Ca
 
 Josephus's use of this form of the story is a reminder that, for a first-century Jewish historian writing in Greek, 1 Esdras could be *the* restoration narrative. Canonical decisions came after, and they did not all go the same way. When a modern reader meets two slightly different Ezras, the task is not to decide which one is "the real" history first, but to learn how a community could tell the same return more than once, with truth as a slogan in one version and a firman in the other.
 
+
+```mermaid
+flowchart LR
+  Josiah[From Josiah to exile] --> Debate[The bodyguards' debate]
+  Debate --> Law[Ezra and the law]
+```
+
 ## Themes and reception
 
 Themes include restoration, temple, truth, and the authority of Persian kings as unexpected helpers. The Orthodox churches keep it as scripture. Jerome and later Western tradition generally set it aside as a duplicate, which is why it is absent from the Catholic deuterocanon proper. It remains one of the more important "almost Ezra" books for historians of the text.

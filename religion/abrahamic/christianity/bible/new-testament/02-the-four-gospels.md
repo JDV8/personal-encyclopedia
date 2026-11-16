@@ -23,6 +23,16 @@ Traditional ascription is to John the son of Zebedee, the "beloved disciple." Ma
 
 Reading the Gospels well means reading them *each*, then together, and keeping the Second Temple setting in view. The next lesson turns from the four books as books to the stories they share and the ones they uniquely tell.
 
+
+```mermaid
+flowchart TD
+  Mark[Mark] --> Matt[Matthew]
+  Mark --> Luke[Luke]
+  Q["Q? (disputed source)"] --> Matt
+  Q --> Luke
+  John[John: a different path]
+```
+
 ## Where this leads
 
 - Next: [key stories and parables](03-key-stories-and-parables.md)

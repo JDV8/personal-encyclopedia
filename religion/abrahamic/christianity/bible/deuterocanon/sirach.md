@@ -27,6 +27,13 @@ Chapter 24 is the theological peak: Wisdom is identified with the book of the co
 
 The book's sentences about women (and about slaves) have to be taught as they are, as evidence of an ancient household ethic, not as a timeless charter. The same book is generous about friendship and about the poor.
 
+
+```mermaid
+flowchart LR
+  Maxims[Maxims for a life] --> Wisdom[Wisdom's self-praise]
+  Wisdom --> Heroes[Praise of the ancestors]
+```
+
 ## Themes and reception
 
 Themes include the fear of the Lord, Torah-Wisdom, scribal pedagogy, temple and priesthood, and memory of the ancestors. Sirach was widely used in synagogues in some periods and then not canonized in Judaism; the rabbis still quote Ben Sira on occasion. The church used it so heavily that "Ecclesiasticus" stuck. Hebrew recovery in the modern period has changed scholarly work on the book. It is the best single window on educated Jerusalem Judaism a generation before the Maccabees.

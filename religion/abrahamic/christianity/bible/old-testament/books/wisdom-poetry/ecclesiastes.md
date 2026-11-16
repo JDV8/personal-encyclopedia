@@ -27,6 +27,13 @@ The catalogue of times in 3:1–8 is among the most widely quoted poems in the B
 
 The epilogue has been read as a conservative lid placed on a dangerous book, or as a fair summary (the fear of God really is where Qoheleth arrives). Canonically, the book was debated; it is in the canon, and the epilogue is part of the book we have.
 
+
+```mermaid
+flowchart LR
+  Hevel[Hevel / vanity] --> Test[The tests of pleasure and work]
+  Test --> Fear[Fear God and keep the commands]
+```
+
 ## Themes and reception
 
 Themes include time, death, the limits of wisdom, the enjoyment of gifts, and the fear of God in a world that will not add up. The book is a necessary companion to Proverbs: wisdom is still better than folly, and it is not enough.

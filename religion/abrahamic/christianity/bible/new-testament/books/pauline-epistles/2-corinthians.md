@@ -27,6 +27,14 @@ The "fool's speech" in chapters 11–12 inverts every Greco-Roman honor code: Pa
 
 The geography of the letter is pastoral as well as physical. Paul writes of a door opened in Troas that he could not enter because he had no rest in his spirit until he found Titus (2:12–13). The mission field is real, and so is anxiety. That is why the later "fool's speech" is not a random boast: the churches already know this man's itinerary of weakness. The collection chapters then test whether reconciliation has economic teeth. Macedonia, though poor, has begged to take part; Corinth, though gifted, has been slow. Generosity, in this letter, is a grace (the same word as "gift") and a proof that the reconciling word has been believed.
 
+
+```mermaid
+flowchart TD
+  Comfort[Comfort in affliction] --> Ministry[The ministry of the new covenant]
+  Ministry --> Coll[The collection]
+  Coll --> Boil[The fool's speech]
+```
+
 ## Themes and reception
 
 Themes include consolation, apostolic weakness, new covenant, reconciliation, generosity, and boasting in the Lord. The letter has been a school for pastors and for anyone who has had to defend a vocation without becoming a braggart. Partition theories matter for historical reconstruction; they should not keep a reader from following the emotional and theological movement of the canonical book.

@@ -27,6 +27,13 @@ The readers are experiencing "various trials" and being slandered as evildoers. 
 
 The letter's Greek is more polished than some would expect of a Galilean fisherman, which is one reason Silvanus is often named as a scribe, and one reason critics prefer a later Petrine school. Style does not, by itself, settle authorship, but it should be noticed. So should the letter's use of the Septuagint: this is a church already living in Greek scripture. The "fiery ordeal" of chapter 4 may be local harassment rather than an empire-wide persecution; that historical caution actually makes the letter more useful, not less, because most later Christian suffering has also been local, social, and confused, not cinematic.
 
+
+```mermaid
+flowchart TD
+  Elect[Elect exiles] --> Holy[Be holy]
+  Holy --> Suffer[Suffering and hope]
+```
+
 ## Themes and reception
 
 Themes include hope, exile, holiness, suffering, priesthood of the people, and a distinctive public life. The letter has been a resource for churches under persecution and for later debates about church and civil authority (2:13–17). The household instructions, as elsewhere, need historically careful teaching. "Babylon" as Rome is an early clue to a symbolic geography that [Revelation](../prophecy/revelation.md) will use at length.

@@ -26,6 +26,13 @@ The relationship with Jude is a first-principles lesson in how early Christian w
 
 If the letter is late, its claim to be Peter's testament is a known ancient genre (compare the farewell of Deuteronomy, or later testaments in Jewish literature), not simply a modern idea of fraud. First-century and second-century readers had to decide whether such a voice was faithful. The church eventually said yes, slowly. That slowness is worth remembering when the book is used today as if its authorship had never been a question. The content that won it a place is the combination of ethical warning and a patient, creation-wide hope.
 
+
+```mermaid
+flowchart LR
+  Gift[Precious promises] --> False[False teachers]
+  False --> Day[The day of the Lord]
+```
+
 ## Themes and reception
 
 Themes include knowledge, memory, false teaching, delay, patience, and new creation. The book's difficult canonical history is worth knowing: some early lists doubted it, and then the church kept it. Read it with Jude, and with the delay already visible in [2 Thessalonians](../pauline-epistles/2-thessalonians.md).

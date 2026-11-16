@@ -17,6 +17,14 @@ The story is also a study in power. Joseph the slave becomes Joseph the vizier, 
 
 Historically, scholars debate whether the tale preserves a memory of Semitic officials in Egypt (there are analogies in the second millennium and later) or is a finely made novella of a later period about how Israel came to be in Egypt at all, so that Exodus can begin. Traditional reading takes Joseph as a historical ancestor. Either way, the literary art is not in dispute: doubling of dreams, delayed recognition, and a closing that refuses a cheap moral. The book of Genesis, which began with a good world and a fractured family of humanity, ends with a fractured family of Israel being kept alive in a foreign land, awaiting a further exodus.
 
+
+```mermaid
+flowchart LR
+  Sold[Sold into Egypt] --> Rise[Rise in Pharaoh's house]
+  Rise --> Famine[Famine and brothers]
+  Famine --> Bless[Blessing and burial hope]
+```
+
 ## Where this leads
 
 - Next: [Moses, the Exodus, and Sinai](05-moses-exodus-and-sinai.md)

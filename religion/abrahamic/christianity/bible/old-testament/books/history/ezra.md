@@ -26,6 +26,13 @@ Chapters 9–10 are hard reading. Ezra's grief over marriages with the "peoples 
 
 The first six chapters and the last four are almost two movements. The temple is finished before Ezra appears. The prophets [Haggai](../minor-prophets/haggai.md) and [Zechariah](../minor-prophets/zechariah.md) belong to that first movement; Ezra belongs to a later generation concerned with law, genealogy, and the purity of the assembly. The book therefore already contains a historical lesson: restoration is not a single event. Altar, temple, and Torah come in stages, under different leaders, with opposition at each stage. The lists of returnees and of those implicated in mixed marriages are part of that lesson. They say, this is a real population with names, not a symbol. Later Jewish memory that Ezra "restored the Torah" grows out of chapters 7–10 more than out of the temple narrative.
 
+
+```mermaid
+flowchart LR
+  Return[Return under Cyrus] --> Temple[Temple rebuilt]
+  Temple --> Ezra[Ezra and the law]
+```
+
 ## Themes and reception
 
 Themes include restoration, temple, Torah, identity, and empire as an unexpected instrument (Cyrus as the Lord's anointed in Isaiah 45 is the theological backdrop). Jewish tradition honors Ezra as a second Moses, a restorer of the law. Christian reading has used the book for narratives of rebuilding and, sometimes uncritically, for marriage policy. Historical study of the Persian period has become one of the most active fields in Hebrew Bible scholarship.

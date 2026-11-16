@@ -29,6 +29,13 @@ The "sin that leads to death" (5:16) is another difficult verse, later tied to d
 
 The spiral structure can frustrate a reader looking for a straight argument. It is closer to music: themes return in a new key. Light, love, and confession keep coming back because the secession has made the community doubt what it already knew. The elder (if the same voice as 2–3 John) is not giving a first introduction to the faith. He is calling a shaken church back to what was "from the beginning." That is why the letter can sound both simple and inexhaustible.
 
+
+```mermaid
+flowchart TD
+  Light[God is light] --> Love[God is love]
+  Love --> Tests[Tests of the confession]
+```
+
 ## Themes and reception
 
 Themes include incarnation, light, sin, advocacy, love, and testing the spirits. The letter has been central to Christian mysticism and ethics of love, and to later doctrines of antichrist and assurance. Read it with the Gospel of John, and then with the two much shorter letters that follow, which show the same conflict in a more particular setting.

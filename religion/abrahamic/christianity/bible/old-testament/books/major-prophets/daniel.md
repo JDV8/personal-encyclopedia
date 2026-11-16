@@ -26,6 +26,13 @@ The tales teach fidelity in diaspora: names, food, prayer toward Jerusalem, and 
 
 The "one like a son of man" in 7:13–14, given dominion and a kingdom that will not pass away, is a key text for later messianic and apocalyptic hope, and for Jesus' own use of "[Son of Man](../../../glossary/son-of-man.md)" in the [Gospels](../../../new-testament/books/gospels/README.md). Interpretations vary: a collective symbol of the holy ones, a heavenly individual, the Messiah. Chapter 12 contains the Hebrew Bible's clearest statement of a double resurrection: some to everlasting life, some to shame. The seventy weeks of chapter 9 have generated a long history of chronological schemes in both Jewish and Christian interpretation; humility is in order, given the history of confident and conflicting calculations.
 
+
+```mermaid
+flowchart TD
+  Tales[Court tales 1-6] --> Vis[Visions 7-12]
+  Vis --> Kingdom[Kingdoms and the holy ones]
+```
+
 ## Themes and reception
 
 Themes include faithfulness under empire, the limits of royal power, divine sovereignty over history, apocalyptic hope, and resurrection. The book shaped later Jewish apocalyptic and the [Revelation](../../../new-testament/books/prophecy/revelation.md) of John. It has also been a playground for predictive timetables, which is a reception history worth studying and a caution worth heeding. Canonical placement (Prophets versus Writings) already encodes a difference of emphasis: prophet of future empires, or wisdom and story for a people under foreign rule.

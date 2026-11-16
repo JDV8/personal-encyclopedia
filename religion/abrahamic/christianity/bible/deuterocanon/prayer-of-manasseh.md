@@ -27,6 +27,12 @@ The theology is concentrated: God's mercy is not a lenient mood but a provision 
 
 Liturgically, the prayer has been used in Christian penitential offices, including in some Anglican and Orthodox services, because it is brief, theologically dense, and not tied to a festival. That use can be independent of a decision about canonicity.
 
+
+```mermaid
+flowchart LR
+  Confess[A king's confession] --> Mercy[Appeal to mercy]
+```
+
 ## Themes and reception
 
 Themes include repentance, the worst-case sinner, creation, and praise after mercy. The work is a first-principles example of scripture (or near-scripture) as a conversation: later writers did not always leave earlier silences alone. Whether one prays it as canon or reads it as Second Temple piety, it belongs with the psalms of confession and with the Chronicler's theology of return.

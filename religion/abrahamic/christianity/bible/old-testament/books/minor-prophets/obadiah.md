@@ -27,6 +27,13 @@ Obadiah shares language with [Jeremiah](../major-prophets/jeremiah.md) 49's Edom
 
 Because the book is so short, it is easily skipped or treated as a footnote to Edom's later disappearance. That would miss its place in the Twelve. It stands between Amos, who already names Edom's "pity" as a transgression (Amos 1:11), and Jonah, who will force the question of pity in the opposite direction, toward Nineveh. Obadiah's measure-for-measure theology is not the canon's only word about enemies, but it is a real word: there is a kind of watching a neighbor bleed that the Lord will not treat as neutrality. The "day" that came on Jerusalem will, the prophet says, come on the gloating as well.
 
+
+```mermaid
+flowchart LR
+  Edom[Edom judged] --> Day[The day of YHWH]
+  Day --> Zion[Zion restored]
+```
+
 ## Themes and reception
 
 Themes include pride, brotherhood, the ethics of watching a neighbor's fall, and the day of the Lord as measure-for-measure justice. Later readers have sometimes universalized Edom as a type of arrogant empire or of Rome; the first task is to hear Edom as Edom. The book's brevity is a teaching: a complete prophetic argument can be spoken in a page, and it still needs historical context.

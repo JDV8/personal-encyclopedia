@@ -21,6 +21,14 @@ The book ends not with a rapture out of the world (a much later scheme) but with
 
 Revelation has been used to fuel both hope and harm (date-setting, scapegoating, a relish for other people's judgment). Reading it as first-century apocalyptic, as worship, and as a political-theological refusal of idolatrous power does not answer every symbol. It does keep the book in the same library, and the same method, as the rest of this path.
 
+
+```mermaid
+flowchart TD
+  Lett[Letters to seven churches] --> Throne[Throne vision]
+  Throne --> Seals[Seals, trumpets, bowls]
+  Seals --> End[New heaven and new earth]
+```
+
 ## Where this leads
 
 - This completes the first pass through the Bible. Return to the [Bible overview](../README.md) or to [religion](../../../README.md)

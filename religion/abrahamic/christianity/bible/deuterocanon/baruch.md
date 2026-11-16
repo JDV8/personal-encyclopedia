@@ -25,6 +25,13 @@ The confession is close in spirit to Daniel 9, Ezra 9, and Nehemiah 9: later Jud
 
 The opening collection of money for sacrifices in Jerusalem, sent from Babylon, is easy to skim and is historically interesting: it imagines a diaspora still fiscally and liturgically tied to the temple, praying even for the conqueror's court. That combination — shame for sin, loyalty to Zion, and a prayer for the emperor — is the book's political theology in a sentence. It is not quietism, and it is not revolt. It is a way of remaining Israel under a foreign king.
 
+
+```mermaid
+flowchart TD
+  Letter[A letter from exile] --> Confess[Confession]
+  Confess --> Wis[Wisdom and consolation]
+```
+
 ## Themes and reception
 
 Themes include confession, the exile as typological setting, Wisdom-Torah, and comfort for Zion. The book is scripture in Catholic and Orthodox canons. It is a good first-principles example of a later writer speaking in a classic name in order to give a community words of repentance and hope. Read it after Jeremiah and Lamentations, and then read the Letter of Jeremiah as a related but distinct polemic against idols.

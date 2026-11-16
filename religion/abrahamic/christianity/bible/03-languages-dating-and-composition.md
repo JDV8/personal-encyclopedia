@@ -27,6 +27,17 @@ None of this settles the religious question of inspiration. It does settle a stu
 
 Behind writing there is often speech. Stories of ancestors, legal customs, prophetic oracles, and Jesus' sayings likely circulated orally before they were fixed. Oral tradition can be conservative (carefully remembered) and fluid (adapted to new situations) at the same time. This matters for how one thinks about "the original" of a story such as the Flood or a parable. Sometimes the honest object of study is a tradition, not a single first draft.
 
+
+```mermaid
+timeline
+  title A rough scholarly timeline of composition and collection
+  1200-800 BCE : Older poetry and traditions
+  800-600 BCE : Eighth-century prophets; Deuteronomy's circle
+  600-400 BCE : Exile and Persian-period shaping of Torah and histories
+  300-100 BCE : Later Ketuvim; Greek Septuagint begins
+  50-120 CE : New Testament writings
+```
+
 ## Where this leads
 
 - Next: [Genres](04-genres.md)

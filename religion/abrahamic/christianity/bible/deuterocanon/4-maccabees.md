@@ -25,6 +25,12 @@ The opening thesis is the book's claim to originality relative to 2 Maccabees: t
 
 The use of Joseph and of David as examples of self-control ties the oration back into the Hebrew narrative. The law is not a barrier to reason. It is reason's curriculum. That is a first-principles claim about Torah in a Greek city, and it belongs in conversation with [Sirach](sirach.md), [Wisdom of Solomon](wisdom-of-solomon.md), and, later, with Philo and with Paul (who would not have granted the same function to the law in the same way).
 
+
+```mermaid
+flowchart TD
+  Reason[Reason over the passions] --> Martyrs[The martyrs as proof]
+```
+
 ## Themes and reception
 
 Themes include reason and the passions, Torah, martyrdom, and the translation of Jewish faith into philosophical terms. The book is a primary text for Hellenistic Judaism and for the history of martyrdom literature. Some Orthodox traditions keep it; most Western canons do not. Christian writers knew the story, whether from 2 or 4 Maccabees. Modern students of philosophy and of religion should not let the "Maccabee" title hide the fact that this is, in large part, an ethical treatise with a narrative proof.

@@ -24,6 +24,12 @@ Theologically, the work assumes that idolatry is the great diaspora temptation a
 
 Because the work is repetitive, the right way to read it is not to hunt for a new idea in every paragraph but to notice the pedagogy of the refrain. The exiles are being trained to look twice at what impresses the city. In that sense the letter is closer to a catechism than to a prophecy in the classical sense, and its placement beside Baruch makes a kind of curriculum: confess, then learn not to fear the images in the street.
 
+
+```mermaid
+flowchart LR
+  Warn[A warning against idols] --> Dead[They cannot speak or save]
+```
+
 ## Themes and reception
 
 Themes include idolatry, diaspora, satire, and the authority of Jeremiah's name. The work is canonical in Catholic and Orthodox Bibles, usually attached to Baruch in Western editions. Protestant and Jewish canons do not include it, but its argument is fully at home in the Hebrew prophets. A first-principles reader should not skip it because it is short or repetitive; the repetition is the pedagogy.

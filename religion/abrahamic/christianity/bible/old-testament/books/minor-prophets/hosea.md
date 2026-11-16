@@ -26,6 +26,13 @@ How literally to take the marriage command (a prophet told to marry a promiscuou
 
 The book's Hebrew is among the hardest in the prophets: abrupt shifts, images piled on images, and a text that sometimes looks damaged. That difficulty is part of reading Hosea honestly; commentaries disagree, and a student should not pretend every line is smooth. What is not obscure is the argument. Israel's problem is not lack of religion. It is a religion that no longer knows the Lord, and a politics that treats Assyria and Egypt as saviors. The healing promised in the last chapter is therefore a healing of speech and loyalty — "take words with you and return" — not a mere change of fortune.
 
+
+```mermaid
+flowchart LR
+  Marriage[Marriage as sign] --> Charge[Charge against Israel]
+  Charge --> Hope[Promise of return]
+```
+
 ## Themes and reception
 
 Themes include hesed, knowledge of God, political folly, the tenderness and jealousy of God, and hope after judgment. The northern dialect and rural imagery (with dew, baking ovens, stubborn heifers) give the book a distinctive texture. It taught later readers, Jewish and Christian, to think of idolatry as betrayal of a relationship, not only as a ritual mistake.

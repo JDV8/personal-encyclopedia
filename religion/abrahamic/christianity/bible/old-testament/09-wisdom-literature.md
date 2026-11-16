@@ -31,6 +31,14 @@ Qoheleth ("the Teacher" or "Assembler"), traditionally Solomon, tests pleasure, 
 
 If Proverbs says "this is how the world generally works," Ecclesiastes says "do not confuse that general grain with a bargain God owes you." Together with Job, it keeps biblical wisdom from becoming a slogan.
 
+
+```mermaid
+flowchart TD
+  Prov[Proverbs: trainable wisdom] --> Job[Job: the righteous sufferer]
+  Prov --> Eccl[Ecclesiastes: vanity and fear of God]
+  Job --> Ps[Psalms: prayer of the community]
+```
+
 ## Where this leads
 
 - Next: [exile and return](10-exile-and-return.md), the historical crisis many of these books were read in or after

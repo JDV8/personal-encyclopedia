@@ -28,6 +28,14 @@ That last claim has to be taught with historical and moral care. For the author,
 
 The Greek of Hebrews is among the most cultivated in the New Testament, which is one more reason the Pauline ascription faded under closer study. The author thinks like a preacher who knows how to use typology without pausing to explain the method: Melchizedek, the veil, the once-a-year entrance, the camp outside which Jesus suffered. A reader who does not yet know Leviticus will feel lost, and that is appropriate. The book was written for insiders of Israel's cultic imagination. It cannot be made easy by skipping the types.
 
+
+```mermaid
+flowchart TD
+  Son[The Son above angels] --> Priest[A superior priesthood]
+  Priest --> Once[Once-for-all offering]
+  Once --> Faith[The faithful run]
+```
+
 ## Themes and reception
 
 Themes include revelation, priesthood, covenant, once-for-all sacrifice, faith as endurance, and a city to come. The book's path into the canon was slower in the West than in the East. It became central to Christian typological reading of the Old Testament and to later doctrines of atonement and of Christ's heavenly intercession. Read it as a sermon, slowly, with Leviticus open.

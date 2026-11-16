@@ -27,6 +27,13 @@ Jeroboam's calves (chapter 12) become "the sin of Jeroboam," the standard indict
 
 The book's architecture rewards slow reading. Solomon's wisdom is displayed in the midwife-and-child judgment, in administrative lists, and in international reputation, and then is undercut by the very internationalism that made him famous: alliances sealed by marriage, and high places for foreign gods. After the split, the narrator will often treat a northern reign and a southern reign in tandem, dating each by the other, so that the reader cannot forget they are two halves of one story. The Elijah cycle, which can feel like a new book beginning at chapter 17, is the narrator's way of saying that when kings fail the covenant, the word of the Lord does not. Prophecy is not a later biblical genre waiting in another section; it is already the engine of this history.
 
+
+```mermaid
+flowchart LR
+  Sol[Solomon and the temple] --> Split[The kingdom splits]
+  Split --> Elijah[Elijah and Ahab]
+```
+
 ## Themes and reception
 
 Themes include wisdom and its limits, the temple, the split of the kingdom, dynastic politics, and the prophet as the Lord's counterweight to the king. The Deuteronomistic evaluations can feel repetitive; they are the book's moral argument, not a failure of style.

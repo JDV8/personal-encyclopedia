@@ -27,6 +27,15 @@ The same narrative records a turn. Solomon loves many foreign women, builds high
 
 The united kingdom is short. The ideas it deposits — a chosen city, a temple, a promised dynasty — last much longer, into exile, return, and the New Testament's arguments about a "son of David."
 
+
+```mermaid
+timeline
+  title The united monarchy, as the narrative tells it
+  Saul : First king, rejected
+  David : Jerusalem, promise of a house
+  Solomon : Temple, then fracture
+```
+
 ## Where this leads
 
 - Next: [the prophets](08-prophets.md), who speak into this royal world and its failures

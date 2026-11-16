@@ -25,6 +25,13 @@ The household code (3:18–4:1) is shorter than Ephesians' and raises the same i
 
 The practical lists of chapter 3 (anger, slander, lies, and then compassion, kindness, humility, and forgiveness) are the letter's test of its high Christology. A cosmic Lord who is not allowed to govern the tongue is, in this author's view, not yet known. The command to let the word of Christ dwell richly, with psalms and hymns and thankfulness, suggests a worshiping community already singing its theology — quite possibly including the hymn of chapter 1. Colossians is therefore not only a polemic against a local error. It is a window on how Christological truth was taught: by hymn, by warning, and by household instruction together.
 
+
+```mermaid
+flowchart TD
+  Hymn[Christ the firstborn] --> Warn[A warning about rivals]
+  Warn --> Life[Raised life]
+```
+
 ## Themes and reception
 
 Themes include the supremacy of Christ, fullness, a polemic against religious supplements, and a practical holiness of the "new self." The letter has been crucial for later Christology and for debates about philosophy and tradition. Whether or not Paul wrote every word, it stands in a clearly Pauline stream and should be read with Philemon and Ephesians.

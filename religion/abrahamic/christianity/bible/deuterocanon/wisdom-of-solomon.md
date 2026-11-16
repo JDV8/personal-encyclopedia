@@ -24,6 +24,13 @@ Alexandrian Judaism (if that setting is right) lived among Greek philosophy, imp
 
 The middle section, in which "Solomon" recounts his prayer for Wisdom and describes her as a spirit of many names, is also a quiet theory of kingship: a ruler who does not ask for Wisdom is a tyrant waiting to happen. That is why the book can address "kings of the earth" without leaving its Jewish monotheism. The exodus midrash then shows the same Wisdom at work in national memory, so that philosophy and narrative are not two religions but two registers of one claim.
 
+
+```mermaid
+flowchart TD
+  Just[The just and the ungodly] --> Wis[The figure of Wisdom]
+  Wis --> Exod[A retelling of the Exodus]
+```
+
 ## Themes and reception
 
 Themes include immortality, justice, Wisdom as a divine figure, kingship, and the folly of idols. The book is scripture in Catholic and Orthodox canons and was widely quoted by early Christian writers. Jewish tradition did not canonize it, but it belongs to the same Hellenistic Jewish world as Philo (who is later and more philosophical still). A first-principles reader of the New Testament, especially of John and of Paul in Romans 1, should know this book.

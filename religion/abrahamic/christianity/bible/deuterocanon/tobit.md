@@ -27,6 +27,13 @@ The parallel prayers of chapter 3, answered together, are the book's theology of
 
 The medical and demonic plot (a fish's gall, heart, and liver used as remedies) belongs to a world in which healing and exorcism are not yet separated into modern departments. Raphael is both physician and angel. The book therefore sits naturally beside later Gospel healing stories, without being their source in a simple sense. It is a cousin in the same cosmos: God sends help under an ordinary face, and a family learns, at the end, whom they have been entertaining.
 
+
+```mermaid
+flowchart LR
+  Blind[Tobit's blindness] --> Road[Tobiah's journey]
+  Road --> Heal[Healing and marriage]
+```
+
 ## Themes and reception
 
 Themes include hidden angels, almsgiving, burial, family loyalty, and hope for Jerusalem from exile. The book is canonical in Catholic and Orthodox churches and is read as scripture there; Jewish and Protestant canons do not include it, though Jews kept related traditions of piety, and the Qumran fragments show that the story was read in Hebrew and Aramaic. Painters loved Tobias and the fish, and the angel in disguise. A first-principles reader can learn diaspora ethics from it whether or not it stands in their canon.

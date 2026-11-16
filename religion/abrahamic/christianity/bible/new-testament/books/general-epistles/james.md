@@ -27,6 +27,14 @@ The hearers are assemblies (*synagogai* in 2:2) where the poor may be dishonored
 
 The letter's address to "the twelve tribes in the Dispersion" can be read literally (Jewish Christians abroad) or theologically (the whole church as Israel in exile). Either way, James writes as a teacher of a people who already confess "our glorious Lord Jesus Christ" (2:1) and who still need to be told that favoritism in the assembly is blasphemy against that name. The Greek is competent; the moral world is that of Israel's wisdom and of Jesus' own sayings. A late Gentile church that had forgotten that combination would have found this book uncomfortable. That is one reason to keep reading it.
 
+
+```mermaid
+flowchart LR
+  Hear[Hearers and doers] --> Rich[The rich and the poor]
+  Rich --> Faith[Faith and works]
+  Faith --> Tongue[The tongue and wisdom]
+```
+
 ## Themes and reception
 
 Themes include integrity, speech, the poor, patience, and an active faith. After Luther's suspicion, the book was recovered as wisdom and as social protest. Its canonical status was questioned in antiquity by some, and then secured. Read it aloud; it was meant to sting.
