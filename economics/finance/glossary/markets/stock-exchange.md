@@ -1,0 +1,5 @@
+# Stock exchange
+
+An organised marketplace where securities are listed and traded under common rules. In this course the term is explained in context in the lesson [What an exchange does](../../04-markets/01-what-an-exchange-does.md). That lesson also covers [Limit order book](limit-order-book.md), [Dark pool](dark-pool.md), [Demutualization](demutualization.md) and [Over-the-counter (OTC)](over-the-counter.md).
+
+**See also:** [Markets: how trading works](../../04-markets/README.md) (section overview)

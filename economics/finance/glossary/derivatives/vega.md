@@ -1,0 +1,5 @@
+# Vega
+
+The change in an option's price for a one-point change in implied volatility. In this course the term is explained in context in the lesson [Option payoffs and strategies](../../03-securities/04-derivatives/04-option-payoffs-and-strategies.md). That lesson also covers [Protective put](protective-put.md), [Covered call](covered-call.md), [Straddle](straddle.md) and [Option spread](spread-strategy.md).
+
+**See also:** [Derivatives](../../03-securities/04-derivatives/README.md) (section overview)
