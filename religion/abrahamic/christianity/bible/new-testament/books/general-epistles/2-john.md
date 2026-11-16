@@ -1,5 +1,9 @@
 # 2 John
 
+
+![adoration of the Magi](images/2-john.jpg)
+
+*adoration of the Magi Credit: Fra Angelico and Fra Filippo Lippi (1395 - 1455) – painter (Italian) Born in Italy, Mugello, Vicchio. Died in Italy, Rome. Details on Google Art Project. License: Public domain. Source: [File:Fra Angelico, Fra Filippo Lippi, The Adoration of the Magi.jpg](https://commons.wikimedia.org/wiki/File:Fra_Angelico,_Fra_Filippo_Lippi,_The_Adoration_of_the_Magi.jpg).*
 **Name and meaning.** The Second Letter of John is a brief note from "the elder" to "the elect lady and her children" — almost certainly a church and its members, though a particular woman of standing is not impossible. It repeats the first letter's concern: love one another, and do not welcome those who do not confess Jesus Christ come in the flesh.
 
 **Prerequisites:** [1 John](1-john.md).
@@ -45,4 +49,4 @@ The brevity is itself instructive. A complete Johannine warning can be written i
 ## Where this leads
 
 - Next: [3 John](3-john.md)
-- Glossary: [hospitality](../../../../glossary/hospitality.md), [elder](../../../../glossary/elder.md), [antichrist](../../../../glossary/antichrist.md)
+- Glossary: hospitality, [elder](../../../glossary/terms/elder.md), antichrist

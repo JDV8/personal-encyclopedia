@@ -3,9 +3,9 @@
 **Prerequisites:** [*Daodejing*](daodejing.md) and [Zhuangzi](../thinkers/zhuangzi.md)
 
 
-![Bian Zhuangzi Killing Tigerslabel QS:Lzh,"宋人卞莊子刺虎圖 卷"label QS:Len,"Bian Zhuangzi Killing Tigers"](images/zhuangzi.jpg)
+![Bian Zhuangzi Killing Tigers](images/zhuangzi.jpg)
 
-*Bian Zhuangzi Killing Tigerslabel QS:Lzh,"宋人卞莊子刺虎圖 卷"label QS:Len,"Bian Zhuangzi Killing Tigers" Credit: Unknown authorUnknown author. License: Public domain. Source: [File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg](https://commons.wikimedia.org/wiki/File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg).*
+*Bian Zhuangzi Killing Tigers Credit: Unknown authorUnknown author. License: Public domain. Source: [File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg](https://commons.wikimedia.org/wiki/File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg).*
 ## Dating and authorship
 
 A large, layered book. Many scholars treat the Inner Chapters (1–7) as closest to Zhuang Zhou; the Outer and Miscellaneous chapters include later hands. Guo Xiang's recension (third–fourth century CE) is the received form. Burton Watson, A. C. Graham, and Brook Ziporyn are major English versions, sometimes quite different in the contested chapters.

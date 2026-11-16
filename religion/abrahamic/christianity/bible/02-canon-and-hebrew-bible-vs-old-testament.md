@@ -3,6 +3,10 @@
 **Prerequisites:** [What the Bible is](01-what-the-bible-is.md)
 **Key ideas:** a canon is a list a community treats as scripture; the Tanakh and the Protestant Old Testament contain the same books in a different order and frame; Catholic and Orthodox canons include additional books; "Old Testament" is already a Christian name.
 
+
+![Gutenberg Bible on display at the New York Public Library](images/02-canon-and-hebrew-bible-vs-old-testament.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 A **canon** is not just "the table of contents." It is a decision, usually gradual, about which writings count as the rule of a community's faith. Nobody in 800 BCE was carrying "the Bible." Books were written, used, copied, sometimes lost, sometimes disputed, and only later closed into a list.
 
 ## The Hebrew Bible (Tanakh)

@@ -1,5 +1,9 @@
 # Leviticus
 
+
+![Breastplate on the front of the central Sephardic synagogue in Ramat Gan](images/leviticus.jpg)
+
+*Breastplate on the front of the central Sephardic synagogue in Ramat Gan Credit: Dr. Avishai Teicher. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:PikiWiki Israel 34561 Breastplate on the front of the central Sephardic.JPG](https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_34561_Breastplate_on_the_front_of_the_central_Sephardic.JPG).*
 **Name and meaning.** *Leviticus* is the Latin form of a Greek title meaning "pertaining to the Levites." In Hebrew the book is *Vayikra*, "And he called," from its first word. Levites and priests are not the only subject, but the book is the Torah's manual of sacrifice, purity, and holiness: how a people lives with a holy God who now dwells among them.
 
 **Prerequisites:** [Exodus](exodus.md), especially the tabernacle chapters, and [genres](../../../04-genres.md) on law. The story path does not retell Leviticus at length; read it here, then return to [Numbers](numbers.md).
@@ -49,5 +53,5 @@ Jewish reception made Leviticus a core of priestly and then rabbinic halakhah; t
 ## Where this leads
 
 - Next: [Numbers](numbers.md)
-- Related: [covenant](../../../glossary/covenant.md), [atonement](../../../glossary/atonement.md), [priest](../../../glossary/priest.md), [sabbath](../../../glossary/sabbath.md)
+- Related: [covenant](../../../glossary/themes/covenant.md), [atonement](../../../glossary/themes/sacrifice-and-atonement.md), [priest](../../../glossary/terms/priest.md), [sabbath](../../../glossary/terms/sabbath.md)
 - New Testament conversation: [Hebrews](../../../new-testament/books/general-epistles/hebrews.md), [Matthew](../../../new-testament/books/gospels/matthew.md)

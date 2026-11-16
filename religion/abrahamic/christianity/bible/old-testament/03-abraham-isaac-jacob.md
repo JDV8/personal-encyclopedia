@@ -3,6 +3,10 @@
 **Prerequisites:** [Cain and Abel, the Flood, and Babel](02-cain-abel-flood-babel.md)
 **Key ideas:** a particular family is called; covenant, promise, and land; testing and blessing; Jacob becomes Israel; the stories are family narratives with moral ambiguity, not stained-glass portraits.
 
+
+![Zweifacher Wandelaltar](images/03-abraham-isaac-jacob.jpg)
+
+*Zweifacher Wandelaltar Credit: Master Bertram. License: Public domain. Source: [File:Meister Bertram von Minden 002.jpg](https://commons.wikimedia.org/wiki/File:Meister_Bertram_von_Minden_002.jpg).*
 At Genesis 12 the camera narrows. From "all the earth" the story follows one man, Abram, and the people that will come from him.
 
 ## Abraham

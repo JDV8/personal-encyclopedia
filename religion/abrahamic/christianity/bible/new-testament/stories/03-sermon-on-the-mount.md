@@ -4,6 +4,10 @@
 
 **Key ideas:** Matthew gathers Jesus' teaching into a long discourse on a mountain; the Beatitudes, the antitheses, the Lord's Prayer, and the demand to love enemies are the load-bearing pieces; this is not a gentle add-on to the gospel of the cross, but a teaching about the kingdom's righteousness.
 
+
+![Église Saint-Martin de Castelnau-d'Estrétefonds - Le Sermon sur la montagne par Robert Arsène IM31000073](images/03-sermon-on-the-mount.jpg)
+
+*Église Saint-Martin de Castelnau-d'Estrétefonds - Le Sermon sur la montagne par Robert Arsène IM31000073 Credit: Didier Descouens. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Église Saint-Martin de Castelnau-d'Estrétefonds - Le Sermon sur la montagne par Robert Arsène IM31000073.jpg](https://commons.wikimedia.org/wiki/File:Église_Saint-Martin_de_Castelnau-d'Estrétefonds_-_Le_Sermon_sur_la_montagne_par_Robert_Arsène_IM31000073.jpg).*
 ## A discourse, and a plain
 
 Matthew 5–7 is the first of the Gospel's five teaching blocks. Jesus goes up a mountain, sits (the posture of a teacher), and speaks to disciples with the crowds in earshot. Luke 6 has a shorter, related sermon on a "level place," with blessings and woes, the command to love enemies, and the tree and the house. A common scholarly view is that both evangelists used a shared sayings tradition and shaped it. Traditional reading takes both as memories of Jesus' preaching, possibly of more than one occasion. The student should read both, not only Matthew.
@@ -36,4 +40,4 @@ For this encyclopedia the first-principles yield is: the kingdom Jesus announces
 
 - Next: [Miracles](04-miracles.md)
 - Related: [Matthew](../books/gospels/matthew.md), [James](../books/general-epistles/james.md)
-- Glossary: [Beatitudes](../../glossary/beatitudes.md), [kingdom of God](../../glossary/kingdom-of-god.md), [Lord's Prayer](../../glossary/lords-prayer.md)
+- Glossary: [Beatitudes](../../glossary/terms/beatitudes.md), [kingdom of God](../../glossary/themes/kingdom-of-god.md), [Lord's Prayer](../../glossary/terms/lords-prayer.md)

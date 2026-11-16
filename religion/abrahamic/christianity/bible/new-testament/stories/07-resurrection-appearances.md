@@ -4,6 +4,10 @@
 
 **Key ideas:** All four Gospels end with an empty tomb (Mark's earliest ending stops at the fear of the women); appearance stories differ in place (Galilee or Jerusalem), in who sees Jesus first, and in what is emphasized (a meal, a doubt, a commissioning); Christian proclamation begins here; historical study can describe the claims and their earliness, and cannot, by its own tools, settle the confession.
 
+
+![Doubting Thomas](images/07-resurrection-appearances.jpg)
+
+*Doubting Thomas Credit: Caravaggio. License: Public domain. Source: [File:Caravaggio - The Incredulity of Saint Thomas.jpg](https://commons.wikimedia.org/wiki/File:Caravaggio_-_The_Incredulity_of_Saint_Thomas.jpg).*
 ## Tomb and lists
 
 Mark 16:1–8: women come at dawn, find the stone rolled back, hear a young man's announcement that Jesus has been raised and goes before them to Galilee, and flee, saying nothing to anyone, for they were afraid. Matthew adds an earthquake, an angel, a meeting with Jesus on the way, a guard and a rumor of theft, and a mountain commissioning in Galilee. Luke keeps the women in Jerusalem, adds Peter's running to the tomb (in some texts), the Emmaus road, an appearance to the Eleven with fish, a scripture lesson, and a blessing near Bethany. John has Mary Magdalene, two disciples at the tomb, Mary's recognition when her name is spoken, a locked-room appearance, Thomas a week later, and a later Galilee breakfast and the restoration of Peter (chapter 21).
@@ -33,4 +37,4 @@ The appearances also include doubt (Thomas, and the "some doubted" of Matthew 28
 
 - Next: [The early church](08-early-church.md)
 - Book path: [Matthew](../books/gospels/matthew.md) 28, [Luke](../books/gospels/luke.md) 24, [John](../books/gospels/john.md) 20–21, [1 Corinthians](../books/pauline-epistles/1-corinthians.md) 15
-- Glossary: [resurrection](../../glossary/resurrection.md), [Mary Magdalene](../../glossary/mary-magdalene.md), [Thomas](../../glossary/thomas.md)
+- Glossary: [resurrection](../../glossary/terms/resurrection.md), [Mary Magdalene](../../glossary/people/mary-magdalene.md), [Thomas](../../glossary/people/thomas.md)

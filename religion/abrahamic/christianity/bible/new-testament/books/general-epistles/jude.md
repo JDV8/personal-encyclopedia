@@ -1,5 +1,9 @@
 # Jude
 
+
+![Flagellation of Christ](images/jude.jpg)
+
+*Flagellation of Christ Credit: Hans Rottenhammer. License: PDM-owner. Source: [File:The Flagellation (SM 2108).png](https://commons.wikimedia.org/wiki/File:The_Flagellation_(SM_2108).png).*
 **Name and meaning.** The Letter of Jude, a short, vivid warning "to those who are called" against certain people who "have stolen in" and are turning the grace of God into licentiousness and denying "our only Master and Lord, Jesus Christ." The author identifies himself as "Jude, a servant of Jesus Christ and brother of James."
 
 **Prerequisites:** [2 Peter](2-peter.md) (which appears to reuse much of this letter) and the survey of [general epistles](README.md).
@@ -41,4 +45,4 @@ Because the book is short, it is easily treated as a footnote to 2 Peter. It is 
 ## Where this leads
 
 - The general epistles end; the New Testament closes with [Revelation](../prophecy/revelation.md)
-- Glossary: [faith](../../../../glossary/faith.md), [doxology](../../../../glossary/doxology.md), [James](../../../../glossary/james.md)
+- Glossary: [faith](../../../glossary/terms/faith.md), doxology, [James](james.md)

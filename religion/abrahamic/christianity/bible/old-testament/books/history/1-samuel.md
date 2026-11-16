@@ -1,5 +1,9 @@
 # 1 Samuel
 
+
+![Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last…](images/1-samuel.jpg)
+
+*Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last… Credit: Phillip Medhurst. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Saül rencontre Samuel (1 Samuel 9 18) • invenit James Tissot • pinxit Georges Bertin Scott • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg](https://commons.wikimedia.org/wiki/File:Saül_rencontre_Samuel_(1_Samuel_9_18)_•_invenit_James_Tissot_•_pinxit_Georges_Bertin_Scott_•_excudit_Maurice_de_Brunoff_apud_Philip_de_Vere_•_praesentat_Phillip_Medhurst.jpg).*
 **Name and meaning.** In Hebrew, 1 and 2 Samuel are a single book, later divided. The title comes from Samuel, the prophet and king-maker who dominates the first half. The narrative then shifts to Saul and to the rise of David. In the Tanakh this is among the Former Prophets; in Christian Bibles it is a historical book.
 
 **Prerequisites:** [Judges](judges.md) and [Ruth](ruth.md). Story companion: [Saul, David, and Solomon](../../07-saul-david-solomon.md).
@@ -44,4 +48,4 @@ Jewish and Christian tradition both read it as sacred history and as a moral mir
 
 - Next: [2 Samuel](2-samuel.md), David's reign
 - Story path: [Saul, David, and Solomon](../../07-saul-david-solomon.md)
-- Glossary: [Samuel](../../../glossary/samuel.md), [Saul](../../../glossary/saul.md), [David](../../../glossary/david.md), [Philistines](../../../glossary/philistines.md)
+- Glossary: [Samuel](../../../glossary/people/samuel.md), [Saul](../../../glossary/people/saul.md), [David](../../../glossary/people/david.md), [Philistines](../../../glossary/terms/philistines.md)

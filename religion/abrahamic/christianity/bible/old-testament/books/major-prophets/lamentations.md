@@ -1,5 +1,9 @@
 # Lamentations
 
+
+![Jérémie pleurant la destruction de Jérusalem Jeremiah Lamenting the Destruction of Jerusalem pleurant la destruction de…](images/lamentations.jpg)
+
+*Jérémie pleurant la destruction de Jérusalem Jeremiah Lamenting the Destruction of Jerusalem pleurant la destruction de… Credit: Rembrandt. License: Public domain. Source: [File:Rembrandt Harmensz. van Rijn - Jeremia treurend over de verwoesting van Jeruzalem - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_-_Google_Art_Project.jpg).*
 **Name and meaning.** In Hebrew the book is *Eikhah*, "How," the first word of the first poem ("How lonely sits the city"). The English title describes the genre. Five poems mourn the fall of Jerusalem in 586 BCE: a ruined city, starving inhabitants, a defeated king, and a God who has become an enemy and yet remains the only hope.
 
 **Prerequisites:** [Jeremiah](jeremiah.md), [2 Kings](../history/2-kings.md), and [Exile and return](../../10-exile-and-return.md). Helpful: [Psalms](../wisdom-poetry/psalms.md) on lament as a biblical speech-form.
@@ -40,4 +44,4 @@ Themes include grief, guilt, the hidden or hostile face of God, memory, and a ho
 ## Where this leads
 
 - Next: [Ezekiel](ezekiel.md), another witness of the same catastrophe, from exile
-- Glossary: [lament](../../../glossary/lament.md), [exile](../../../glossary/exile.md), [Zion](../../../glossary/zion.md), [temple](../../../glossary/temple.md)
+- Glossary: [lament](../../../glossary/terms/lament.md), [exile](../../../glossary/themes/exile-and-return.md), [Zion](../../../glossary/places/zion.md), [temple](../../../glossary/themes/temple.md)

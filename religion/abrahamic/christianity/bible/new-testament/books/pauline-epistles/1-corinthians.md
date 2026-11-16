@@ -1,8 +1,12 @@
 # 1 Corinthians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/1-corinthians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The First Letter of Paul to the Corinthians (at least the first that entered the canon; 5:9 mentions an earlier letter). It is a pastoral and argumentative letter to a gifted, divided, and morally messy church in a major Greek city, covering factions, lawsuits, sexuality, idol-food, worship, spiritual gifts, and the resurrection.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md) and [Paul's journeys](../../../stories/09-pauls-journeys.md). Acts 18 is the founding narrative.
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md) and [Paul's journeys](../../stories/09-pauls-journeys.md). Acts 18 is the founding narrative.
 
 ## Dating and authorship
 
@@ -46,4 +50,4 @@ Themes include the cross, unity, the body, holiness, love, and resurrection. The
 ## Where this leads
 
 - Next: [2 Corinthians](2-corinthians.md)
-- Glossary: [cross](../../../../glossary/cross.md), [spiritual gifts](../../../../glossary/spiritual-gifts.md), [resurrection](../../../../glossary/resurrection.md), [Lord's Supper](../../../../glossary/lords-supper.md)
+- Glossary: cross, spiritual gifts, [resurrection](../../../glossary/terms/resurrection.md), [Lord's Supper](../../../glossary/terms/lords-supper.md)

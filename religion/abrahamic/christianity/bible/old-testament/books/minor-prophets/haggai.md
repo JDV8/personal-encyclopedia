@@ -1,5 +1,9 @@
 # Haggai
 
+
+![The Prophet Haggai](images/haggai.jpg)
+
+*The Prophet Haggai Credit: anonymous. License: Public domain. Source: [File:British (English) School - The Prophet Haggai - 1430496.20 - National Trust.jpg](https://commons.wikimedia.org/wiki/File:British_(English)_School_-_The_Prophet_Haggai_-_1430496.20_-_National_Trust.jpg).*
 **Name and meaning.** Named for the prophet Haggai, who, with [Zechariah](zechariah.md), urged the returned exiles to rebuild the temple in the second year of Darius I (520 BCE). The book is short, dated to the day, and practical: the house of the Lord lies in ruins while paneled houses are inhabited, and the land's meager yield is interpreted as a sign.
 
 **Prerequisites:** [Exile and return](../../10-exile-and-return.md) and [Ezra](../history/ezra.md).
@@ -41,4 +45,4 @@ Themes include priorities, the temple as the center of a restored life, discoura
 ## Where this leads
 
 - Next: [Zechariah](zechariah.md)
-- Glossary: [Second Temple](../../../glossary/second-temple.md), [Zerubbabel](../../../glossary/zerubbabel.md), [remnant](../../../glossary/remnant.md)
+- Glossary: [Second Temple](../../../glossary/terms/second-temple.md), [Zerubbabel](../../../glossary/people/zerubbabel.md), [remnant](../../../glossary/terms/remnant.md)

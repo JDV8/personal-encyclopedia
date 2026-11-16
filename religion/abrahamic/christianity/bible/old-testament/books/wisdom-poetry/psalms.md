@@ -1,5 +1,9 @@
 # Psalms
 
+
+![David playing the harp before Saul](images/psalms.jpg)
+
+*David playing the harp before Saul Credit: Rembrandt. License: Public domain. Source: [File:Saul and David rembrandt.jpg](https://commons.wikimedia.org/wiki/File:Saul_and_David_rembrandt.jpg).*
 **Name and meaning.** *Psalms* comes from a Greek word for songs sung to a stringed instrument. In Hebrew the book is *Tehillim*, "praises," though the collection includes lament, thanksgiving, royal psalms, wisdom psalms, and curses as well as praise. It is the Bible's prayer book and hymnbook, and in both Jewish and Christian life it has been the most constantly used biblical book.
 
 **Prerequisites:** [Wisdom literature](../../09-wisdom-literature.md) and [genres](../../../04-genres.md). Helpful: [2 Samuel](../history/2-samuel.md), because so many psalms are tied to David and to Zion.
@@ -50,4 +54,4 @@ Jewish life uses the Psalms daily (and has cycles for completing the book). The 
 - Next: [Proverbs](proverbs.md)
 - Companion: [Wisdom literature](../../09-wisdom-literature.md)
 - New Testament use: [Matthew](../../../new-testament/books/gospels/matthew.md), [Acts](../../../new-testament/books/history/acts.md), [Hebrews](../../../new-testament/books/general-epistles/hebrews.md)
-- Glossary: [psalm](../../../glossary/psalm.md), [David](../../../glossary/david.md), [Messiah](../../../glossary/messiah.md), [lament](../../../glossary/lament.md)
+- Glossary: [psalm](../../../glossary/terms/psalm.md), [David](../../../glossary/people/david.md), [Messiah](../../../glossary/themes/messiah.md), [lament](../../../glossary/terms/lament.md)

@@ -3,6 +3,10 @@
 **Prerequisites:** [Canon](02-canon-and-hebrew-bible-vs-old-testament.md)
 **Key ideas:** Hebrew, Aramaic, and Greek as the biblical languages; translation is already interpretation; books often grew over time; traditional authorship and historical-critical models often diverge.
 
+
+![Gutenberg Bible on display at the New York Public Library](images/03-languages-dating-and-composition.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 ## Languages
 
 Most of the Hebrew Bible is written in **Hebrew**. A few sections (parts of Daniel and Ezra, a verse in Jeremiah, and a phrase here and there) are in **Aramaic**, a related Semitic language that became a common tongue of the Near East and, by Jesus' time, the everyday speech of many Jews in Palestine.

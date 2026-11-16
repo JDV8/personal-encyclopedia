@@ -3,6 +3,10 @@
 **Prerequisites:** [Ancient Greek philosophy](README.md)
 **Key ideas:** *arche* as originating principle; *logos* as account, reason, and (in Heraclitus) the world's intelligible structure; the problem of change as the tension between flux and stable being.
 
+
+![Scuola di AteneThe School of Athenslabel…](images/01-foundational-concepts.jpg)
+
+*Scuola di AteneThe School of Athenslabel… Credit: Raphael. License: Public domain. Source: [File:"The School of Athens" by Raffaello Sanzio da Urbino.jpg](https://commons.wikimedia.org/wiki/File:"The_School_of_Athens"_by_Raffaello_Sanzio_da_Urbino.jpg).*
 Before the famous names, three concepts do most of the work.
 
 ## *Arche*

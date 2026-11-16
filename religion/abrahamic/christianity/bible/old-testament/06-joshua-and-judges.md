@@ -3,6 +3,10 @@
 **Prerequisites:** [Moses, the Exodus, and Sinai](05-moses-exodus-and-sinai.md)
 **Key ideas:** entry into the land as promise and as violence; Joshua's relatively unified conquest versus Judges' messy cycle; "there was no king in Israel"; the moral and historical problems of conquest.
 
+
+![Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last…](images/06-joshua-and-judges.jpg)
+
+*Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last… Credit: Phillip Medhurst. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Ai is taken by Joshua (Joshua 8 19) gouache on board by James Tissot Jewish Museum New York.jpg](https://commons.wikimedia.org/wiki/File:Ai_is_taken_by_Joshua_(Joshua_8_19)_gouache_on_board_by_James_Tissot_Jewish_Museum_New_York.jpg).*
 Moses dies on the edge of the land, seeing it but not crossing. Joshua, his assistant, is commissioned: be strong, keep the law, the Lord will be with you.
 
 ## Joshua

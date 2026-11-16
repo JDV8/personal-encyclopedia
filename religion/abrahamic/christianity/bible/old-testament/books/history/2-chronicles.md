@@ -1,5 +1,9 @@
 # 2 Chronicles
 
+
+![A photograph of Synagogue painting: Jerusalem, Temple of Solomon central door in wall](images/2-chronicles.jpg)
+
+*A photograph of Synagogue painting: Jerusalem, Temple of Solomon central door in wall Credit: anonymous. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Dura-Europos archival photograph, YUAG negative number dura-g1127a~01 -object-id-5654.jpg](https://commons.wikimedia.org/wiki/File:Dura-Europos_archival_photograph,_YUAG_negative_number_dura-g1127a~01_-object-id-5654.jpg).*
 **Name and meaning.** The second half of Chronicles, from Solomon's temple-building to the edict of Cyrus that permits a return and a rebuilt house. It is a history of Judah's kings, written for a post-exilic temple community.
 
 **Prerequisites:** [1 Chronicles](1-chronicles.md) and [1–2 Kings](1-kings.md).
@@ -49,4 +53,4 @@ Themes include the temple, repentance, prophetic warning, and a Judah-centered m
 
 - Next: [Ezra](ezra.md)
 - Story path: [Exile and return](../../10-exile-and-return.md)
-- Glossary: [temple](../../../glossary/temple.md), [Hezekiah](../../../glossary/hezekiah.md), [Josiah](../../../glossary/josiah.md), [Cyrus](../../../glossary/cyrus.md)
+- Glossary: [temple](../../../glossary/themes/temple.md), [Hezekiah](../../../glossary/people/hezekiah.md), [Josiah](../../../glossary/people/josiah.md), [Cyrus](../../../glossary/people/cyrus.md)

@@ -1,5 +1,9 @@
 # Temple
 
+
+![Holyland Model of Jerusalem. A model of Herod's Temple adjacent to the Shrine of the Book exhibit at the Israel Museum, Jerusalem.](images/temple.jpg)
+
+*Holyland Model of Jerusalem. A model of Herod's Temple adjacent to the Shrine of the Book exhibit at the Israel Museum, Jerusalem. Credit: Berthold Werner. License: Public domain. Source: [File:Jerusalem Modell BW 2.JPG](https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG).*
 The temple in Jerusalem is the house of the Lord's name and presence, the place of sacrifice, pilgrimage, and, in later centuries, of international Jewish identity. It has a history, not only a symbolism: a first house built by [Solomon](../people/solomon.md), destroyed in 586; a [Second Temple](../terms/second-temple.md) rebuilt under Persia, later enlarged by Herod, destroyed by Rome in 70 CE.
 
 ```mermaid

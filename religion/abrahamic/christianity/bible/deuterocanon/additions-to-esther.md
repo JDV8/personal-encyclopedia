@@ -1,5 +1,9 @@
 # Additions to Esther
 
+
+![Gutenberg Bible on display at the New York Public Library](images/additions-to-esther.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Six substantial passages found in the Greek Esther (and in Catholic and Orthodox Bibles) but not in the Hebrew book of [Esther](../old-testament/books/history/esther.md). They include a dream of Mordecai, edicts, and prayers, and they name God explicitly, which the Hebrew book never does. In many editions they are lettered A–F, or placed at the points in the story they comment on.
 
 **Prerequisites:** [Esther](../old-testament/books/history/esther.md) and [deuterocanon](README.md).
@@ -45,4 +49,4 @@ Themes include named providence, prayer in political danger, and the interpretat
 ## Where this leads
 
 - Next: [Wisdom of Solomon](wisdom-of-solomon.md)
-- Glossary: [Purim](../glossary/purim.md), [Septuagint](../glossary/septuagint.md), [deuterocanon](../glossary/deuterocanon.md)
+- Glossary: [Purim](../glossary/terms/purim.md), [Septuagint](../glossary/terms/septuagint.md), [deuterocanon](../glossary/terms/deuterocanon.md)

@@ -3,6 +3,10 @@
 **Prerequisites:** [Joshua and Judges](06-joshua-and-judges.md)
 **Key ideas:** the rise of kingship as a theological problem, not only a political one; Saul's anointing and rejection; David as chosen, flawed, and promised an enduring house; Solomon as wisdom, temple, and the seeds of division.
 
+
+![A map f the kingdoms of Saul, David, and Solomon.](images/07-saul-david-solomon.jpg)
+
+*A map f the kingdoms of Saul, David, and Solomon. Credit: Biblica, Inc, and Biblica Open Study Bible Resources. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Biblica Open Bible Map 06 The Kingdoms of Saul David and Solomon.png](https://commons.wikimedia.org/wiki/File:Biblica_Open_Bible_Map_06_The_Kingdoms_of_Saul_David_and_Solomon.png).*
 Israel's neighbors have kings. In 1 Samuel the people ask Samuel, the last great judge and a prophet, for a king "like other nations." The request is treated as a rejection of the Lord's kingship. Samuel warns them what a king will take: sons, daughters, fields, a tenth. The Lord tells him to listen to the people anyway. Kingship enters the story under a cloud, and also as a tool God will use.
 
 ## Saul

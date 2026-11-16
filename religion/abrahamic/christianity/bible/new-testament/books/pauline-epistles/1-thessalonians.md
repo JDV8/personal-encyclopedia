@@ -1,8 +1,12 @@
 # 1 Thessalonians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/1-thessalonians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The First Letter of Paul to the Thessalonians, almost certainly the earliest surviving Pauline letter, and probably the earliest document in the New Testament. It is a thanksgiving, a defense of Paul's manner of ministry, and a pastoral word about holiness and about those who have died before the Lord's coming.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md) 17, and [Paul's journeys](../../../stories/09-pauls-journeys.md).
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md), [Acts](../history/acts.md) 17, and [Paul's journeys](../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
@@ -43,4 +47,4 @@ Themes include hope, holiness, pastoral presence, and the coming of the Lord.
 ## Where this leads
 
 - Next: [2 Thessalonians](2-thessalonians.md)
-- Glossary: [parousia](../../../../glossary/parousia.md), [hope](../../../../glossary/hope.md), [sanctification](../../../../glossary/sanctification.md)
+- Glossary: [parousia](../../../glossary/terms/parousia.md), hope, sanctification

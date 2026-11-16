@@ -1,5 +1,9 @@
 # Prayer of Manasseh
 
+
+![Gutenberg Bible on display at the New York Public Library](images/prayer-of-manasseh.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A short penitential prayer attributed to King Manasseh of Judah, who, in [2 Kings](../old-testament/books/history/2-kings.md), is the most condemned of the southern kings, and who, in [2 Chronicles](../old-testament/books/history/2-chronicles.md) 33, is said to have prayed in exile in Babylon and been restored. The Chronicler notes that the prayer is written in a source; this later text is a composition that supplies such a prayer.
 
 **Prerequisites:** [2 Chronicles](../old-testament/books/history/2-chronicles.md) 33 and [deuterocanon](README.md).
@@ -39,9 +43,9 @@ Themes include repentance, the worst-case sinner, creation, and praise after mer
 
 Because it is short, editions sometimes bury it in an appendix. It is worth reading slowly, aloud, as it was meant to be prayed, and then returning to the question the Chronicler had already raised: can the king on whom Kings blames the exile also be a model of repentance?
 
-The variation of its canonical status among churches is itself a teaching moment about the [deuterocanon](../glossary/deuterocanon.md): "the" Bible is a family of related lists, not a single identical table of contents.
+The variation of its canonical status among churches is itself a teaching moment about the [deuterocanon](../glossary/terms/deuterocanon.md): "the" Bible is a family of related lists, not a single identical table of contents.
 
 ## Where this leads
 
 - Next: [Psalm 151](psalm-151.md)
-- Glossary: [Manasseh](../glossary/manasseh.md), [repentance](../glossary/repentance.md), [Chronicles](../glossary/chronicles.md)
+- Glossary: [Manasseh](../glossary/people/manasseh.md), [repentance](../glossary/terms/repentance.md), [Chronicles](../glossary/terms/chronicles.md)

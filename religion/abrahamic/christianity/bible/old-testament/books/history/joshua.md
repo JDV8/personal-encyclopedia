@@ -1,5 +1,9 @@
 # Joshua
 
+
+![Joshua and the Israelites before the Walls of Jericho](images/joshua.jpg)
+
+*Joshua and the Israelites before the Walls of Jericho Credit: Christoph Murer. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Christoph Murer, Joshua and the Israelites before the Walls of Jericho, c. 1600, NGA 118889.jpg](https://commons.wikimedia.org/wiki/File:Christoph_Murer,_Joshua_and_the_Israelites_before_the_Walls_of_Jericho,_c._1600,_NGA_118889.jpg).*
 **Name and meaning.** The book is named for Joshua son of Nun, Moses' successor, whose name (Hebrew *Yehoshua*, "the Lord saves") is later shortened to Yeshua — the same name that comes into Greek as *Iesous*, Jesus. In the Tanakh it opens the Former Prophets; in the Christian Old Testament it opens the historical books.
 
 **Prerequisites:** [Deuteronomy](../law-torah/deuteronomy.md) and the story lesson [Joshua and Judges](../../06-joshua-and-judges.md).
@@ -41,4 +45,4 @@ Themes include succession after Moses, the gift of the land, obedience and memor
 
 - Next: [Judges](judges.md)
 - Story path: [Joshua and Judges](../../06-joshua-and-judges.md)
-- Glossary: [covenant](../../../glossary/covenant.md), [herem](../../../glossary/herem.md), [Israel](../../../glossary/israel.md)
+- Glossary: [covenant](../../../glossary/themes/covenant.md), [herem](../../../glossary/terms/herem.md), [Israel](../../../glossary/terms/israel.md)

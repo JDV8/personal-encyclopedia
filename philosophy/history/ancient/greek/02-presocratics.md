@@ -3,6 +3,10 @@
 **Prerequisites:** [Foundational concepts](01-foundational-concepts.md)
 **Key ideas:** natural principles instead of stopping at myth; Milesian *archai*; Pythagorean number and soul; Heraclitean flux and *logos*; Parmenides' challenge to change; atomism as one reply.
 
+
+![Thales, one of the Seven Sages of Greece](images/02-presocratics.jpg)
+
+*Thales, one of the Seven Sages of Greece Credit: Unidentified engraver. License: Public domain. Source: [File:Thales.jpg](https://commons.wikimedia.org/wiki/File:Thales.jpg).*
 "Presocratic" is a later label. It groups Greek thinkers who were not primarily responding to Socrates, from the sixth century BCE into the fifth. We have them mostly in fragments and in reports by later authors (especially Aristotle), so humility is required. What follows is the standard teaching picture, with that caution attached.
 
 ## The Milesians

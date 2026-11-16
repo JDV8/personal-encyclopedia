@@ -3,6 +3,10 @@
 **Prerequisites:** [Old Testament](README.md) and [genres](../04-genres.md)
 **Key ideas:** Genesis 1 and Genesis 2–3 are two accounts, not one smooth paragraph; a good creation and a fractured relationship; traditional readings (including "the Fall") and scholarly comparisons with other Ancient Near Eastern origin stories.
 
+
+![Biblical portrayal · historical narration · landscape · God the Father · Eve · Adam · Adam and Eve · man · woman · group of people · animal · creation ·…](images/01-creation-and-eden.jpg)
+
+*Biblical portrayal · historical narration · landscape · God the Father · Eve · Adam · Adam and Eve · man · woman · group of people · animal · creation ·… Credit: Jan Brueghel the Younger. License: PDM-owner. Source: [File:Paradise with the Creation of Eve (SM 1097).png](https://commons.wikimedia.org/wiki/File:Paradise_with_the_Creation_of_Eve_(SM_1097).png).*
 The Bible opens with origin stories, not with a philosophy textbook. Still, these chapters became some of the most philosophically worked texts in the library: what the world is, what a human being is, and what has gone wrong.
 
 ## Genesis 1: an ordered world

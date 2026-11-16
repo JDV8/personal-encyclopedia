@@ -1,5 +1,9 @@
 # Job
 
+
+![Satan Smiting Job with Sore Boils](images/job.jpg)
+
+*Satan Smiting Job with Sore Boils Credit: William Blake. License: Public domain. Source: [File:William Blake - Satan Smiting Job with Sore Boils - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:William_Blake_-_Satan_Smiting_Job_with_Sore_Boils_-_Google_Art_Project.jpg).*
 **Name and meaning.** Named for Job (Hebrew *Iyyov*), a blameless sufferer from the land of Uz, outside Israel. The book is the Bible's most sustained argument about innocent suffering, the limits of conventional wisdom, and the difference between speaking about God and being answered by God. In the Tanakh it stands among the Writings; in Christian Bibles it opens the wisdom and poetry section.
 
 **Prerequisites:** [Wisdom literature](../../09-wisdom-literature.md) and [genres](../../../04-genres.md). Helpful: [Proverbs](proverbs.md), whose moral world this book tests.
@@ -49,4 +53,4 @@ Jewish reading has midrashim on Job's identity and a place for the book in the W
 
 - Next: [Psalms](psalms.md)
 - Companion lesson: [Wisdom literature](../../09-wisdom-literature.md)
-- Glossary: [wisdom](../../../glossary/wisdom.md), [theodicy](../../../glossary/theodicy.md), [satan](../../../glossary/satan.md)
+- Glossary: [wisdom](../../../glossary/terms/wisdom.md), [theodicy](../../../glossary/terms/theodicy.md), [satan](../../../glossary/people/satan.md)

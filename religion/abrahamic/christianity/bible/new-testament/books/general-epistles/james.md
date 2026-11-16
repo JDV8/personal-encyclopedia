@@ -1,8 +1,12 @@
 # James
 
+
+![Rev. Robert Lee, 1804 - 1868. Regius Professor of Biblical Criticism Robert Lee, 1804 - 1868. Regius Professor of Biblical Criticism…](images/james.jpg)
+
+*Rev. Robert Lee, 1804 - 1868. Regius Professor of Biblical Criticism Robert Lee, 1804 - 1868. Regius Professor of Biblical Criticism… Credit: James R. Edgar. License: Public domain. Source: [File:James Edgar - Rev. Robert Lee, 1804 - 1868. Regius Professor of Biblical Criticism - PG 285 - National Galleries of Scotland.jpg](https://commons.wikimedia.org/wiki/File:James_Edgar_-_Rev._Robert_Lee,_1804_-_1868._Regius_Professor_of_Biblical_Criticism_-_PG_285_-_National_Galleries_of_Scotland.jpg).*
 **Name and meaning.** The Letter of James, a tightly packed work of moral exhortation in good Greek, addressing "the twelve tribes in the Dispersion." It is less a narrative letter than a collection of sayings and short essays on trials, speech, wealth, partiality, and a faith that does something.
 
-**Prerequisites:** [Sermon on the Mount](../../../stories/03-sermon-on-the-mount.md) (the kinship of tone is close) and [Paul's letters](../../../05-pauls-letters.md) on faith and works, which this book is often read against.
+**Prerequisites:** [Sermon on the Mount](../../stories/03-sermon-on-the-mount.md) (the kinship of tone is close) and [Paul's letters](../../05-pauls-letters.md) on faith and works, which this book is often read against.
 
 ## Dating and authorship
 
@@ -44,4 +48,4 @@ The letter also assumes a praying, anointing, confessing community (5:13–20). 
 ## Where this leads
 
 - Next: [1 Peter](1-peter.md)
-- Glossary: [faith](../../../../glossary/faith.md), [works](../../../../glossary/works.md), [wisdom](../../../../glossary/wisdom.md), [James](../../../../glossary/james.md)
+- Glossary: [faith](../../../glossary/terms/faith.md), works, [wisdom](../../../glossary/terms/wisdom.md), [James](james.md)

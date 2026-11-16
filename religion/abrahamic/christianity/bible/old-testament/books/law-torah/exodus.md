@@ -1,5 +1,9 @@
 # Exodus
 
+
+![Moses Smashing the Tablets of the Law](images/exodus.jpg)
+
+*Moses Smashing the Tablets of the Law Credit: Rembrandt. License: Public domain. Source: [File:Rembrandt - Moses Smashing the Tablets of the Law - WGA19132.jpg](https://commons.wikimedia.org/wiki/File:Rembrandt_-_Moses_Smashing_the_Tablets_of_the_Law_-_WGA19132.jpg).*
 **Name and meaning.** *Exodus* is the Latin form of the Greek title, "a going out." In Hebrew the book is *Shemot*, "Names," from its opening words about the names of the sons of Israel who came to Egypt. It is the second book of the Torah and the narrative heart of Israel's memory: deliverance from bondage, covenant at a mountain, and the beginning of a life under law and worship.
 
 **Prerequisites:** [Genesis](genesis.md), and the story lesson [Moses, the Exodus, and Sinai](../../05-moses-exodus-and-sinai.md). Foundations: [languages, dating, and composition](../../../03-languages-dating-and-composition.md).
@@ -28,7 +32,7 @@ The setting assumes New Kingdom Egypt as a place of brick, store-cities, and roy
 
 ## Key passages and ideas
 
-The divine name revealed at the bush (3:14, often rendered "I AM WHO I AM" or "I will be what I will be") is one of the most discussed sentences in the Bible. It is tied to the four-letter name [YHWH](../../../glossary/yhwh.md), which Jewish tradition does not pronounce and Christian Bibles often render as "the Lord."
+The divine name revealed at the bush (3:14, often rendered "I AM WHO I AM" or "I will be what I will be") is one of the most discussed sentences in the Bible. It is tied to the four-letter name [YHWH](../../../glossary/terms/yhwh.md), which Jewish tradition does not pronounce and Christian Bibles often render as "the Lord."
 
 The Passover (chapter 12) becomes a permanent rite: a lamb, unleavened bread, a night of watching, a story told to children. Christian liturgy will reread it through the [Passion](../../../new-testament/stories/06-passion-week.md) and the Last Supper; Jewish liturgy keeps it as the festival of freedom. Both rereadings depend on the Exodus text itself being a story that already commands its own remembrance.
 
@@ -51,5 +55,5 @@ In Jewish life Exodus is the foundation of identity and of Passover. In Christia
 
 - Next: [Leviticus](leviticus.md), the worship and holiness that belong to the people of this covenant
 - Story path: [Moses, the Exodus, and Sinai](../../05-moses-exodus-and-sinai.md)
-- Later echo: [Passover](../../../glossary/passover.md) in the [Passion week](../../../new-testament/stories/06-passion-week.md)
-- Glossary: [covenant](../../../glossary/covenant.md), [Torah](../../../glossary/torah.md), [YHWH](../../../glossary/yhwh.md)
+- Later echo: [Passover](../../../glossary/terms/passover.md) in the [Passion week](../../../new-testament/stories/06-passion-week.md)
+- Glossary: [covenant](../../../glossary/themes/covenant.md), [Torah](../../../glossary/terms/torah.md), [YHWH](../../../glossary/terms/yhwh.md)

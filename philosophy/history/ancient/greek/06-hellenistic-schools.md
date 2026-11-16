@@ -3,6 +3,10 @@
 **Prerequisites:** [Aristotle](05-aristotle.md)
 **Key ideas:** philosophy as a way of life after the classical *polis*; Stoic virtue and living according to nature; Epicurean atomism and freedom from disturbance; Skeptical suspension of judgment.
 
+
+![Head of Epicurus in Palazzo Massimo alle Terme (Rome)](images/06-hellenistic-schools.jpg)
+
+*Head of Epicurus in Palazzo Massimo alle Terme (Rome) Credit: Livioandronico2013. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Head of Epicurus in Palazzo Massimo alle Terme (Rome).JPG](https://commons.wikimedia.org/wiki/File:Head_of_Epicurus_in_Palazzo_Massimo_alle_Terme_(Rome).JPG).*
 "Hellenistic" names the period after Alexander the Great's death in 323 BCE, when Greek culture spread across a world of kingdoms and, later, Roman power. The independent *polis* that shaped Plato and Aristotle was no longer the obvious container of a life. The schools that dominate this period treat philosophy less as a system first and more as a **therapy of the soul**: a trained way to live well when fortune is unstable.
 
 Three schools matter most for a first pass. They disagree sharply, but they share a target: a settled condition of mind (*ataraxia*, freedom from disturbance; or, for the Stoics, a related ideal of not being ruled by the passions).

@@ -1,5 +1,9 @@
 # Psalm 151
 
+
+![Gutenberg Bible on display at the New York Public Library](images/psalm-151.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A short psalm, extant in Greek in many Septuagint manuscripts as a supernumerary psalm after the 150, and now also known in a Hebrew form from the Great Psalms Scroll at Qumran (11QPs-a), where related Davidic material appears. It is a first-person poem in which David, the youngest, is taken from the flocks, anointed, and sent against Goliath. Eastern Orthodox Bibles include it; the Catholic deuterocanon typically does not, and Protestant Psalters stop at 150.
 
 **Prerequisites:** [Psalms](../old-testament/books/wisdom-poetry/psalms.md), [1 Samuel](../old-testament/books/history/1-samuel.md) 16–17, and [deuterocanon](README.md).
@@ -44,4 +48,4 @@ The heading's honesty ("outside the number") is a model for this whole [deuteroc
 ## Where this leads
 
 - Next: [3 Maccabees](3-maccabees.md)
-- Glossary: [Psalms](../glossary/psalm.md), [David](../glossary/david.md), [Septuagint](../glossary/septuagint.md), [Dead Sea Scrolls](../glossary/dead-sea-scrolls.md)
+- Glossary: [Psalms](../glossary/terms/psalm.md), [David](../glossary/people/david.md), [Septuagint](../glossary/terms/septuagint.md), Dead Sea Scrolls

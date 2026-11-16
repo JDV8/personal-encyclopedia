@@ -1,5 +1,9 @@
 # 1 Kings
 
+
+![Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last…](images/1-kings.jpg)
+
+*Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last… Credit: Phillip Medhurst. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Élie sur le Mont Carmel voit un nuage (1 Kings 18 44) • invenit James Tissot • pinxit Charles Hoffbauer • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg](https://commons.wikimedia.org/wiki/File:Élie_sur_le_Mont_Carmel_voit_un_nuage_(1_Kings_18_44)_•_invenit_James_Tissot_•_pinxit_Charles_Hoffbauer_•_excudit_Maurice_de_Brunoff_apud_Philip_de_Vere_•_praesentat_Phillip_Medhurst.jpg).*
 **Name and meaning.** 1 and 2 Kings (a single book in Hebrew, *Melakhim*) tell the story of the monarchy from David's last days to the exile of Judah. 1 Kings runs from Solomon's accession through the division of the kingdom to the reigns of Ahab in the north and Jehoshaphat in the south, and introduces the prophet Elijah.
 
 **Prerequisites:** [2 Samuel](2-samuel.md) and [Saul, David, and Solomon](../../07-saul-david-solomon.md). The prophetic background is in [the prophets](../../08-prophets.md).
@@ -44,4 +48,4 @@ Later Jewish and Christian readers took Solomon as the type of wisdom and of lat
 
 - Next: [2 Kings](2-kings.md)
 - Story path: [Saul, David, and Solomon](../../07-saul-david-solomon.md), then [the prophets](../../08-prophets.md)
-- Glossary: [Solomon](../../../glossary/solomon.md), [Elijah](../../../glossary/elijah.md), [temple](../../../glossary/temple.md), [Israel](../../../glossary/israel.md), [Judah](../../../glossary/judah.md)
+- Glossary: [Solomon](../../../glossary/people/solomon.md), [Elijah](../../../glossary/people/elijah.md), [temple](../../../glossary/themes/temple.md), [Israel](../../../glossary/terms/israel.md), [Judah](../../../glossary/terms/judah.md)

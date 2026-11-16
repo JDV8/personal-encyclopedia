@@ -1,8 +1,12 @@
 # Philemon
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/philemon.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter to Philemon, the shortest of the undisputed Pauline letters, written from prison to a householder (probably in Colossae) about Onesimus, an enslaved man who has been with Paul and is now being sent back. It is a masterpiece of persuasion and a difficult text for later ethics of slavery.
 
-**Prerequisites:** [Colossians](colossians.md), which greets many of the same people and mentions Onesimus, and [Paul's letters](../../../05-pauls-letters.md).
+**Prerequisites:** [Colossians](colossians.md), which greets many of the same people and mentions Onesimus, and [Paul's letters](../../05-pauls-letters.md).
 
 ## Dating and authorship
 
@@ -41,4 +45,4 @@ Themes include partnership, intercession, the transformation of a social relatio
 ## Where this leads
 
 - The Pauline section ends; the general epistles begin with [Hebrews](../general-epistles/hebrews.md)
-- Glossary: [Onesimus](../../../../glossary/onesimus.md), [slavery](../../../../glossary/slavery.md), [house church](../../../../glossary/house-church.md)
+- Glossary: [Onesimus](../../../glossary/people/onesimus.md), [slavery](../../../glossary/terms/slavery.md), [house church](../../../glossary/terms/house-church.md)

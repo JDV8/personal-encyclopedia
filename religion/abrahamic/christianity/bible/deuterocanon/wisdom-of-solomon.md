@@ -1,8 +1,12 @@
 # Wisdom of Solomon
 
+
+![Gutenberg Bible on display at the New York Public Library](images/wisdom-of-solomon.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Also called the Book of Wisdom. A Greek work of Jewish theology and exhortation, written in the name of Solomon, addressing rulers, praising Wisdom as a spirit who is with God, arguing for the immortality of the righteous, and offering a long midrash on the exodus and a critique of idolatry.
 
-**Prerequisites:** [Proverbs](../old-testament/books/wisdom-poetry/proverbs.md), [Ecclesiastes](../old-testament/books/wisdom-poetry/ecclesiastes.md), and [deuterocanon](README.md). Helpful: [philosophy](../../../../philosophy/README.md), because the book thinks in a Hellenistic philosophical vocabulary.
+**Prerequisites:** [Proverbs](../old-testament/books/wisdom-poetry/proverbs.md), [Ecclesiastes](../old-testament/books/wisdom-poetry/ecclesiastes.md), and [deuterocanon](README.md). Helpful: [philosophy](../../../../../philosophy/README.md), because the book thinks in a Hellenistic philosophical vocabulary.
 
 ## Dating and authorship
 
@@ -40,4 +44,4 @@ It is also a political exhortation: rulers are told that their power is given an
 ## Where this leads
 
 - Next: [Sirach](sirach.md)
-- Glossary: [wisdom](../glossary/wisdom.md), [immortality](../glossary/immortality.md), [idolatry](../glossary/idolatry.md)
+- Glossary: [wisdom](../glossary/terms/wisdom.md), immortality, [idolatry](../glossary/terms/idolatry.md)

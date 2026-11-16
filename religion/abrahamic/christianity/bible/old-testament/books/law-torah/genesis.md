@@ -1,5 +1,9 @@
 # Genesis
 
+
+![The Creation of Adam](images/genesis.jpg)
+
+*The Creation of Adam Credit: Michelangelo. License: Public domain. Source: [File:Michelangelo - Creation of Adam (cropped).jpg](https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg).*
 **Name and meaning.** *Genesis* is the Greek title used in the Septuagint, from a word for "origin" or "birth." In Hebrew the book is called *Bereshit*, "In the beginning," after its first word. It is the first book of the Torah / Pentateuch, and the opening of both the Tanakh and the Christian Old Testament.
 
 **Prerequisites:** [What the Bible is](../../../01-what-the-bible-is.md), [canon](../../../02-canon-and-hebrew-bible-vs-old-testament.md), and [genres](../../../04-genres.md). The narrative lessons [Creation and Eden](../../01-creation-and-eden.md), [Cain, the Flood, and Babel](../../02-cain-abel-flood-babel.md), [Abraham, Isaac, and Jacob](../../03-abraham-isaac-jacob.md), and [Joseph](../../04-joseph.md) retell the main arcs.
@@ -50,4 +54,4 @@ Jewish reading takes Genesis as Torah: it is studied with rabbinic commentary as
 
 - Next in the Torah: [Exodus](exodus.md)
 - Story path: [Creation and Eden](../../01-creation-and-eden.md)
-- Glossary: [covenant](../../../glossary/covenant.md), [YHWH](../../../glossary/yhwh.md), [Torah](../../../glossary/torah.md)
+- Glossary: [covenant](../../../glossary/themes/covenant.md), [YHWH](../../../glossary/terms/yhwh.md), [Torah](../../../glossary/terms/torah.md)

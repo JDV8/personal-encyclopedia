@@ -1,5 +1,9 @@
 # 2 Peter
 
+
+![Depicting The Coronation of the Virgin. The church contains one of the most complete sets of mediaeval wall paintings in Britain. They were probably first…](images/2-peter.jpg)
+
+*Depicting The Coronation of the Virgin. The church contains one of the most complete sets of mediaeval wall paintings in Britain. They were probably first… Credit: Jules & Jenny from Lincoln, UK. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Pickering, Ss Peter & Paul church, wall painting (34079936132).jpg](https://commons.wikimedia.org/wiki/File:Pickering,_Ss_Peter_&_Paul_church,_wall_painting_(34079936132).jpg).*
 **Name and meaning.** The Second Letter of Peter, a testament-like warning against false teachers and a defense of the certainty of the Lord's coming, even if it seems delayed. It is closely related to [Jude](jude.md), with which it shares a block of material, and it contains the New Testament's most explicit statement about the inspiration of prophecy and a memorable word about the Lord's patience.
 
 **Prerequisites:** [1 Peter](1-peter.md) and [Jude](jude.md).
@@ -43,4 +47,4 @@ The ethical lists and the attack on the teachers are severe. As with other polem
 
 - Next: [1 John](1-john.md)
 - Related: [Jude](jude.md)
-- Glossary: [parousia](../../../../glossary/parousia.md), [scripture](../../../../glossary/scripture.md), [new creation](../../../../glossary/new-creation.md)
+- Glossary: [parousia](../../../glossary/terms/parousia.md), [scripture](../../../glossary/terms/scripture.md), new creation

@@ -1,5 +1,9 @@
 # Proverbs
 
+
+![Solomon prays for wisdom](images/proverbs.jpg)
+
+*Solomon prays for wisdom Credit: This image is available from the Netherlands Institute for Art Historyunder digital ID 2792.. License: Public domain. Source: [File:Solomon prays for wisdom.jpg](https://commons.wikimedia.org/wiki/File:Solomon_prays_for_wisdom.jpg).*
 **Name and meaning.** *Proverbs* translates Hebrew *Mishlei*, "proverbs of" (Solomon, in the opening title). The book is Israel's school of practical wisdom: short sayings, longer instructions, and poems that train a young person to fear the Lord, read the world, and walk a path of life rather than of ruin.
 
 **Prerequisites:** [Wisdom literature](../../09-wisdom-literature.md). Helpful contrast: [Job](job.md) and [Ecclesiastes](ecclesiastes.md).
@@ -23,7 +27,7 @@ The typical addressee is "my son," in a household or court school. The social wo
 
 ## Key passages and ideas
 
-Proverbs 1:7 and 9:10 state the thesis: the fear of the Lord is the beginning of knowledge or wisdom. Chapter 8 personifies Wisdom as a later Christian tradition would eventually read in connection with the [Logos](../../../../../philosophy/glossary/greek/logos.md) and with Christ (see [John](../../../new-testament/books/gospels/john.md) 1), while Jewish tradition could identify Wisdom with Torah. The historical-critical task is first to hear the poem in its own right: Wisdom delights in the inhabited world and calls simple people to learn.
+Proverbs 1:7 and 9:10 state the thesis: the fear of the Lord is the beginning of knowledge or wisdom. Chapter 8 personifies Wisdom as a later Christian tradition would eventually read in connection with the [Logos](../../../../../../../philosophy/glossary/greek/logos.md) and with Christ (see [John](../../../new-testament/books/gospels/john.md) 1), while Jewish tradition could identify Wisdom with Torah. The historical-critical task is first to hear the poem in its own right: Wisdom delights in the inhabited world and calls simple people to learn.
 
 The two-line sayings teach by comparison, not by exception. They are observations about ordinary patterns (hard work tends toward life; loose talk wrecks a house), not iron laws, which is why [Job](job.md) can protest when the pattern fails without thereby "disproving" Proverbs. The book is also socially pointed: bribes, false weights, mockery of the poor, and lazy privilege are not small faults. The "capable woman" of 31:10–31 is a household economist, trader, and benefactor, not a decorative afterthought; she is wisdom in civic and domestic form.
 
@@ -45,4 +49,4 @@ Jewish and Christian education have used Proverbs as a primer. The New Testament
 - Next: [Ecclesiastes](ecclesiastes.md), which tests wisdom's confidence
 - Companion: [Wisdom literature](../../09-wisdom-literature.md)
 - Related deuterocanon: [Wisdom of Solomon](../../../deuterocanon/wisdom-of-solomon.md), [Sirach](../../../deuterocanon/sirach.md)
-- Glossary: [wisdom](../../../glossary/wisdom.md), [fear of the Lord](../../../glossary/fear-of-the-lord.md)
+- Glossary: [wisdom](../../../glossary/terms/wisdom.md), fear of the Lord

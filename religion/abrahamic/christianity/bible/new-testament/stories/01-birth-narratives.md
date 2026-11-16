@@ -4,6 +4,10 @@
 
 **Key ideas:** Only Matthew and Luke tell infancy stories, and they are not the same story; Mark and John begin without a nativity; each evangelist is already doing theology, not only reportage; later Christmas harmony should not erase the differences.
 
+
+![Medieval paintings on a curved wooden ceiling and semicircular gable walls at each end, from a Norwegian stave church. Photo from an exhibition at the…](images/01-birth-narratives.jpg)
+
+*Medieval paintings on a curved wooden ceiling and semicircular gable walls at each end, from a Norwegian stave church. Photo from an exhibition at the… Credit: Wolfmann. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Historisk Museum Oslo Norway (2025-04-10) Ål stavkirke takmalerier Bibelfortellinger (Stave church ceiling Paintings Biblical narratives late 1200s) 09 Mary Elizabeth 10 Mary gives birth to baby Jesus IMG 5960.jpg](https://commons.wikimedia.org/wiki/File:Historisk_Museum_Oslo_Norway_(2025-04-10)_Ål_stavkirke_takmalerier_Bibelfortellinger_(Stave_church_ceiling_Paintings_Biblical_narratives_late_1200s)_09_Mary_Elizabeth_10_Mary_gives_birth_to_baby_Jesus_IMG_5960.jpg).*
 Matthew and Luke both say that Jesus was born in Bethlehem in the days of Herod, of a mother named Mary, and that Joseph was of the line of David. Almost everything else in the two opening cycles is distinct, and a first-principles reading starts there, not with a school pageant.
 
 ## Two stories, not one
@@ -38,4 +42,4 @@ What is not in serious dispute is the purpose of the stories as they stand. Matt
 
 - Next: [Baptism and temptation](02-baptism-and-temptation.md)
 - Book path: [Matthew](../books/gospels/matthew.md), [Luke](../books/gospels/luke.md)
-- Glossary: [virgin birth](../../glossary/virgin-birth.md), [Bethlehem](../../glossary/bethlehem.md), [Herod](../../glossary/herod.md), [Immanuel](../../glossary/immanuel.md)
+- Glossary: virgin birth, [Bethlehem](../../glossary/places/bethlehem.md), [Herod](../../glossary/people/herod-the-great.md), [Immanuel](../../glossary/terms/immanuel.md)

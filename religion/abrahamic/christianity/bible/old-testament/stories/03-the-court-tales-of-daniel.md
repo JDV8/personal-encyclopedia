@@ -4,6 +4,10 @@
 
 **Key ideas:** Daniel 1–6 is a set of diaspora court stories: fidelity in food and prayer, interpretation of royal dreams, and deliverance from furnace and den; they should be read first as tales, before the visions of chapters 7–12, and they teach a way of living under empire without pretending empire is harmless.
 
+
+![Daniel in the Lions' Den](images/03-the-court-tales-of-daniel.jpg)
+
+*Daniel in the Lions' Den Credit: Peter Paul Rubens. License: Public domain. Source: [File:Sir Peter Paul Rubens - Daniel in the Lions' Den - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions'_Den_-_Google_Art_Project.jpg).*
 Daniel and his three companions are taken to Babylon, educated in the literature of the Chaldeans, and given new names. They refuse the king's food and thrive. Daniel interprets a dream of a great statue of four metals, broken by a stone "not cut by human hands." The three companions refuse to bow to an image and are thrown into a furnace; a fourth figure appears with them, and they come out unburned. A second dream (a tree cut down) humiliates Nebuchadnezzar until he blesses the Most High. Belshazzar's feast, with the temple vessels and a hand writing on the wall, ends a king. Darius, in a later tale, is trapped by his own irrevocable law into sending Daniel to the lions, and Daniel is delivered.
 
 ```mermaid
@@ -27,4 +31,4 @@ The four-metal statue, later reread as a scheme of world empires, already teache
 
 - Book: [Daniel](../books/major-prophets/daniel.md)
 - Deuterocanon: [Additions to Daniel](../../deuterocanon/additions-to-daniel.md)
-- Glossary: [exile](../../glossary/exile.md), [Nebuchadnezzar](../../glossary/nebuchadnezzar.md), [providence](../../glossary/providence.md)
+- Glossary: [exile](../../glossary/themes/exile-and-return.md), [Nebuchadnezzar](../../glossary/people/nebuchadnezzar.md), [providence](../../glossary/terms/providence.md)

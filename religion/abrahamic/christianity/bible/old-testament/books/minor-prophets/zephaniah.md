@@ -1,5 +1,9 @@
 # Zephaniah
 
+
+![mosaic of prophet Zephaniah in the Florence Baptistery](images/zephaniah.jpg)
+
+*mosaic of prophet Zephaniah in the Florence Baptistery Credit: SuzzaneMcg. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:FlorenceBaptistery Zephaniah.png](https://commons.wikimedia.org/wiki/File:FlorenceBaptistery_Zephaniah.png).*
 **Name and meaning.** Named for Zephaniah son of Cushi, with a genealogy traced back to Hezekiah (possibly the king). The book announces a sweeping "day of the Lord" against Judah and the nations, then ends with a song of the Lord's joy over a restored remnant in Zion. It is a small scroll with a large horizon.
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [2 Kings](../history/2-kings.md) on Josiah. Helpful: [Deuteronomy](../law-torah/deuteronomy.md) and [Amos](amos.md) on the day of the Lord.
@@ -40,4 +44,4 @@ Themes include the day of the Lord, complacency, humility, a remnant, the nation
 ## Where this leads
 
 - Next: [Haggai](haggai.md), after the exile
-- Glossary: [day of the Lord](../../../glossary/day-of-the-lord.md), [remnant](../../../glossary/remnant.md), [Josiah](../../../glossary/josiah.md)
+- Glossary: [day of the Lord](../../../glossary/terms/day-of-the-lord.md), [remnant](../../../glossary/terms/remnant.md), [Josiah](../../../glossary/people/josiah.md)

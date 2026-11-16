@@ -3,6 +3,10 @@
 **Prerequisites:** [Second Temple Judaism and Rome](01-second-temple-judaism-and-rome.md) and [genres](../04-genres.md)
 **Key ideas:** a gospel is a proclamation in narrative form; Mark, Matthew, and Luke are "synoptic" and closely related; John is distinct in style and Christology; traditional authorship versus scholarly dating and sources.
 
+
+![* Listed in De Ricci, Seymour, Census of Medieval and Renaissance Manuscripts in the United States and Canada. New York. N.Y.: H.W. Wilson, 1935; and…](images/02-the-four-gospels.jpg)
+
+** Listed in De Ricci, Seymour, Census of Medieval and Renaissance Manuscripts in the United States and Canada. New York. N.Y.: H.W. Wilson, 1935; and… Credit: Scan by NYPL. License: Public domain. Source: [File:Full-page portrait of John in gold frame on purple background (NYPL b12455533).jpg](https://commons.wikimedia.org/wiki/File:Full-page_portrait_of_John_in_gold_frame_on_purple_background_(NYPL_b12455533).jpg).*
 "Gospel" means good news. The four canonical gospels — Matthew, Mark, Luke, and John — are narratives written to announce and interpret Jesus: who he is, what he did and taught, how he died, and that he was raised. They are not novels, and they are not modern biographies. They select, arrange, and preach as they tell.
 
 ## The Synoptics

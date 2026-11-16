@@ -3,6 +3,10 @@
 **Prerequisites:** [Exile and return](../old-testament/10-exile-and-return.md) and the [New Testament overview](README.md)
 **Key ideas:** Judaism after the exile is a scripture-and-temple religion under empire; Hellenistic crisis and the Maccabean revolt; Herod and Roman occupation; parties and hopes (Pharisees, Sadducees, Essenes, zealots, messiah); the world the Gospels assume.
 
+
+![Holyland Model of Jerusalem. A model of Herod's Temple adjacent to the Shrine of the Book exhibit at the Israel Museum, Jerusalem.](images/01-second-temple-judaism-and-rome.jpg)
+
+*Holyland Model of Jerusalem. A model of Herod's Temple adjacent to the Shrine of the Book exhibit at the Israel Museum, Jerusalem. Credit: Berthold Werner. License: Public domain. Source: [File:Jerusalem Modell BW 2.JPG](https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG).*
 The Second Temple stands, in some form, from the late sixth century BCE until the Romans destroy it in 70 CE. Almost everything in the New Testament happens in the last century of that period, or (for some writings) in the generation just after the destruction. "Second Temple Judaism" is the name for the many-sided Jewish world of those centuries. There is no single Judaism here, and there is not yet a "Christianity" separate from it at the beginning.
 
 ## After Persia: Greeks and a revolt

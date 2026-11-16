@@ -1,8 +1,12 @@
 # Colossians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/colossians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter to the Colossians, written to a church in the Lycus valley of Asia Minor that Paul probably did not found (Epaphras did). It presents a high view of Christ as the image of the invisible God, in whom all things hold together, and it opposes a local "philosophy" of regulations, elemental spirits, and visionary religion.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md) and [Ephesians](ephesians.md).
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md) and [Ephesians](ephesians.md).
 
 ## Dating and authorship
 
@@ -40,4 +44,4 @@ Themes include the supremacy of Christ, fullness, a polemic against religious su
 
 - Next: [1 Thessalonians](1-thessalonians.md)
 - Related: [Philemon](philemon.md)
-- Glossary: [Christ](../../../../glossary/christ.md), [fullness](../../../../glossary/fullness.md), [baptism](../../../../glossary/baptism.md)
+- Glossary: [Christ](../../../glossary/terms/christ.md), fullness, [baptism](../../../glossary/terms/baptism.md)

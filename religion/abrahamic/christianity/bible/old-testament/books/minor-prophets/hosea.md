@@ -1,5 +1,9 @@
 # Hosea
 
+
+![Maestà, Altarretabel des Sieneser Doms, Vorderseite, Predella mit Szenen aus der Kindheit Jesu und Propheten, Szene: Prophet Hosea](images/hosea.jpg)
+
+*Maestà, Altarretabel des Sieneser Doms, Vorderseite, Predella mit Szenen aus der Kindheit Jesu und Propheten, Szene: Prophet Hosea Credit: Duccio di Buoninsegna. License: Public domain. Source: [File:Duccio di Buoninsegna 063.jpg](https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_063.jpg).*
 **Name and meaning.** Named for Hosea son of Beeri (Hebrew *Hoshea*, "salvation"), a prophet to the northern kingdom in the eighth century BCE. The book is built around a marriage metaphor: Israel's unfaithfulness to the Lord is adultery; the Lord's stubborn love is a husband's hesed. It opens the Book of the Twelve.
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [1–2 Kings](../history/1-kings.md). Helpful: [Amos](amos.md), a near contemporary in the north.
@@ -40,4 +44,4 @@ Themes include hesed, knowledge of God, political folly, the tenderness and jeal
 ## Where this leads
 
 - Next: [Joel](joel.md)
-- Glossary: [hesed](../../../glossary/hesed.md), [prophet](../../../glossary/prophet.md), [covenant](../../../glossary/covenant.md), [Baal](../../../glossary/baal.md)
+- Glossary: [hesed](../../../glossary/terms/hesed.md), [prophet](../../../glossary/terms/prophet.md), [covenant](../../../glossary/themes/covenant.md), [Baal](../../../glossary/terms/baal.md)

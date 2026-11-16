@@ -4,6 +4,10 @@
 
 **Key ideas:** Genesis 22, the *Aqedah* in Jewish tradition, is a test in which God commands Abraham to offer Isaac and then stays the knife; the story is brief, severe, and among the most interpreted in the Bible; Jewish, Christian, and later philosophical readings diverge and should be held in view together.
 
+
+![Binding of Isaac](images/01-the-binding-of-isaac.jpg)
+
+*Binding of Isaac Credit: Caravaggio / Bartolomeo Cavarozzi. License: Public domain. Source: [File:Sacrifice of Isaac-Caravaggio (c. 1603).jpg](https://commons.wikimedia.org/wiki/File:Sacrifice_of_Isaac-Caravaggio_(c._1603).jpg).*
 The narrative is only a chapter, and it is almost unbearably spare. "Take your son, your only son Isaac, whom you love… and offer him… as a burnt offering." Abraham rises early, cuts the wood, travels three days, answers Isaac's "where is the lamb?" with "God himself will provide the lamb," binds his son, and takes the knife. An angel stops him. A ram is provided. The promise is repeated. They go down the mountain. Sarah is not mentioned, and Isaac does not speak again in the chapter.
 
 ```mermaid
@@ -27,4 +31,4 @@ The geography is "the land of Moriah," later identified in Chronicles and in Jew
 
 - Back to the survey: [Abraham, Isaac, and Jacob](../03-abraham-isaac-jacob.md)
 - Book: [Genesis](../books/law-torah/genesis.md)
-- Glossary: [Aqedah](../../glossary/aqedah.md), [covenant](../../glossary/covenant.md), [Abraham](../../glossary/abraham.md)
+- Glossary: [Aqedah](../../glossary/terms/aqedah.md), [covenant](../../glossary/themes/covenant.md), [Abraham](../../glossary/people/abraham.md)

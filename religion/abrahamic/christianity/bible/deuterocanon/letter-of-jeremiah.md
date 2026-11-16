@@ -1,5 +1,9 @@
 # Letter of Jeremiah
 
+
+![Gutenberg Bible on display at the New York Public Library](images/letter-of-jeremiah.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A short tract, in the form of a letter from Jeremiah to exiles being taken to Babylon, warning them at length not to fear or worship the idols they will see there. In the Septuagint it often stands on its own; in the Vulgate and in many Catholic Bibles it is [Baruch](baruch.md) chapter 6. It is a single, focused argument.
 
 **Prerequisites:** [Jeremiah](../old-testament/books/major-prophets/jeremiah.md) 10 and 29, and [deuterocanon](README.md).
@@ -41,4 +45,4 @@ The "seventy years" heading ties it to Jeremiah's timetable, already being reuse
 ## Where this leads
 
 - Next: [Additions to Daniel](additions-to-daniel.md)
-- Glossary: [idolatry](../glossary/idolatry.md), [Jeremiah](../glossary/jeremiah.md), [Septuagint](../glossary/septuagint.md)
+- Glossary: [idolatry](../glossary/terms/idolatry.md), [Jeremiah](../glossary/people/jeremiah.md), [Septuagint](../glossary/terms/septuagint.md)

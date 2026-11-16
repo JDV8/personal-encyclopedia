@@ -1,5 +1,9 @@
 # Additions to Daniel
 
+
+![Gutenberg Bible on display at the New York Public Library](images/additions-to-daniel.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Three Greek additions to the book of [Daniel](../old-testament/books/major-prophets/daniel.md), found in the Septuagint and in Catholic and Orthodox Bibles: the Prayer of Azariah and the Song of the Three Jews (inserted in the fiery-furnace story of Daniel 3); Susanna (usually before Daniel 1, or as chapter 13); and Bel and the Dragon (usually as chapter 14). They are tales and prayers of fidelity, wisdom, and the unmasking of idols.
 
 **Prerequisites:** [Daniel](../old-testament/books/major-prophets/daniel.md) and [deuterocanon](README.md).
@@ -41,4 +45,4 @@ Jerome already noted that he did not find these pieces in the Hebrew, and he tra
 ## Where this leads
 
 - Next: [1 Maccabees](1-maccabees.md)
-- Glossary: [Daniel](../glossary/daniel.md), [Susanna](../glossary/susanna.md), [idolatry](../glossary/idolatry.md)
+- Glossary: [Daniel](../glossary/people/daniel.md), Susanna, [idolatry](../glossary/terms/idolatry.md)

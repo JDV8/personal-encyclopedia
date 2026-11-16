@@ -1,5 +1,9 @@
 # Titus
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/titus.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter to Titus, the third Pastoral Epistle, addressed to a coworker left in Crete to appoint elders in every town and to teach a sound, sober life in a culture the letter itself describes, via a quoted proverb, as difficult.
 
 **Prerequisites:** [1 Timothy](1-timothy.md). Acts 27 mentions Crete in the shipwreck voyage; a Pauline mission on the island is not narrated in Acts and belongs to the letter's (or the tradition's) own picture.
@@ -42,4 +46,4 @@ Themes include sound doctrine, appointed leadership, household virtue, and salva
 ## Where this leads
 
 - Next: [Philemon](philemon.md), back to an undisputed, very personal letter
-- Glossary: [elder](../../../../glossary/elder.md), [grace](../../../../glossary/grace.md), [Titus](../../../../glossary/titus.md)
+- Glossary: [elder](../../../glossary/terms/elder.md), [grace](../../../glossary/terms/grace.md), [Titus](../../../glossary/people/titus.md)

@@ -1,5 +1,9 @@
 # Baruch
 
+
+![Gutenberg Bible on display at the New York Public Library](images/baruch.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A short book attributed to Baruch son of Neriah, Jeremiah's scribe, written as from the Babylonian exile. It includes a prose introduction, a long communal confession, a wisdom poem, and a consolation of Jerusalem. In some Bibles the [Letter of Jeremiah](letter-of-jeremiah.md) is printed as Baruch chapter 6; this encyclopedia treats that letter in its own file.
 
 **Prerequisites:** [Jeremiah](../old-testament/books/major-prophets/jeremiah.md), [Lamentations](../old-testament/books/major-prophets/lamentations.md), and [deuterocanon](README.md).
@@ -41,4 +45,4 @@ The style is not flashy. Its gift is accumulation: shame, memory, law, and then 
 ## Where this leads
 
 - Next: [Letter of Jeremiah](letter-of-jeremiah.md)
-- Glossary: [Baruch](../glossary/baruch.md), [exile](../glossary/exile.md), [wisdom](../glossary/wisdom.md)
+- Glossary: [Baruch](../glossary/people/baruch.md), [exile](../glossary/themes/exile-and-return.md), [wisdom](../glossary/terms/wisdom.md)

@@ -1,5 +1,9 @@
 # Obadiah
 
+
+![mosaic of prophet Obadiah in the Florence Baptistery](images/obadiah.jpg)
+
+*mosaic of prophet Obadiah in the Florence Baptistery Credit: SuzzaneMcg. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:FlorenceBaptistery Obadiah.png](https://commons.wikimedia.org/wiki/File:FlorenceBaptistery_Obadiah.png).*
 **Name and meaning.** The shortest book in the Hebrew Bible, named for Obadiah ("servant of the Lord"). It is a single oracle against Edom, the neighbor and kin-people southeast of Judah, for violence in the day of Jerusalem's disaster, and a promise that the kingdom shall be the Lord's.
 
 **Prerequisites:** [The prophets](../../08-prophets.md), [Lamentations](../major-prophets/lamentations.md), and [Exile and return](../../10-exile-and-return.md). Edom's ancestor is Esau; see [Genesis](../law-torah/genesis.md) and the Jacob stories.
@@ -41,4 +45,4 @@ Themes include pride, brotherhood, the ethics of watching a neighbor's fall, and
 ## Where this leads
 
 - Next: [Jonah](jonah.md), another word about a foreign nation, of a very different tone
-- Glossary: [Edom](../../../glossary/edom.md), [day of the Lord](../../../glossary/day-of-the-lord.md), [Zion](../../../glossary/zion.md)
+- Glossary: [Edom](../../../glossary/places/edom.md), [day of the Lord](../../../glossary/terms/day-of-the-lord.md), [Zion](../../../glossary/places/zion.md)

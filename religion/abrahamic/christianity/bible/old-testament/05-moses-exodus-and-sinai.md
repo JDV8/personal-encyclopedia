@@ -3,6 +3,10 @@
 **Prerequisites:** [Joseph](04-joseph.md)
 **Key ideas:** a people formed by deliverance and then by covenant; the name of God; plague, Passover, and sea; law given in the wilderness; traditional Mosaic authorship versus a long compositional history.
 
+
+![Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last…](images/05-moses-exodus-and-sinai.jpg)
+
+*Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last… Credit: Phillip Medhurst. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Moïse et Aaron montent au Sinaï (Exodus 19 24) • invenit James Tissot • pinxit James Tissot • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg](https://commons.wikimedia.org/wiki/File:Moïse_et_Aaron_montent_au_Sinaï_(Exodus_19_24)_•_invenit_James_Tissot_•_pinxit_James_Tissot_•_excudit_Maurice_de_Brunoff_apud_Philip_de_Vere_•_praesentat_Phillip_Medhurst.jpg).*
 A new king arises in Egypt who does not know Joseph. The Israelites have become numerous; they are enslaved and their baby boys are ordered killed. One child is hidden, placed in a basket on the Nile, and taken up by Pharaoh's daughter. She names him Moses. He grows up, kills an Egyptian who was beating a Hebrew, and flees to Midian, where he becomes a shepherd and marries Zipporah, daughter of the priest Jethro.
 
 ## Call and Name

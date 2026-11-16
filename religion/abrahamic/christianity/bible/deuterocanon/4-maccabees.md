@@ -1,8 +1,12 @@
 # 4 Maccabees
 
+
+![Gutenberg Bible on display at the New York Public Library](images/4-maccabees.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A Greek philosophical oration, sometimes titled "On the supremacy of pious reason," that retells the martyrdoms of Eleazar and of the mother and seven sons from [2 Maccabees](2-maccabees.md) as a demonstration that reason, trained by the Jewish law, can master the passions. It is included in some Orthodox Bibles or in an appendix, and in many scholarly editions of the Septuagint; it is not in the Catholic deuterocanon.
 
-**Prerequisites:** [2 Maccabees](2-maccabees.md) 6–7 and [deuterocanon](README.md). Helpful: Greek [ethics](../../../../philosophy/concepts/ethics/README.md), especially [virtue](../../../../philosophy/concepts/ethics/virtue-and-arete.md) and [Stoic](../../../../philosophy/history/ancient/greek/06-hellenistic-schools.md) discussion of the passions.
+**Prerequisites:** [2 Maccabees](2-maccabees.md) 6–7 and [deuterocanon](README.md). Helpful: Greek [ethics](../../../../../philosophy/concepts/ethics/README.md), especially [virtue](../../../../../philosophy/concepts/ethics/virtue-and-arete.md) and [Stoic](../../../../../philosophy/history/ancient/greek/06-hellenistic-schools.md) discussion of the passions.
 
 ## Dating and authorship
 
@@ -40,4 +44,4 @@ Read it after 2 Maccabees and after a basic lesson in Stoic ethics, and the auth
 ## Where this leads
 
 - The deuterocanon folder ends here. Return to the [Bible](../README.md) path, or go on to the [New Testament](../new-testament/README.md)
-- Glossary: [martyrdom](../glossary/martyrdom.md), [reason](../glossary/reason.md), [passions](../glossary/passions.md), [Torah](../glossary/torah.md)
+- Glossary: [martyrdom](../glossary/terms/martyrdom.md), [reason](../../../../../philosophy/glossary/general/reason.md), passions, [Torah](../glossary/terms/torah.md)

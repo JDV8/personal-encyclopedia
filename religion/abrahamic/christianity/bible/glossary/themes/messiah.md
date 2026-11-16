@@ -1,5 +1,9 @@
 # Messiah
 
+
+![Scan by the Google Cultural Institute](images/messiah.jpg)
+
+*Scan by the Google Cultural Institute Credit: Ivan Kramskoi. License: Public domain. Source: [File:Christ in the Wilderness - Ivan Kramskoy - Google Cultural Institute.jpg](https://commons.wikimedia.org/wiki/File:Christ_in_the_Wilderness_-_Ivan_Kramskoy_-_Google_Cultural_Institute.jpg).*
 Messiah (Hebrew *mashiach*, Greek *christos*) means "anointed one." Priests, kings, and, rarely, others (even [Cyrus](../people/cyrus.md) in Isaiah 45) can be anointed. The word becomes, in later Second Temple hope, a title for a coming figure — often a Davidic king, sometimes a priestly or heavenly figure — who will set things right under God.
 
 The load-bearing texts are scattered: the promise to [David](../people/david.md) in 2 Samuel 7; royal psalms such as 2 and 110; Isaiah's child and shoot; Micah's ruler from Bethlehem; Daniel's "one like a son of man"; Zechariah's humble king and stricken shepherd. There is no single pre-Christian "job description." Diversity of hope is itself a historical fact.

@@ -1,5 +1,9 @@
 # Jonah
 
+
+![Zoltán Joó - Jonah and the Whale, oil painter on fibre-board, 60 x 60 cm, from the series Stories of the Old Testament](images/jonah.jpg)
+
+*Zoltán Joó - Jonah and the Whale, oil painter on fibre-board, 60 x 60 cm, from the series Stories of the Old Testament Credit: Zoltán Joó. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Zoltan Joo - Jonah and the Whale, oil painting.jpg](https://commons.wikimedia.org/wiki/File:Zoltan_Joo_-_Jonah_and_the_Whale,_oil_painting.jpg).*
 **Name and meaning.** Named for Jonah son of Amittai (*Yonah*, "dove"), a prophet mentioned in 2 Kings 14:25 in the time of Jeroboam II. Unlike the other books of the Twelve, this one is mostly a narrative about a prophet, not a collection of oracles. It is a story of flight, a storm, a great fish, a city's repentance, and a prophet's anger at God's mercy.
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [genres](../../../04-genres.md). Helpful: [Nahum](nahum.md), which also concerns Nineveh.
@@ -23,7 +27,7 @@ Nineveh is the great city of Assyria, later destroyer of the northern kingdom �
 
 Jonah's psalm in chapter 2 sounds like a thanksgiving psalm and can be read as sincere or as ironically misplaced piety, depending on the reader; the book allows the tension. The Ninevites repent at a one-line sermon, while the prophet, who has been saved from the sea, resents their salvation. The last word is a question from God, not a conversion scene for Jonah: should the Lord not pity a great city of people "who do not know their right hand from their left," and also many animals? The book's theology of mercy is wider than the prophet's.
 
-The "three days and three nights" in the fish becomes, in Matthew and Luke, a sign of the [Son of Man](../../../glossary/son-of-man.md)'s burial and rising, and also, in Luke, a sign of Gentile repentance shaming unrepentant hearers. Those are receptions that the story can bear; they should not erase the Old Testament narrative's own ending.
+The "three days and three nights" in the fish becomes, in Matthew and Luke, a sign of the [Son of Man](../../../glossary/terms/son-of-man.md)'s burial and rising, and also, in Luke, a sign of Gentile repentance shaming unrepentant hearers. Those are receptions that the story can bear; they should not erase the Old Testament narrative's own ending.
 
 
 ```mermaid
@@ -41,4 +45,4 @@ Themes include flight from vocation, the piety of outsiders (sailors, Ninevites)
 
 - Next: [Micah](micah.md)
 - Related: [Nahum](nahum.md)
-- Glossary: [prophet](../../../glossary/prophet.md), [repentance](../../../glossary/repentance.md), [Nineveh](../../../glossary/nineveh.md)
+- Glossary: [prophet](../../../glossary/terms/prophet.md), [repentance](../../../glossary/terms/repentance.md), [Nineveh](../../../glossary/places/nineveh.md)

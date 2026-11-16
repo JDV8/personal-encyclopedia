@@ -1,6 +1,6 @@
 # Prophecy (New Testament)
 
-The New Testament closes with one prophetic-apocalyptic book: [Revelation](revelation.md). It is a letter to seven churches, a series of visions, and a worship book, not a modern calendar of events. The survey lesson [Revelation](../../../06-revelation.md) is the narrative companion; [Daniel](../../../../old-testament/books/major-prophets/daniel.md) is the principal Old Testament companion.
+The New Testament closes with one prophetic-apocalyptic book: [Revelation](revelation.md). It is a letter to seven churches, a series of visions, and a worship book, not a modern calendar of events. The survey lesson [Revelation](../../06-revelation.md) is the narrative companion; [Daniel](../../../old-testament/books/major-prophets/daniel.md) is the principal Old Testament companion.
 
 ## Suggested reading order
 

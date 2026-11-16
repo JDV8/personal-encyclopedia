@@ -3,6 +3,10 @@
 **Prerequisites:** [The four Gospels](02-the-four-gospels.md)
 **Key ideas:** infancy, baptism, and announcement of the kingdom; parables as a way of teaching; conflict in Jerusalem; last supper, execution, and resurrection; the four gospels do not tell every scene the same way.
 
+
+![Return of the Prodigal Son](images/03-key-stories-and-parables.jpg)
+
+*Return of the Prodigal Son Credit: Rembrandt. License: Public domain. Source: [File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg).*
 This lesson is a map of central episodes, not a gospel harmony. Where the sources differ, the difference is noted rather than silently blended.
 
 ## Birth, baptism, and the kingdom

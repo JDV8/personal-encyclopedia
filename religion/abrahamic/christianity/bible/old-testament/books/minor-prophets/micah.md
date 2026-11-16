@@ -1,5 +1,9 @@
 # Micah
 
+
+![Chruch of Theotokos of Ljeviš, Prizren, Fresco painting](images/micah.jpg)
+
+*Chruch of Theotokos of Ljeviš, Prizren, Fresco painting Credit: BLAGO Fund, Inc.. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Prophet Micah PRIZREN 2 IMG 5342-2.jpg](https://commons.wikimedia.org/wiki/File:Prophet_Micah_PRIZREN_2_IMG_5342-2.jpg).*
 **Name and meaning.** Named for Micah of Moresheth (*Mikhah*, a short form of "who is like the Lord?"), an eighth-century prophet from the Judean countryside who spoke against Samaria and Jerusalem. The book alternates judgment and hope, and it contains two of the most quoted sentences in the prophets: a ruler from Bethlehem, and the triad "do justice, love kindness, walk humbly with your God."
 
 **Prerequisites:** [The prophets](../../08-prophets.md), [Isaiah](../major-prophets/isaiah.md) (a near contemporary in Judah), and [Amos](amos.md).
@@ -40,4 +44,4 @@ Themes include rural protest against elite injustice, the vulnerability of Zion,
 ## Where this leads
 
 - Next: [Nahum](nahum.md)
-- Glossary: [justice](../../../glossary/justice.md), [hesed](../../../glossary/hesed.md), [Messiah](../../../glossary/messiah.md), [Zion](../../../glossary/zion.md)
+- Glossary: [justice](../../../glossary/terms/justice.md), [hesed](../../../glossary/terms/hesed.md), [Messiah](../../../glossary/themes/messiah.md), [Zion](../../../glossary/places/zion.md)

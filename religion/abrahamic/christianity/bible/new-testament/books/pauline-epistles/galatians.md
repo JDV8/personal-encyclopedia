@@ -1,8 +1,12 @@
 # Galatians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/galatians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter of Paul to the Galatians, a fierce argument that Gentile believers must not be required to take on circumcision and the works of the law as a condition of belonging to Abraham's family. It is shorter than Romans and, in some respects, the rawer version of the same theology.
 
-**Prerequisites:** [Romans](romans.md) (or read Galatians first, then Romans), [Acts](../history/acts.md) 15, and [Paul's journeys](../../../stories/09-pauls-journeys.md).
+**Prerequisites:** [Romans](romans.md) (or read Galatians first, then Romans), [Acts](../history/acts.md) 15, and [Paul's journeys](../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
@@ -42,4 +46,4 @@ Themes include gospel, apostleship, justification, Abraham, law and promise, fre
 ## Where this leads
 
 - Next: [Ephesians](ephesians.md)
-- Glossary: [justification](../../../../glossary/justification.md), [law](../../../../glossary/law.md), [circumcision](../../../../glossary/circumcision.md), [freedom](../../../../glossary/freedom.md)
+- Glossary: [justification](../../../glossary/terms/justification.md), [law](../../../../../../../philosophy/glossary/general/law.md), [circumcision](../../../glossary/terms/circumcision.md), [freedom](../../../../../../../philosophy/glossary/general/freedom.md)

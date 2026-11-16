@@ -1,8 +1,12 @@
 # Philippians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/philippians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter of Paul to the Philippians, a warm, often joyful letter from prison to the first European church of the Acts narrative (Acts 16), thanking them for a gift, urging unity, and including the famous hymn (or poem) of Christ's self-emptying in 2:6–11.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md) 16, and [Paul's journeys](../../../stories/09-pauls-journeys.md).
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md), [Acts](../history/acts.md) 16, and [Paul's journeys](../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
@@ -43,4 +47,4 @@ Themes include joy, partnership, humility, the mind of Christ, and contentment i
 ## Where this leads
 
 - Next: [Colossians](colossians.md)
-- Glossary: [kenosis](../../../../glossary/kenosis.md), [joy](../../../../glossary/joy.md), [Christ](../../../../glossary/christ.md)
+- Glossary: kenosis, joy, [Christ](../../../glossary/terms/christ.md)

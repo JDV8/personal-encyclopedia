@@ -1,5 +1,9 @@
 # Judith
 
+
+![Gutenberg Bible on display at the New York Public Library](images/judith.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Named for Judith ("Jewish woman" or "Jewess"), a pious widow of Bethulia who saves her people by entering the camp of Holofernes, the Assyrian general, and beheading him. The book is a short, deliberate tale of courage, prayer, and deceit in a holy cause.
 
 **Prerequisites:** [deuterocanon](README.md) and [Exile and return](../old-testament/10-exile-and-return.md). Helpful: the stories of Jael in [Judges](../old-testament/books/history/judges.md) and of Esther in [Esther](../old-testament/books/history/esther.md).
@@ -43,4 +47,4 @@ Bethulia itself is not a known town; the name may play on *betulah*, "virgin," o
 ## Where this leads
 
 - Next: [Additions to Esther](additions-to-esther.md)
-- Glossary: [deuterocanon](../glossary/deuterocanon.md), [widow](../glossary/widow.md)
+- Glossary: [deuterocanon](../glossary/terms/deuterocanon.md), widow

@@ -1,5 +1,9 @@
 # Zechariah
 
+
+![Zechariah](images/zechariah.jpg)
+
+*Zechariah Credit: Michelangelo. License: Public domain. Source: [File:Michelangelo, profeti, Zechariah 01.jpg](https://commons.wikimedia.org/wiki/File:Michelangelo,_profeti,_Zechariah_01.jpg).*
 **Name and meaning.** Named for Zechariah son of Berechiah son of Iddo, a prophet (and, in some notices, a priestly figure) who, with Haggai, encouraged the rebuilding of the temple in 520 BCE and after. The book has two large parts: night visions and oracles in chapters 1–8, and, in chapters 9–14, later-sounding oracles about kings, shepherds, a pierced figure, and the Lord's coming to the Mount of Olives. It is one of the most important prophetic sources for later messianic and apocalyptic imagination.
 
 **Prerequisites:** [Haggai](haggai.md), [Ezra](../history/ezra.md), and [Exile and return](../../10-exile-and-return.md).
@@ -38,4 +42,4 @@ Themes include return, temple, visions, priest and branch, a humble king, a stri
 
 - Next: [Malachi](malachi.md)
 - Story path: [Passion week](../../../new-testament/stories/06-passion-week.md)
-- Glossary: [Branch](../../../glossary/branch.md), [Messiah](../../../glossary/messiah.md), [Second Temple](../../../glossary/second-temple.md), [Zerubbabel](../../../glossary/zerubbabel.md)
+- Glossary: Branch, [Messiah](../../../glossary/themes/messiah.md), [Second Temple](../../../glossary/terms/second-temple.md), [Zerubbabel](../../../glossary/people/zerubbabel.md)

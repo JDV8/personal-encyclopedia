@@ -4,6 +4,10 @@
 
 **Key ideas:** The last week in Jerusalem is the narrative center of all four Gospels; entry, temple, last supper, arrest, hearings, crucifixion, and burial are told with both overlap and real differences; the death is interpreted, already in the sources, as Passover, as a covenant, as a ransom, and as a scandal.
 
+
+![2013 Senakulo, in Poblacion, Baliuag, Bulacan(1) (2)Senakulo In The Philippines(3)The Senakulo (from the Spanish cenaculo) is a Lenten play that depicts…](images/06-passion-week.jpg)
+
+*2013 Senakulo, in Poblacion, Baliuag, Bulacan[1] [2]Senakulo In The Philippines[3]The Senakulo (from the Spanish cenaculo) is a Lenten play that depicts… Credit: Ramon FVelasquez. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Passionplayjf1974 02.JPG](https://commons.wikimedia.org/wiki/File:Passionplayjf1974_02.JPG).*
 ## The week, in outline
 
 The traditional "Holy Week" is a later liturgical map laid over the Gospels, which do not all count the days the same way (John's chronology of the last supper relative to Passover is the main crux). The shared plot is nonetheless clear.
@@ -37,4 +41,4 @@ Teaching this week also requires moral care: "the Jews" as a collective villain 
 
 - Next: [Resurrection appearances](07-resurrection-appearances.md)
 - Book path: the Passion chapters of all four Gospels; [Isaiah](../../old-testament/books/major-prophets/isaiah.md) 53; [Psalm 22](../../old-testament/books/wisdom-poetry/psalms.md)
-- Glossary: [Passover](../../glossary/passover.md), [crucifixion](../../glossary/crucifixion.md), [atonement](../../glossary/atonement.md), [Pontius Pilate](../../glossary/pontius-pilate.md)
+- Glossary: [Passover](../../glossary/terms/passover.md), [crucifixion](../../glossary/terms/crucifixion.md), [atonement](../../glossary/themes/sacrifice-and-atonement.md), [Pontius Pilate](../../glossary/people/pontius-pilate.md)

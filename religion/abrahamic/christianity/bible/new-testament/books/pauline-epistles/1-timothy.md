@@ -1,8 +1,12 @@
 # 1 Timothy
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/1-timothy.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The First Letter to Timothy, one of the three Pastoral Epistles (with 2 Timothy and Titus). It is presented as Paul's instruction to his younger coworker Timothy, left in Ephesus, about false teaching, public prayer, the conduct of men and women, and the qualifications of overseers and deacons.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md) and [Acts](../history/acts.md) on Timothy (16:1–3 and later).
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md) and [Acts](../history/acts.md) on Timothy (16:1–3 and later).
 
 ## Dating and authorship
 
@@ -41,4 +45,4 @@ Themes include sound teaching, church order, the household of God, and the dange
 ## Where this leads
 
 - Next: [2 Timothy](2-timothy.md)
-- Glossary: [overseer](../../../../glossary/overseer.md), [deacon](../../../../glossary/deacon.md), [tradition](../../../../glossary/tradition.md)
+- Glossary: [overseer](../../../glossary/terms/overseer.md), [deacon](../../../glossary/terms/deacon.md), [tradition](../../../../../../../philosophy/glossary/general/tradition.md)

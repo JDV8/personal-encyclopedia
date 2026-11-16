@@ -1,5 +1,9 @@
 # Esther
 
+
+![Esther before Ahasuerus](images/esther.jpg)
+
+*Esther before Ahasuerus Credit: Franciszek Smuglewicz. License: Public domain. Source: [File:Esther before Ahasuerus, Franciszek Smuglewicz, 1778.jpg](https://commons.wikimedia.org/wiki/File:Esther_before_Ahasuerus,_Franciszek_Smuglewicz,_1778.jpg).*
 **Name and meaning.** Named for Esther (Hebrew *Hadassah*), a Jewish woman who becomes queen of a Persian king usually identified as Xerxes I (Ahasuerus). The book explains the origin of the festival of Purim. In the Tanakh it is among the Writings and is one of the Five Scrolls; in Christian Bibles it closes the historical books. The Hebrew book does not mention God by name. The Greek [Additions to Esther](../../../deuterocanon/additions-to-esther.md) insert prayers and explicit theology.
 
 **Prerequisites:** [Exile and return](../../10-exile-and-return.md) and [genres](../../../04-genres.md). Helpful: [Ezra](ezra.md) and [Nehemiah](nehemiah.md) as a contrast in how Jewish life in the empire is imagined.
@@ -43,4 +47,4 @@ Themes include diaspora identity, hiddenness, courage, reversal, and the origin 
 
 - The historical books end; the poetic books begin with [Job](../wisdom-poetry/job.md)
 - Deuterocanon companion: [Additions to Esther](../../../deuterocanon/additions-to-esther.md)
-- Glossary: [Purim](../../../glossary/purim.md), [diaspora](../../../glossary/diaspora.md), [providence](../../../glossary/providence.md)
+- Glossary: [Purim](../../../glossary/terms/purim.md), [diaspora](../../../glossary/terms/diaspora.md), [providence](../../../glossary/terms/providence.md)

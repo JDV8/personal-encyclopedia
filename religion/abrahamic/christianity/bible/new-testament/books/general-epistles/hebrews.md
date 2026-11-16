@@ -1,8 +1,12 @@
 # Hebrews
 
+
+![Джон Сінгер Сарджент, фриз Християнські пророки, ескіз, бл. 1895 р.](images/hebrews.jpg)
+
+*Джон Сінгер Сарджент, фриз Християнські пророки, ескіз, бл. 1895 р. Credit: Джон Сінгер Сарджент. License: Public domain. Source: [File:345John Singer Sargent, Study for “Frieze of Prophets”, Boston Public Library, 1894-95.jpg](https://commons.wikimedia.org/wiki/File:345John_Singer_Sargent,_Study_for_“Frieze_of_Prophets”,_Boston_Public_Library,_1894-95.jpg).*
 **Name and meaning.** The Letter (or, better, the sermon) to the Hebrews is formally anonymous. Its traditional English title reflects an early inference that it was written to Jewish Christians. It is a carefully crafted argument that Jesus is the final and superior revelation, the true high priest after the order of Melchizedek, and the mediator of a new covenant, and that the hearers must not drift back or grow dull.
 
-**Prerequisites:** [Leviticus](../../../../old-testament/books/law-torah/leviticus.md), [Psalms](../../../../old-testament/books/wisdom-poetry/psalms.md) 110, and [Jeremiah](../../../../old-testament/books/major-prophets/jeremiah.md) 31. Helpful: [Pauline epistles](../pauline-epistles/README.md), to see both kinship and difference.
+**Prerequisites:** [Leviticus](../../../old-testament/books/law-torah/leviticus.md), [Psalms](../../../old-testament/books/wisdom-poetry/psalms.md) 110, and [Jeremiah](../../../old-testament/books/major-prophets/jeremiah.md) 31. Helpful: [Pauline epistles](../pauline-epistles/README.md), to see both kinship and difference.
 
 ## Dating and authorship
 
@@ -43,4 +47,4 @@ Themes include revelation, priesthood, covenant, once-for-all sacrifice, faith a
 ## Where this leads
 
 - Next: [James](james.md)
-- Glossary: [high priest](../../../../glossary/high-priest.md), [covenant](../../../../glossary/covenant.md), [Melchizedek](../../../../glossary/melchizedek.md), [atonement](../../../../glossary/atonement.md)
+- Glossary: [high priest](../../../glossary/terms/high-priest.md), [covenant](../../../glossary/themes/covenant.md), Melchizedek, [atonement](../../../glossary/themes/sacrifice-and-atonement.md)

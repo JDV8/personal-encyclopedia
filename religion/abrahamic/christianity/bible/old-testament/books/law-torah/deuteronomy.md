@@ -1,12 +1,16 @@
 # Deuteronomy
 
+
+![Testament and Death of Moses и смъртта…](images/deuteronomy.jpg)
+
+*Testament and Death of Moses и смъртта… Credit: Luca Signorelli. License: Public domain. Source: [File:Signorelli, Luca - Moses's Testament and Death - 1481-82.jpg](https://commons.wikimedia.org/wiki/File:Signorelli,_Luca_-_Moses's_Testament_and_Death_-_1481-82.jpg).*
 **Name and meaning.** *Deuteronomy* comes from a Greek phrase meaning "second law," after a line in the book about writing a copy of the law. In Hebrew it is *Devarim*, "Words," from the opening "these are the words that Moses spoke." It is the fifth book of the Torah: Moses' long farewell on the plains of Moab, restating the covenant for a generation that did not stand at Sinai as adults.
 
 **Prerequisites:** [Exodus](exodus.md) and [Numbers](numbers.md). Helpful: [canon](../../../02-canon-and-hebrew-bible-vs-old-testament.md), because Deuteronomy shapes so much of what follows.
 
 ## Dating and authorship
 
-Traditionally these are Moses' own last speeches, written down before his death (with 34:1–12, the death notice, often allowed as a later hand even in conservative traditional reading). Scholarly study has long connected Deuteronomy with the "book of the law" found in the temple in the reign of [Josiah](../../../glossary/josiah.md) (2 Kings 22–23), around 622 BCE, and with the reform that centralized worship in Jerusalem and moved against outlying high places. In the classic Documentary Hypothesis, D is a distinct source; many scholars now speak of a Deuteronomic school or of Deuteronomistic editing that extends into Joshua–Kings (the "Deuteronomistic History"). Proposed dates for an early core range from the eighth to the seventh century BCE, with later expansions in the exile. Traditional reading hears Moses. Historical-critical reading hears a later covenantal movement speaking in Moses' voice. The book itself presents the speeches as Mosaic address.
+Traditionally these are Moses' own last speeches, written down before his death (with 34:1–12, the death notice, often allowed as a later hand even in conservative traditional reading). Scholarly study has long connected Deuteronomy with the "book of the law" found in the temple in the reign of [Josiah](../../../glossary/people/josiah.md) (2 Kings 22–23), around 622 BCE, and with the reform that centralized worship in Jerusalem and moved against outlying high places. In the classic Documentary Hypothesis, D is a distinct source; many scholars now speak of a Deuteronomic school or of Deuteronomistic editing that extends into Joshua–Kings (the "Deuteronomistic History"). Proposed dates for an early core range from the eighth to the seventh century BCE, with later expansions in the exile. Traditional reading hears Moses. Historical-critical reading hears a later covenantal movement speaking in Moses' voice. The book itself presents the speeches as Mosaic address.
 
 ## Context
 
@@ -24,7 +28,7 @@ Its covenant form has been compared with ancient Near Eastern suzerainty treatie
 
 ## Key passages and ideas
 
-Deuteronomy 6:4–5, the [Shema](../../../glossary/shema.md) — "Hear, O Israel: the Lord is our God, the Lord is one" (or "the Lord alone"), followed by the command to love the Lord with all the heart, soul, and might — becomes the daily confession of Jewish life and, in the [Gospels](../../../new-testament/books/gospels/README.md), Jesus' first great commandment. The book insists that words are to be taught, bound, written on doorposts, talked about at home and on the road. Religion here is memory practiced in ordinary time.
+Deuteronomy 6:4–5, the [Shema](../../../glossary/terms/shema.md) — "Hear, O Israel: the Lord is our God, the Lord is one" (or "the Lord alone"), followed by the command to love the Lord with all the heart, soul, and might — becomes the daily confession of Jewish life and, in the [Gospels](../../../new-testament/books/gospels/README.md), Jesus' first great commandment. The book insists that words are to be taught, bound, written on doorposts, talked about at home and on the road. Religion here is memory practiced in ordinary time.
 
 Chapter 12 commands the centralization of sacrifice at "the place the Lord will choose," later read as Jerusalem. Combined with the law of the king in chapter 17 (a king who writes a copy of this law and does not multiply horses, wives, or gold) and the tests of prophecy in chapter 18, Deuteronomy offers a constitution for life in the land. The blessings and curses of chapters 27–28 become the moral plot of [Kings](../history/1-kings.md): obedience and security, or disobedience and exile.
 
@@ -48,4 +52,4 @@ Jewish life is steeped in Deuteronomy: the Shema, the mezuzah, the command to te
 
 - The Torah ends; the land path begins in [Joshua](../history/joshua.md) and the lesson [Joshua and Judges](../../06-joshua-and-judges.md)
 - The same theology judged the monarchy in [1–2 Kings](../history/1-kings.md)
-- Glossary: [covenant](../../../glossary/covenant.md), [Shema](../../../glossary/shema.md), [Torah](../../../glossary/torah.md), [Josiah](../../../glossary/josiah.md)
+- Glossary: [covenant](../../../glossary/themes/covenant.md), [Shema](../../../glossary/terms/shema.md), [Torah](../../../glossary/terms/torah.md), [Josiah](../../../glossary/people/josiah.md)

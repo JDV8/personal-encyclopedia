@@ -4,6 +4,10 @@
 
 **Key ideas:** The two great northern prophets of the ninth century are presented in a cycle of stories, not in a collected book of oracles; Elijah confronts Ahab, Jezebel, and Baal, and is taken up in a whirlwind; Elisha receives a double share and works a long series of signs, political and domestic.
 
+
+![Saint Elijah prophet](images/02-elijah-and-elisha.jpg)
+
+*Saint Elijah prophet Credit: unknown Serbian. License: Public domain. Source: [File:Prophet Elijah, Serbian painter, 18th c.jpg](https://commons.wikimedia.org/wiki/File:Prophet_Elijah,_Serbian_painter,_18th_c.jpg).*
 After Solomon the kingdom splits, and in the north the house of Omri (and Ahab his son) becomes, in the narrator's view, the typical royal problem: a Phoenician marriage, a temple for Baal in Samaria, and a seized vineyard. Elijah the Tishbite appears without a call narrative, announces a drought, is fed by ravens and by a widow of Zarephath, and meets the prophets of Baal on Carmel. The fire falls on a drenched altar; the people cry "the Lord indeed is God"; the prophets of Baal are killed; the rain returns. Immediately afterward Elijah flees from Jezebel, walks to Horeb, and hears not the wind, earthquake, or fire, but a thin silence, and receives a new commission: Hazael, Jehu, and Elisha.
 
 ```mermaid
@@ -27,4 +31,4 @@ Elijah's despair under the broom tree, and his complaint that he alone is left, 
 
 - Books: [1 Kings](../books/history/1-kings.md), [2 Kings](../books/history/2-kings.md), [Malachi](../books/minor-prophets/malachi.md)
 - New Testament: [baptism and temptation](../../new-testament/stories/02-baptism-and-temptation.md), [Luke](../../new-testament/books/gospels/luke.md) 4
-- Glossary: [Elijah](../../glossary/elijah.md), [Elisha](../../glossary/elisha.md), [Baal](../../glossary/baal.md)
+- Glossary: [Elijah](../../glossary/people/elijah.md), [Elisha](../../glossary/people/elisha.md), [Baal](../../glossary/terms/baal.md)

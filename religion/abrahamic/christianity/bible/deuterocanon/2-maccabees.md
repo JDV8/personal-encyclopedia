@@ -1,5 +1,9 @@
 # 2 Maccabees
 
+
+![Gutenberg Bible on display at the New York Public Library](images/2-maccabees.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Not a sequel to 1 Maccabees but a parallel, more theological telling of a shorter span (from Onias III to Judas's victory over Nicanor), presented as an epitome of a five-volume work by Jason of Cyrene. It is the great deuterocanonical book of martyrdom, resurrection, and temple theology, and it includes the most important early texts about prayer for the dead in the Christian Old Testament.
 
 **Prerequisites:** [1 Maccabees](1-maccabees.md) and [deuterocanon](README.md).
@@ -42,4 +46,4 @@ The author's preface, which compares the work of epitome to a host arranging a b
 ## Where this leads
 
 - Next (Orthodox extras begin): [1 Esdras](1-esdras.md)
-- Glossary: [resurrection](../glossary/resurrection.md), [martyrdom](../glossary/martyrdom.md), [Hanukkah](../glossary/hanukkah.md), [purgatory](../glossary/purgatory.md)
+- Glossary: [resurrection](../glossary/terms/resurrection.md), [martyrdom](../glossary/terms/martyrdom.md), [Hanukkah](../glossary/terms/hanukkah.md), purgatory

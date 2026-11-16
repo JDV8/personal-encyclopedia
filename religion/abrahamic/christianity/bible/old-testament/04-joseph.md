@@ -3,6 +3,10 @@
 **Prerequisites:** [Abraham, Isaac, and Jacob](03-abraham-isaac-jacob.md)
 **Key ideas:** a novella of betrayal and recognition; dreams and administrative wisdom; God working through, not around, human wrong; how Israel comes to be in Egypt, which the Exodus will reverse.
 
+
+![Joseph Desbrosses, study for figures in a Biblical painting, by 1844; perhaps used in a painting by Antonine Chintreuil, which purportedly inspired the…](images/04-joseph.jpg)
+
+*Joseph Desbrosses, study for figures in a Biblical painting, by 1844; perhaps used in a painting by Antonine Chintreuil, which purportedly inspired the… Credit: Joseph Desbrosses. License: Public domain. Source: [File:Joseph Desbrosses--study for figures in a Biblical painting--by 1844.jpg](https://commons.wikimedia.org/wiki/File:Joseph_Desbrosses--study_for_figures_in_a_Biblical_painting--by_1844.jpg).*
 Joseph is Jacob's son by Rachel, born late, favored, and given an ornamented robe. He dreams that his brothers' sheaves bow to his sheaf, and that the sun, moon, and eleven stars bow to him. He tells the dreams. His brothers, already jealous, throw him into a pit and sell him to traders (the text again shows some doubling in the details). They dip the robe in goat's blood and let Jacob conclude that a wild animal has killed the boy.
 
 In Egypt Joseph is sold to Potiphar, an official. He rises in the household; Potiphar's wife tries to seduce him, is refused, and accuses him. In prison he again rises, and interprets the dreams of a cupbearer and a baker: restoration for one, death for the other. When Pharaoh dreams of seven fat cows and seven lean, seven good ears of grain and seven blighted, the cupbearer remembers. Joseph says the dreams are one: seven years of plenty, seven of famine. He advises storage. Pharaoh puts him over the land. Joseph receives an Egyptian name and an Egyptian wife; they have two sons, Manasseh and Ephraim.

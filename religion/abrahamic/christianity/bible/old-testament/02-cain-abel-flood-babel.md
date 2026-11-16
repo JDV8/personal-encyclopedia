@@ -3,6 +3,10 @@
 **Prerequisites:** [Creation and Eden](01-creation-and-eden.md)
 **Key ideas:** violence enters the human story; the Flood as un-creation and a covenant with the living; Babel as scattered language and scattered power; genealogies linking origins to Abraham.
 
+
+![Tower of Babel](images/02-cain-abel-flood-babel.jpg)
+
+*Tower of Babel Credit: Pieter Bruegel the Elder. License: Public domain. Source: [File:Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg).*
 Genesis 4–11 is sometimes called the "primeval history": a set of stories about early humanity as a whole, before the camera tightens on one family.
 
 ## Cain and Abel

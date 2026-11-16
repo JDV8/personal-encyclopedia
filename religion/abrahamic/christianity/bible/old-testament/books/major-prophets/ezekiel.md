@@ -1,5 +1,9 @@
 # Ezekiel
 
+
+![Ezekiel’s Vision of the Valley of Dry Bones (Ez. 37:1-14)](images/ezekiel.jpg)
+
+*Ezekiel’s Vision of the Valley of Dry Bones (Ez. 37:1-14) Credit: Gustave Doré. License: Public domain. Source: [File:127.Ezekiel’s Vision of the Valley of Dry Bones.jpg](https://commons.wikimedia.org/wiki/File:127.Ezekiel’s_Vision_of_the_Valley_of_Dry_Bones.jpg).*
 **Name and meaning.** Named for Ezekiel son of Buzi (Hebrew *Yechezkel*, "God strengthens"), a priest deported to Babylon in 597 BCE, who received visions by the river Chebar. The book is famous for its strange, carefully dated visions: a mobile throne-chariot, a watchman, a valley of dry bones, and a detailed future temple.
 
 **Prerequisites:** [Jeremiah](jeremiah.md), [2 Kings](../history/2-kings.md), [Leviticus](../law-torah/leviticus.md) (for priestly categories), and [Exile and return](../../10-exile-and-return.md).
@@ -44,4 +48,4 @@ Jewish mystical and liturgical traditions have treated Ezekiel with a mixture of
 
 - Next: [Daniel](daniel.md)
 - Related: [Leviticus](../law-torah/leviticus.md), [Revelation](../../../new-testament/books/prophecy/revelation.md)
-- Glossary: [glory](../../../glossary/glory.md), [exile](../../../glossary/exile.md), [temple](../../../glossary/temple.md), [resurrection](../../../glossary/resurrection.md)
+- Glossary: [glory](../../../glossary/terms/glory.md), [exile](../../../glossary/themes/exile-and-return.md), [temple](../../../glossary/themes/temple.md), [resurrection](../../../glossary/terms/resurrection.md)

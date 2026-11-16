@@ -1,8 +1,12 @@
 # John
 
+
+![Paintings of Saint John the Evangelist in Monastero del Sacro Speco (Subiaco)](images/john.jpg)
+
+*Paintings of Saint John the Evangelist in Monastero del Sacro Speco (Subiaco) Credit: Livioandronico2013. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Paintings of Saint John the Evangelist in Monastero del Sacro Speco (Subiaco).jpg](https://commons.wikimedia.org/wiki/File:Paintings_of_Saint_John_the_Evangelist_in_Monastero_del_Sacro_Speco_(Subiaco).jpg).*
 **Name and meaning.** The Gospel according to John, often called the Fourth Gospel. Tradition names John son of Zebedee, the beloved disciple. The book itself is anonymous and refers to a "disciple whom Jesus loved" as a witness standing behind the testimony (19:35; 21:24). It is a very different Gospel from the Synoptics: a prologue about the Word, long discourses, "I am" sayings, a ministry structured around festivals and signs, and a high, explicit Christology.
 
-**Prerequisites:** [The four Gospels](../../../02-the-four-gospels.md). Helpful: [philosophy/logos](../../../../../../philosophy/glossary/greek/logos.md) and [foundational Greek concepts](../../../../../../philosophy/history/ancient/greek/01-foundational-concepts.md), because John 1 uses a word already thick with meaning. Story companions: [miracles](../../../stories/04-miracles.md), [Passion week](../../../stories/06-passion-week.md), [resurrection appearances](../../../stories/07-resurrection-appearances.md).
+**Prerequisites:** [The four Gospels](../../02-the-four-gospels.md). Helpful: [philosophy/logos](../../../../../../../philosophy/glossary/greek/logos.md) and [foundational Greek concepts](../../../../../../../philosophy/history/ancient/greek/01-foundational-concepts.md), because John 1 uses a word already thick with meaning. Story companions: [miracles](../../stories/04-miracles.md), [Passion week](../../stories/06-passion-week.md), [resurrection appearances](../../stories/07-resurrection-appearances.md).
 
 ## Dating and authorship
 
@@ -43,4 +47,4 @@ Themes include incarnation, glory, truth, witness, remaining (abiding), the Spir
 ## Where this leads
 
 - Next in this section: the four Gospels together; then [Acts](../history/acts.md)
-- Glossary: [Logos](../../../../glossary/logos.md), [incarnation](../../../../glossary/incarnation.md), [beloved disciple](../../../../glossary/beloved-disciple.md), [Paraclete](../../../../glossary/paraclete.md)
+- Glossary: [Logos](../../../glossary/terms/logos.md), [incarnation](../../../glossary/terms/incarnation.md), [beloved disciple](../../../glossary/people/beloved-disciple.md), Paraclete

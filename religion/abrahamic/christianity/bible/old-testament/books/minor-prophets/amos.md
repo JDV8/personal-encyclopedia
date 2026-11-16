@@ -1,5 +1,9 @@
 # Amos
 
+
+![Fresco of Prophet Amos from Dionysiou Monastery](images/amos.jpg)
+
+*Fresco of Prophet Amos from Dionysiou Monastery Credit: Tzortzi Phouka. License: Public domain. Source: [File:Prophetes Amos Dionysiou.jpg](https://commons.wikimedia.org/wiki/File:Prophetes_Amos_Dionysiou.jpg).*
 **Name and meaning.** Named for Amos, a shepherd and dresser of sycamore figs from Tekoa in Judah, who prophesied to the northern kingdom under Jeroboam II. The book is the classic prophetic indictment of social injustice wrapped in religious prosperity: "let justice roll down like waters."
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [1 Kings](../history/1-kings.md) on the north. Read with [Hosea](hosea.md).
@@ -40,4 +44,4 @@ Themes include justice (*mishpat*) and righteousness, the danger of liturgy with
 ## Where this leads
 
 - Next: [Obadiah](obadiah.md)
-- Glossary: [justice](../../../glossary/justice.md), [day of the Lord](../../../glossary/day-of-the-lord.md), [prophet](../../../glossary/prophet.md)
+- Glossary: [justice](../../../glossary/terms/justice.md), [day of the Lord](../../../glossary/terms/day-of-the-lord.md), [prophet](../../../glossary/terms/prophet.md)

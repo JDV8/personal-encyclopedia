@@ -1,5 +1,9 @@
 # Nehemiah
 
+
+![Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death and published…](images/nehemiah.jpg)
+
+*Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death and published… Credit: James Tissot. License: Public domain. Source: [File:Tissot Drawing 359 Nehemiah looks on the ruins of Jerusalem Nehemiah 2 17 for Brunoff 345 Néhémie voit les ruines de Jérusalem.jpg](https://commons.wikimedia.org/wiki/File:Tissot_Drawing_359_Nehemiah_looks_on_the_ruins_of_Jerusalem_Nehemiah_2_17_for_Brunoff_345_Néhémie_voit_les_ruines_de_Jérusalem.jpg).*
 **Name and meaning.** Named for Nehemiah son of Hacaliah, cupbearer to a Persian king (usually identified as Artaxerxes I), later governor of Judah, who rebuilds Jerusalem's wall and, with Ezra, leads a covenant renewal. In Hebrew tradition this is the second part of Ezra–Nehemiah.
 
 **Prerequisites:** [Ezra](ezra.md) and [Exile and return](../../10-exile-and-return.md).
@@ -41,4 +45,4 @@ Themes include leadership, prayer, opposition, the wall as a sign of restored pe
 ## Where this leads
 
 - Next: [Esther](esther.md)
-- Glossary: [exile](../../../glossary/exile.md), [Torah](../../../glossary/torah.md), [Sabbath](../../../glossary/sabbath.md), [Second Temple](../../../glossary/second-temple.md)
+- Glossary: [exile](../../../glossary/themes/exile-and-return.md), [Torah](../../../glossary/terms/torah.md), [Sabbath](../../../glossary/terms/sabbath.md), [Second Temple](../../../glossary/terms/second-temple.md)

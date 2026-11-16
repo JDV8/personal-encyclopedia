@@ -1,8 +1,12 @@
 # Luke
 
+
+![Luke the Evangelist, miniature from the Grandes Heures of Anne of Brittany, Queen consort of France (1477-1514).](images/luke.jpg)
+
+*Luke the Evangelist, miniature from the Grandes Heures of Anne of Brittany, Queen consort of France (1477-1514). Credit: Jean Bourdichon. License: Public domain. Source: [File:Grandes Heures Anne de Bretagne Saint Luc.jpg](https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg).*
 **Name and meaning.** The Gospel according to Luke, the first volume of a two-part work that continues in [Acts](../history/acts.md). Tradition names Luke the beloved physician, a Gentile companion of Paul (Colossians 4:14). The book itself is anonymous, addressed to "Theophilus," and claims to offer an orderly account after investigation of earlier traditions. It is the Gospel most interested in history as a sequence, in the poor and the marginalized, in prayer, and in the Holy Spirit.
 
-**Prerequisites:** [The four Gospels](../../../02-the-four-gospels.md) and [Second Temple Judaism and Rome](../../../01-second-temple-judaism-and-rome.md). This overview should be read with [Acts](../history/acts.md).
+**Prerequisites:** [The four Gospels](../../02-the-four-gospels.md) and [Second Temple Judaism and Rome](../../01-second-temple-judaism-and-rome.md). This overview should be read with [Acts](../history/acts.md).
 
 ## Dating and authorship
 
@@ -14,11 +18,11 @@ Luke places Jesus in the frame of world and Jewish history (the emperors, the go
 
 ## Outline
 
-- **1–2.** Birth of John and of Jesus; canticles (Magnificat, Benedictus, Gloria, Nunc dimittis); the boy in the temple — see [birth narratives](../../../stories/01-birth-narratives.md).
+- **1–2.** Birth of John and of Jesus; canticles (Magnificat, Benedictus, Gloria, Nunc dimittis); the boy in the temple — see [birth narratives](../../stories/01-birth-narratives.md).
 - **3–4.** John's preaching; genealogy back to Adam; baptism, temptation, and the Nazareth sermon.
-- **5–9.** Galilean ministry: call of the disciples, sermons, [miracles](../../../stories/04-miracles.md), the sending of the Twelve, Peter's confession, transfiguration.
-- **9:51–19.** The journey to Jerusalem: the Samaritan villages, the seventy, many [parables](../../../stories/05-parables.md) unique to Luke (the good Samaritan, the prodigal son, the rich man and Lazarus, the Pharisee and the tax collector).
-- **19–24.** Entry, temple teaching, [Passion](../../../stories/06-passion-week.md), crucifixion (with words unique to Luke: "Father, forgive them"; "today you will be with me in Paradise"; "into your hands I commend my spirit"), the Emmaus road, appearances in Jerusalem, and blessing at Bethany — see [resurrection appearances](../../../stories/07-resurrection-appearances.md).
+- **5–9.** Galilean ministry: call of the disciples, sermons, [miracles](../../stories/04-miracles.md), the sending of the Twelve, Peter's confession, transfiguration.
+- **9:51–19.** The journey to Jerusalem: the Samaritan villages, the seventy, many [parables](../../stories/05-parables.md) unique to Luke (the good Samaritan, the prodigal son, the rich man and Lazarus, the Pharisee and the tax collector).
+- **19–24.** Entry, temple teaching, [Passion](../../stories/06-passion-week.md), crucifixion (with words unique to Luke: "Father, forgive them"; "today you will be with me in Paradise"; "into your hands I commend my spirit"), the Emmaus road, appearances in Jerusalem, and blessing at Bethany — see [resurrection appearances](../../stories/07-resurrection-appearances.md).
 
 ## Key passages and ideas
 
@@ -43,5 +47,5 @@ Themes include the poor, women as witnesses and patrons, prayer and the Spirit, 
 ## Where this leads
 
 - Next: [John](john.md), then [Acts](../history/acts.md) as Luke's second volume
-- Story path: [birth narratives](../../../stories/01-birth-narratives.md), [parables](../../../stories/05-parables.md)
-- Glossary: [Gospel](../../../../glossary/gospel.md), [Holy Spirit](../../../../glossary/holy-spirit.md), [Theophilus](../../../../glossary/theophilus.md)
+- Story path: [birth narratives](../../stories/01-birth-narratives.md), [parables](../../stories/05-parables.md)
+- Glossary: [Gospel](../../../glossary/terms/gospel.md), [Holy Spirit](../../../glossary/terms/holy-spirit.md), [Theophilus](../../../glossary/people/theophilus.md)

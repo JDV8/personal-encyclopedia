@@ -1,5 +1,9 @@
 # 1 Chronicles
 
+
+![This is a part of a scan of an historical document: Title: Schedelsche Weltchronik or Nuremberg Chronicle](images/1-chronicles.jpg)
+
+*This is a part of a scan of an historical document: Title: Schedelsche Weltchronik or Nuremberg Chronicle Credit: Hartmann Schedel. License: Public domain. Source: [File:Nuremberg chronicles f 094r 3.png](https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_f_094r_3.png).*
 **Name and meaning.** In Hebrew, 1 and 2 Chronicles are *Divrei Hayamim*, "the events of the days." The Greek title *Paraleipomena* means "things left out" or "things alongside," as if Chronicles were a supplement to Samuel–Kings. It is better read as a retelling with its own purpose. In the Tanakh it stands at the end of the Writings; in Christian Bibles it follows Kings.
 
 **Prerequisites:** [2 Samuel](2-samuel.md) and [1 Kings](1-kings.md), so that the retelling is audible, and [Exile and return](../../10-exile-and-return.md).
@@ -45,4 +49,4 @@ Jewish tradition kept it as scripture but generally studied Samuel–Kings more 
 ## Where this leads
 
 - Next: [2 Chronicles](2-chronicles.md)
-- Glossary: [David](../../../glossary/david.md), [temple](../../../glossary/temple.md), [Levites](../../../glossary/levites.md)
+- Glossary: [David](../../../glossary/people/david.md), [temple](../../../glossary/themes/temple.md), [Levites](../../../glossary/terms/levites.md)

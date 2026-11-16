@@ -1,5 +1,9 @@
 # Judges
 
+
+![Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death and published…](images/judges.jpg)
+
+*Pen and ink sketch by James Tissot for his painted illustrations of the Old Testament; one of 200 worked up by other artists after his death and published… Credit: James Tissot. License: Public domain. Source: [File:Tissot Drawing 207 Gideon chooses the three hundred (Judges 7 6) for Brunoff 194 Gédéon choisit les trois cents.jpg](https://commons.wikimedia.org/wiki/File:Tissot_Drawing_207_Gideon_chooses_the_three_hundred_(Judges_7_6)_for_Brunoff_194_Gédéon_choisit_les_trois_cents.jpg).*
 **Name and meaning.** *Judges* translates Hebrew *Shoftim*, leaders who "judge" in the sense of delivering and governing, not only of hearing lawsuits. The book covers the period between Joshua's death and the rise of monarchy. In the Tanakh it is the second of the Former Prophets.
 
 **Prerequisites:** [Joshua](joshua.md) and [Joshua and Judges](../../06-joshua-and-judges.md).
@@ -44,4 +48,4 @@ Themes include the cycle of apostasy and deliverance, the Spirit of the Lord rus
 
 - Next: [Ruth](ruth.md), a counter-picture of loyalty in the same era, then [1 Samuel](1-samuel.md)
 - Story path: [Joshua and Judges](../../06-joshua-and-judges.md)
-- Glossary: [judge](../../../glossary/judge.md), [Philistines](../../../glossary/philistines.md), [Israel](../../../glossary/israel.md)
+- Glossary: [judge](../../../glossary/terms/judge.md), [Philistines](../../../glossary/terms/philistines.md), [Israel](../../../glossary/terms/israel.md)

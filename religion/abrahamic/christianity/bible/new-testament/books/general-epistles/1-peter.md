@@ -1,8 +1,12 @@
 # 1 Peter
 
+
+![Depicting The Coronation of the Virgin. The church contains one of the most complete sets of mediaeval wall paintings in Britain. They were probably first…](images/1-peter.jpg)
+
+*Depicting The Coronation of the Virgin. The church contains one of the most complete sets of mediaeval wall paintings in Britain. They were probably first… Credit: Jules & Jenny from Lincoln, UK. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Pickering, Ss Peter & Paul church, wall painting (34079936132).jpg](https://commons.wikimedia.org/wiki/File:Pickering,_Ss_Peter_&_Paul_church,_wall_painting_(34079936132).jpg).*
 **Name and meaning.** The First Letter of Peter, addressed to "elect exiles of the Dispersion" in five provinces of Asia Minor. It is a baptismally flavored exhortation to a mostly Gentile community to live hopefully and honorably under pressure, with Christ the suffering and risen stone as their pattern.
 
-**Prerequisites:** [early church](../../../stories/08-early-church.md) and [Isaiah](../../../../old-testament/books/major-prophets/isaiah.md) (the letter is soaked in Isaiah's stone and servant language).
+**Prerequisites:** [early church](../../stories/08-early-church.md) and [Isaiah](../../../old-testament/books/major-prophets/isaiah.md) (the letter is soaked in Isaiah's stone and servant language).
 
 ## Dating and authorship
 
@@ -21,7 +25,7 @@ The readers are experiencing "various trials" and being slandered as evildoers. 
 
 ## Key passages and ideas
 
-1:3–9 is a compact gospel of new birth, inheritance, and tested faith. 2:9–10 applies Hosea's "not my people" language to this Gentile-majority community — a daring reuse that should be taught alongside [Hosea](../../../../old-testament/books/minor-prophets/hosea.md) and [Romans](../pauline-epistles/romans.md) 9. 2:21–25, the example of Christ's suffering, quotes and echoes Isaiah 53. 3:15, being ready to account for the hope, is a classic text for later apologetics, and in context it is about a gentle, respectful answer under intimidation, not about winning arguments for sport.
+1:3–9 is a compact gospel of new birth, inheritance, and tested faith. 2:9–10 applies Hosea's "not my people" language to this Gentile-majority community — a daring reuse that should be taught alongside [Hosea](../../../old-testament/books/minor-prophets/hosea.md) and [Romans](../pauline-epistles/romans.md) 9. 2:21–25, the example of Christ's suffering, quotes and echoes Isaiah 53. 3:15, being ready to account for the hope, is a classic text for later apologetics, and in context it is about a gentle, respectful answer under intimidation, not about winning arguments for sport.
 
 3:18–22 remains one of the hardest New Testament paragraphs (the spirits in prison, the days of Noah, baptism now saving as an antitype of the flood). Later doctrine of the "descent to the dead" used it; historical-critical reconstructions vary. It is better to admit the difficulty than to pretend a single obvious meaning.
 
@@ -41,4 +45,4 @@ Themes include hope, exile, holiness, suffering, priesthood of the people, and a
 ## Where this leads
 
 - Next: [2 Peter](2-peter.md)
-- Glossary: [exile](../../../../glossary/exile.md), [baptism](../../../../glossary/baptism.md), [priesthood](../../../../glossary/priesthood.md), [Peter](../../../../glossary/peter.md)
+- Glossary: [exile](../../../glossary/themes/exile-and-return.md), [baptism](../../../glossary/terms/baptism.md), priesthood, [Peter](../../../glossary/people/peter.md)

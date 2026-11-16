@@ -1,8 +1,12 @@
 # Matthew
 
+
+![The evangelist Matthew and the angel](images/matthew.jpg)
+
+*The evangelist Matthew and the angel Credit: Rembrandt. License: Public domain. Source: [File:The Evangelist Matthew Inspired by an Angel.jpg](https://commons.wikimedia.org/wiki/File:The_Evangelist_Matthew_Inspired_by_an_Angel.jpg).*
 **Name and meaning.** The Gospel according to Matthew. Tradition names the apostle Matthew, the tax collector also called Levi in other Gospels. The book itself is anonymous. It is the first Gospel in the New Testament canon, a carefully structured account of Jesus as the Messiah of Israel, teacher of a greater righteousness, and Lord of a mixed community of Jews and Gentiles.
 
-**Prerequisites:** [The four Gospels](../../../02-the-four-gospels.md), [Second Temple Judaism and Rome](../../../01-second-temple-judaism-and-rome.md), and the story lessons beginning with [birth narratives](../../../stories/01-birth-narratives.md).
+**Prerequisites:** [The four Gospels](../../02-the-four-gospels.md), [Second Temple Judaism and Rome](../../01-second-temple-judaism-and-rome.md), and the story lessons beginning with [birth narratives](../../stories/01-birth-narratives.md).
 
 ## Dating and authorship
 
@@ -14,14 +18,14 @@ Matthew writes for a community that knows the scriptures of Israel intimately an
 
 ## Outline
 
-- **1–2.** Genealogy (Abraham to David to the exile to Jesus, with four named women); birth, magi, flight to Egypt, massacre, Nazareth — see [birth narratives](../../../stories/01-birth-narratives.md).
-- **3–4.** John the Baptist; baptism and temptation; the move to Capernaum; first disciples — see [baptism and temptation](../../../stories/02-baptism-and-temptation.md).
-- **5–7.** The [Sermon on the Mount](../../../stories/03-sermon-on-the-mount.md).
-- **8–10.** [Miracles](../../../stories/04-miracles.md) and the mission discourse.
-- **11–13.** Controversy, parables of the kingdom — see [parables](../../../stories/05-parables.md).
+- **1–2.** Genealogy (Abraham to David to the exile to Jesus, with four named women); birth, magi, flight to Egypt, massacre, Nazareth — see [birth narratives](../../stories/01-birth-narratives.md).
+- **3–4.** John the Baptist; baptism and temptation; the move to Capernaum; first disciples — see [baptism and temptation](../../stories/02-baptism-and-temptation.md).
+- **5–7.** The [Sermon on the Mount](../../stories/03-sermon-on-the-mount.md).
+- **8–10.** [Miracles](../../stories/04-miracles.md) and the mission discourse.
+- **11–13.** Controversy, parables of the kingdom — see [parables](../../stories/05-parables.md).
 - **14–18.** Confession of Peter, transfiguration, community discourse.
 - **19–25.** The journey and the Jerusalem teaching, including the Olivet discourse.
-- **26–28.** [Passion](../../../stories/06-passion-week.md), empty tomb, and the Great Commission in Galilee — see [resurrection appearances](../../../stories/07-resurrection-appearances.md).
+- **26–28.** [Passion](../../stories/06-passion-week.md), empty tomb, and the Great Commission in Galilee — see [resurrection appearances](../../stories/07-resurrection-appearances.md).
 
 The five large teaching blocks (5–7, 10, 13, 18, 24–25) are often compared to a new Torah, though the book never says that outright.
 
@@ -47,5 +51,5 @@ Themes include fulfillment, Jesus as son of David and son of Abraham, righteousn
 ## Where this leads
 
 - Next: [Mark](mark.md), probably Matthew's main narrative source on the common scholarly view
-- Story path: [birth narratives](../../../stories/01-birth-narratives.md)
-- Glossary: [Gospel](../../../../glossary/gospel.md), [Messiah](../../../../glossary/messiah.md), [kingdom of God](../../../../glossary/kingdom-of-god.md), [Pharisees](../../../../glossary/pharisees.md)
+- Story path: [birth narratives](../../stories/01-birth-narratives.md)
+- Glossary: [Gospel](../../../glossary/terms/gospel.md), [Messiah](../../../glossary/themes/messiah.md), [kingdom of God](../../../glossary/themes/kingdom-of-god.md), [Pharisees](../../../glossary/terms/pharisees.md)

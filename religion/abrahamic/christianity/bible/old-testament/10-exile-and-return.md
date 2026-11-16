@@ -3,6 +3,10 @@
 **Prerequisites:** [Saul, David, and Solomon](07-saul-david-solomon.md) and [the prophets](08-prophets.md)
 **Key ideas:** the northern kingdom falls to Assyria; Judah falls to Babylon; exile as theological crisis; Cyrus and the return; Second Temple beginnings; Ezra and Nehemiah as rebuilding of wall, temple, and Torah community.
 
+
+![Prophet Isaiah predicts the return of the Jews from exile](images/10-exile-and-return.jpg)
+
+*Prophet Isaiah predicts the return of the Jews from exile Credit: Maarten van Heemskerck. License: Public domain. Source: [File:Maarten van Heemskerck - Prophet Isaiah predicts the return of the Jews from exile 1560-1565 FHM01 OS-I-173.jpg](https://commons.wikimedia.org/wiki/File:Maarten_van_Heemskerck_-_Prophet_Isaiah_predicts_the_return_of_the_Jews_from_exile_1560-1565_FHM01_OS-I-173.jpg).*
 If Exodus is the story of being brought out, exile is the story of being thrown out — and then of learning how to be a people with no king and, for a time, no temple.
 
 ## Two falls

@@ -1,5 +1,9 @@
 # Joel
 
+
+![Der Prophet Joel](images/joel.jpg)
+
+*Der Prophet Joel Credit: anonymous. License: Public domain. Source: [File:Bayerisch um 1480 - Der Prophet Joel - 1356 - Bavarian State Painting Collections.jpg](https://commons.wikimedia.org/wiki/File:Bayerisch_um_1480_-_Der_Prophet_Joel_-_1356_-_Bavarian_State_Painting_Collections.jpg).*
 **Name and meaning.** Named for Joel son of Pethuel (*Yoel*, "the Lord is God"). The book moves from a locust plague and drought to a promise of the Lord's spirit poured out on all flesh, and to a judgment of the nations in the "valley of decision." It is short, vivid, and difficult to date.
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [genres](../../../04-genres.md).
@@ -20,7 +24,7 @@ A community centered on the temple (offerings have been cut off; priests are tol
 
 ## Key passages and ideas
 
-The call to "rend your hearts and not your garments" (2:13), with the confession that God is gracious and merciful, slow to anger, and abounding in hesed, quotes the ancient divine name formula of Exodus 34 and applies it to a public crisis. The promise of the spirit in 2:28–32 is the text [Peter](../../../glossary/peter.md) preaches at Pentecost in [Acts](../../../new-testament/books/history/acts.md) 2. Christian reading therefore hears the church's beginning here; Jewish reading keeps the text as an eschatological hope for Israel and the nations. Both receptions depend on the same words.
+The call to "rend your hearts and not your garments" (2:13), with the confession that God is gracious and merciful, slow to anger, and abounding in hesed, quotes the ancient divine name formula of Exodus 34 and applies it to a public crisis. The promise of the spirit in 2:28–32 is the text [Peter](../../../glossary/people/peter.md) preaches at Pentecost in [Acts](../../../new-testament/books/history/acts.md) 2. Christian reading therefore hears the church's beginning here; Jewish reading keeps the text as an eschatological hope for Israel and the nations. Both receptions depend on the same words.
 
 The locusts are described with military poetry, which is why some readers hear an army behind the swarm. The book does not force a choice if one allows prophetic language to be double-layered. The "day of the Lord," already a theme in Amos, is both darkness and, for those who call on the name, deliverance.
 
@@ -40,4 +44,4 @@ Themes include catastrophe, repentance, liturgical response, the spirit, and the
 ## Where this leads
 
 - Next: [Amos](amos.md)
-- Glossary: [day of the Lord](../../../glossary/day-of-the-lord.md), [prophet](../../../glossary/prophet.md), [Zion](../../../glossary/zion.md)
+- Glossary: [day of the Lord](../../../glossary/terms/day-of-the-lord.md), [prophet](../../../glossary/terms/prophet.md), [Zion](../../../glossary/places/zion.md)

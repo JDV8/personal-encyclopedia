@@ -3,6 +3,10 @@
 **Prerequisites:** [Saul, David, and Solomon](07-saul-david-solomon.md)
 **Key ideas:** a prophet is a messenger in a covenant lawsuit more than a fortune-teller; former and latter prophets; judgment and hope; classical voices (Amos, Hosea, Isaiah, Jeremiah, Ezekiel) as a first map.
 
+
+![Джон Сінгер Сарджент, фриз Християнські пророки, ескіз, бл. 1895 р.](images/08-prophets.jpg)
+
+*Джон Сінгер Сарджент, фриз Християнські пророки, ескіз, бл. 1895 р. Credit: Джон Сінгер Сарджент. License: Public domain. Source: [File:345John Singer Sargent, Study for “Frieze of Prophets”, Boston Public Library, 1894-95.jpg](https://commons.wikimedia.org/wiki/File:345John_Singer_Sargent,_Study_for_“Frieze_of_Prophets”,_Boston_Public_Library,_1894-95.jpg).*
 In English, "prophecy" often means prediction. In the Bible, a *navi* is someone who speaks for God into a public situation. Prediction can be part of that speech — a coming exile, a coming restoration, a coming day of the Lord — but the center is usually **covenant**: you were brought out, you were given a law, you are now doing this, and here is what that means.
 
 ## Where the prophets sit in the library

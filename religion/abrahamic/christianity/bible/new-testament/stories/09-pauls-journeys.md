@@ -4,6 +4,10 @@
 
 **Key ideas:** Acts arranges Paul's work in a series of journeys from Antioch and, finally, to Rome; the letters are earlier and should correct as well as fill out the narrative; the council of Jerusalem, the cities of the Aegean, and the long arrest are the spine; a map is useful, and a timetable should stay humble.
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/09-pauls-journeys.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 ## A working map
 
 The traditional "three missionary journeys" plus a voyage to Rome is a teaching scheme, not a label Acts itself prints. It is still a usable map.
@@ -38,4 +42,4 @@ The collection for Jerusalem, easy to treat as a footnote, is in fact one of Pau
 ## Where this leads
 
 - Book path: [Acts](../books/history/acts.md), then the [Pauline epistles](../books/pauline-epistles/README.md), beginning with [1 Thessalonians](../books/pauline-epistles/1-thessalonians.md) or [Romans](../books/pauline-epistles/romans.md)
-- Glossary: [Paul](../../glossary/paul.md), [Antioch](../../glossary/antioch.md), [Gentile](../../glossary/gentile.md), [collection](../../glossary/collection.md)
+- Glossary: [Paul](../../glossary/people/paul.md), [Antioch](../../glossary/places/antioch.md), [Gentile](../../glossary/terms/gentile.md), collection

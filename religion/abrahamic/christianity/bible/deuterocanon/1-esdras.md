@@ -1,5 +1,9 @@
 # 1 Esdras
 
+
+![Gutenberg Bible on display at the New York Public Library](images/1-esdras.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Also called 3 Ezra in some Latin numbering (the names of the Ezra books are a famous tangle). 1 Esdras is a Greek retelling of material from 2 Chronicles 35–36, Ezra, and a bit of Nehemiah, plus one major unique story: a contest of three young bodyguards at Darius's court, won by Zerubbabel with a speech about truth. In the Eastern Orthodox canon it stands as scripture; in Protestant Apocrypha it is printed but not, in Catholic Bibles, part of the typical deuterocanon.
 
 **Prerequisites:** [Ezra](../old-testament/books/history/ezra.md), [Nehemiah](../old-testament/books/history/nehemiah.md), [2 Chronicles](../old-testament/books/history/2-chronicles.md), and [deuterocanon](README.md).
@@ -44,4 +48,4 @@ The numbering muddle (1 Esdras, 2 Esdras, Ezra, Nehemiah, 3 Ezra, 4 Ezra) should
 ## Where this leads
 
 - Next: [Prayer of Manasseh](prayer-of-manasseh.md)
-- Glossary: [Ezra](../glossary/ezra.md), [Zerubbabel](../glossary/zerubbabel.md), [Septuagint](../glossary/septuagint.md)
+- Glossary: [Ezra](../old-testament/books/history/ezra.md), [Zerubbabel](../glossary/people/zerubbabel.md), [Septuagint](../glossary/terms/septuagint.md)

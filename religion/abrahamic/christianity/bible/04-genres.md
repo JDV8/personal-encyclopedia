@@ -3,6 +3,10 @@
 **Prerequisites:** [Languages, dating, and composition](03-languages-dating-and-composition.md)
 **Key ideas:** genre is a first-principles tool for reading; narrative, law, poetry, prophecy, wisdom, apocalyptic, gospel, and letter each ask to be read differently; mixing them up produces false problems.
 
+
+![Gutenberg Bible on display at the New York Public Library](images/04-genres.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 If you read a proverb as a law, or an apocalypse as a newspaper, or a lament as a doctrinal essay, you will misunderstand even if you are sincere. **Genre** is the name for the kind of writing in front of you, and for the expectations it invites. The Bible is unusually mixed. Learning the main kinds is part of learning what the Bible is.
 
 ## Narrative and law

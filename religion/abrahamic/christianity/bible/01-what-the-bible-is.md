@@ -3,6 +3,10 @@
 **Prerequisites:** [The Bible](README.md)
 **Key ideas:** a library of books; "Bible" names different collections in different communities; scripture as writing that a community reads as authoritative; story, law, song, and letter bound together.
 
+
+![Gutenberg Bible on display at the New York Public Library](images/01-what-the-bible-is.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 The English word "Bible" comes from Greek *ta biblia*, "the books." That plural is the first thing to notice. What people hold as one volume is a small library: in a typical Protestant edition, sixty-six books; in a Catholic edition, more; in an Ethiopic Orthodox edition, more still. The books do not all sound alike. Genesis is not Psalms, and Psalms is not Romans.
 
 To call this library **scripture** is to say more than "old literature." It is to say that some community takes these writings as uniquely binding or revealing — as a standard (*kanon*, a measuring rod) for worship, belief, and life. Different communities draw the line in different places, which is why the next lesson is about [canon](02-canon-and-hebrew-bible-vs-old-testament.md). The same physical stories can be scripture in one community and not, or not in the same way, in another.

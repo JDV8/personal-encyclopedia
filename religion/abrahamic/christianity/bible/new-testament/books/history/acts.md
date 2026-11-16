@@ -1,8 +1,12 @@
 # Acts
 
+
+![Raphael, St Paul Preaching in Athens](images/acts.jpg)
+
+*Raphael, St Paul Preaching in Athens Credit: Raphael. License: Public domain. Source: [File:V&A - Raphael, St Paul Preaching in Athens (1515).jpg](https://commons.wikimedia.org/wiki/File:V&A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg).*
 **Name and meaning.** The Acts of the Apostles, the second volume of Luke–Acts, addressed again to Theophilus. The English title overpromises: after the first chapters, the book is mainly the acts of Peter, then of Paul, and of the Spirit who drives the witness from Jerusalem to Rome. It is the only canonical narrative of the earliest church.
 
-**Prerequisites:** [Luke](../gospels/luke.md), [Second Temple Judaism and Rome](../../../01-second-temple-judaism-and-rome.md), and the survey [Acts](../../../04-acts.md). Story companions: [early church](../../../stories/08-early-church.md) and [Paul's journeys](../../../stories/09-pauls-journeys.md).
+**Prerequisites:** [Luke](../gospels/luke.md), [Second Temple Judaism and Rome](../../01-second-temple-judaism-and-rome.md), and the survey [Acts](../../04-acts.md). Story companions: [early church](../../stories/08-early-church.md) and [Paul's journeys](../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
@@ -21,7 +25,7 @@ The setting is the Jewish diaspora and the Roman eastern Mediterranean, from the
 
 ## Key passages and ideas
 
-Pentecost (chapter 2), with the Spirit, the languages, and Peter's use of [Joel](../../../../old-testament/books/minor-prophets/joel.md), is the book's birth scene. The early summaries (2:42–47; 4:32–35) have shaped later ideas of Christian community, sometimes too idealistically, sometimes too dismissively. Stephen's long speech is a rereading of Israel's story that ends in a charge against the present leadership and in the first martyrdom; Saul is standing by.
+Pentecost (chapter 2), with the Spirit, the languages, and Peter's use of [Joel](../../../old-testament/books/minor-prophets/joel.md), is the book's birth scene. The early summaries (2:42–47; 4:32–35) have shaped later ideas of Christian community, sometimes too idealistically, sometimes too dismissively. Stephen's long speech is a rereading of Israel's story that ends in a charge against the present leadership and in the first martyrdom; Saul is standing by.
 
 The conversion of Cornelius (10–11) and the council of Jerusalem (15) are the theological center of the Gentile question: God has given the Spirit first, and the church must catch up. Paul's speech on the Areopagus (17) is a model of preaching in a Greek philosophical setting, using an altar "to an unknown god" and even a poet's line, then announcing resurrection — at which point the audience splits. The trial speeches show Christianity on trial before Jewish and Roman authorities, and they insist that the movement is not a political revolt but a hope of Israel fulfilled.
 
@@ -43,5 +47,5 @@ Themes include the Holy Spirit, witness, the inclusion of the nations, the innoc
 ## Where this leads
 
 - Next section: [Pauline epistles](../pauline-epistles/README.md), beginning with [Romans](../pauline-epistles/romans.md)
-- Story path: [early church](../../../stories/08-early-church.md), [Paul's journeys](../../../stories/09-pauls-journeys.md)
-- Glossary: [Pentecost](../../../../glossary/pentecost.md), [Holy Spirit](../../../../glossary/holy-spirit.md), [apostle](../../../../glossary/apostle.md), [Gentile](../../../../glossary/gentile.md)
+- Story path: [early church](../../stories/08-early-church.md), [Paul's journeys](../../stories/09-pauls-journeys.md)
+- Glossary: [Pentecost](../../../glossary/terms/pentecost.md), [Holy Spirit](../../../glossary/terms/holy-spirit.md), [apostle](../../../glossary/terms/apostle.md), [Gentile](../../../glossary/terms/gentile.md)

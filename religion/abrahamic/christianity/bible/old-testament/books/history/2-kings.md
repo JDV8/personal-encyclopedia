@@ -1,5 +1,9 @@
 # 2 Kings
 
+
+![The dead man, who was thrown in Elisha's tomb, comes back to life (2 Kings 13:21) oil on panel 69.1 x 60.1 cm signed: J Nagel fc... 1596](images/2-kings.jpg)
+
+*The dead man, who was thrown in Elisha's tomb, comes back to life (2 Kings 13:21) oil on panel 69.1 x 60.1 cm signed: J Nagel fc... 1596 Credit: Jan Nagel. License: Public domain. Source: [File:The Miracle at the Grave of Elisha by Jan Nagel (d 1602).jpg](https://commons.wikimedia.org/wiki/File:The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_(d_1602).jpg).*
 **Name and meaning.** The second half of the book of Kings, from the close of Elijah's work through the fall of Samaria (722/721 BCE) and the fall of Jerusalem (586 BCE). It is the narrative explanation, in Deuteronomistic terms, of why both kingdoms ended in exile.
 
 **Prerequisites:** [1 Kings](1-kings.md), [the prophets](../../08-prophets.md), and [Exile and return](../../10-exile-and-return.md).
@@ -47,4 +51,4 @@ Chronicles will retell the southern story with a different emphasis (and almost 
 
 - Next: [1 Chronicles](1-chronicles.md), a retelling from a later vantage
 - Story path: [Exile and return](../../10-exile-and-return.md)
-- Glossary: [Elisha](../../../glossary/elisha.md), [Hezekiah](../../../glossary/hezekiah.md), [Josiah](../../../glossary/josiah.md), [exile](../../../glossary/exile.md), [Babylon](../../../glossary/babylon.md)
+- Glossary: [Elisha](../../../glossary/people/elisha.md), [Hezekiah](../../../glossary/people/hezekiah.md), [Josiah](../../../glossary/people/josiah.md), [exile](../../../glossary/themes/exile-and-return.md), [Babylon](../../../glossary/places/babylon.md)

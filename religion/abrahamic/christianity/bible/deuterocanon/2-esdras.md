@@ -1,5 +1,9 @@
 # 2 Esdras
 
+
+![Gutenberg Bible on display at the New York Public Library](images/2-esdras.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A composite work, also called 4 Ezra in the core Jewish apocalypse (chapters 3–14), with a later Christian beginning (5 Ezra, chapters 1–2) and ending (6 Ezra, chapters 15–16) in the Latin tradition. The central apocalypse is one of the most important Jewish theological works of the late first century CE: seven visions in which Ezra questions the justice of God after a destruction of Zion, and is answered with a mixture of rebuke, consolation, and secrets of the end. Some Orthodox traditions print the book; it is not in the Catholic deuterocanon, but it is in many Apocrypha collections and was influential in both Jewish and Christian thought.
 
 **Prerequisites:** [Ezra](../old-testament/books/history/ezra.md), [Daniel](../old-testament/books/major-prophets/daniel.md), [Job](../old-testament/books/wisdom-poetry/job.md), and [deuterocanon](README.md). Helpful: [Revelation](../new-testament/books/prophecy/revelation.md) and [Lamentations](../old-testament/books/major-prophets/lamentations.md).
@@ -40,4 +44,4 @@ The numbering (2 Esdras, 4 Ezra, 5–6 Ezra) should be checked whenever a footno
 ## Where this leads
 
 - Next: [4 Maccabees](4-maccabees.md)
-- Glossary: [apocalyptic](../glossary/apocalyptic.md), [theodicy](../glossary/theodicy.md), [Zion](../glossary/zion.md), [Ezra](../glossary/ezra.md)
+- Glossary: [apocalyptic](../glossary/terms/apocalyptic.md), [theodicy](../glossary/terms/theodicy.md), [Zion](../glossary/places/zion.md), [Ezra](../old-testament/books/history/ezra.md)

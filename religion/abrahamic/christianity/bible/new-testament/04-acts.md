@@ -3,6 +3,10 @@
 **Prerequisites:** [The four Gospels](02-the-four-gospels.md), especially Luke, and [key stories](03-key-stories-and-parables.md)
 **Key ideas:** Luke's second volume; the Spirit and a movement from Jerusalem outward; Peter, Stephen, and the inclusion of Gentiles; Paul's journeys and the road to Rome; history and theology braided together.
 
+
+![Raphael, St Paul Preaching in Athens](images/04-acts.jpg)
+
+*Raphael, St Paul Preaching in Athens Credit: Raphael. License: Public domain. Source: [File:V&A - Raphael, St Paul Preaching in Athens (1515).jpg](https://commons.wikimedia.org/wiki/File:V&A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg).*
 The **Acts of the Apostles** opens by addressing Theophilus again and by taking up where Luke's gospel ended: the risen Jesus is with the disciples for forty days, promises the Holy Spirit, and is taken up. The book is not a complete history of all apostles (James the son of Zebedee dies early; most of the Twelve recede). It is a selective, theological history of how a Jewish messianic sect in Jerusalem became a movement that also included Gentiles and reached the heart of the empire.
 
 ## Jerusalem and the Spirit

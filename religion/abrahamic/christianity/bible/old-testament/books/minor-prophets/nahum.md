@@ -1,5 +1,9 @@
 # Nahum
 
+
+![Swedish: Profeten Nahum / Bebådelsen The Prophet Nahum-The Annunciation Nahum /…](images/nahum.jpg)
+
+*Swedish: Profeten Nahum / Bebådelsen The Prophet Nahum-The Annunciation Nahum /… Credit: anonymous. License: Public domain. Source: [File:Okänd - The Prophet Nahum-The Annunciation - NMI 21 - Nationalmuseum.jpg](https://commons.wikimedia.org/wiki/File:Okänd_-_The_Prophet_Nahum-The_Annunciation_-_NMI_21_-_Nationalmuseum.jpg).*
 **Name and meaning.** Named for Nahum the Elkoshite (*Nachum*, "comfort"). The book is an oracle against Nineveh, capital of Assyria: a vision of the city's fall, written as a taunt, a dirge, and a theophany. Comfort, in this book, is comfort for Judah through the end of an oppressor.
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [Jonah](jonah.md). Historical frame: [2 Kings](../history/2-kings.md) and the Assyrian crisis.
@@ -38,4 +42,4 @@ Themes include the justice of God against empire, the poetry of siege, and comfo
 
 - Next: [Habakkuk](habakkuk.md)
 - Related: [Jonah](jonah.md), [Isaiah](../major-prophets/isaiah.md)
-- Glossary: [Nineveh](../../../glossary/nineveh.md), [Assyria](../../../glossary/assyria.md), [day of the Lord](../../../glossary/day-of-the-lord.md)
+- Glossary: [Nineveh](../../../glossary/places/nineveh.md), [Assyria](../../../glossary/places/assyria.md), [day of the Lord](../../../glossary/terms/day-of-the-lord.md)

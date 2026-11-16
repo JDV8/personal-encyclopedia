@@ -1,5 +1,9 @@
 # 2 Samuel
 
+
+![David kneeling in his Palace before the Prophet Nathan](images/2-samuel.jpg)
+
+*David kneeling in his Palace before the Prophet Nathan Credit: Tobias van Nijmegen. License: Public domain. Source: [File:Tobias van Nijmegen (b.c.1665) - David Kneeling in His Palace before the Prophet Nathan - 1530122.1 - National Trust.jpg](https://commons.wikimedia.org/wiki/File:Tobias_van_Nijmegen_(b.c.1665)_-_David_Kneeling_in_His_Palace_before_the_Prophet_Nathan_-_1530122.1_-_National_Trust.jpg).*
 **Name and meaning.** The continuation of the Hebrew book of Samuel, now focused almost entirely on David: his kingship over Judah and then all Israel, the promise concerning his house, his crime and its consequences, and the last political tremors of his reign.
 
 **Prerequisites:** [1 Samuel](1-samuel.md) and [Saul, David, and Solomon](../../07-saul-david-solomon.md).
@@ -22,7 +26,7 @@ After Saul's death, David is made king at Hebron, then, after war with Saul's ho
 
 ## Key passages and ideas
 
-2 Samuel 7 is the theological center: David wants to build a house (temple) for the Lord; the Lord instead promises to build David a house (dynasty). The promise of a lasting throne, a son who will build the temple, and a father–son relation between God and the king, will be read by later generations through exile, through the failure of the monarchy, and eventually — in Christian reading — through [Jesus](../../../glossary/jesus.md) as son of David. Jewish messianic hope also works this text hard, without that Christian conclusion.
+2 Samuel 7 is the theological center: David wants to build a house (temple) for the Lord; the Lord instead promises to build David a house (dynasty). The promise of a lasting throne, a son who will build the temple, and a father–son relation between God and the king, will be read by later generations through exile, through the failure of the monarchy, and eventually — in Christian reading — through [Jesus](../../../glossary/people/jesus.md) as son of David. Jewish messianic hope also works this text hard, without that Christian conclusion.
 
 The Bathsheba episode (11–12) refuses to let the "man after God's heart" remain an uncomplicated hero. Nathan's parable forces David to judge himself. The rest of the book shows the sword at work in his own house, as Nathan had said. Absalom's revolt is written with heartbreaking detail, including David's cry over his dead son.
 
@@ -48,4 +52,4 @@ Chronicles will retell David's reign with different emphases (less Bathsheba, mo
 
 - Next: [1 Kings](1-kings.md)
 - Story path: [Saul, David, and Solomon](../../07-saul-david-solomon.md)
-- Glossary: [David](../../../glossary/david.md), [covenant](../../../glossary/covenant.md), [Messiah](../../../glossary/messiah.md), [Jerusalem](../../../glossary/jerusalem.md)
+- Glossary: [David](../../../glossary/people/david.md), [covenant](../../../glossary/themes/covenant.md), [Messiah](../../../glossary/themes/messiah.md), [Jerusalem](../../../glossary/places/jerusalem.md)

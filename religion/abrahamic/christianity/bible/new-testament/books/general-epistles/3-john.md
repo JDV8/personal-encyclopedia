@@ -1,5 +1,9 @@
 # 3 John
 
+
+![adoration of the Magi](images/3-john.jpg)
+
+*adoration of the Magi Credit: Fra Angelico and Fra Filippo Lippi (1395 - 1455) – painter (Italian) Born in Italy, Mugello, Vicchio. Died in Italy, Rome. Details on Google Art Project. License: Public domain. Source: [File:Fra Angelico, Fra Filippo Lippi, The Adoration of the Magi.jpg](https://commons.wikimedia.org/wiki/File:Fra_Angelico,_Fra_Filippo_Lippi,_The_Adoration_of_the_Magi.jpg).*
 **Name and meaning.** The Third Letter of John, the shortest book in the New Testament, is a personal note from "the elder" to Gaius, praising him for hospitality to traveling "brothers," condemning Diotrephes who "likes to put himself first" and refuses the elder's people, and commending Demetrius.
 
 **Prerequisites:** [2 John](2-john.md) and [1 John](1-john.md).
@@ -47,4 +51,4 @@ Later readers have used Diotrephes as a type of the tyrannical churchman, and Ga
 ## Where this leads
 
 - Next: [Jude](jude.md)
-- Glossary: [hospitality](../../../../glossary/hospitality.md), [elder](../../../../glossary/elder.md), [house church](../../../../glossary/house-church.md)
+- Glossary: hospitality, [elder](../../../glossary/terms/elder.md), [house church](../../../glossary/terms/house-church.md)

@@ -1,5 +1,9 @@
 # Ezra
 
+
+![Ezra Reads the Law l](images/ezra.jpg)
+
+*Ezra Reads the Law l Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:Ezra Reads the Law l.jpg](https://commons.wikimedia.org/wiki/File:Ezra_Reads_the_Law_l.jpg).*
 **Name and meaning.** Named for Ezra the priest and scribe. In Hebrew tradition Ezra and Nehemiah were long treated as one book. In Christian Bibles they are two, and they follow Chronicles (2 Chronicles even ends on the same sentence with which Ezra begins: Cyrus' decree). They narrate the return from Babylon, the rebuilding of the temple, and a later reform of the community around Torah.
 
 **Prerequisites:** [2 Chronicles](2-chronicles.md), [2 Kings](2-kings.md), and [Exile and return](../../10-exile-and-return.md).
@@ -41,4 +45,4 @@ Themes include restoration, temple, Torah, identity, and empire as an unexpected
 
 - Next: [Nehemiah](nehemiah.md)
 - Related prophets: [Haggai](../minor-prophets/haggai.md), [Zechariah](../minor-prophets/zechariah.md), [Malachi](../minor-prophets/malachi.md)
-- Glossary: [exile](../../../glossary/exile.md), [Second Temple](../../../glossary/second-temple.md), [Torah](../../../glossary/torah.md), [Cyrus](../../../glossary/cyrus.md)
+- Glossary: [exile](../../../glossary/themes/exile-and-return.md), [Second Temple](../../../glossary/terms/second-temple.md), [Torah](../../../glossary/terms/torah.md), [Cyrus](../../../glossary/people/cyrus.md)

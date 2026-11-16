@@ -1,8 +1,8 @@
 # Gospels
 
-The four canonical Gospels — Matthew, Mark, Luke, and John — are the church's basic witnesses to Jesus of Nazareth. They are not modern biographies, and they are not interchangeable. The first three, the Synoptics, share a large amount of wording and order; John is distinctive in style, chronology, and emphasis. Traditional authorship names two apostles (Matthew, John) and two companions of apostles (Mark, Luke). Historical-critical study debates those names, dates the books mostly in the late first century, and works on their sources and communities. Both frames are set out in the overviews and in the survey lesson [The four Gospels](../../../02-the-four-gospels.md).
+The four canonical Gospels — Matthew, Mark, Luke, and John — are the church's basic witnesses to Jesus of Nazareth. They are not modern biographies, and they are not interchangeable. The first three, the Synoptics, share a large amount of wording and order; John is distinctive in style, chronology, and emphasis. Traditional authorship names two apostles (Matthew, John) and two companions of apostles (Mark, Luke). Historical-critical study debates those names, dates the books mostly in the late first century, and works on their sources and communities. Both frames are set out in the overviews and in the survey lesson [The four Gospels](../../02-the-four-gospels.md).
 
-Read the Gospels before (or at least alongside) the later doctrinal uses of them. The [story lessons](../../../stories/README.md) follow major episodes across the four.
+Read the Gospels before (or at least alongside) the later doctrinal uses of them. The [story lessons](../../stories/README.md) follow major episodes across the four.
 
 ## Suggested reading order
 

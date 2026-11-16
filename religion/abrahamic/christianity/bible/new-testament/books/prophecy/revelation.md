@@ -1,8 +1,12 @@
 # Revelation
 
+
+![Saint John on the island of Patmos](images/revelation.jpg)
+
+*Saint John on the island of Patmos Credit: Diego Velázquez. License: Public domain. Source: [File:Diego Velázquez 018 (John the Evangelist from Patmos).jpg](https://commons.wikimedia.org/wiki/File:Diego_Velázquez_018_(John_the_Evangelist_from_Patmos).jpg).*
 **Name and meaning.** The Revelation (or Apocalypse) to John, the New Testament's only full-scale apocalypse: a letter, a prophecy, and a visionary book addressed to seven churches in Asia, announcing what "must soon take place," centering on the slain and standing Lamb, and ending with a new heaven, a new earth, and a new Jerusalem.
 
-**Prerequisites:** [Daniel](../../../../old-testament/books/major-prophets/daniel.md), [Ezekiel](../../../../old-testament/books/major-prophets/ezekiel.md), [Isaiah](../../../../old-testament/books/major-prophets/isaiah.md), and the survey [Revelation](../../../06-revelation.md). Helpful: [Second Temple Judaism and Rome](../../../01-second-temple-judaism-and-rome.md).
+**Prerequisites:** [Daniel](../../../old-testament/books/major-prophets/daniel.md), [Ezekiel](../../../old-testament/books/major-prophets/ezekiel.md), [Isaiah](../../../old-testament/books/major-prophets/isaiah.md), and the survey [Revelation](../../06-revelation.md). Helpful: [Second Temple Judaism and Rome](../../01-second-temple-judaism-and-rome.md).
 
 ## Dating and authorship
 
@@ -49,6 +53,6 @@ The seven messages remain the most straightforward entry point: they are letters
 
 ## Where this leads
 
-- The New Testament book path ends here. For the Old Testament's closest companion, see [Daniel](../../../../old-testament/books/major-prophets/daniel.md)
-- Survey: [Revelation](../../../06-revelation.md)
-- Glossary: [apocalyptic](../../../../glossary/apocalyptic.md), [Lamb](../../../../glossary/lamb.md), [Babylon](../../../../glossary/babylon.md), [millennium](../../../../glossary/millennium.md), [new Jerusalem](../../../../glossary/new-jerusalem.md)
+- The New Testament book path ends here. For the Old Testament's closest companion, see [Daniel](../../../old-testament/books/major-prophets/daniel.md)
+- Survey: [Revelation](../../06-revelation.md)
+- Glossary: [apocalyptic](../../../glossary/terms/apocalyptic.md), Lamb, [Babylon](../../../glossary/places/babylon.md), millennium, new Jerusalem

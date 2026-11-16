@@ -1,5 +1,9 @@
 # Isaiah
 
+
+![(Venice) The Prophet Isaiah by Paolo Veronese - gallerie Accademia Venice](images/isaiah.jpg)
+
+*(Venice) The Prophet Isaiah by Paolo Veronese - gallerie Accademia Venice Credit: Didier Descouens. License: Public domain. Source: [File:(Venice) The Prophet Isaiah by Paolo Veronese - gallerie Accademia Venice.jpg](https://commons.wikimedia.org/wiki/File:(Venice)_The_Prophet_Isaiah_by_Paolo_Veronese_-_gallerie_Accademia_Venice.jpg).*
 **Name and meaning.** Named for Isaiah son of Amoz (Hebrew *Yeshayahu*, "the Lord is salvation"), a prophet in eighth-century Judah. The book that bears his name is the longest and most theologically dense of the Latter Prophets: judgment and hope for Judah, oracles concerning the nations, and, in its later chapters, some of the most influential consolation literature in the Bible. In the Tanakh it opens the Latter Prophets; in Christian Bibles it opens the major prophets.
 
 **Prerequisites:** [The prophets](../../08-prophets.md), [1–2 Kings](../history/1-kings.md), and [Exile and return](../../10-exile-and-return.md).
@@ -50,4 +54,4 @@ Themes include holiness, justice, trust versus political anxiety, remnant, messi
 
 - Next: [Jeremiah](jeremiah.md)
 - Story path: [The prophets](../../08-prophets.md), [Exile and return](../../10-exile-and-return.md)
-- Glossary: [prophet](../../../glossary/prophet.md), [Messiah](../../../glossary/messiah.md), [Servant of the Lord](../../../glossary/servant-of-the-lord.md), [Immanuel](../../../glossary/immanuel.md), [Cyrus](../../../glossary/cyrus.md)
+- Glossary: [prophet](../../../glossary/terms/prophet.md), [Messiah](../../../glossary/themes/messiah.md), [Servant of the Lord](../../../glossary/terms/servant-of-the-lord.md), [Immanuel](../../../glossary/terms/immanuel.md), [Cyrus](../../../glossary/people/cyrus.md)

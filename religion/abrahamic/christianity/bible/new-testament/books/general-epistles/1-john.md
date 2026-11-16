@@ -1,5 +1,9 @@
 # 1 John
 
+
+![Biblical Destruction Scene](images/1-john.jpg)
+
+*Biblical Destruction Scene Credit: John Martin. License: Public domain. Source: [File:John Martin (1789-1854) (follower of) - Biblical Destruction Scene - TWCMS , C6996 - Laing Art Gallery.jpg](https://commons.wikimedia.org/wiki/File:John_Martin_(1789-1854)_(follower_of)_-_Biblical_Destruction_Scene_-_TWCMS_,_C6996_-_Laing_Art_Gallery.jpg).*
 **Name and meaning.** The First Letter of John is, like Hebrews, more a homily than a letter (it has no formal greeting). It is a circular argument — or a spiral — about walking in the light, confessing sin, keeping the commandments, loving the brothers and sisters, and confessing Jesus Christ come in the flesh, over against secessionists who have left the community.
 
 **Prerequisites:** [John](../gospels/john.md), whose language and theology this book shares.
@@ -43,4 +47,4 @@ Themes include incarnation, light, sin, advocacy, love, and testing the spirits.
 ## Where this leads
 
 - Next: [2 John](2-john.md) and [3 John](3-john.md)
-- Glossary: [incarnation](../../../../glossary/incarnation.md), [antichrist](../../../../glossary/antichrist.md), [love](../../../../glossary/love.md)
+- Glossary: [incarnation](../../../glossary/terms/incarnation.md), antichrist, love

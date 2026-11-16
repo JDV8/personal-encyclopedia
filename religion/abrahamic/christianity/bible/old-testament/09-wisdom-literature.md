@@ -3,6 +3,10 @@
 **Prerequisites:** [Genres](../04-genres.md). Helpful: [the prophets](08-prophets.md), as a contrast in voice.
 **Key ideas:** wisdom as skill in living, not only as information; Proverbs' confidence and the protests of Job and Ecclesiastes; Psalms as Israel's prayer book; attribution and setting matter less, at first, than the kind of speech.
 
+
+![Cover of Volz' German commentary of the biblical Wisdom Literature by 1911](images/09-wisdom-literature.jpg)
+
+*Cover of Volz' German commentary of the biblical Wisdom Literature by 1911 Credit: Rehabeam. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Volz' Bible Commentary.jpg](https://commons.wikimedia.org/wiki/File:Volz'_Bible_Commentary.jpg).*
 Not all of the Hebrew Bible is story or law or prophetic lawsuit. A set of books asks how to live well in the world as it is — and what to do when the world does not repay the righteous. This is **wisdom**. It has cousins elsewhere in the Ancient Near East (Egyptian instruction texts, Mesopotamian skeptical literature). In the Christian Old Testament the core is Proverbs, Job, and Ecclesiastes, with the Song of Songs nearby, and the Psalms as the great book of prayer that often overlaps wisdom. (Sirach and the Wisdom of Solomon belong here too in Catholic and Orthodox canons.)
 
 ## Proverbs and the default picture

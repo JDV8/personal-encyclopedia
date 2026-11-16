@@ -2,7 +2,7 @@
 
 The general (or "catholic") epistles are the New Testament letters not addressed to a single Pauline church or coworker: [Hebrews](hebrews.md), [James](james.md), [1 Peter](1-peter.md), [2 Peter](2-peter.md), [1 John](1-john.md), [2 John](2-john.md), [3 John](3-john.md), and [Jude](jude.md). "General" is a tradition of classification, not a claim that every one of them is equally general (3 John is a note to Gaius; 2 John is to a particular church). Hebrews is placed here rather than among the [Pauline epistles](../pauline-epistles/README.md) because it is anonymous and, in modern judgment, not by Paul, even though some older Bibles print it after Philemon.
 
-These books were among the more debated writings in the long process of canon recognition, especially Hebrews, James, 2 Peter, 2–3 John, and Jude. Their later certainty in the canon is itself part of their story; see [canon](../../../../glossary/canon.md).
+These books were among the more debated writings in the long process of canon recognition, especially Hebrews, James, 2 Peter, 2–3 John, and Jude. Their later certainty in the canon is itself part of their story; see [canon](../../../glossary/terms/canon.md).
 
 ## Suggested reading order
 

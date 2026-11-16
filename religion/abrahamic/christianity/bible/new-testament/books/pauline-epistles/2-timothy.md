@@ -1,8 +1,12 @@
 # 2 Timothy
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/2-timothy.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Second Letter to Timothy, the most personal of the Pastorals: a farewell-like charge from a prisoner who has been deserted by some and supported by others, urging Timothy to rekindle a gift, to endure hardship, and to hold to the sacred writings he has known from childhood.
 
-**Prerequisites:** [1 Timothy](1-timothy.md) and [Paul's letters](../../../05-pauls-letters.md).
+**Prerequisites:** [1 Timothy](1-timothy.md) and [Paul's letters](../../05-pauls-letters.md).
 
 ## Dating and authorship
 
@@ -41,4 +45,4 @@ Themes include courage, sound teaching, scripture, endurance, and a good death (
 ## Where this leads
 
 - Next: [Titus](titus.md)
-- Glossary: [inspiration](../../../../glossary/inspiration.md), [scripture](../../../../glossary/scripture.md), [Timothy](../../../../glossary/timothy.md)
+- Glossary: [inspiration](../../../glossary/terms/inspiration.md), [scripture](../../../glossary/terms/scripture.md), [Timothy](../../../glossary/people/timothy.md)

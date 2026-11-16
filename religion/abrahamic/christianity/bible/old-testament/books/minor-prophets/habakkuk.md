@@ -1,5 +1,9 @@
 # Habakkuk
 
+
+![The Prophet Habakkuk](images/habakkuk.jpg)
+
+*The Prophet Habakkuk Credit: anonymous. License: Public domain. Source: [File:British (English) School - The Prophet Habakkuk - 1430496.24 - National Trust.jpg](https://commons.wikimedia.org/wiki/File:British_(English)_School_-_The_Prophet_Habakkuk_-_1430496.24_-_National_Trust.jpg).*
 **Name and meaning.** Named for the prophet Habakkuk, otherwise almost unknown. The book is a dialogue: the prophet complains about violence and unanswered injustice in Judah, is told that the Babylonians (the Chaldeans) are the Lord's instrument, complains again that a wicked nation cannot be the final measure, and is told that "the righteous shall live by his faithfulness." A closing psalm waits for the Lord's coming in the midst of famine.
 
 **Prerequisites:** [The prophets](../../08-prophets.md) and [2 Kings](../history/2-kings.md) on the end of Judah. Helpful: [Jeremiah](../major-prophets/jeremiah.md).
@@ -41,4 +45,4 @@ Themes include theodicy, imperial violence, waiting, faithfulness, and praise be
 ## Where this leads
 
 - Next: [Zephaniah](zephaniah.md)
-- Glossary: [faith](../../../glossary/faith.md), [theodicy](../../../glossary/theodicy.md), [Babylon](../../../glossary/babylon.md)
+- Glossary: [faith](../../../glossary/terms/faith.md), [theodicy](../../../glossary/terms/theodicy.md), [Babylon](../../../glossary/places/babylon.md)

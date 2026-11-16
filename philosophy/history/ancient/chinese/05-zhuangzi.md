@@ -4,9 +4,9 @@
 **Key ideas:** a book of stories and thought-experiments; perspective and the limits of fixed names; skillful spontaneity; the usefulness of the useless; death and transformation without panic.
 
 
-![Bian Zhuangzi Killing Tigerslabel QS:Lzh,"宋人卞莊子刺虎圖 卷"label QS:Len,"Bian Zhuangzi Killing Tigers"](images/05-zhuangzi.jpg)
+![Bian Zhuangzi Killing Tigers](images/05-zhuangzi.jpg)
 
-*Bian Zhuangzi Killing Tigerslabel QS:Lzh,"宋人卞莊子刺虎圖 卷"label QS:Len,"Bian Zhuangzi Killing Tigers" Credit: Unknown authorUnknown author. License: Public domain. Source: [File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg](https://commons.wikimedia.org/wiki/File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg).*
+*Bian Zhuangzi Killing Tigers Credit: Unknown authorUnknown author. License: Public domain. Source: [File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg](https://commons.wikimedia.org/wiki/File:卞庄子刺虎图卷.宋人绘.绢本浅设色.台北故宫博物院藏.jpg).*
 The *Zhuangzi* is associated with Zhuang Zhou (fourth century BCE). Like other early Chinese books, it is layered: the "Inner Chapters" are often treated as closest to a historical Zhuangzi, while the Outer and Miscellaneous chapters include later hands in a related spirit. The voice is unlike the *Analects* or the *Daodejing*: parables, jokes, talking skulls, enormous fish, and arguments that fold into themselves.
 
 If the *Daodejing* often sounds like counsel to a sage-ruler, the *Zhuangzi* is more interested in how a person might move through a world of forced distinctions without being broken by them.

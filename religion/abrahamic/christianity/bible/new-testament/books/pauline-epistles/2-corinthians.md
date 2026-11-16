@@ -1,8 +1,12 @@
 # 2 Corinthians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/2-corinthians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Second Letter of Paul to the Corinthians in the canon, though the relationship was more complicated than the numbering suggests: a painful visit, a severe letter, and a reconciliation lie behind this text, and many scholars think the canonical book itself may combine more than one letter. It is Paul's most personal letter, a defense of his apostleship and of a ministry that looks weak.
 
-**Prerequisites:** [1 Corinthians](1-corinthians.md) and [Paul's journeys](../../../stories/09-pauls-journeys.md).
+**Prerequisites:** [1 Corinthians](1-corinthians.md) and [Paul's journeys](../../stories/09-pauls-journeys.md).
 
 ## Dating and authorship
 
@@ -21,7 +25,7 @@ Paul's authority in Corinth has been challenged by rival missionaries who, in hi
 
 ## Key passages and ideas
 
-3:6–18, the new covenant and the Spirit who gives freedom, rereads [Exodus](../../../../old-testament/books/law-torah/exodus.md) and [Jeremiah](../../../../old-testament/books/major-prophets/jeremiah.md) in a Pauline key. 5:17–21, the new creation and the ministry of reconciliation ("God was in Christ reconciling the world to himself"), is among the most quoted summaries of Paul's gospel. 8:9 uses Christ's "becoming poor" as the pattern for the collection: theology funds ethics.
+3:6–18, the new covenant and the Spirit who gives freedom, rereads [Exodus](../../../old-testament/books/law-torah/exodus.md) and [Jeremiah](../../../old-testament/books/major-prophets/jeremiah.md) in a Pauline key. 5:17–21, the new creation and the ministry of reconciliation ("God was in Christ reconciling the world to himself"), is among the most quoted summaries of Paul's gospel. 8:9 uses Christ's "becoming poor" as the pattern for the collection: theology funds ethics.
 
 The "fool's speech" in chapters 11–12 inverts every Greco-Roman honor code: Paul boasts of beatings, shipwrecks, anxiety for the churches, and a thorn he could not pray away. The thorn is not identified; the sentence "my grace is sufficient for you" is the point, not the diagnosis. The letter ends without a tidy narrative resolution; the church's later inclusion of both 1 and 2 Corinthians implies that the relationship, however strained, held.
 
@@ -42,4 +46,4 @@ Themes include consolation, apostolic weakness, new covenant, reconciliation, ge
 ## Where this leads
 
 - Next: [Galatians](galatians.md)
-- Glossary: [apostle](../../../../glossary/apostle.md), [new covenant](../../../../glossary/new-covenant.md), [reconciliation](../../../../glossary/reconciliation.md), [grace](../../../../glossary/grace.md)
+- Glossary: [apostle](../../../glossary/terms/apostle.md), [new covenant](../../../glossary/terms/new-covenant.md), reconciliation, [grace](../../../glossary/terms/grace.md)

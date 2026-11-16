@@ -1,5 +1,9 @@
 # Ecclesiastes
 
+
+![Vanitas Still Life. signed, upper right: J. V. Meulen. and dated on the sheet music, lower right: 1654. inscribed on two sheets of paper: MORS / OMNIA /…](images/ecclesiastes.jpg)
+
+*Vanitas Still Life. signed, upper right: J. V. Meulen. and dated on the sheet music, lower right: 1654. inscribed on two sheets of paper: MORS / OMNIA /… Credit: Jan Vermeulen. License: Public domain. Source: [File:Jan Vermeulen Vanitas Still Life.jpg](https://commons.wikimedia.org/wiki/File:Jan_Vermeulen_Vanitas_Still_Life.jpg).*
 **Name and meaning.** *Ecclesiastes* is the Latin form of the Greek rendering of Hebrew *Qoheleth*, "the Gatherer" or "the Teacher" (sometimes "Preacher"), the voice who speaks almost throughout. The book is a searching, often disillusioned meditation on work, pleasure, wisdom, death, and the possibility of fearing God anyway. In the Tanakh it is among the Writings and is read during the feast of Booths; in Christian Bibles it stands among the wisdom books.
 
 **Prerequisites:** [Proverbs](proverbs.md) and [Wisdom literature](../../09-wisdom-literature.md).
@@ -44,4 +48,4 @@ Jewish tradition assigned it to Sukkot, a festival of joy, which is a bold pairi
 
 - Next: [Song of Songs](song-of-songs.md)
 - Companion: [Wisdom literature](../../09-wisdom-literature.md); [Job](job.md)
-- Glossary: [wisdom](../../../glossary/wisdom.md), [hevel](../../../glossary/hevel.md)
+- Glossary: [wisdom](../../../glossary/terms/wisdom.md), hevel

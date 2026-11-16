@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Anaximander](anaximander.md)
 
+
+![An 16th-century Engraving of Greek Pre-socratic philsopher Anaximenes of Miletus by Dutch engraver and draughtsman Cornelis Cort, created in 1565.](images/anaximenes.jpg)
+
+*An 16th-century Engraving of Greek Pre-socratic philsopher Anaximenes of Miletus by Dutch engraver and draughtsman Cornelis Cort, created in 1565. Credit: Cornelis Cort. License: Public domain. Source: [File:Engraving of Anaximenes of Miletus.jpg](https://commons.wikimedia.org/wiki/File:Engraving_of_Anaximenes_of_Miletus.jpg).*
 ## Name and dates
 
 Anaximenes of Miletus (active in the mid-sixth century BCE, dying perhaps around 525) is the third of the Milesian trio. Later writers make him Anaximander's pupil. We know even less of his life than of the other two. His importance is not biographical. It is that he tries to keep a single, nameable stuff and still explain how the many different things arise from it.

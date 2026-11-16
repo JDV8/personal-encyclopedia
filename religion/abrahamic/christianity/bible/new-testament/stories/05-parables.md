@@ -4,6 +4,10 @@
 
 **Key ideas:** A parable is a short narrative or extended comparison that does more than illustrate a point already known; Jesus' parables of the kingdom can conceal as well as reveal (Mark 4); the same story can be told to different effect in more than one Gospel; allegory is sometimes invited and sometimes over-applied by later readers.
 
+
+![schilderij (http://vocab.getty.edu/aat/300177435), Abel Grimmer (https://viaf.org/viaf/73725010), Museum Plantin-Moretus](images/05-parables.jpg)
+
+*schilderij (http://vocab.getty.edu/aat/300177435), Abel Grimmer (https://viaf.org/viaf/73725010), Museum Plantin-Moretus Credit: Abel Grimmer. License: Public domain. Source: [File:Abel Grimmer - Landscape with the Parable of the Barren Fig Tree.png](https://commons.wikimedia.org/wiki/File:Abel_Grimmer_-_Landscape_with_the_Parable_of_the_Barren_Fig_Tree.png).*
 ## What a parable is
 
 The Greek *parabole* covers a range from a proverb and a riddle to a short tale. In the Synoptics, Jesus' distinctive form is often a story of ordinary work — sowing, fishing, hiring laborers, baking bread, walking a road — that suddenly puts the hearer's world in question. "The kingdom of God is like…" is not the same as "here is a moral example." Some parables are examples (the good Samaritan, in part); many are more strange than that.
@@ -38,4 +42,4 @@ John's Gospel does not tell Synoptic parables; it has extended metaphors (the sh
 
 - Next: [Passion week](06-passion-week.md)
 - Book path: [Luke](../books/gospels/luke.md), [Matthew](../books/gospels/matthew.md)
-- Glossary: [parable](../../glossary/parable.md), [kingdom of God](../../glossary/kingdom-of-god.md)
+- Glossary: [parable](../../glossary/terms/parable.md), [kingdom of God](../../glossary/themes/kingdom-of-god.md)

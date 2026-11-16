@@ -1,5 +1,9 @@
 # Numbers
 
+
+![Moïse et le Serpent d'Airain](images/numbers.jpg)
+
+*Moïse et le Serpent d'Airain Credit: Jean-Charles Frontier. License: Public domain. Source: [File:Moise et le Serpent d'Airain.jpg](https://commons.wikimedia.org/wiki/File:Moise_et_le_Serpent_d'Airain.jpg).*
 **Name and meaning.** *Numbers* takes its English title from the two censuses that frame much of the book (chapters 1 and 26). In Hebrew it is *Bemidbar*, "In the wilderness," which is a better description of its content. It is the Torah's travel narrative: from Sinai toward the land, through complaint, rebellion, wandering, and a new generation on the plains of Moab.
 
 **Prerequisites:** [Exodus](exodus.md) and [Leviticus](leviticus.md). The story lesson [Moses, the Exodus, and Sinai](../../05-moses-exodus-and-sinai.md) covers the departure and the mountain; this book is the long middle.
@@ -48,4 +52,4 @@ Jewish lectionary reading carries the book as part of the annual Torah cycle. Ch
 
 - Next: [Deuteronomy](deuteronomy.md), Moses' farewell on the same Moabite plains
 - Story path continues in [Joshua and Judges](../../06-joshua-and-judges.md)
-- Glossary: [covenant](../../../glossary/covenant.md), [Israel](../../../glossary/israel.md), [Levites](../../../glossary/levites.md)
+- Glossary: [covenant](../../../glossary/themes/covenant.md), [Israel](../../../glossary/terms/israel.md), [Levites](../../../glossary/terms/levites.md)

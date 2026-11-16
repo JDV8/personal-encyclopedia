@@ -3,6 +3,10 @@
 **Prerequisites:** [Genres](../04-genres.md) (the apocalyptic section) and at least [Second Temple Judaism and Rome](01-second-temple-judaism-and-rome.md)
 **Key ideas:** apocalyptic as a genre of unveiling, not a modern timetable; a letter to seven churches under empire; visions of worship, conflict, and a new heaven and earth; traditional prophecy versus historical readings centered on Rome.
 
+
+![Saint John on the island of Patmos](images/06-revelation.jpg)
+
+*Saint John on the island of Patmos Credit: Diego Velázquez. License: Public domain. Source: [File:Diego Velázquez 018 (John the Evangelist from Patmos).jpg](https://commons.wikimedia.org/wiki/File:Diego_Velázquez_018_(John_the_Evangelist_from_Patmos).jpg).*
 The last book of the Christian Bible names itself an **apocalypse** (an unveiling) and a **prophecy**, and it opens as a **letter**. John, on the island of Patmos "on account of the word of God," is told to write what he sees and send it to seven churches in Asia (Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea). Traditional identification is with John the apostle, the same figure associated with the Fourth Gospel. Many scholars distinguish this John of Patmos from the evangelist: the Greek style is markedly different. A late-first-century date, often under Domitian (or, some argue, earlier under Nero), is common in historical work.
 
 ## How to read it

@@ -1,5 +1,9 @@
 # Song of Songs
 
+
+![Song of songs](images/song-of-songs.jpg)
+
+*Song of songs Credit: Gustave Moreau. License: Public domain. Source: [File:Gustave Moreau - Le Cantique des cantiques.jpg](https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_Le_Cantique_des_cantiques.jpg).*
 **Name and meaning.** Also called the Song of Solomon or Canticles. In Hebrew, *Shir Hashirim*, "the song of songs" (a superlative: the greatest song). It is a collection of love poems between a woman and a man, with a chorus of daughters of Jerusalem, rich in garden, body, and countryside imagery. God's name does not appear (except in a possible contracted form in 8:6). In the Tanakh it is one of the Five Scrolls and is associated with Passover; in Christian Bibles it closes the wisdom and poetry section.
 
 **Prerequisites:** [Wisdom literature](../../09-wisdom-literature.md) and [genres](../../../04-genres.md).
@@ -43,4 +47,4 @@ Themes include desire, mutuality, the senses, waiting, the public and private fa
 
 - The poetic books end; the prophetic books begin with [Isaiah](../major-prophets/isaiah.md)
 - Companion: [Wisdom literature](../../09-wisdom-literature.md)
-- Glossary: [allegory](../../../glossary/allegory.md), [canon](../../../glossary/canon.md)
+- Glossary: allegory, [canon](../../../glossary/terms/canon.md)

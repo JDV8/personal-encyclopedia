@@ -1,5 +1,9 @@
 # 2 Thessalonians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/2-thessalonians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Second Letter to the Thessalonians, a follow-up (or, on some views, a later letter in Paul's name) that deals with a rumor that the day of the Lord has already come, with a picture of a coming "lawless one," and with a problem of idle or disorderly members who will not work.
 
 **Prerequisites:** [1 Thessalonians](1-thessalonians.md).
@@ -20,7 +24,7 @@ Someone, "by spirit or by word or by letter, as though from us," has unsettled t
 
 ## Key passages and ideas
 
-Chapter 2 is the most difficult Pauline (or deutero-Pauline) apocalyptic passage. The "lawless one," the "restrainer," and the "mystery of lawlessness" have been identified, over the centuries, with a long list of emperors, institutions, and future figures. The text itself is allusive and was apparently clearer to its first readers ("you know what is now restraining him"). Humility in identification is a virtue here, as with [Daniel](../../../../old-testament/books/major-prophets/daniel.md) and [Revelation](../prophecy/revelation.md). The pastoral point is clearer than the referents: do not be quickly shaken.
+Chapter 2 is the most difficult Pauline (or deutero-Pauline) apocalyptic passage. The "lawless one," the "restrainer," and the "mystery of lawlessness" have been identified, over the centuries, with a long list of emperors, institutions, and future figures. The text itself is allusive and was apparently clearer to its first readers ("you know what is now restraining him"). Humility in identification is a virtue here, as with [Daniel](../../../old-testament/books/major-prophets/daniel.md) and [Revelation](../prophecy/revelation.md). The pastoral point is clearer than the referents: do not be quickly shaken.
 
 The work command in chapter 3 has had a social afterlife far beyond its occasion. In context it is about a particular disorder in a small church, not a complete economics. The first letter's tenderness about the weak should be kept in the same frame.
 
@@ -40,4 +44,4 @@ Themes include justice at the Lord's coming, resistance to eschatological panic,
 ## Where this leads
 
 - Next: the Pastoral Epistles, beginning with [1 Timothy](1-timothy.md)
-- Glossary: [parousia](../../../../glossary/parousia.md), [antichrist](../../../../glossary/antichrist.md), [tradition](../../../../glossary/tradition.md)
+- Glossary: [parousia](../../../glossary/terms/parousia.md), antichrist, [tradition](../../../../../../../philosophy/glossary/general/tradition.md)

@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Parmenides](parmenides.md) and [Zeno of Elea](zeno-of-elea.md)
 
+
+![Bust of Democritus, Summer Garden, Saint Petersburg, Russia](images/democritus-and-leucippus.jpg)
+
+*Bust of Democritus, Summer Garden, Saint Petersburg, Russia Credit: Екатерина Борисова. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Летний сад. Демокрит2.jpg](https://commons.wikimedia.org/wiki/File:Летний_сад._Демокрит2.jpg).*
 ## Names and dates
 
 Leucippus (fifth century BCE), perhaps of Abdera or Miletus, is a shadowy founder. Democritus of Abdera (c. 460–370 BCE), a younger contemporary of [Socrates](socrates.md), is the figure we can say more about: a prolific writer, a traveler in later stories, nicknamed "the laughing philosopher" in a tradition that may be more emblem than fact. Ancient authors sometimes treat the two as a single atomic school; modern scholars often cannot cleanly divide which doctrines belong to whom. This file therefore treats them together.

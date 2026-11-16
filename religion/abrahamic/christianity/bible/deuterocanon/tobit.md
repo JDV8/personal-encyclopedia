@@ -1,5 +1,9 @@
 # Tobit
 
+
+![Gutenberg Bible on display at the New York Public Library](images/tobit.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A pious tale, preserved in Greek (and in later languages), about Tobit, a righteous Israelite of the northern exile in Nineveh, his son Tobias, Sarah a kinswoman in Media, and the angel Raphael who travels in disguise. The book teaches almsgiving, burial of the dead, endogamous marriage, and a hidden providence.
 
 **Prerequisites:** [Exile and return](../old-testament/10-exile-and-return.md) and [deuterocanon](README.md). Helpful: [Job](../old-testament/books/wisdom-poetry/job.md), another righteous sufferer, of a very different tone.
@@ -43,4 +47,4 @@ The book's humor (a dog on the road, a hapless father, an angel under a false na
 ## Where this leads
 
 - Next: [Judith](judith.md)
-- Glossary: [angel](../glossary/angel.md), [diaspora](../glossary/diaspora.md), [almsgiving](../glossary/almsgiving.md), [Raphael](../glossary/raphael.md)
+- Glossary: [angel](../glossary/terms/angel.md), [diaspora](../glossary/terms/diaspora.md), [almsgiving](../glossary/terms/almsgiving.md), [Raphael](../glossary/people/raphael.md)

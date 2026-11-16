@@ -1,5 +1,9 @@
 # Jeremiah
 
+
+![Jérémie pleurant la destruction de Jérusalem Jeremiah Lamenting the Destruction of Jerusalem pleurant la destruction de…](images/jeremiah.jpg)
+
+*Jérémie pleurant la destruction de Jérusalem Jeremiah Lamenting the Destruction of Jerusalem pleurant la destruction de… Credit: Rembrandt. License: Public domain. Source: [File:Rembrandt Harmensz. van Rijn - Jeremia treurend over de verwoesting van Jeruzalem - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_-_Google_Art_Project.jpg).*
 **Name and meaning.** Named for Jeremiah son of Hilkiah (Hebrew *Yirmeyahu*), a priest from Anathoth who prophesied in the last decades of Judah, from Josiah's reign through the fall of Jerusalem and after. The book is the most biographical of the prophetic scrolls: oracles, sermons, stories of conflict, and the prophet's own laments (the "confessions").
 
 **Prerequisites:** [The prophets](../../08-prophets.md), [Deuteronomy](../law-torah/deuteronomy.md), [2 Kings](../history/2-kings.md), and [Exile and return](../../10-exile-and-return.md).
@@ -48,4 +52,4 @@ Later tradition linked Jeremiah with [Lamentations](lamentations.md) (not a sett
 
 - Next: [Lamentations](lamentations.md)
 - Related: [2 Kings](../history/2-kings.md), [Ezekiel](ezekiel.md)
-- Glossary: [prophet](../../../glossary/prophet.md), [covenant](../../../glossary/covenant.md), [exile](../../../glossary/exile.md), [Babylon](../../../glossary/babylon.md)
+- Glossary: [prophet](../../../glossary/terms/prophet.md), [covenant](../../../glossary/themes/covenant.md), [exile](../../../glossary/themes/exile-and-return.md), [Babylon](../../../glossary/places/babylon.md)

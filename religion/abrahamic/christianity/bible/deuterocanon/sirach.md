@@ -1,5 +1,9 @@
 # Sirach
 
+
+![Gutenberg Bible on display at the New York Public Library](images/sirach.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** Also called the Wisdom of Jesus son of Sirach, or Ecclesiasticus ("the church's book," a Latin nickname that marks its heavy use in Christian lectionaries). It is the largest wisdom book in the deuterocanon: a collection of instruction, poems, and a long "praise of the ancestors," written in Hebrew in Jerusalem in the early second century BCE and translated into Greek by the author's grandson in Egypt.
 
 **Prerequisites:** [Proverbs](../old-testament/books/wisdom-poetry/proverbs.md) and [deuterocanon](README.md).
@@ -41,4 +45,4 @@ Themes include the fear of the Lord, Torah-Wisdom, scribal pedagogy, temple and 
 ## Where this leads
 
 - Next: [Baruch](baruch.md)
-- Glossary: [wisdom](../glossary/wisdom.md), [Torah](../glossary/torah.md), [Ben Sira](../glossary/ben-sira.md)
+- Glossary: [wisdom](../glossary/terms/wisdom.md), [Torah](../glossary/terms/torah.md), Ben Sira

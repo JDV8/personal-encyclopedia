@@ -1,5 +1,9 @@
 # 3 Maccabees
 
+
+![Gutenberg Bible on display at the New York Public Library](images/3-maccabees.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
 **Name and meaning.** A Greek narrative, misleadingly titled, that is not about the Maccabees at all. It tells of a persecution of Jews in Ptolemaic Egypt under Ptolemy IV Philopator (late third century BCE, in the story), of a failed attempt to have them trampled by drunken elephants in the hippodrome of Alexandria, and of a deliverance and a festival. The book is in most Eastern Orthodox canons and in the Protestant Apocrypha; it is not in the Catholic deuterocanon.
 
 **Prerequisites:** [1 Maccabees](1-maccabees.md), [2 Maccabees](2-maccabees.md) (for comparison of festival-and-deliverance tales), and [deuterocanon](README.md). Helpful: [Esther](../old-testament/books/history/esther.md).
@@ -40,4 +44,4 @@ Read it as Egyptian Jewish literature, not as a footnote to the Hasmoneans, and 
 ## Where this leads
 
 - Next: [2 Esdras](2-esdras.md)
-- Glossary: [diaspora](../glossary/diaspora.md), [Alexandria](../glossary/alexandria.md), [festival](../glossary/festival.md)
+- Glossary: [diaspora](../glossary/terms/diaspora.md), [Alexandria](../glossary/places/alexandria.md), festival

@@ -3,6 +3,10 @@
 **Prerequisites:** [Acts](04-acts.md) and [genres](../04-genres.md)
 **Key ideas:** letters to real communities, earlier than the written Gospels; undisputed and disputed letters; justification, grace, law, and the crucified Messiah; already and not yet; a Jewish apostle to the Gentiles.
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/05-pauls-letters.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 The earliest Christian documents we have are probably not the Gospels but **Paul's letters**, commonly dated from the late 40s through the 50s CE. They are occasional: they answer questions, quarrels, and crises in particular churches. To read a verse without its occasion is to risk turning a letter into a set of slogans.
 
 ## Which letters?

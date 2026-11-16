@@ -1,6 +1,10 @@
 # 1 Maccabees
 
-**Name and meaning.** A sober historical narrative, originally in Hebrew and preserved in Greek, of the Jewish revolt against Antiochus IV Epiphanes and the rise of the Hasmonean (Maccabean) house, from about 175 to 134 BCE. The nickname "Maccabee" ("hammer") belongs first to Judas, son of Mattathias. The book is the main narrative source for [Hanukkah](../glossary/hanukkah.md).
+
+![Gutenberg Bible on display at the New York Public Library](images/1-maccabees.jpg)
+
+*Gutenberg Bible on display at the New York Public Library Credit: Joshua Keller. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Gutenberg Bible, New York Public Library, USA. Pic 01.jpg](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_New_York_Public_Library,_USA._Pic_01.jpg).*
+**Name and meaning.** A sober historical narrative, originally in Hebrew and preserved in Greek, of the Jewish revolt against Antiochus IV Epiphanes and the rise of the Hasmonean (Maccabean) house, from about 175 to 134 BCE. The nickname "Maccabee" ("hammer") belongs first to Judas, son of Mattathias. The book is the main narrative source for [Hanukkah](../glossary/terms/hanukkah.md).
 
 **Prerequisites:** [deuterocanon](README.md), [Daniel](../old-testament/books/major-prophets/daniel.md) (especially if read as a contemporary of the same crisis), and [Exile and return](../old-testament/10-exile-and-return.md).
 
@@ -43,4 +47,4 @@ The style is deliberately "biblical," echoing the Former Prophets. That is a cla
 ## Where this leads
 
 - Next: [2 Maccabees](2-maccabees.md)
-- Glossary: [Hanukkah](../glossary/hanukkah.md), [Antiochus IV](../glossary/antiochus-iv.md), [Hasmoneans](../glossary/hasmoneans.md), [zeal](../glossary/zeal.md)
+- Glossary: [Hanukkah](../glossary/terms/hanukkah.md), [Antiochus IV](../glossary/people/antiochus-iv.md), Hasmoneans, zeal

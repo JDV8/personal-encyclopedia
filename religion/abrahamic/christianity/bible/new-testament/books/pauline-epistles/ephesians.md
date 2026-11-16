@@ -1,8 +1,12 @@
 # Ephesians
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/ephesians.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter to the Ephesians, a sweeping meditation on the cosmic Christ, the church as his body, the unity of Jew and Gentile, and a life worthy of the calling. In some early manuscripts the words "in Ephesus" are missing, which has led many to read it as a circular letter.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md) and [Colossians](colossians.md), its closest relative.
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md) and [Colossians](colossians.md), its closest relative.
 
 ## Dating and authorship
 
@@ -39,4 +43,4 @@ Themes include election, grace, the church, unity, cosmic reconciliation, and a 
 ## Where this leads
 
 - Next: [Philippians](philippians.md)
-- Glossary: [church](../../../../glossary/church.md), [grace](../../../../glossary/grace.md), [household codes](../../../../glossary/household-codes.md)
+- Glossary: [church](../../../glossary/terms/church.md), [grace](../../../glossary/terms/grace.md), household codes

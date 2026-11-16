@@ -1,6 +1,6 @@
 # New Testament books
 
-This folder is the book-by-book path through all twenty-seven New Testament writings, grouped in the usual Christian order: [Gospels](gospels/README.md), [history](history/README.md) (Acts), [Pauline epistles](pauline-epistles/README.md), [general epistles](general-epistles/README.md), and [prophecy](prophecy/README.md) (Revelation). Each book has its own overview: name, authorship (traditional and scholarly), context, outline, key passages, themes, and reception. The [survey lessons](../../README.md) and the [story lessons](../../stories/README.md) retell the main narrative; these files study each writing as a writing.
+This folder is the book-by-book path through all twenty-seven New Testament writings, grouped in the usual Christian order: [Gospels](gospels/README.md), [history](history/README.md) (Acts), [Pauline epistles](pauline-epistles/README.md), [general epistles](general-epistles/README.md), and [prophecy](prophecy/README.md) (Revelation). Each book has its own overview: name, authorship (traditional and scholarly), context, outline, key passages, themes, and reception. The [survey lessons](../../README.md) and the [story lessons](../stories/README.md) retell the main narrative; these files study each writing as a writing.
 
 ## Suggested reading order
 

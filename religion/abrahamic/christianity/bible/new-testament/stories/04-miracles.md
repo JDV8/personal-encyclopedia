@@ -4,6 +4,10 @@
 
 **Key ideas:** The Gospels present healings, exorcisms, nature signs, and raisings of the dead as acts of the kingdom, not as entertainments; the Synoptics and John shape the same kind of material differently; later debates about "whether miracles happen" should not replace a first reading of what the stories claim.
 
+
+![Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last…](images/04-miracles.jpg)
+
+*Printed reproduction M. de Brunoff & Cie, 1904: all 400 paintings were based on James Tissot's sketches; the first 200 were painted by him; the last… Credit: Phillip Medhurst. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Josué arrète le soleil (Joshua 10 12) • invenit James Tissot • pinxit James Tissot • excudit Maurice de Brunoff apud Philip de Vere • praesentat Phillip Medhurst.jpg](https://commons.wikimedia.org/wiki/File:Josué_arrète_le_soleil_(Joshua_10_12)_•_invenit_James_Tissot_•_pinxit_James_Tissot_•_excudit_Maurice_de_Brunoff_apud_Philip_de_Vere_•_praesentat_Phillip_Medhurst.jpg).*
 ## What the stories are doing
 
 In Mark, Jesus' first day in Capernaum already includes an exorcism in the synagogue and the healing of Peter's mother-in-law; the crowd gathers at the door; Jesus withdraws to pray and then keeps moving. The kingdom is not only preached. It arrives as release for bodies and as a confrontation with "unclean spirits." The Synoptics group stilling the storm, the Gerasene demoniac, the woman with the hemorrhage, and Jairus's daughter as a cluster of power over chaos, death, and impurity. Feedings of five thousand (all four Gospels) and of four thousand (Mark and Matthew), walking on the sea, and a fig tree cursed (Mark and Matthew) belong to the same field.
@@ -38,4 +42,4 @@ The Old Testament background matters: Elisha's feedings and healings, the sea in
 
 - Next: [Parables](05-parables.md)
 - Book path: [Mark](../books/gospels/mark.md), [John](../books/gospels/john.md)
-- Glossary: [miracle](../../glossary/miracle.md), [sign](../../glossary/sign.md), [exorcism](../../glossary/exorcism.md)
+- Glossary: [miracle](../../glossary/terms/miracle.md), [sign](../../glossary/terms/sign.md), [exorcism](../../glossary/terms/exorcism.md)

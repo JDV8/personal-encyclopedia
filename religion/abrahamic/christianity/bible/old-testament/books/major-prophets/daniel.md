@@ -1,5 +1,9 @@
 # Daniel
 
+
+![Daniel in the Lions' Den](images/daniel.jpg)
+
+*Daniel in the Lions' Den Credit: Peter Paul Rubens. License: Public domain. Source: [File:Sir Peter Paul Rubens - Daniel in the Lions' Den - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions'_Den_-_Google_Art_Project.jpg).*
 **Name and meaning.** Named for Daniel, a Judean taken to Babylon, who becomes a court interpreter of dreams and, in the second half of the book, a seer of visions. In the Christian Old Testament Daniel is a major prophet; in the Tanakh he stands among the Writings, a signal that the book's genre and date have long been thought about carefully. The Hebrew/Aramaic book is the basis here. The Greek [additions](../../../deuterocanon/additions-to-daniel.md) (the Prayer of Azariah and the Song of the Three, Susanna, Bel and the Dragon) are treated in the deuterocanon.
 
 **Prerequisites:** [Exile and return](../../10-exile-and-return.md), [genres](../../../04-genres.md) on apocalyptic, and [2 Kings](../history/2-kings.md). Helpful later companion: [Revelation](../../../new-testament/books/prophecy/revelation.md).
@@ -24,7 +28,7 @@ The narrative setting is the Babylonian and Persian courts. The political horizo
 
 The tales teach fidelity in diaspora: names, food, prayer toward Jerusalem, and refusal of idolatry, with deliverance that is real but not guaranteed in advance (the three companions' "even if he does not" in chapter 3 is the book's moral center as much as the miracle is). The writing on the wall (chapter 5) is a judgment on imperial blasphemy.
 
-The "one like a son of man" in 7:13–14, given dominion and a kingdom that will not pass away, is a key text for later messianic and apocalyptic hope, and for Jesus' own use of "[Son of Man](../../../glossary/son-of-man.md)" in the [Gospels](../../../new-testament/books/gospels/README.md). Interpretations vary: a collective symbol of the holy ones, a heavenly individual, the Messiah. Chapter 12 contains the Hebrew Bible's clearest statement of a double resurrection: some to everlasting life, some to shame. The seventy weeks of chapter 9 have generated a long history of chronological schemes in both Jewish and Christian interpretation; humility is in order, given the history of confident and conflicting calculations.
+The "one like a son of man" in 7:13–14, given dominion and a kingdom that will not pass away, is a key text for later messianic and apocalyptic hope, and for Jesus' own use of "[Son of Man](../../../glossary/terms/son-of-man.md)" in the [Gospels](../../../new-testament/books/gospels/README.md). Interpretations vary: a collective symbol of the holy ones, a heavenly individual, the Messiah. Chapter 12 contains the Hebrew Bible's clearest statement of a double resurrection: some to everlasting life, some to shame. The seventy weeks of chapter 9 have generated a long history of chronological schemes in both Jewish and Christian interpretation; humility is in order, given the history of confident and conflicting calculations.
 
 
 ```mermaid
@@ -41,4 +45,4 @@ Themes include faithfulness under empire, the limits of royal power, divine sove
 
 - The major prophets end; the Twelve begin with [Hosea](../minor-prophets/hosea.md)
 - Deuterocanon: [Additions to Daniel](../../../deuterocanon/additions-to-daniel.md), [1 Maccabees](../../../deuterocanon/1-maccabees.md)
-- Glossary: [apocalyptic](../../../glossary/apocalyptic.md), [Son of Man](../../../glossary/son-of-man.md), [resurrection](../../../glossary/resurrection.md), [Antiochus IV](../../../glossary/antiochus-iv.md)
+- Glossary: [apocalyptic](../../../glossary/terms/apocalyptic.md), [Son of Man](../../../glossary/terms/son-of-man.md), [resurrection](../../../glossary/terms/resurrection.md), [Antiochus IV](../../../glossary/people/antiochus-iv.md)

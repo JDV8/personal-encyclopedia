@@ -1,8 +1,12 @@
 # Romans
 
+
+![Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade](images/romans.jpg)
+
+*Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's baroque façade Credit: Julian Lupyan. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Statue of Saint Paul by Ignazio Marabitti and Syracuse Cathedral's Baroque Facade.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Saint_Paul_by_Ignazio_Marabitti_and_Syracuse_Cathedral's_Baroque_Facade.jpg).*
 **Name and meaning.** The Letter of Paul to the Romans, the longest and most systematic of the Pauline epistles, written to a church Paul had not founded and had not yet visited. It is a sustained argument about the gospel, the righteousness of God, Jew and Gentile, and the life that follows from mercy.
 
-**Prerequisites:** [Paul's letters](../../../05-pauls-letters.md), [Acts](../history/acts.md), and [Paul's journeys](../../../stories/09-pauls-journeys.md). Helpful: [Habakkuk](../../../../old-testament/books/minor-prophets/habakkuk.md) 2:4, and [Genesis](../../../../old-testament/books/law-torah/genesis.md) on Abraham.
+**Prerequisites:** [Paul's letters](../../05-pauls-letters.md), [Acts](../history/acts.md), and [Paul's journeys](../../stories/09-pauls-journeys.md). Helpful: [Habakkuk](../../../old-testament/books/minor-prophets/habakkuk.md) 2:4, and [Genesis](../../../old-testament/books/law-torah/genesis.md) on Abraham.
 
 ## Dating and authorship
 
@@ -45,4 +49,4 @@ Themes include gospel, righteousness, faith, grace, the law, Adam and Christ, th
 ## Where this leads
 
 - Next: [1 Corinthians](1-corinthians.md)
-- Glossary: [justification](../../../../glossary/justification.md), [faith](../../../../glossary/faith.md), [grace](../../../../glossary/grace.md), [law](../../../../glossary/law.md), [Israel](../../../../glossary/israel.md)
+- Glossary: [justification](../../../glossary/terms/justification.md), [faith](../../../glossary/terms/faith.md), [grace](../../../glossary/terms/grace.md), [law](../../../../../../../philosophy/glossary/general/law.md), [Israel](../../../glossary/terms/israel.md)

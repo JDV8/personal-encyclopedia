@@ -4,6 +4,10 @@
 
 **Key ideas:** All four Gospels attach Jesus to John the Baptist; baptism is a scene of identification and of a heavenly voice; the Synoptics follow it with a wilderness testing; the Spirit and the scripture of Israel are already the field of the story.
 
+
+![Baptism of Jesus](images/02-baptism-and-temptation.jpg)
+
+*Baptism of Jesus Credit: Unidentified painter. License: PDM-owner. Source: [File:Baptism of Christ (SM 878b).png](https://commons.wikimedia.org/wiki/File:Baptism_of_Christ_(SM_878b).png).*
 ## John, and the Jordan
 
 John appears in the wilderness preaching a baptism of repentance for the forgiveness of sins, clothed like a prophet, and announcing one stronger than himself. Josephus also mentions John as a teacher who practiced baptism and was killed by Herod Antipas, which is independent confirmation of the man's importance. In the Gospels, John's role is to prepare the way (Isaiah 40; Malachi's messenger and Elijah, in some of the telling).
@@ -35,5 +39,5 @@ Historically, a period of withdrawal after an encounter with John is plausible; 
 ## Where this leads
 
 - Next: [The Sermon on the Mount](03-sermon-on-the-mount.md)
-- Related: [John the Baptist](../../glossary/john-the-baptist.md), [Messiah](../../glossary/messiah.md)
+- Related: [John the Baptist](../../glossary/people/john-the-baptist.md), [Messiah](../../glossary/themes/messiah.md)
 - Old Testament: [Deuteronomy](../../old-testament/books/law-torah/deuteronomy.md), [Malachi](../../old-testament/books/minor-prophets/malachi.md)

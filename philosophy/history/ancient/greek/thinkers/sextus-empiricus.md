@@ -2,6 +2,10 @@
 
 **Prerequisites:** [Pyrrho](pyrrho.md)
 
+
+![Engraving by Gottlieb Friedrich Riedel (*1724 in Dresden, † 1784 in Augsburg) showing a coin or medal that depicts Sextus Empiricus. Originally publicated…](images/sextus-empiricus.jpg)
+
+*Engraving by Gottlieb Friedrich Riedel (*1724 in Dresden, † 1784 in Augsburg) showing a coin or medal that depicts Sextus Empiricus. Originally publicated… Credit: Gottlieb Friedrich Riedel. License: Public domain. Source: [File:Sextus Empiricus - engraving by G. F. Riedel - 1801.jpg](https://commons.wikimedia.org/wiki/File:Sextus_Empiricus_-_engraving_by_G._F._Riedel_-_1801.jpg).*
 ## Name and dates
 
 Sextus Empiricus (probably late second century CE, dates uncertain) was a Pyrrhonian skeptic and, by his name and parts of his work, a physician in the "Empiric" tradition of medicine. We know almost nothing of his life. We have his books, which is rare enough in this school to make him the main voice of ancient Pyrrhonism.

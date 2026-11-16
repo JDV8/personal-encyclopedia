@@ -3,9 +3,9 @@
 **Prerequisites:** [Plato](../thinkers/plato.md); helpful: [*Gorgias*](gorgias.md)
 
 
-![Italian: Scuola di AteneThe School of Athenstitle QS:P1476,it:"Scuola di Atene"label QS:Lit,"Scuola di Atene"label QS:Les,"La escuela de Atenas"label…](images/republic.jpg)
+![Scuola di AteneThe School of Athenslabel…](images/republic.jpg)
 
-*Italian: Scuola di AteneThe School of Athenstitle QS:P1476,it:"Scuola di Atene"label QS:Lit,"Scuola di Atene"label QS:Les,"La escuela de Atenas"label… Credit: Raphael. License: Public domain. Source: [File:"The School of Athens" by Raffaello Sanzio da Urbino.jpg](https://commons.wikimedia.org/wiki/File:"The_School_of_Athens"_by_Raffaello_Sanzio_da_Urbino.jpg).*
+*Scuola di AteneThe School of Athenslabel… Credit: Raphael. License: Public domain. Source: [File:"The School of Athens" by Raffaello Sanzio da Urbino.jpg](https://commons.wikimedia.org/wiki/File:"The_School_of_Athens"_by_Raffaello_Sanzio_da_Urbino.jpg).*
 ## Dating and authorship
 
 Plato's largest and most influential political-ethical-metaphysical work, a middle-period dialogue in ten books. "Republic" translates *Politeia*, a city's constitution or way of life, not a modern republic. The work is a unified (if layered) argument, not a bag of detachable myths, though the myths are essential to it.

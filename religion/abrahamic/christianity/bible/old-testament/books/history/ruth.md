@@ -1,5 +1,9 @@
 # Ruth
 
+
+![Sculpture; Sculpture](images/ruth.jpg)
+
+*Sculpture; Sculpture Credit: Randolph Rogers. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Ruth Gleaning MET 99.7.1.jpg](https://commons.wikimedia.org/wiki/File:Ruth_Gleaning_MET_99.7.1.jpg).*
 **Name and meaning.** The book is named for Ruth the Moabite, its central figure. In the Christian Old Testament it stands after Judges, because it is set "in the days when the judges ruled." In the Tanakh it is among the Writings, one of the Five Scrolls (*Megillot*), and is read at the festival of Weeks (Shavuot).
 
 **Prerequisites:** [Judges](judges.md). The story is short enough to read in one sitting alongside this overview.
@@ -10,7 +14,7 @@ The book is anonymous. Traditional guesses have included Samuel. Scholarly dates
 
 ## Context
 
-A famine in Judah drives Elimelech's family to Moab. After the deaths of Elimelech and his two sons, his widow Naomi starts home to Bethlehem. One daughter-in-law, Orpah, returns to her people; Ruth clings to Naomi. The rest is a harvest story of gleaning, protection, a kinsman-redeemer (*goel*), and a marriage that places a Moabite woman in the line of [David](../../../glossary/david.md).
+A famine in Judah drives Elimelech's family to Moab. After the deaths of Elimelech and his two sons, his widow Naomi starts home to Bethlehem. One daughter-in-law, Orpah, returns to her people; Ruth clings to Naomi. The rest is a harvest story of gleaning, protection, a kinsman-redeemer (*goel*), and a marriage that places a Moabite woman in the line of [David](../../../glossary/people/david.md).
 
 Moab is not a neutral origin in the Torah: Moabites are often rivals, and Deuteronomy 23 restricts their entry into the assembly. Ruth's loyalty and the community's eventual blessing therefore carry a quiet argument about the scope of belonging.
 
@@ -46,4 +50,4 @@ Jewish liturgy reads it at Shavuot, when the harvest and the giving of Torah are
 ## Where this leads
 
 - Next: [1 Samuel](1-samuel.md)
-- Related: [David](../../../glossary/david.md), [hesed](../../../glossary/hesed.md), and later [Matthew](../../../new-testament/books/gospels/matthew.md)
+- Related: [David](../../../glossary/people/david.md), [hesed](../../../glossary/terms/hesed.md), and later [Matthew](../../../new-testament/books/gospels/matthew.md)
