@@ -10,6 +10,10 @@ If the question is "how does an internal combustion engine work?", the path shou
 
 This does two things. It keeps the library honest about dependence: you cannot really understand an engine without heat and work, or Aristotle without the problem of change, or the Gospels without Second Temple Judaism. It also means later topics can reuse earlier ones instead of repeating them.
 
+## How this encyclopedia is built
+
+The process for adding or expanding a topic — first principles, where to nest it, how thorough to be, glossary and table-of-contents rules, and how to publish — is in [SKILL.md](SKILL.md).
+
 ## Folder conventions
 
 - **Nest by discipline.** Place a subject under the broader field it belongs to. Resist putting a proper name or a gadget at the root just because that was the prompt.
