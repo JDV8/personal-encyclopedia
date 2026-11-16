@@ -80,4 +80,4 @@ flowchart TB
 
 - Next: [behavioural finance](../07-behavioural-finance/01-from-rational-to-behavioural.md), on why investors, and measurement of ourselves, go wrong.
 - Related: [asset allocation and rebalancing](06-asset-allocation-and-rebalancing.md), [fees](../03-securities/03-funds/04-fees-and-the-cost-of-investing.md).
-- Glossary: [[g:time-weighted-return|time-weighted return]], [[g:money-weighted-return|money-weighted return]], [[g:geometric-mean|geometric mean]], [[g:sharpe-ratio|Sharpe ratio]], [[g:alpha|alpha]], [[g:maximum-drawdown|maximum drawdown]], [[g:benchmark|benchmark]], [[g:tracking-error|tracking error]].
+- Glossary: [time-weighted return](../glossary/portfolio-theory/time-weighted-return.md), [money-weighted return](../glossary/portfolio-theory/money-weighted-return.md), [geometric mean](../glossary/portfolio-theory/geometric-mean.md), [Sharpe ratio](../glossary/portfolio-theory/sharpe-ratio.md), [alpha](../glossary/portfolio-theory/alpha.md), [maximum drawdown](../glossary/portfolio-theory/maximum-drawdown.md), [benchmark](../glossary/portfolio-theory/benchmark.md), [tracking error](../glossary/funds/tracking-error.md).

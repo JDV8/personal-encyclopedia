@@ -71,4 +71,4 @@ flowchart LR
 
 - Next: [securities regulation in Canada](03-securities-regulation-in-canada.md).
 - Related: [insider trading, disclosure and fraud](05-insider-trading-disclosure-and-fraud.md), [the Great Depression](../08-history/07-the-crash-of-1929-and-the-great-depression.md).
-- Glossary: [[g:sec|SEC]], [[g:securities-act-of-1933|Securities Act of 1933]], [[g:securities-exchange-act-of-1934|Securities Exchange Act of 1934]], [[g:howey-test|Howey test]], [[g:edgar|EDGAR]], [[g:sarbanes-oxley|Sarbanes–Oxley]], [[g:dodd-frank|Dodd–Frank]], [[g:finra|FINRA]].
+- Glossary: [SEC](../glossary/regulation/sec.md), [Securities Act of 1933](../glossary/regulation/securities-act-of-1933.md), [Securities Exchange Act of 1934](../glossary/regulation/securities-exchange-act-of-1934.md), [Howey test](../glossary/regulation/howey-test.md), [EDGAR](../glossary/regulation/edgar.md), [Sarbanes–Oxley](../glossary/regulation/sarbanes-oxley.md), [Dodd–Frank](../glossary/regulation/dodd-frank.md), [FINRA](../glossary/regulation/finra.md).

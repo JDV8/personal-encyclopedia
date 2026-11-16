@@ -72,4 +72,4 @@ flowchart LR
 
 - Next: [active versus passive investing](05-active-versus-passive-investing.md).
 - Related: [behavioural finance](../07-behavioural-finance/README.md), [index funds](../03-securities/03-funds/03-index-funds.md).
-- Glossary: [[g:efficient-market-hypothesis|efficient market hypothesis]], [[g:random-walk|random walk]], [[g:anomaly|anomaly]], [[g:technical-analysis|technical analysis]], [[g:fundamental-analysis|fundamental analysis]], [[g:momentum|momentum]], [[g:limits-to-arbitrage|limits to arbitrage]].
+- Glossary: [efficient market hypothesis](../glossary/portfolio-theory/efficient-market-hypothesis.md), [random walk](../glossary/portfolio-theory/random-walk.md), [anomaly](../glossary/portfolio-theory/anomaly.md), [technical analysis](../glossary/portfolio-theory/technical-analysis.md), [fundamental analysis](../glossary/portfolio-theory/fundamental-analysis.md), [momentum](../glossary/portfolio-theory/momentum.md), [limits to arbitrage](../glossary/behavioural-finance/limits-to-arbitrage.md).

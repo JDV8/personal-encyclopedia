@@ -60,4 +60,4 @@ flowchart LR
 
 - Next: [IPOs and the primary market](02-ipos-and-the-primary-market.md).
 - Related: [bid, ask and market makers](05-bid-ask-and-market-makers.md), [securities regulation in Canada](../05-regulation/03-securities-regulation-in-canada.md).
-- Glossary: [[g:stock-exchange|stock exchange]], [[g:limit-order-book|limit order book]], [[g:dark-pool|dark pool]], [[g:demutualization|demutualization]], [[g:over-the-counter|over-the-counter]], [[g:listing|listing]], [[g:price-discovery|price discovery]], [[g:tsx|TSX]].
+- Glossary: [stock exchange](../glossary/markets/stock-exchange.md), [limit order book](../glossary/markets/limit-order-book.md), [dark pool](../glossary/markets/dark-pool.md), [demutualization](../glossary/markets/demutualization.md), [over-the-counter](../glossary/markets/over-the-counter.md), [listing](../glossary/markets/listing.md), [price discovery](../glossary/markets/price-discovery.md), [TSX](../glossary/markets/tsx.md).

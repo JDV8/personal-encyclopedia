@@ -58,4 +58,4 @@ flowchart LR
 
 - Next: [tulip mania](03-tulip-mania.md).
 - Related: [what is a company](../02-firms-and-capital/01-what-is-a-company.md), [the Mississippi and South Sea bubbles](04-the-mississippi-and-south-sea-bubbles.md).
-- Glossary: [[g:joint-stock-company|joint-stock company]], [[g:voc|VOC]], [[g:charter|charter]], [[g:bear-raid|bear raid]], [[g:permanent-capital|permanent capital]], [[g:beurs|Beurs]].
+- Glossary: [joint-stock company](../glossary/history/joint-stock-company.md), [VOC](../glossary/history/voc.md), [charter](../glossary/history/charter.md), [bear raid](../glossary/history/bear-raid.md), [permanent capital](../glossary/history/permanent-capital.md), [Beurs](../glossary/history/beurs.md).

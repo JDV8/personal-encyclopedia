@@ -84,4 +84,4 @@ flowchart TB
 
 - Next: [herding, bubbles and manias](04-herding-bubbles-and-manias.md).
 - Related: [fees and the cost of investing](../03-securities/03-funds/04-fees-and-the-cost-of-investing.md), [scams and common mistakes](../09-personal-investing-canada/09-scams-and-common-mistakes.md).
-- Glossary: [[g:overconfidence|overconfidence]], [[g:confirmation-bias|confirmation bias]], [[g:gambler-fallacy|gambler's fallacy]], [[g:recency-bias|recency bias]], [[g:hindsight-bias|hindsight bias]], [[g:sunk-cost-fallacy|sunk-cost fallacy]], [[g:regret-aversion|regret aversion]], [[g:base-rate|base rate]].
+- Glossary: [overconfidence](../glossary/behavioural-finance/overconfidence.md), [confirmation bias](../glossary/behavioural-finance/confirmation-bias.md), [gambler's fallacy](../glossary/behavioural-finance/gambler-fallacy.md), [recency bias](../glossary/behavioural-finance/recency-bias.md), [hindsight bias](../glossary/behavioural-finance/hindsight-bias.md), [sunk-cost fallacy](../glossary/behavioural-finance/sunk-cost-fallacy.md), [regret aversion](../glossary/behavioural-finance/regret-aversion.md), [base rate](../glossary/behavioural-finance/base-rate.md).

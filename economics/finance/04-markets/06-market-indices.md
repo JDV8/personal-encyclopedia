@@ -74,4 +74,4 @@ flowchart LR
 
 - Next: [clearing and settlement](07-clearing-and-settlement.md).
 - Related: [index funds](../03-securities/03-funds/03-index-funds.md), [active versus passive investing](../06-portfolio-theory/05-active-versus-passive-investing.md).
-- Glossary: [[g:market-index|market index]], [[g:price-weighted|price-weighted]], [[g:cap-weighted|cap-weighted]], [[g:free-float|free float]], [[g:total-return|total return]], [[g:benchmark|benchmark]], [[g:survivorship-bias|survivorship bias]].
+- Glossary: [market index](../glossary/markets/market-index.md), [price-weighted](../glossary/markets/price-weighted.md), [cap-weighted](../glossary/markets/cap-weighted.md), [free float](../glossary/markets/free-float.md), [total return](../glossary/markets/total-return.md), [benchmark](../glossary/portfolio-theory/benchmark.md), [survivorship bias](../glossary/portfolio-theory/survivorship-bias.md).

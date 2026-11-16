@@ -63,4 +63,4 @@ flowchart TB
 
 - Next: [corporate bonds and high yield](08-corporate-bonds-and-high-yield.md), then [the yield curve](09-the-yield-curve.md).
 - Related: [central banks](../../05-regulation/06-central-banks-and-monetary-policy.md), [Bretton Woods and the postwar order](../../08-history/08-bretton-woods-and-the-postwar-order.md).
-- Glossary: [[g:treasury-bill|Treasury bill]], [[g:government-bond|government bond]], [[g:sovereign-debt|sovereign debt]], [[g:flight-to-quality|flight to quality]], [[g:quantitative-easing|quantitative easing]], [[g:canada-mortgage-bond|Canada Mortgage Bond]].
+- Glossary: [Treasury bill](../../glossary/bonds/treasury-bill.md), [government bond](../../glossary/bonds/government-bond.md), [sovereign debt](../../glossary/bonds/sovereign-debt.md), [flight to quality](../../glossary/history/flight-to-quality.md), [quantitative easing](../../glossary/regulation/quantitative-easing.md), [Canada Mortgage Bond](../../glossary/bonds/canada-mortgage-bond.md).

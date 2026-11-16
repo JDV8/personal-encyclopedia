@@ -1,6 +1,6 @@
 # Limited liability and the corporation
 
-**Prerequisites:** [What a company is](what-is-a-company.md).
+**Prerequisites:** [What a company is](01-what-is-a-company.md).
 
 ![A share certificate of the Dutch East India Company (VOC), 9 September 1606](images/02-limited-liability-and-the-corporation.jpg)
 
@@ -34,7 +34,7 @@ In Canada a company can incorporate federally (under the Canada Business Corpora
 
 ## The costs of limited liability
 
-Limited liability is not free. Because shareholders are shielded from loss beyond their stake, they have some incentive to take larger risks with creditors' money: if the bet pays off, shareholders keep the gain; if it fails, creditors absorb part of the loss. Lenders know this and respond with higher interest rates, covenants (restrictions written into loan contracts), security over assets, and sometimes personal guarantees from owners of small businesses. The tension between owners and lenders is a central theme of [equity and debt](equity-and-debt.md) and [capital structure](capital-structure-and-cost-of-capital.md).
+Limited liability is not free. Because shareholders are shielded from loss beyond their stake, they have some incentive to take larger risks with creditors' money: if the bet pays off, shareholders keep the gain; if it fails, creditors absorb part of the loss. Lenders know this and respond with higher interest rates, covenants (restrictions written into loan contracts), security over assets, and sometimes personal guarantees from owners of small businesses. The tension between owners and lenders is a central theme of [equity and debt](03-equity-and-debt.md) and [capital structure](08-capital-structure-and-cost-of-capital.md).
 
 There are also society-wide debates: when a corporation causes harm exceeding its assets, should the cost fall on victims, creditors or owners? Limited liability is a deliberate trade, accepted because it enables investment, but it remains a legal construction, not a law of nature.
 
@@ -55,6 +55,6 @@ flowchart TB
 
 ## Where this leads
 
-- Next: [equity and debt](equity-and-debt.md).
+- Next: [equity and debt](03-equity-and-debt.md).
 - Later: [the history of the VOC and the first stock exchange](../08-history/02-the-dutch-east-india-company-and-the-first-stock-exchange.md), [what a share is](../03-securities/01-stocks/01-what-is-a-share.md).
-- Glossary: [[g:limited-liability|limited liability]], [[g:joint-stock-company|joint-stock company]], [[g:board-of-directors|board of directors]], [[g:public-company|public company]].
+- Glossary: [limited liability](../glossary/firms-and-accounting/limited-liability.md), [joint-stock company](../glossary/history/joint-stock-company.md), [board of directors](../glossary/firms-and-accounting/board-of-directors.md), [public company](../glossary/markets/public-company.md).

@@ -83,4 +83,4 @@ flowchart LR
 
 - Next: [the RRSP](04-the-rrsp.md).
 - Related: [registered and non-registered accounts](02-registered-and-non-registered-accounts.md), [taxes on investments](06-taxes-on-investments.md).
-- Glossary: [[g:tfsa|TFSA]], [[g:contribution-room|contribution room]], [[g:over-contribution|over-contribution]], [[g:successor-holder|successor holder]], [[g:withholding-tax|withholding tax]], [[g:cra|CRA]].
+- Glossary: [TFSA](../glossary/personal-investing-canada/tfsa.md), [contribution room](../glossary/personal-investing-canada/contribution-room.md), [over-contribution](../glossary/personal-investing-canada/over-contribution.md), [successor holder](../glossary/personal-investing-canada/successor-holder.md), [withholding tax](../glossary/personal-investing-canada/withholding-tax.md), [CRA](../glossary/personal-investing-canada/cra.md).

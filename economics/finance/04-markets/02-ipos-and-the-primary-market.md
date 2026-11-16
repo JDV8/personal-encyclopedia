@@ -76,4 +76,4 @@ flowchart LR
 
 - Next: [brokers and dealers](03-brokers-and-dealers.md).
 - Related: [regulation and disclosure](../05-regulation/05-insider-trading-disclosure-and-fraud.md), [dot-com bubble](../08-history/10-the-dot-com-bubble.md).
-- Glossary: [[g:ipo|IPO]], [[g:underwriter|underwriter]], [[g:prospectus|prospectus]], [[g:dilution|dilution]], [[g:underpricing|underpricing]], [[g:lock-up|lock-up]], [[g:spac|SPAC]], [[g:bought-deal|bought deal]].
+- Glossary: [IPO](../glossary/markets/ipo.md), [underwriter](../glossary/markets/underwriter.md), [prospectus](../glossary/markets/prospectus.md), [dilution](../glossary/markets/dilution.md), [underpricing](../glossary/markets/underpricing.md), [lock-up](../glossary/markets/lock-up.md), [SPAC](../glossary/markets/spac.md), [bought deal](../glossary/markets/bought-deal.md).

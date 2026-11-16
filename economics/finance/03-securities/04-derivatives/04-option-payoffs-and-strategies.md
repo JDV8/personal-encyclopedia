@@ -92,4 +92,4 @@ flowchart LR
 
 - Next: [option pricing](05-option-pricing.md).
 - Related: [portfolio insurance and risk](../../06-portfolio-theory/01-portfolio-return-and-risk.md), [1987 crash](../../08-history/09-1987-ltcm-and-the-1990s-crises.md).
-- Glossary: [[g:protective-put|protective put]], [[g:covered-call|covered call]], [[g:straddle|straddle]], [[g:spread-strategy|spread]], [[g:delta|delta]], [[g:gamma|gamma]], [[g:theta|theta]], [[g:vega|vega]].
+- Glossary: [protective put](../../glossary/derivatives/protective-put.md), [covered call](../../glossary/derivatives/covered-call.md), [straddle](../../glossary/derivatives/straddle.md), [spread](../../glossary/derivatives/spread-strategy.md), [delta](../../glossary/derivatives/delta.md), [gamma](../../glossary/derivatives/gamma.md), [theta](../../glossary/derivatives/theta.md), [vega](../../glossary/derivatives/vega.md).

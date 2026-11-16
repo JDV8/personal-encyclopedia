@@ -81,4 +81,4 @@ flowchart LR
 
 - Next: [factor investing](07-factor-investing.md).
 - Related: [building a simple portfolio](../09-personal-investing-canada/07-building-a-simple-portfolio.md), [foundations before investing](../09-personal-investing-canada/01-foundations-before-investing.md).
-- Glossary: [[g:asset-allocation|asset allocation]], [[g:rebalancing|rebalancing]], [[g:risk-tolerance|risk tolerance]], [[g:glide-path|glide path]], [[g:home-bias|home bias]], [[g:human-capital|human capital]].
+- Glossary: [asset allocation](../glossary/portfolio-theory/asset-allocation.md), [rebalancing](../glossary/portfolio-theory/rebalancing.md), [risk tolerance](../glossary/portfolio-theory/risk-tolerance.md), [glide path](../glossary/portfolio-theory/glide-path.md), [home bias](../glossary/portfolio-theory/home-bias.md), [human capital](../glossary/portfolio-theory/human-capital.md).

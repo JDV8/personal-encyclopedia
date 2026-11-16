@@ -90,4 +90,4 @@ flowchart TB
 
 - Next: [registered and non-registered accounts](02-registered-and-non-registered-accounts.md).
 - Related: [credit and banking](../01-foundations/02-credit-and-banking.md), [asset allocation](../06-portfolio-theory/06-asset-allocation-and-rebalancing.md).
-- Glossary: [[g:emergency-fund|emergency fund]], [[g:savings-rate|savings rate]], [[g:employer-match|employer match]], [[g:investment-policy-statement|investment policy statement]], [[g:high-interest-savings-account|high-interest savings account]], [[g:time-horizon|time horizon]].
+- Glossary: [emergency fund](../glossary/personal-investing-canada/emergency-fund.md), [savings rate](../glossary/personal-investing-canada/savings-rate.md), [employer match](../glossary/personal-investing-canada/employer-match.md), [investment policy statement](../glossary/portfolio-theory/investment-policy-statement.md), [high-interest savings account](../glossary/personal-investing-canada/high-interest-savings-account.md), [time horizon](../glossary/portfolio-theory/time-horizon.md).

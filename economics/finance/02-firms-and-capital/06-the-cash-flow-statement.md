@@ -1,6 +1,6 @@
 # The cash flow statement
 
-**Prerequisites:** [The income statement](the-income-statement.md), [The balance sheet](the-balance-sheet.md).
+**Prerequisites:** [The income statement](05-the-income-statement.md), [The balance sheet](04-the-balance-sheet.md).
 
 ![Counting-house scenes from a late 14th-century manuscript: cash is counted and recorded](images/06-the-cash-flow-statement.jpg)
 
@@ -30,7 +30,7 @@ The sum of the three is the change in cash over the period.
 
 ## A worked example
 
-Maple Bakery Ltd., in thousands of dollars, with net income of 54 from the [income statement lesson](the-income-statement.md):
+Maple Bakery Ltd., in thousands of dollars, with net income of 54 from the [income statement lesson](05-the-income-statement.md):
 
 | Item | Amount |
 |---|---|
@@ -45,7 +45,7 @@ Maple Bakery Ltd., in thousands of dollars, with net income of 54 from the [inco
 | **Cash from financing** | **(20)** |
 | **Net change in cash** | **+14** |
 
-If the cash balance was 6 at the start of the year, it is 20 at the end, matching the 20 on the [balance sheet](the-balance-sheet.md). The three statements tie together. Notice that the company earned 54 but generated 64 in operating cash flow: depreciation of 20 was a non-cash charge, partly offset by cash tied up in working capital.
+If the cash balance was 6 at the start of the year, it is 20 at the end, matching the 20 on the [balance sheet](04-the-balance-sheet.md). The three statements tie together. Notice that the company earned 54 but generated 64 in operating cash flow: depreciation of 20 was a non-cash charge, partly offset by cash tied up in working capital.
 
 ## Free cash flow
 
@@ -82,6 +82,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next: [what a security is](what-is-a-security.md).
+- Next: [what a security is](07-what-is-a-security.md).
 - Later: [DCF valuation](../03-securities/01-stocks/09-discounted-cash-flow-valuation.md), [dividends](../03-securities/01-stocks/03-dividends.md).
-- Glossary: [[g:cash-flow|cash flow]], [[g:free-cash-flow|free cash flow]], [[g:capital-expenditure|capital expenditure]], [[g:working-capital|working capital]].
+- Glossary: [cash flow](../glossary/firms-and-accounting/cash-flow.md), [free cash flow](../glossary/firms-and-accounting/free-cash-flow.md), [capital expenditure](../glossary/firms-and-accounting/capital-expenditure.md), [working capital](../glossary/firms-and-accounting/working-capital.md).

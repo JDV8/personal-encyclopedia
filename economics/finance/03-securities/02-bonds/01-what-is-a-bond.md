@@ -70,4 +70,4 @@ flowchart LR
 
 - Next: [pricing a bond](02-pricing-a-bond.md).
 - Related: [government bonds](07-government-bonds.md), [credit risk](06-credit-risk-and-ratings.md).
-- Glossary: [[g:bond|bond]], [[g:coupon|coupon]], [[g:face-value|face value]], [[g:indenture|indenture]], [[g:debenture|debenture]], [[g:covenant|covenant]].
+- Glossary: [bond](../../glossary/bonds/bond.md), [coupon](../../glossary/bonds/coupon.md), [face value](../../glossary/bonds/face-value.md), [indenture](../../glossary/bonds/indenture.md), [debenture](../../glossary/bonds/debenture.md), [covenant](../../glossary/bonds/covenant.md).

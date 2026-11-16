@@ -66,4 +66,4 @@ flowchart LR
 
 - Next: [Bretton Woods and the postwar order](08-bretton-woods-and-the-postwar-order.md).
 - Related: [why markets are regulated](../05-regulation/01-why-markets-are-regulated.md), [the 2008 financial crisis](11-the-2008-financial-crisis.md).
-- Glossary: [[g:black-thursday|Black Thursday]], [[g:great-depression|Great Depression]], [[g:debt-deflation|debt deflation]], [[g:deflation|deflation]], [[g:fdic|FDIC]], [[g:glass-steagall|Glass–Steagall]], [[g:smoot-hawley|Smoot–Hawley]].
+- Glossary: [Black Thursday](../glossary/history/black-thursday.md), [Great Depression](../glossary/history/great-depression.md), [debt deflation](../glossary/history/debt-deflation.md), [deflation](../glossary/history/deflation.md), [FDIC](../glossary/history/fdic.md), [Glass–Steagall](../glossary/history/glass-steagall.md), [Smoot–Hawley](../glossary/history/smoot-hawley.md).

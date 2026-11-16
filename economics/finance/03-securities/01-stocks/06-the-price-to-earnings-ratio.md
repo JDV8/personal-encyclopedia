@@ -64,4 +64,4 @@ flowchart TB
 
 - Next: [other valuation ratios](07-other-valuation-ratios.md).
 - Related: [dividend discount model](08-the-dividend-discount-model.md), [the dot-com bubble](../../08-history/10-the-dot-com-bubble.md).
-- Glossary: [[g:price-to-earnings-ratio|P/E ratio]], [[g:earnings-yield|earnings yield]], [[g:peg-ratio|PEG ratio]], [[g:cape|CAPE]], [[g:value-trap|value trap]].
+- Glossary: [P/E ratio](../../glossary/stocks/price-to-earnings-ratio.md), [earnings yield](../../glossary/stocks/earnings-yield.md), [PEG ratio](../../glossary/stocks/peg-ratio.md), [CAPE](../../glossary/stocks/cape.md), [value trap](../../glossary/stocks/value-trap.md).

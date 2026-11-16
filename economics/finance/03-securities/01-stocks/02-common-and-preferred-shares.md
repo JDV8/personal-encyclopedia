@@ -58,4 +58,4 @@ A conservative investor seeking income may value the steady dividends of preferr
 
 - Next: [dividends](03-dividends.md).
 - Related: [equity and debt](../../02-firms-and-capital/03-equity-and-debt.md), [annuities and perpetuities](../../01-foundations/06-annuities-and-perpetuities.md).
-- Glossary: [[g:common-share|common share]], [[g:preferred-share|preferred share]], [[g:cumulative-preferred|cumulative preferred]], [[g:par-value|par value]], [[g:callable|callable]], [[g:capital-stack|capital stack]].
+- Glossary: [common share](../../glossary/stocks/common-share.md), [preferred share](../../glossary/stocks/preferred-share.md), [cumulative preferred](../../glossary/stocks/cumulative-preferred.md), [par value](../../glossary/stocks/par-value.md), [callable](../../glossary/stocks/callable.md), [capital stack](../../glossary/firms-and-accounting/capital-stack.md).

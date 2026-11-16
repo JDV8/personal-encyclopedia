@@ -74,4 +74,4 @@ flowchart LR
 
 - Next: [algorithmic and high-frequency trading](09-algorithmic-and-high-frequency-trading.md).
 - Related: [behavioural finance and overconfidence](../07-behavioural-finance/03-overconfidence-and-other-biases.md), [the crash of 1929](../08-history/07-the-crash-of-1929-and-the-great-depression.md).
-- Glossary: [[g:margin-account|margin account]], [[g:margin-call|margin call]], [[g:maintenance-margin|maintenance margin]], [[g:short-selling|short selling]], [[g:short-squeeze|short squeeze]], [[g:leverage|leverage]], [[g:naked-shorting|naked shorting]].
+- Glossary: [margin account](../glossary/markets/margin-account.md), [margin call](../glossary/markets/margin-call.md), [maintenance margin](../glossary/markets/maintenance-margin.md), [short selling](../glossary/markets/short-selling.md), [short squeeze](../glossary/markets/short-squeeze.md), [leverage](../glossary/firms-and-accounting/leverage.md), [naked shorting](../glossary/markets/naked-shorting.md).

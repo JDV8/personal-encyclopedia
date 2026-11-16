@@ -73,4 +73,4 @@ flowchart LR
 
 - Next: [the price-to-earnings ratio](06-the-price-to-earnings-ratio.md).
 - Related: [other valuation ratios](07-other-valuation-ratios.md), [DCF valuation](09-discounted-cash-flow-valuation.md).
-- Glossary: [[g:earnings-per-share|earnings per share]], [[g:diluted-eps|diluted EPS]], [[g:trailing-earnings|trailing earnings]], [[g:forward-earnings|forward earnings]], [[g:non-gaap|non-GAAP earnings]].
+- Glossary: [earnings per share](../../glossary/stocks/earnings-per-share.md), [diluted EPS](../../glossary/stocks/diluted-eps.md), [trailing earnings](../../glossary/stocks/trailing-earnings.md), [forward earnings](../../glossary/stocks/forward-earnings.md), [non-GAAP earnings](../../glossary/stocks/non-gaap.md).

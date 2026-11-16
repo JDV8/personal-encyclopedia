@@ -67,4 +67,4 @@ flowchart LR
 
 - Next: [short selling and margin](08-short-selling-and-margin.md).
 - Related: [the ex-dividend date](../03-securities/01-stocks/03-dividends.md), [regulation](../05-regulation/01-why-markets-are-regulated.md).
-- Glossary: [[g:clearing|clearing]], [[g:settlement|settlement]], [[g:central-counterparty|central counterparty]], [[g:novation|novation]], [[g:delivery-versus-payment|delivery versus payment]], [[g:street-name|street name]], [[g:cds-clearing|CDS Clearing]], [[g:depository|depository]].
+- Glossary: [clearing](../glossary/markets/clearing.md), [settlement](../glossary/markets/settlement.md), [central counterparty](../glossary/markets/central-counterparty.md), [novation](../glossary/markets/novation.md), [delivery versus payment](../glossary/markets/delivery-versus-payment.md), [street name](../glossary/markets/street-name.md), [CDS Clearing](../glossary/markets/cds-clearing.md), [depository](../glossary/markets/depository.md).

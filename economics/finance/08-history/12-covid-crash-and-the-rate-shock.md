@@ -78,4 +78,4 @@ flowchart LR
 
 - Next: [personal investing in Canada](../09-personal-investing-canada/01-foundations-before-investing.md), applying the course.
 - Related: [the 2008 financial crisis](11-the-2008-financial-crisis.md), [inflation and real returns](../01-foundations/07-inflation-and-real-returns.md).
-- Glossary: [[g:covid-crash|COVID crash]], [[g:meme-stock|meme stock]], [[g:rate-hike|rate hike]], [[g:duration-risk|duration risk]], [[g:vix|VIX]], [[g:quantitative-tightening|quantitative tightening]], [[g:inflation-shock|inflation shock]].
+- Glossary: [COVID crash](../glossary/history/covid-crash.md), [meme stock](../glossary/behavioural-finance/meme-stock.md), [rate hike](../glossary/regulation/rate-hike.md), [duration risk](../glossary/bonds/duration-risk.md), [VIX](../glossary/portfolio-theory/vix.md), [quantitative tightening](../glossary/regulation/quantitative-tightening.md), [inflation shock](../glossary/history/inflation-shock.md).

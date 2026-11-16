@@ -104,4 +104,4 @@ flowchart TB
 
 - Back to the course map: [Finance README](../README.md) and the [glossary](../glossary/README.md).
 - Related: [securities regulation in Canada](../05-regulation/03-securities-regulation-in-canada.md), [behavioural finance](../07-behavioural-finance/README.md).
-- Glossary: [[g:ponzi-scheme|Ponzi scheme]], [[g:pig-butchering|pig-butchering scam]], [[g:pump-and-dump|pump and dump]], [[g:phishing|phishing]], [[g:red-flag|red flag]], [[g:caf-centre|Canadian Anti-Fraud Centre]], [[g:finfluencer|finfluencer]].
+- Glossary: [Ponzi scheme](../glossary/regulation/ponzi-scheme.md), [pig-butchering scam](../glossary/personal-investing-canada/pig-butchering.md), [pump and dump](../glossary/regulation/pump-and-dump.md), [phishing](../glossary/personal-investing-canada/phishing.md), [red flag](../glossary/personal-investing-canada/red-flag.md), [Canadian Anti-Fraud Centre](../glossary/personal-investing-canada/caf-centre.md), [finfluencer](../glossary/personal-investing-canada/finfluencer.md).

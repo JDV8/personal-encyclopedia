@@ -59,4 +59,4 @@ flowchart LR
 
 - Next: [market indices](06-market-indices.md).
 - Related: [exchange-traded funds](../03-securities/03-funds/02-exchange-traded-funds.md), [market crashes](../08-history/09-1987-ltcm-and-the-1990s-crises.md).
-- Glossary: [[g:bid-ask-spread|bid-ask spread]], [[g:bid|bid]], [[g:ask|ask]], [[g:market-maker|market maker]], [[g:adverse-selection|adverse selection]], [[g:tick-size|tick size]], [[g:market-liquidity|market liquidity]].
+- Glossary: [bid-ask spread](../glossary/markets/bid-ask-spread.md), [bid](../glossary/markets/bid.md), [ask](../glossary/markets/ask.md), [market maker](../glossary/markets/market-maker.md), [adverse selection](../glossary/markets/adverse-selection.md), [tick size](../glossary/markets/tick-size.md), [market liquidity](../glossary/markets/market-liquidity.md).

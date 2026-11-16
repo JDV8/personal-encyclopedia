@@ -70,4 +70,4 @@ flowchart LR
 
 - Next: [hedge funds, private equity and closed-end funds](05-hedge-funds-private-equity-and-closed-end-funds.md), the high-fee end of the spectrum.
 - Related: [costs, brokers and platforms](../../09-personal-investing-canada/08-costs-brokers-and-choosing-a-platform.md), [active versus passive](../../06-portfolio-theory/05-active-versus-passive-investing.md).
-- Glossary: [[g:mer|MER]], [[g:trading-expense-ratio|trading expense ratio]], [[g:trailing-commission|trailing commission]], [[g:load|load]], [[g:fund-facts|Fund Facts]], [[g:norberts-gambit|Norbert's Gambit]].
+- Glossary: [MER](../../glossary/funds/mer.md), [trading expense ratio](../../glossary/funds/trading-expense-ratio.md), [trailing commission](../../glossary/funds/trailing-commission.md), [load](../../glossary/funds/load.md), [Fund Facts](../../glossary/funds/fund-facts.md), [Norbert's Gambit](../../glossary/personal-investing-canada/norberts-gambit.md).

@@ -64,4 +64,4 @@ flowchart LR
 
 - Next: [the Dutch East India Company and the first stock exchange](02-the-dutch-east-india-company-and-the-first-stock-exchange.md).
 - Related: [credit and banking](../01-foundations/02-credit-and-banking.md), [government bonds](../03-securities/02-bonds/07-government-bonds.md).
-- Glossary: [[g:usury|usury]], [[g:bill-of-exchange|bill of exchange]], [[g:double-entry-bookkeeping|double-entry bookkeeping]], [[g:sovereign-default|sovereign default]], [[g:central-bank|central bank]], [[g:maritime-loan|maritime loan]].
+- Glossary: [usury](../glossary/history/usury.md), [bill of exchange](../glossary/history/bill-of-exchange.md), [double-entry bookkeeping](../glossary/history/double-entry-bookkeeping.md), [sovereign default](../glossary/bonds/sovereign-default.md), [central bank](../glossary/regulation/central-bank.md), [maritime loan](../glossary/history/maritime-loan.md).

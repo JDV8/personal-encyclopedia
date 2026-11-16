@@ -67,4 +67,4 @@ flowchart LR
 
 - Next: [the dot-com bubble](10-the-dot-com-bubble.md).
 - Related: [short selling and margin](../04-markets/08-short-selling-and-margin.md), [central banks](../05-regulation/06-central-banks-and-monetary-policy.md).
-- Glossary: [[g:black-monday|Black Monday]], [[g:portfolio-insurance|portfolio insurance]], [[g:ltcm|LTCM]], [[g:contagion|contagion]], [[g:flight-to-quality|flight to quality]], [[g:currency-crisis|currency crisis]], [[g:relative-value-arbitrage|relative-value arbitrage]].
+- Glossary: [Black Monday](../glossary/history/black-monday.md), [portfolio insurance](../glossary/history/portfolio-insurance.md), [LTCM](../glossary/history/ltcm.md), [contagion](../glossary/history/contagion.md), [flight to quality](../glossary/history/flight-to-quality.md), [currency crisis](../glossary/history/currency-crisis.md), [relative-value arbitrage](../glossary/history/relative-value-arbitrage.md).

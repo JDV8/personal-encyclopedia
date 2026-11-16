@@ -73,4 +73,4 @@ flowchart LR
 
 - Next: [markets](../../04-markets/01-what-an-exchange-does.md) and how trading works, starting with what an exchange does.
 - Related: [the SEC and US securities law](../../05-regulation/02-the-sec-and-us-securities-law.md), [herding, bubbles and manias](../../07-behavioural-finance/04-herding-bubbles-and-manias.md).
-- Glossary: [[g:blockchain|blockchain]], [[g:bitcoin|Bitcoin]], [[g:stablecoin|stablecoin]], [[g:proof-of-work|proof of work]], [[g:proof-of-stake|proof of stake]], [[g:smart-contract|smart contract]], [[g:private-key|private key]], [[g:crypto-custody|custody]].
+- Glossary: [blockchain](../../glossary/alternatives/blockchain.md), [Bitcoin](../../glossary/alternatives/bitcoin.md), [stablecoin](../../glossary/alternatives/stablecoin.md), [proof of work](../../glossary/alternatives/proof-of-work.md), [proof of stake](../../glossary/alternatives/proof-of-stake.md), [smart contract](../../glossary/alternatives/smart-contract.md), [private key](../../glossary/alternatives/private-key.md), [custody](../../glossary/alternatives/crypto-custody.md).

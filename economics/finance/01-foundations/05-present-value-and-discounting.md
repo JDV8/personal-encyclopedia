@@ -1,6 +1,6 @@
 # Present value and discounting
 
-**Prerequisites:** [The time value of money](time-value-of-money.md).
+**Prerequisites:** [The time value of money](04-time-value-of-money.md).
 
 ![A page of Fibonacci's Liber Abaci (1202), which taught Europeans Hindu-Arabic arithmetic with worked commercial examples](images/05-present-value-and-discounting.jpg)
 
@@ -67,6 +67,6 @@ The formulas above assume each cash flow arrives at the *end* of its period. Rea
 
 ## Where this leads
 
-- Next: [annuities and perpetuities](annuities-and-perpetuities.md), shortcuts for regular streams.
+- Next: [annuities and perpetuities](06-annuities-and-perpetuities.md), shortcuts for regular streams.
 - Applications: [pricing a bond](../03-securities/02-bonds/02-pricing-a-bond.md), [the dividend discount model](../03-securities/01-stocks/08-the-dividend-discount-model.md).
-- Glossary: [[g:present-value|present value]], [[g:net-present-value|net present value]], [[g:internal-rate-of-return|internal rate of return]], [[g:discounting|discounting]].
+- Glossary: [present value](../glossary/foundations/present-value.md), [net present value](../glossary/foundations/net-present-value.md), [internal rate of return](../glossary/foundations/internal-rate-of-return.md), [discounting](../glossary/foundations/discounting.md).

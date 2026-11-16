@@ -69,4 +69,4 @@ flowchart TB
 
 - Next: [CIRO and investor protection](04-ciro-and-investor-protection.md).
 - Related: [IPOs and the primary market](../04-markets/02-ipos-and-the-primary-market.md), [canadian markets history](../08-history/06-canadian-markets-history.md).
-- Glossary: [[g:csa|CSA]], [[g:osc|OSC]], [[g:national-instrument|national instrument]], [[g:sedar-plus|SEDAR+]], [[g:continuous-disclosure|continuous disclosure]], [[g:registration|registration]], [[g:accredited-investor|accredited investor]], [[g:know-your-client|know your client]].
+- Glossary: [CSA](../glossary/regulation/csa.md), [OSC](../glossary/regulation/osc.md), [national instrument](../glossary/regulation/national-instrument.md), [SEDAR+](../glossary/regulation/sedar-plus.md), [continuous disclosure](../glossary/regulation/continuous-disclosure.md), [registration](../glossary/regulation/registration.md), [accredited investor](../glossary/regulation/accredited-investor.md), [know your client](../glossary/regulation/know-your-client.md).

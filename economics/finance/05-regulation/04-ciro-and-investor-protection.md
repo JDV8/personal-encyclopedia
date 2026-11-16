@@ -81,4 +81,4 @@ flowchart TB
 
 - Next: [insider trading, disclosure and fraud](05-insider-trading-disclosure-and-fraud.md).
 - Related: [costs, brokers and choosing a platform](../09-personal-investing-canada/08-costs-brokers-and-choosing-a-platform.md), [scams and common mistakes](../09-personal-investing-canada/09-scams-and-common-mistakes.md).
-- Glossary: [[g:ciro|CIRO]], [[g:cipf|CIPF]], [[g:cdic|CDIC]], [[g:obsi|OBSI]], [[g:self-regulatory-organization|self-regulatory organisation]], [[g:iiroc|IIROC]].
+- Glossary: [CIRO](../glossary/regulation/ciro.md), [CIPF](../glossary/regulation/cipf.md), [CDIC](../glossary/regulation/cdic.md), [OBSI](../glossary/regulation/obsi.md), [self-regulatory organisation](../glossary/regulation/self-regulatory-organization.md), [IIROC](../glossary/regulation/iiroc.md).

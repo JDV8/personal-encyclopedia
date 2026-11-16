@@ -61,4 +61,4 @@ flowchart LR
 
 - Next: [the Buttonwood Agreement and the NYSE](05-the-buttonwood-agreement-and-the-nyse.md).
 - Related: [limited liability and the corporation](../02-firms-and-capital/02-limited-liability-and-the-corporation.md), [central banks](../05-regulation/06-central-banks-and-monetary-policy.md).
-- Glossary: [[g:john-law|John Law]], [[g:south-sea-bubble|South Sea bubble]], [[g:bubble-act|Bubble Act]], [[g:debt-for-equity-swap|debt-for-equity swap]], [[g:fiat-money|fiat money]], [[g:national-debt|national debt]].
+- Glossary: [John Law](../glossary/history/john-law.md), [South Sea bubble](../glossary/history/south-sea-bubble.md), [Bubble Act](../glossary/history/bubble-act.md), [debt-for-equity swap](../glossary/firms-and-accounting/debt-for-equity-swap.md), [fiat money](../glossary/foundations/fiat-money.md), [national debt](../glossary/bonds/national-debt.md).

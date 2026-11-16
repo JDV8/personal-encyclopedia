@@ -1,6 +1,6 @@
 # The income statement
 
-**Prerequisites:** [The balance sheet](the-balance-sheet.md).
+**Prerequisites:** [The balance sheet](04-the-balance-sheet.md).
 
 ![Jakob Fugger with his chief accountant Matthäus Schwarz, with the dossiers of his branch offices behind them (painting of 1517, Herzog Anton Ulrich Museum)](images/05-the-income-statement.jpg)
 
@@ -24,7 +24,7 @@ An income statement starts at the top with sales and subtracts costs step by ste
 
 ## A worked example
 
-Maple Bakery Ltd. (the company from the [balance sheet](the-balance-sheet.md) lesson), in thousands:
+Maple Bakery Ltd. (the company from the [balance sheet](04-the-balance-sheet.md) lesson), in thousands:
 
 | Line | Amount |
 |---|---|
@@ -48,7 +48,7 @@ If Maple has 10 thousand shares outstanding (a small private company, with all f
 
 ## The accrual principle
 
-Notice the income statement does not simply record cash in and cash out. Under **accrual accounting**, revenue is recognised when it is *earned*, and costs when they are *incurred*, whether or not cash has changed hands. If Maple delivers 20 of bread to a café on credit, the sale counts as revenue now, but the cash arrives later, as an account receivable. Similarly, buying a 100 oven does not hit the income statement all at once; its cost is spread over its life as depreciation. This matching of costs to the revenue they help produce gives a better picture of performance than raw cash, but it also allows judgment and manipulation. Profit is an opinion; cash is a fact, as the next lesson, [the cash flow statement](the-cash-flow-statement.md), will show. The Fugger merchant house of Augsburg, shown above with its chief accountant, kept detailed books of its far-flung branches in the early 16th century precisely to know where profit was being made.
+Notice the income statement does not simply record cash in and cash out. Under **accrual accounting**, revenue is recognised when it is *earned*, and costs when they are *incurred*, whether or not cash has changed hands. If Maple delivers 20 of bread to a café on credit, the sale counts as revenue now, but the cash arrives later, as an account receivable. Similarly, buying a 100 oven does not hit the income statement all at once; its cost is spread over its life as depreciation. This matching of costs to the revenue they help produce gives a better picture of performance than raw cash, but it also allows judgment and manipulation. Profit is an opinion; cash is a fact, as the next lesson, [the cash flow statement](06-the-cash-flow-statement.md), will show. The Fugger merchant house of Augsburg, shown above with its chief accountant, kept detailed books of its far-flung branches in the early 16th century precisely to know where profit was being made.
 
 ## Interpreting an income statement
 
@@ -79,6 +79,6 @@ Net income flows into the balance sheet: whatever is not paid out as dividends i
 
 ## Where this leads
 
-- Next: [the cash flow statement](the-cash-flow-statement.md).
+- Next: [the cash flow statement](06-the-cash-flow-statement.md).
 - Later: [earnings per share](../03-securities/01-stocks/05-earnings-and-eps.md), [the P/E ratio](../03-securities/01-stocks/06-the-price-to-earnings-ratio.md).
-- Glossary: [[g:income-statement|income statement]], [[g:revenue|revenue]], [[g:ebit|EBIT]], [[g:net-income|net income]], [[g:depreciation|depreciation]], [[g:accrual-accounting|accrual accounting]].
+- Glossary: [income statement](../glossary/firms-and-accounting/income-statement.md), [revenue](../glossary/firms-and-accounting/revenue.md), [EBIT](../glossary/firms-and-accounting/ebit.md), [net income](../glossary/firms-and-accounting/net-income.md), [depreciation](../glossary/firms-and-accounting/depreciation.md), [accrual accounting](../glossary/firms-and-accounting/accrual-accounting.md).

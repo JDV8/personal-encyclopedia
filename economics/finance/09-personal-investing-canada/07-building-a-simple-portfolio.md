@@ -105,4 +105,4 @@ flowchart TB
 
 - Next: [costs, brokers and choosing a platform](08-costs-brokers-and-choosing-a-platform.md).
 - Related: [exchange-traded funds](../03-securities/03-funds/02-exchange-traded-funds.md), [measuring performance](../06-portfolio-theory/08-measuring-performance.md).
-- Glossary: [[g:all-in-one-etf|all-in-one ETF]], [[g:three-fund-portfolio|three-fund portfolio]], [[g:robo-advisor|robo-advisor]], [[g:dollar-cost-averaging|dollar-cost averaging]], [[g:asset-allocation|asset allocation]], [[g:rebalancing|rebalancing]].
+- Glossary: [all-in-one ETF](../glossary/personal-investing-canada/all-in-one-etf.md), [three-fund portfolio](../glossary/personal-investing-canada/three-fund-portfolio.md), [robo-advisor](../glossary/personal-investing-canada/robo-advisor.md), [dollar-cost averaging](../glossary/personal-investing-canada/dollar-cost-averaging.md), [asset allocation](../glossary/portfolio-theory/asset-allocation.md), [rebalancing](../glossary/portfolio-theory/rebalancing.md).

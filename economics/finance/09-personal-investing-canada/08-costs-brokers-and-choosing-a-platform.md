@@ -96,4 +96,4 @@ flowchart TB
 
 - Next: [scams and common mistakes](09-scams-and-common-mistakes.md).
 - Related: [brokers and dealers](../04-markets/03-brokers-and-dealers.md), [building a simple portfolio](07-building-a-simple-portfolio.md).
-- Glossary: [[g:order-execution-only|order-execution-only]], [[g:in-kind-transfer|in-kind transfer]], [[g:fx-spread|currency conversion spread]], [[g:norberts-gambit|Norbert's Gambit]], [[g:drip|DRIP]], [[g:robo-advisor|robo-advisor]].
+- Glossary: [order-execution-only](../glossary/markets/order-execution-only.md), [in-kind transfer](../glossary/personal-investing-canada/in-kind-transfer.md), [currency conversion spread](../glossary/alternatives/fx-spread.md), [Norbert's Gambit](../glossary/personal-investing-canada/norberts-gambit.md), [DRIP](../glossary/stocks/drip.md), [robo-advisor](../glossary/personal-investing-canada/robo-advisor.md).

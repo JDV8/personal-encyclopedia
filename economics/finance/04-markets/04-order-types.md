@@ -77,4 +77,4 @@ flowchart TB
 
 - Next: [bid, ask and market makers](05-bid-ask-and-market-makers.md).
 - Related: [exchange-traded funds](../03-securities/03-funds/02-exchange-traded-funds.md), [short selling and margin](08-short-selling-and-margin.md).
-- Glossary: [[g:market-order|market order]], [[g:limit-order|limit order]], [[g:stop-order|stop order]], [[g:slippage|slippage]], [[g:good-till-cancelled|good-till-cancelled]], [[g:vwap|VWAP]].
+- Glossary: [market order](../glossary/markets/market-order.md), [limit order](../glossary/markets/limit-order.md), [stop order](../glossary/markets/stop-order.md), [slippage](../glossary/markets/slippage.md), [good-till-cancelled](../glossary/markets/good-till-cancelled.md), [VWAP](../glossary/markets/vwap.md).

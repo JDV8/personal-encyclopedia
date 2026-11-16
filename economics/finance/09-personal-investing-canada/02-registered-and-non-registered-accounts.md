@@ -95,4 +95,4 @@ flowchart TB
 
 - Next: [the TFSA](03-the-tfsa.md), then [the RRSP](04-the-rrsp.md) and [the FHSA](05-the-fhsa.md).
 - Related: [taxes on investments](06-taxes-on-investments.md), [building a simple portfolio](07-building-a-simple-portfolio.md).
-- Glossary: [[g:registered-account|registered account]], [[g:non-registered-account|non-registered account]], [[g:resp|RESP]], [[g:cesg|CESG]], [[g:rrif|RRIF]], [[g:asset-location|asset location]], [[g:marginal-tax-rate|marginal tax rate]].
+- Glossary: [registered account](../glossary/personal-investing-canada/registered-account.md), [non-registered account](../glossary/personal-investing-canada/non-registered-account.md), [RESP](../glossary/personal-investing-canada/resp.md), [CESG](../glossary/personal-investing-canada/cesg.md), [RRIF](../glossary/personal-investing-canada/rrif.md), [asset location](../glossary/personal-investing-canada/asset-location.md), [marginal tax rate](../glossary/personal-investing-canada/marginal-tax-rate.md).

@@ -1,6 +1,6 @@
 # Equity and debt
 
-**Prerequisites:** [What a company is](what-is-a-company.md), [Limited liability and the corporation](limited-liability-and-the-corporation.md).
+**Prerequisites:** [What a company is](01-what-is-a-company.md), [Limited liability and the corporation](02-limited-liability-and-the-corporation.md).
 
 ![A stock certificate of the Baltimore and Ohio Railroad: railroads were among the first great users of both equity and debt](images/03-equity-and-debt.jpg)
 
@@ -68,7 +68,7 @@ flowchart TB
 
 ## Why it matters to an investor
 
-When you buy a bond you are lending; when you buy a share you are becoming a part-owner. Both can be issued by the same company, and which is better depends on price, risk and your goals. A company's choice of mix also affects the risk of its shares: more debt makes the equity riskier because fixed interest payments must be met before shareholders receive anything, a point developed in [capital structure and cost of capital](capital-structure-and-cost-of-capital.md).
+When you buy a bond you are lending; when you buy a share you are becoming a part-owner. Both can be issued by the same company, and which is better depends on price, risk and your goals. A company's choice of mix also affects the risk of its shares: more debt makes the equity riskier because fixed interest payments must be met before shareholders receive anything, a point developed in [capital structure and cost of capital](08-capital-structure-and-cost-of-capital.md).
 
 ## Key ideas
 
@@ -79,6 +79,6 @@ When you buy a bond you are lending; when you buy a share you are becoming a par
 
 ## Where this leads
 
-- Next: the financial statements, starting with [the balance sheet](the-balance-sheet.md).
+- Next: the financial statements, starting with [the balance sheet](04-the-balance-sheet.md).
 - Later: [bonds](../03-securities/02-bonds/01-what-is-a-bond.md), [shares](../03-securities/01-stocks/01-what-is-a-share.md).
-- Glossary: [[g:equity|equity]], [[g:debt|debt]], [[g:default|default]], [[g:seniority|seniority]], [[g:convertible-bond|convertible bond]], [[g:collateral|collateral]].
+- Glossary: [equity](../glossary/firms-and-accounting/equity.md), [debt](../glossary/firms-and-accounting/debt.md), [default](../glossary/firms-and-accounting/default.md), [seniority](../glossary/firms-and-accounting/seniority.md), [convertible bond](../glossary/firms-and-accounting/convertible-bond.md), [collateral](../glossary/firms-and-accounting/collateral.md).

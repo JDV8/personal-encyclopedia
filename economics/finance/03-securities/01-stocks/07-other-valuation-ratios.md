@@ -82,4 +82,4 @@ flowchart TB
 
 - Next: [the dividend discount model](08-the-dividend-discount-model.md).
 - Related: [factor investing](../../06-portfolio-theory/07-factor-investing.md), [credit risk](../02-bonds/06-credit-risk-and-ratings.md).
-- Glossary: [[g:price-to-book|price-to-book]], [[g:price-to-sales|price-to-sales]], [[g:enterprise-value|enterprise value]], [[g:ebitda|EBITDA]], [[g:roe|ROE]], [[g:roic|ROIC]], [[g:value-investing|value investing]].
+- Glossary: [price-to-book](../../glossary/stocks/price-to-book.md), [price-to-sales](../../glossary/stocks/price-to-sales.md), [enterprise value](../../glossary/stocks/enterprise-value.md), [EBITDA](../../glossary/stocks/ebitda.md), [ROE](../../glossary/stocks/roe.md), [ROIC](../../glossary/stocks/roic.md), [value investing](../../glossary/portfolio-theory/value-investing.md).

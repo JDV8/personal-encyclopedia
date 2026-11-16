@@ -20,7 +20,7 @@ For finance, a second reason matters: **scale and risk-sharing**. Building a rai
 - **Partnership:** two or more owners who share profits and, in a general partnership, liability.
 - **Corporation:** a legal entity separate from its owners, with its own rights and obligations. It can own property, sign contracts, borrow and be sued. Its owners are the **shareholders**. The corporation continues to exist even when its shareholders change, which is what makes shares tradable.
 
-The [next lesson](limited-liability-and-the-corporation.md) shows how the corporation came about and why *limited liability* is so important.
+The [next lesson](02-limited-liability-and-the-corporation.md) shows how the corporation came about and why *limited liability* is so important.
 
 ## What a company does with money
 
@@ -51,7 +51,7 @@ An important practical issue is the **agency problem**: managers run the firm da
 
 ## Companies and securities
 
-Because a corporation's ownership can be split into small equal pieces and its debts into small equal loans, it can issue many identical claims to many investors. Each claim is a *security*, defined in [what a security is](what-is-a-security.md). The market value of all a firm's equity is its **market capitalisation**; the value of all its financing, debt plus equity, is the firm's **enterprise value** (roughly, net of cash). These two numbers will recur constantly in later lessons.
+Because a corporation's ownership can be split into small equal pieces and its debts into small equal loans, it can issue many identical claims to many investors. Each claim is a *security*, defined in [what a security is](07-what-is-a-security.md). The market value of all a firm's equity is its **market capitalisation**; the value of all its financing, debt plus equity, is the firm's **enterprise value** (roughly, net of cash). These two numbers will recur constantly in later lessons.
 
 ## Key ideas
 
@@ -62,6 +62,6 @@ Because a corporation's ownership can be split into small equal pieces and its d
 
 ## Where this leads
 
-- Next: [limited liability and the corporation](limited-liability-and-the-corporation.md), then [equity and debt](equity-and-debt.md).
+- Next: [limited liability and the corporation](02-limited-liability-and-the-corporation.md), then [equity and debt](03-equity-and-debt.md).
 - Later: [shares](../03-securities/01-stocks/01-what-is-a-share.md), [the Dutch East India Company](../08-history/02-the-dutch-east-india-company-and-the-first-stock-exchange.md).
-- Glossary: [[g:company|company]], [[g:corporation|corporation]], [[g:shareholder|shareholder]], [[g:residual-claim|residual claim]], [[g:agency-problem|agency problem]], [[g:market-capitalization|market capitalization]].
+- Glossary: [company](../glossary/firms-and-accounting/company.md), [corporation](../glossary/firms-and-accounting/corporation.md), [shareholder](../glossary/stocks/shareholder.md), [residual claim](../glossary/firms-and-accounting/residual-claim.md), [agency problem](../glossary/firms-and-accounting/agency-problem.md), [market capitalization](../glossary/stocks/market-capitalization.md).

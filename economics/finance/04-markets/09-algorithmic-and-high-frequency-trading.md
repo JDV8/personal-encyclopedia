@@ -67,4 +67,4 @@ flowchart TB
 
 - Next: [regulation](../05-regulation/01-why-markets-are-regulated.md).
 - Related: [market crashes of the past](../08-history/09-1987-ltcm-and-the-1990s-crises.md), [market microstructure and regulation in Canada](../05-regulation/03-securities-regulation-in-canada.md).
-- Glossary: [[g:algorithmic-trading|algorithmic trading]], [[g:high-frequency-trading|high-frequency trading]], [[g:co-location|co-location]], [[g:flash-crash|flash crash]], [[g:circuit-breaker|circuit breaker]], [[g:spoofing|spoofing]], [[g:market-impact|market impact]].
+- Glossary: [algorithmic trading](../glossary/markets/algorithmic-trading.md), [high-frequency trading](../glossary/markets/high-frequency-trading.md), [co-location](../glossary/markets/co-location.md), [flash crash](../glossary/markets/flash-crash.md), [circuit breaker](../glossary/markets/circuit-breaker.md), [spoofing](../glossary/markets/spoofing.md), [market impact](../glossary/markets/market-impact.md).

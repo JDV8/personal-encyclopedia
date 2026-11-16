@@ -93,4 +93,4 @@ flowchart TB
 
 - Next: [option payoffs and strategies](04-option-payoffs-and-strategies.md).
 - Related: [what is a derivative?](01-what-is-a-derivative.md).
-- Glossary: [[g:option|option]], [[g:call-option|call option]], [[g:put-option|put option]], [[g:strike-price|strike price]], [[g:premium|premium]], [[g:intrinsic-value|intrinsic value]], [[g:time-value-of-an-option|time value of an option]], [[g:put-call-parity|put-call parity]], [[g:moneyness|moneyness]].
+- Glossary: [option](../../glossary/derivatives/option.md), [call option](../../glossary/derivatives/call-option.md), [put option](../../glossary/derivatives/put-option.md), [strike price](../../glossary/derivatives/strike-price.md), [premium](../../glossary/derivatives/premium.md), [intrinsic value](../../glossary/derivatives/intrinsic-value.md), [time value of an option](../../glossary/derivatives/time-value-of-an-option.md), [put-call parity](../../glossary/derivatives/put-call-parity.md), [moneyness](../../glossary/derivatives/moneyness.md).

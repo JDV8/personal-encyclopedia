@@ -65,4 +65,4 @@ flowchart TB
 
 - Next: [foreign exchange](03-foreign-exchange.md).
 - Related: [inflation and real returns](../../01-foundations/07-inflation-and-real-returns.md), [asset allocation](../../06-portfolio-theory/06-asset-allocation-and-rebalancing.md).
-- Glossary: [[g:commodity|commodity]], [[g:bullion|bullion]], [[g:gold-standard|gold standard]], [[g:roll-yield|roll yield]], [[g:store-of-value|store of value]], [[g:contango|contango]].
+- Glossary: [commodity](../../glossary/alternatives/commodity.md), [bullion](../../glossary/alternatives/bullion.md), [gold standard](../../glossary/history/gold-standard.md), [roll yield](../../glossary/alternatives/roll-yield.md), [store of value](../../glossary/foundations/store-of-value.md), [contango](../../glossary/derivatives/contango.md).

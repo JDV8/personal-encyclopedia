@@ -1,6 +1,6 @@
 # Credit, debt and banking
 
-**Prerequisites:** [Money and value](money-and-value.md).
+**Prerequisites:** [Money and value](01-money-and-value.md).
 
 ![The Moneylender and His Wife, Quentin Massys, 1514: a lender weighs coins while his wife looks up from a prayer book](images/02-credit-and-banking.jpg)
 
@@ -20,7 +20,7 @@ Why should a lender demand interest at all? Three reasons stack on top of each o
 
 1. **Time preference.** Most people prefer a given benefit sooner than later. To persuade them to postpone spending, you must pay them.
 2. **Risk.** The borrower might not repay. The riskier the borrower, the more the lender demands, which is the basis of [credit risk](../03-securities/02-bonds/06-credit-risk-and-ratings.md) later on.
-3. **Inflation.** If prices rise while the money is out on loan, the repayment buys less than the loan did. See [inflation and real returns](inflation-and-real-returns.md).
+3. **Inflation.** If prices rise while the money is out on loan, the repayment buys less than the loan did. See [inflation and real returns](07-inflation-and-real-returns.md).
 
 Both sides gain from a well-priced loan: the borrower gets something worth more to them than the interest cost, and the lender gets a return that beats holding idle cash.
 
@@ -37,11 +37,11 @@ Maturity transformation is also the weak point. If many depositors ask for their
 
 ## Where banking began
 
-Credit predates coinage. Clay tablets from ancient Mesopotamia record loans of silver and grain, as the [next lesson](simple-and-compound-interest.md) shows. In medieval and Renaissance Italy, merchant-bankers in cities such as Florence and Venice ran networks that took deposits, made loans, and moved money across Europe by *bills of exchange*, a written order to pay a sum in another place and currency. The Medici bank of Florence in the 15th century is the best-known example. Quentin Massys's painting *The Moneylender and His Wife* (1514) shows how ordinary the trade had become by then. The [history branch](../08-history/01-lending-and-banking-before-stock-markets.md) picks up the story.
+Credit predates coinage. Clay tablets from ancient Mesopotamia record loans of silver and grain, as the [next lesson](03-simple-and-compound-interest.md) shows. In medieval and Renaissance Italy, merchant-bankers in cities such as Florence and Venice ran networks that took deposits, made loans, and moved money across Europe by *bills of exchange*, a written order to pay a sum in another place and currency. The Medici bank of Florence in the 15th century is the best-known example. Quentin Massys's painting *The Moneylender and His Wife* (1514) shows how ordinary the trade had become by then. The [history branch](../08-history/01-lending-and-banking-before-stock-markets.md) picks up the story.
 
 ## From loans to securities
 
-A bank loan is a private agreement: only the bank and the borrower hold the claim, and it is hard to sell. A natural step is to make debt *tradable*. If a government or a large company wants to borrow from many people at once, it can split the loan into many identical pieces, sell them, and let the holders trade them. These pieces are **bonds**, and they are an early example of a [security](what-is-a-security.md). The same idea applied to ownership rather than loans produces shares. That path, from private loans to public, tradable claims, is the plot of this entire course.
+A bank loan is a private agreement: only the bank and the borrower hold the claim, and it is hard to sell. A natural step is to make debt *tradable*. If a government or a large company wants to borrow from many people at once, it can split the loan into many identical pieces, sell them, and let the holders trade them. These pieces are **bonds**, and they are an early example of a [security](../02-firms-and-capital/07-what-is-a-security.md). The same idea applied to ownership rather than loans produces shares. That path, from private loans to public, tradable claims, is the plot of this entire course.
 
 ```mermaid
 flowchart LR
@@ -63,6 +63,6 @@ The dotted line is the alternative route: borrowers can skip the bank and sell d
 
 ## Where this leads
 
-- Next: [simple and compound interest](simple-and-compound-interest.md).
+- Next: [simple and compound interest](03-simple-and-compound-interest.md).
 - Later: [equity and debt](../02-firms-and-capital/03-equity-and-debt.md), [bonds](../03-securities/02-bonds/01-what-is-a-bond.md), [central banks](../05-regulation/06-central-banks-and-monetary-policy.md).
-- Glossary: [[g:principal|principal]], [[g:interest-rate|interest rate]], [[g:maturity|maturity]], [[g:bank-run|bank run]], [[g:cdic|CDIC]].
+- Glossary: [principal](../glossary/foundations/principal.md), [interest rate](../glossary/foundations/interest-rate.md), [maturity](../glossary/bonds/maturity.md), [bank run](../glossary/foundations/bank-run.md), [CDIC](../glossary/regulation/cdic.md).

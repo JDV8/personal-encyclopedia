@@ -66,4 +66,4 @@ flowchart TB
 
 - Next: [overconfidence and other biases](03-overconfidence-and-other-biases.md).
 - Related: [asset allocation and rebalancing](../06-portfolio-theory/06-asset-allocation-and-rebalancing.md), [taxes on investments](../09-personal-investing-canada/06-taxes-on-investments.md).
-- Glossary: [[g:prospect-theory|prospect theory]], [[g:loss-aversion|loss aversion]], [[g:reference-point|reference point]], [[g:disposition-effect|disposition effect]], [[g:endowment-effect|endowment effect]], [[g:myopic-loss-aversion|myopic loss aversion]], [[g:equity-premium-puzzle|equity premium puzzle]].
+- Glossary: [prospect theory](../glossary/behavioural-finance/prospect-theory.md), [loss aversion](../glossary/behavioural-finance/loss-aversion.md), [reference point](../glossary/behavioural-finance/reference-point.md), [disposition effect](../glossary/behavioural-finance/disposition-effect.md), [endowment effect](../glossary/behavioural-finance/endowment-effect.md), [myopic loss aversion](../glossary/behavioural-finance/myopic-loss-aversion.md), [equity premium puzzle](../glossary/behavioural-finance/equity-premium-puzzle.md).

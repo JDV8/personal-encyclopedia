@@ -71,4 +71,4 @@ flowchart TB
 
 - Next: [asset allocation and rebalancing](06-asset-allocation-and-rebalancing.md).
 - Related: [fees and the cost of investing](../03-securities/03-funds/04-fees-and-the-cost-of-investing.md), [building a simple portfolio](../09-personal-investing-canada/07-building-a-simple-portfolio.md).
-- Glossary: [[g:active-management|active management]], [[g:passive-investing|passive investing]], [[g:spiva|SPIVA]], [[g:survivorship-bias|survivorship bias]], [[g:core-satellite|core-satellite]], [[g:persistence|persistence]].
+- Glossary: [active management](../glossary/portfolio-theory/active-management.md), [passive investing](../glossary/portfolio-theory/passive-investing.md), [SPIVA](../glossary/portfolio-theory/spiva.md), [survivorship bias](../glossary/portfolio-theory/survivorship-bias.md), [core-satellite](../glossary/portfolio-theory/core-satellite.md), [persistence](../glossary/portfolio-theory/persistence.md).

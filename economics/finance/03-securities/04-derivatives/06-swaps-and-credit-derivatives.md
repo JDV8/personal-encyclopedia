@@ -57,4 +57,4 @@ flowchart LR
 
 - Next: [alternatives](../05-alternatives/01-real-estate-and-reits.md).
 - Related: [central banks and monetary policy](../../05-regulation/06-central-banks-and-monetary-policy.md), [the yield curve](../02-bonds/09-the-yield-curve.md).
-- Glossary: [[g:swap|swap]], [[g:interest-rate-swap|interest-rate swap]], [[g:notional-amount|notional amount]], [[g:credit-default-swap|credit default swap]], [[g:recovery-rate|recovery rate]], [[g:isda|ISDA]], [[g:cdo|CDO]], [[g:libor|LIBOR]].
+- Glossary: [swap](../../glossary/derivatives/swap.md), [interest-rate swap](../../glossary/derivatives/interest-rate-swap.md), [notional amount](../../glossary/derivatives/notional-amount.md), [credit default swap](../../glossary/derivatives/credit-default-swap.md), [recovery rate](../../glossary/bonds/recovery-rate.md), [ISDA](../../glossary/derivatives/isda.md), [CDO](../../glossary/derivatives/cdo.md), [LIBOR](../../glossary/derivatives/libor.md).

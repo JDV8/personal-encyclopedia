@@ -69,4 +69,4 @@ flowchart LR
 
 - Next: [government bonds](07-government-bonds.md), the benchmark of low credit risk, then [corporate bonds](08-corporate-bonds-and-high-yield.md).
 - Related: [credit default swaps](../04-derivatives/06-swaps-and-credit-derivatives.md), [the 2008 crisis](../../08-history/11-the-2008-financial-crisis.md).
-- Glossary: [[g:credit-risk|credit risk]], [[g:credit-rating|credit rating]], [[g:investment-grade|investment grade]], [[g:high-yield-bond|high-yield bond]], [[g:recovery-rate|recovery rate]], [[g:fallen-angel|fallen angel]].
+- Glossary: [credit risk](../../glossary/bonds/credit-risk.md), [credit rating](../../glossary/bonds/credit-rating.md), [investment grade](../../glossary/bonds/investment-grade.md), [high-yield bond](../../glossary/bonds/high-yield-bond.md), [recovery rate](../../glossary/bonds/recovery-rate.md), [fallen angel](../../glossary/bonds/fallen-angel.md).

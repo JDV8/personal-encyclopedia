@@ -1,6 +1,6 @@
 # The time value of money
 
-**Prerequisites:** [Simple and compound interest](simple-and-compound-interest.md).
+**Prerequisites:** [Simple and compound interest](03-simple-and-compound-interest.md).
 
 ![Three hourglasses: a reminder that the same sum is worth different amounts at different dates](images/04-time-value-of-money.jpg)
 
@@ -11,7 +11,7 @@ Would you rather have 1,000 today or 1,000 a year from now? Almost everyone choo
 ## Why earlier is better
 
 - **You can invest it.** With 1,000 today you can earn interest and have more than 1,000 a year from now. If a safe account pays 5%, today's 1,000 becomes 1,050 in a year, so "1,000 a year from now" must be worth less than 1,000 today.
-- **Inflation.** Prices tend to rise, so a later dollar buys less. See [inflation and real returns](inflation-and-real-returns.md).
+- **Inflation.** Prices tend to rise, so a later dollar buys less. See [inflation and real returns](07-inflation-and-real-returns.md).
 - **Risk.** A promise of future money might not be kept. Money in hand has no such risk.
 - **Preference.** People also simply prefer consuming sooner, as the lending lesson noted.
 
@@ -51,7 +51,7 @@ flowchart LR
 
 ## What rate should you use?
 
-There is no single "right" rate; it is the return you could earn on an alternative with similar risk. This is called the **opportunity cost of capital** or **discount rate**. A government-backed deposit justifies a low rate, because the future payment is nearly certain; a speculative start-up justifies a high one, because the payment is doubtful. The next lessons build the machinery for risky cash flows: [present value and discounting](present-value-and-discounting.md) for several payments, then [risk and return](risk-and-return.md) for how risk raises the required rate.
+There is no single "right" rate; it is the return you could earn on an alternative with similar risk. This is called the **opportunity cost of capital** or **discount rate**. A government-backed deposit justifies a low rate, because the future payment is nearly certain; a speculative start-up justifies a high one, because the payment is doubtful. The next lessons build the machinery for risky cash flows: [present value and discounting](05-present-value-and-discounting.md) for several payments, then [risk and return](10-risk-and-return.md) for how risk raises the required rate.
 
 ## Time value in everyday life
 
@@ -68,6 +68,6 @@ There is no single "right" rate; it is the return you could earn on an alternati
 
 ## Where this leads
 
-- Next: [present value and discounting](present-value-and-discounting.md), then [annuities and perpetuities](annuities-and-perpetuities.md).
+- Next: [present value and discounting](05-present-value-and-discounting.md), then [annuities and perpetuities](06-annuities-and-perpetuities.md).
 - Applications: [bond pricing](../03-securities/02-bonds/02-pricing-a-bond.md), [discounted cash flow valuation](../03-securities/01-stocks/09-discounted-cash-flow-valuation.md).
-- Glossary: [[g:time-value-of-money|time value of money]], [[g:discount-rate|discount rate]], [[g:future-value|future value]], [[g:opportunity-cost|opportunity cost]].
+- Glossary: [time value of money](../glossary/foundations/time-value-of-money.md), [discount rate](../glossary/foundations/discount-rate.md), [future value](../glossary/foundations/future-value.md), [opportunity cost](../glossary/foundations/opportunity-cost.md).

@@ -87,4 +87,4 @@ flowchart LR
 
 - Next: [mental accounting, anchoring and framing](05-mental-accounting-anchoring-and-framing.md).
 - Related: [history of manias and crashes](../08-history/README.md), [short selling and margin](../04-markets/08-short-selling-and-margin.md).
-- Glossary: [[g:bubble|bubble]], [[g:herding|herding]], [[g:information-cascade|information cascade]], [[g:minsky-moment|Minsky moment]], [[g:greater-fool-theory|greater fool theory]], [[g:fomo|FOMO]], [[g:mania|mania]].
+- Glossary: [bubble](../glossary/behavioural-finance/bubble.md), [herding](../glossary/behavioural-finance/herding.md), [information cascade](../glossary/behavioural-finance/information-cascade.md), [Minsky moment](../glossary/behavioural-finance/minsky-moment.md), [greater fool theory](../glossary/behavioural-finance/greater-fool-theory.md), [FOMO](../glossary/behavioural-finance/fomo.md), [mania](../glossary/behavioural-finance/mania.md).

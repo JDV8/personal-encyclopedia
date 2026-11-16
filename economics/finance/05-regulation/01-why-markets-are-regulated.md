@@ -67,4 +67,4 @@ flowchart TB
 
 - Next: [the SEC and US securities law](02-the-sec-and-us-securities-law.md), then [Canada](03-securities-regulation-in-canada.md).
 - Related: [philosophy: ethics](../../../philosophy/concepts/ethics/README.md), for the underlying questions of honesty, fairness and what a good agent owes others (only a loose connection; the regulatory debate is mostly practical).
-- Glossary: [[g:information-asymmetry|information asymmetry]], [[g:disclosure|disclosure]], [[g:moral-hazard|moral hazard]], [[g:systemic-risk|systemic risk]], [[g:ponzi-scheme|Ponzi scheme]], [[g:pump-and-dump|pump and dump]], [[g:regulatory-capture|regulatory capture]].
+- Glossary: [information asymmetry](../glossary/regulation/information-asymmetry.md), [disclosure](../glossary/regulation/disclosure.md), [moral hazard](../glossary/regulation/moral-hazard.md), [systemic risk](../glossary/regulation/systemic-risk.md), [Ponzi scheme](../glossary/regulation/ponzi-scheme.md), [pump and dump](../glossary/regulation/pump-and-dump.md), [regulatory capture](../glossary/regulation/regulatory-capture.md).

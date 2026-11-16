@@ -68,4 +68,4 @@ flowchart LR
 
 - Next: [order types](04-order-types.md).
 - Related: [costs, brokers and choosing a platform](../09-personal-investing-canada/08-costs-brokers-and-choosing-a-platform.md), [fees](../03-securities/03-funds/04-fees-and-the-cost-of-investing.md).
-- Glossary: [[g:broker|broker]], [[g:dealer|dealer]], [[g:market-maker|market maker]], [[g:investment-bank|investment bank]], [[g:order-execution-only|order-execution-only]], [[g:payment-for-order-flow|payment for order flow]], [[g:cipf|CIPF]], [[g:ciro|CIRO]].
+- Glossary: [broker](../glossary/markets/broker.md), [dealer](../glossary/markets/dealer.md), [market maker](../glossary/markets/market-maker.md), [investment bank](../glossary/markets/investment-bank.md), [order-execution-only](../glossary/markets/order-execution-only.md), [payment for order flow](../glossary/markets/payment-for-order-flow.md), [CIPF](../glossary/regulation/cipf.md), [CIRO](../glossary/regulation/ciro.md).

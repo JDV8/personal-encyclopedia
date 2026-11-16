@@ -63,4 +63,4 @@ flowchart TB
 
 - Next: [fees and the cost of investing](04-fees-and-the-cost-of-investing.md).
 - Related: [active versus passive investing](../../06-portfolio-theory/05-active-versus-passive-investing.md), [market indices](../../04-markets/06-market-indices.md).
-- Glossary: [[g:index-fund|index fund]], [[g:market-index|market index]], [[g:cap-weighted|cap-weighted]], [[g:passive-investing|passive investing]], [[g:spiva|SPIVA]].
+- Glossary: [index fund](../../glossary/funds/index-fund.md), [market index](../../glossary/markets/market-index.md), [cap-weighted](../../glossary/markets/cap-weighted.md), [passive investing](../../glossary/portfolio-theory/passive-investing.md), [SPIVA](../../glossary/portfolio-theory/spiva.md).

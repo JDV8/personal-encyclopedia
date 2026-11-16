@@ -77,4 +77,4 @@ flowchart LR
 
 - Next: [the FHSA](05-the-fhsa.md).
 - Related: [taxes on investments](06-taxes-on-investments.md), [the TFSA](03-the-tfsa.md).
-- Glossary: [[g:rrsp|RRSP]], [[g:earned-income|earned income]], [[g:pension-adjustment|pension adjustment]], [[g:home-buyers-plan|Home Buyers' Plan]], [[g:tax-deferral|tax deferral]], [[g:notice-of-assessment|Notice of Assessment]], [[g:spousal-rrsp|spousal RRSP]].
+- Glossary: [RRSP](../glossary/personal-investing-canada/rrsp.md), [earned income](../glossary/personal-investing-canada/earned-income.md), [pension adjustment](../glossary/personal-investing-canada/pension-adjustment.md), [Home Buyers' Plan](../glossary/personal-investing-canada/home-buyers-plan.md), [tax deferral](../glossary/personal-investing-canada/tax-deferral.md), [Notice of Assessment](../glossary/personal-investing-canada/notice-of-assessment.md), [spousal RRSP](../glossary/personal-investing-canada/spousal-rrsp.md).

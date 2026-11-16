@@ -88,4 +88,4 @@ flowchart LR
 
 - Next: [the COVID crash and the rate shock](12-covid-crash-and-the-rate-shock.md).
 - Related: [swaps and credit derivatives](../03-securities/04-derivatives/06-swaps-and-credit-derivatives.md), [why markets are regulated](../05-regulation/01-why-markets-are-regulated.md).
-- Glossary: [[g:subprime|subprime mortgage]], [[g:mbs|mortgage-backed security]], [[g:tranche|tranche]], [[g:repo|repo]], [[g:too-big-to-fail|too big to fail]], [[g:tarp|TARP]], [[g:shadow-banking|shadow banking]], [[g:basel-iii|Basel III]].
+- Glossary: [subprime mortgage](../glossary/history/subprime.md), [mortgage-backed security](../glossary/history/mbs.md), [tranche](../glossary/history/tranche.md), [repo](../glossary/regulation/repo.md), [too big to fail](../glossary/history/too-big-to-fail.md), [TARP](../glossary/history/tarp.md), [shadow banking](../glossary/history/shadow-banking.md), [Basel III](../glossary/regulation/basel-iii.md).

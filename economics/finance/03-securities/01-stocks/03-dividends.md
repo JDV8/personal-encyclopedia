@@ -65,4 +65,4 @@ flowchart LR
 
 - Next: [buybacks and stock splits](04-buybacks-and-stock-splits.md), the other way of returning cash and adjusting share counts.
 - Related: [the dividend discount model](08-the-dividend-discount-model.md), [taxes on investments](../../09-personal-investing-canada/06-taxes-on-investments.md).
-- Glossary: [[g:dividend|dividend]], [[g:dividend-yield|dividend yield]], [[g:payout-ratio|payout ratio]], [[g:ex-dividend-date|ex-dividend date]], [[g:drip|DRIP]], [[g:dividend-tax-credit|dividend tax credit]].
+- Glossary: [dividend](../../glossary/stocks/dividend.md), [dividend yield](../../glossary/stocks/dividend-yield.md), [payout ratio](../../glossary/stocks/payout-ratio.md), [ex-dividend date](../../glossary/stocks/ex-dividend-date.md), [DRIP](../../glossary/stocks/drip.md), [dividend tax credit](../../glossary/personal-investing-canada/dividend-tax-credit.md).

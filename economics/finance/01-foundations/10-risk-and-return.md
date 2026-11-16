@@ -1,6 +1,6 @@
 # Risk and return
 
-**Prerequisites:** [Probability and expected value](probability-and-expected-value.md), [Variance and standard deviation](variance-and-standard-deviation.md).
+**Prerequisites:** [Probability and expected value](08-probability-and-expected-value.md), [Variance and standard deviation](09-variance-and-standard-deviation.md).
 
 ![Ships in Distress in a Raging Storm, Ludolf Backhuysen, c. 1690](images/10-risk-and-return.jpg)
 
@@ -48,7 +48,7 @@ flowchart LR
 
 ## A crucial caution
 
-"Higher risk means higher return" is a statement about *expected* returns *across* assets, not a promise. Risk means that the outcome can be worse. A high-risk asset has a higher expected return only if investors are priced properly; some risks are not compensated at all, notably the specific risk of a single company, which can be avoided for free. The [next lesson](correlation-and-diversification.md) explains why.
+"Higher risk means higher return" is a statement about *expected* returns *across* assets, not a promise. Risk means that the outcome can be worse. A high-risk asset has a higher expected return only if investors are priced properly; some risks are not compensated at all, notably the specific risk of a single company, which can be avoided for free. The [next lesson](11-correlation-and-diversification.md) explains why.
 
 ## Worked example
 
@@ -63,6 +63,6 @@ Suppose government bills pay 3% and a stock fund has an expected return of 8% wi
 
 ## Where this leads
 
-- Next: [correlation and diversification](correlation-and-diversification.md).
+- Next: [correlation and diversification](11-correlation-and-diversification.md).
 - Later: [CAPM and beta](../06-portfolio-theory/03-capm-and-beta.md), [asset allocation](../06-portfolio-theory/06-asset-allocation-and-rebalancing.md).
-- Glossary: [[g:risk|risk]], [[g:risk-premium|risk premium]], [[g:risk-free-rate|risk-free rate]], [[g:equity-risk-premium|equity risk premium]].
+- Glossary: [risk](../glossary/foundations/risk.md), [risk premium](../glossary/foundations/risk-premium.md), [risk-free rate](../glossary/foundations/risk-free-rate.md), [equity risk premium](../glossary/foundations/equity-risk-premium.md).

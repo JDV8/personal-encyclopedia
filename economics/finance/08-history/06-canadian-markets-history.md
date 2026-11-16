@@ -74,4 +74,4 @@ flowchart LR
 
 - Next: [the crash of 1929 and the Great Depression](07-the-crash-of-1929-and-the-great-depression.md).
 - Related: [securities regulation in Canada](../05-regulation/03-securities-regulation-in-canada.md), [government bonds](../03-securities/02-bonds/07-government-bonds.md).
-- Glossary: [[g:hudsons-bay-company|Hudson's Bay Company]], [[g:victory-bonds|Victory Bonds]], [[g:tmx-group|TMX Group]], [[g:junior-mining|junior mining]], [[g:bank-act|Bank Act]], [[g:concentration-risk|concentration risk]], [[g:canada-savings-bond|Canada Savings Bond]].
+- Glossary: [Hudson's Bay Company](../glossary/history/hudsons-bay-company.md), [Victory Bonds](../glossary/history/victory-bonds.md), [TMX Group](../glossary/history/tmx-group.md), [junior mining](../glossary/history/junior-mining.md), [Bank Act](../glossary/history/bank-act.md), [concentration risk](../glossary/portfolio-theory/concentration-risk.md), [Canada Savings Bond](../glossary/bonds/canada-savings-bond.md).

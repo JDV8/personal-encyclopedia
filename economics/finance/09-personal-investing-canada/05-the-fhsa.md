@@ -81,4 +81,4 @@ flowchart TB
 
 - Next: [taxes on investments](06-taxes-on-investments.md).
 - Related: [the RRSP and Home Buyers' Plan](04-the-rrsp.md), [registered and non-registered accounts](02-registered-and-non-registered-accounts.md).
-- Glossary: [[g:fhsa|FHSA]], [[g:qualifying-withdrawal|qualifying withdrawal]], [[g:first-time-home-buyer|first-time home buyer]], [[g:tax-deduction|tax deduction]], [[g:carry-forward|carry-forward]], [[g:glide-path|glide path]].
+- Glossary: [FHSA](../glossary/personal-investing-canada/fhsa.md), [qualifying withdrawal](../glossary/personal-investing-canada/qualifying-withdrawal.md), [first-time home buyer](../glossary/personal-investing-canada/first-time-home-buyer.md), [tax deduction](../glossary/personal-investing-canada/tax-deduction.md), [carry-forward](../glossary/personal-investing-canada/carry-forward.md), [glide path](../glossary/portfolio-theory/glide-path.md).

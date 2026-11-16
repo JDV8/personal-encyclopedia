@@ -1,6 +1,6 @@
 # Simple and compound interest
 
-**Prerequisites:** [Money and value](money-and-value.md), [Credit, debt and banking](credit-and-banking.md).
+**Prerequisites:** [Money and value](01-money-and-value.md), [Credit, debt and banking](02-credit-and-banking.md).
 
 ![A cuneiform tablet recording a loan of silver from ancient Mesopotamia, Metropolitan Museum of Art](images/03-simple-and-compound-interest.jpg)
 
@@ -76,5 +76,5 @@ Interest is ancient. Cuneiform tablets from Mesopotamia record loans of silver a
 
 ## Where this leads
 
-- Next: [the time value of money](time-value-of-money.md), then [present value and discounting](present-value-and-discounting.md).
-- Glossary: [[g:compound-interest|compound interest]], [[g:simple-interest|simple interest]], [[g:effective-annual-rate|effective annual rate]], [[g:rule-of-72|rule of 72]].
+- Next: [the time value of money](04-time-value-of-money.md), then [present value and discounting](05-present-value-and-discounting.md).
+- Glossary: [compound interest](../glossary/foundations/compound-interest.md), [simple interest](../glossary/foundations/simple-interest.md), [effective annual rate](../glossary/foundations/effective-annual-rate.md), [rule of 72](../glossary/foundations/rule-of-72.md).

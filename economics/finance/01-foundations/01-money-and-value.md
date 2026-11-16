@@ -24,7 +24,7 @@ The third job matters most for finance. Almost every financial decision is a dec
 
 Early societies used many things: cattle, shells, grain, and metals weighed out by the shekel. Metals had useful properties: they are durable, divisible, portable and hard to counterfeit. The Kingdom of Lydia, in what is now western Turkey, is traditionally credited with some of the first stamped coins, made of a natural gold–silver alloy called electrum, in the 7th century BC. A stamp from the issuer vouched for weight and purity, which saved the receiver from re-weighing and re-testing every payment.
 
-Over time, societies moved from *commodity money* (the coin is worth its metal), to *representative money* (paper that can be exchanged for a fixed amount of metal), to *fiat money*, which is money because a government declares it legal tender and people trust it. Modern bank balances are mostly entries in a ledger; physical cash is a small fraction of the total money supply. What matters is not the material but the shared belief that others will accept it tomorrow. The [credit and banking](credit-and-banking.md) lesson covers how this trust is organised.
+Over time, societies moved from *commodity money* (the coin is worth its metal), to *representative money* (paper that can be exchanged for a fixed amount of metal), to *fiat money*, which is money because a government declares it legal tender and people trust it. Modern bank balances are mostly entries in a ledger; physical cash is a small fraction of the total money supply. What matters is not the material but the shared belief that others will accept it tomorrow. The [credit and banking](02-credit-and-banking.md) lesson covers how this trust is organised.
 
 ## Value is not the same as price
 
@@ -53,7 +53,7 @@ flowchart LR
   E --> F[Future purchasing power]
 ```
 
-Note the last step. Saving is not hoarding; it is converting purchasing power now into a claim on purchasing power later. That conversion is where interest, risk and return will enter, starting in [simple and compound interest](simple-and-compound-interest.md).
+Note the last step. Saving is not hoarding; it is converting purchasing power now into a claim on purchasing power later. That conversion is where interest, risk and return will enter, starting in [simple and compound interest](03-simple-and-compound-interest.md).
 
 ## Key ideas
 
@@ -64,6 +64,6 @@ Note the last step. Saving is not hoarding; it is converting purchasing power no
 
 ## Where this leads
 
-- Next: [credit, debt and banking](credit-and-banking.md), then [simple and compound interest](simple-and-compound-interest.md).
-- Glossary: [[g:money|money]], [[g:asset|asset]], [[g:liability|liability]], [[g:net-worth|net worth]], [[g:fiat-money|fiat money]].
+- Next: [credit, debt and banking](02-credit-and-banking.md), then [simple and compound interest](03-simple-and-compound-interest.md).
+- Glossary: [money](../glossary/foundations/money.md), [asset](../glossary/firms-and-accounting/asset.md), [liability](../glossary/firms-and-accounting/liability.md), [net worth](../glossary/firms-and-accounting/net-worth.md), [fiat money](../glossary/foundations/fiat-money.md).
 - Related branch: for the question of what makes something good for a person, see [eudaimonia](../../../philosophy/concepts/ethics/eudaimonia.md).

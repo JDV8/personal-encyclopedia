@@ -70,4 +70,4 @@ flowchart LR
 
 - Next: [options](03-options-calls-and-puts.md).
 - Related: [commodities and gold](../05-alternatives/02-commodities-and-gold.md), [clearing and settlement](../../04-markets/07-clearing-and-settlement.md).
-- Glossary: [[g:forward-contract|forward contract]], [[g:futures-contract|futures contract]], [[g:margin|margin]], [[g:mark-to-market|mark-to-market]], [[g:cost-of-carry|cost of carry]], [[g:contango|contango]], [[g:backwardation|backwardation]], [[g:basis-risk|basis risk]], [[g:clearing-house|clearing house]].
+- Glossary: [forward contract](../../glossary/derivatives/forward-contract.md), [futures contract](../../glossary/derivatives/futures-contract.md), [margin](../../glossary/derivatives/margin.md), [mark-to-market](../../glossary/derivatives/mark-to-market.md), [cost of carry](../../glossary/derivatives/cost-of-carry.md), [contango](../../glossary/derivatives/contango.md), [backwardation](../../glossary/derivatives/backwardation.md), [basis risk](../../glossary/derivatives/basis-risk.md), [clearing house](../../glossary/derivatives/clearing-house.md).

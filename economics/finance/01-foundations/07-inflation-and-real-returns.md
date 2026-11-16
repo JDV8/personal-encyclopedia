@@ -1,6 +1,6 @@
 # Inflation and real returns
 
-**Prerequisites:** [Simple and compound interest](simple-and-compound-interest.md).
+**Prerequisites:** [Simple and compound interest](03-simple-and-compound-interest.md).
 
 ![A 5 trillion mark emergency banknote from Germany's 1923 hyperinflation](images/07-inflation-and-real-returns.jpg)
 
@@ -59,6 +59,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next: [probability and expected value](probability-and-expected-value.md), the start of the risk half of the foundations.
+- Next: [probability and expected value](08-probability-and-expected-value.md), the start of the risk half of the foundations.
 - Later: [inflation-linked bonds](../03-securities/02-bonds/10-inflation-linked-zero-coupon-and-gics.md), [central banks](../05-regulation/06-central-banks-and-monetary-policy.md), [the 1970s inflation shock](../08-history/08-bretton-woods-and-the-postwar-order.md).
-- Glossary: [[g:inflation|inflation]], [[g:real-return|real return]], [[g:nominal-return|nominal return]], [[g:cpi|CPI]], [[g:hyperinflation|hyperinflation]].
+- Glossary: [inflation](../glossary/foundations/inflation.md), [real return](../glossary/foundations/real-return.md), [nominal return](../glossary/foundations/nominal-return.md), [CPI](../glossary/foundations/cpi.md), [hyperinflation](../glossary/foundations/hyperinflation.md).

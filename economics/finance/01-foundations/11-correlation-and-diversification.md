@@ -1,6 +1,6 @@
 # Correlation and diversification
 
-**Prerequisites:** [Variance and standard deviation](variance-and-standard-deviation.md), [Risk and return](risk-and-return.md).
+**Prerequisites:** [Variance and standard deviation](09-variance-and-standard-deviation.md), [Risk and return](10-risk-and-return.md).
 
 ![A marginal drawing by Hans Holbein the Younger: a scholar treads on a market woman's basket of eggs](images/11-correlation-and-diversification.jpg)
 
@@ -74,4 +74,4 @@ The economist Harry Markowitz formalised this arithmetic in 1952, and it won him
 
 - Next section: [what a company is](../02-firms-and-capital/01-what-is-a-company.md), the first step toward securities.
 - Later: [portfolio theory](../06-portfolio-theory/README.md), especially [the efficient frontier](../06-portfolio-theory/02-the-efficient-frontier.md).
-- Glossary: [[g:correlation|correlation]], [[g:covariance|covariance]], [[g:diversification|diversification]], [[g:systematic-risk|systematic risk]], [[g:idiosyncratic-risk|idiosyncratic risk]].
+- Glossary: [correlation](../glossary/foundations/correlation.md), [covariance](../glossary/portfolio-theory/covariance.md), [diversification](../glossary/foundations/diversification.md), [systematic risk](../glossary/foundations/systematic-risk.md), [idiosyncratic risk](../glossary/foundations/idiosyncratic-risk.md).

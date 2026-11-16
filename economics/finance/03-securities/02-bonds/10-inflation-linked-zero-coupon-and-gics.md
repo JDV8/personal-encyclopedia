@@ -72,4 +72,4 @@ flowchart TB
 
 - Next section: [funds](../03-funds/01-pooled-investing-and-mutual-funds.md), which package bonds and stocks together.
 - Related: [inflation](../../01-foundations/07-inflation-and-real-returns.md), [taxes on investments](../../09-personal-investing-canada/06-taxes-on-investments.md), [CIRO and investor protection](../../05-regulation/04-ciro-and-investor-protection.md).
-- Glossary: [[g:inflation-linked-bond|inflation-linked bond]], [[g:real-return-bond|Real Return Bond]], [[g:breakeven-inflation|breakeven inflation]], [[g:strip-bond|strip bond]], [[g:gic|GIC]], [[g:gic-ladder|GIC ladder]].
+- Glossary: [inflation-linked bond](../../glossary/bonds/inflation-linked-bond.md), [Real Return Bond](../../glossary/bonds/real-return-bond.md), [breakeven inflation](../../glossary/bonds/breakeven-inflation.md), [strip bond](../../glossary/bonds/strip-bond.md), [GIC](../../glossary/bonds/gic.md), [GIC ladder](../../glossary/bonds/gic-ladder.md).

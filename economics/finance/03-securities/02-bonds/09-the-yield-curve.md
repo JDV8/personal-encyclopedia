@@ -63,4 +63,4 @@ flowchart LR
 
 - Next: [inflation-linked bonds, zero-coupon bonds and GICs](10-inflation-linked-zero-coupon-and-gics.md).
 - Related: [central banks and monetary policy](../../05-regulation/06-central-banks-and-monetary-policy.md), [swaps](../04-derivatives/06-swaps-and-credit-derivatives.md).
-- Glossary: [[g:yield-curve|yield curve]], [[g:inverted-yield-curve|inverted yield curve]], [[g:term-premium|term premium]], [[g:spot-rate|spot rate]], [[g:forward-rate|forward rate]], [[g:term-structure|term structure]].
+- Glossary: [yield curve](../../glossary/bonds/yield-curve.md), [inverted yield curve](../../glossary/bonds/inverted-yield-curve.md), [term premium](../../glossary/bonds/term-premium.md), [spot rate](../../glossary/bonds/spot-rate.md), [forward rate](../../glossary/bonds/forward-rate.md), [term structure](../../glossary/bonds/term-structure.md).

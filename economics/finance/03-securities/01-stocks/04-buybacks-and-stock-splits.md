@@ -68,4 +68,4 @@ flowchart TB
 
 - Next: [earnings and EPS](05-earnings-and-eps.md).
 - Related: [dividends](03-dividends.md), [other valuation ratios](07-other-valuation-ratios.md).
-- Glossary: [[g:stock-split|stock split]], [[g:reverse-split|reverse split]], [[g:share-buyback|share buyback]], [[g:treasury-stock|treasury stock]], [[g:normal-course-issuer-bid|normal course issuer bid]].
+- Glossary: [stock split](../../glossary/stocks/stock-split.md), [reverse split](../../glossary/stocks/reverse-split.md), [share buyback](../../glossary/stocks/share-buyback.md), [treasury stock](../../glossary/stocks/treasury-stock.md), [normal course issuer bid](../../glossary/stocks/normal-course-issuer-bid.md).

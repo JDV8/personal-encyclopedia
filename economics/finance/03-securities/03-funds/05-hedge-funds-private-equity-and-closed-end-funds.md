@@ -57,4 +57,4 @@ flowchart TB
 
 - Next: [derivatives](../04-derivatives/01-what-is-a-derivative.md), the instruments hedge funds use heavily.
 - Related: [accredited investors and regulation in Canada](../../05-regulation/03-securities-regulation-in-canada.md), [active versus passive investing](../../06-portfolio-theory/05-active-versus-passive-investing.md).
-- Glossary: [[g:closed-end-fund|closed-end fund]], [[g:hedge-fund|hedge fund]], [[g:private-equity|private equity]], [[g:venture-capital|venture capital]], [[g:accredited-investor|accredited investor]], [[g:carried-interest|carried interest]].
+- Glossary: [closed-end fund](../../glossary/funds/closed-end-fund.md), [hedge fund](../../glossary/funds/hedge-fund.md), [private equity](../../glossary/funds/private-equity.md), [venture capital](../../glossary/funds/venture-capital.md), [accredited investor](../../glossary/regulation/accredited-investor.md), [carried interest](../../glossary/funds/carried-interest.md).

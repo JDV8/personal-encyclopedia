@@ -68,4 +68,4 @@ flowchart LR
 
 - Next: [1987, LTCM and the 1990s crises](09-1987-ltcm-and-the-1990s-crises.md).
 - Related: [commodities and gold](../03-securities/05-alternatives/02-commodities-and-gold.md), [inflation and real returns](../01-foundations/07-inflation-and-real-returns.md).
-- Glossary: [[g:bretton-woods|Bretton Woods]], [[g:imf|IMF]], [[g:world-bank|World Bank]], [[g:triffin-dilemma|Triffin dilemma]], [[g:nixon-shock|Nixon shock]], [[g:stagflation|stagflation]], [[g:impossible-trinity|impossible trinity]], [[g:peg|peg]].
+- Glossary: [Bretton Woods](../glossary/history/bretton-woods.md), [IMF](../glossary/history/imf.md), [World Bank](../glossary/history/world-bank.md), [Triffin dilemma](../glossary/history/triffin-dilemma.md), [Nixon shock](../glossary/history/nixon-shock.md), [stagflation](../glossary/history/stagflation.md), [impossible trinity](../glossary/history/impossible-trinity.md), [peg](../glossary/history/peg.md).

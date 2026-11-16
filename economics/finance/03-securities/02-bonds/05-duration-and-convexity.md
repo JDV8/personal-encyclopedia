@@ -67,4 +67,4 @@ flowchart TB
 
 - Next: [credit risk and ratings](06-credit-risk-and-ratings.md).
 - Related: [the yield curve](09-the-yield-curve.md), [swaps](../04-derivatives/06-swaps-and-credit-derivatives.md).
-- Glossary: [[g:duration|duration]], [[g:macaulay-duration|Macaulay duration]], [[g:modified-duration|modified duration]], [[g:convexity|convexity]], [[g:immunization|immunization]], [[g:negative-convexity|negative convexity]].
+- Glossary: [duration](../../glossary/bonds/duration.md), [Macaulay duration](../../glossary/bonds/macaulay-duration.md), [modified duration](../../glossary/bonds/modified-duration.md), [convexity](../../glossary/bonds/convexity.md), [immunization](../../glossary/bonds/immunization.md), [negative convexity](../../glossary/bonds/negative-convexity.md).

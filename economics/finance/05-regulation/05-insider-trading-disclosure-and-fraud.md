@@ -69,4 +69,4 @@ flowchart LR
 
 - Next: [central banks and monetary policy](06-central-banks-and-monetary-policy.md).
 - Related: [dot-com bubble](../08-history/10-the-dot-com-bubble.md), [Canadian markets history](../08-history/06-canadian-markets-history.md).
-- Glossary: [[g:insider-trading|insider trading]], [[g:material-information|material information]], [[g:tipping|tipping]], [[g:sedi|SEDI]], [[g:accounting-fraud|accounting fraud]], [[g:market-manipulation|market manipulation]], [[g:bre-x|Bre-X]], [[g:affinity-fraud|affinity fraud]].
+- Glossary: [insider trading](../glossary/regulation/insider-trading.md), [material information](../glossary/regulation/material-information.md), [tipping](../glossary/regulation/tipping.md), [SEDI](../glossary/regulation/sedi.md), [accounting fraud](../glossary/regulation/accounting-fraud.md), [market manipulation](../glossary/regulation/market-manipulation.md), [Bre-X](../glossary/regulation/bre-x.md), [affinity fraud](../glossary/regulation/affinity-fraud.md).

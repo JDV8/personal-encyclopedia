@@ -1,6 +1,6 @@
 # Annuities and perpetuities
 
-**Prerequisites:** [Present value and discounting](present-value-and-discounting.md).
+**Prerequisites:** [Present value and discounting](05-present-value-and-discounting.md).
 
 ![The Bank of England on Threadneedle Street, London, the institution that managed Britain's perpetual government annuities (consols)](images/06-annuities-and-perpetuities.jpg)
 
@@ -59,6 +59,6 @@ flowchart TB
 
 ## Where this leads
 
-- Next: [inflation and real returns](inflation-and-real-returns.md).
+- Next: [inflation and real returns](07-inflation-and-real-returns.md).
 - Applications: [pricing a bond](../03-securities/02-bonds/02-pricing-a-bond.md), [dividend discount model](../03-securities/01-stocks/08-the-dividend-discount-model.md), [the TFSA](../09-personal-investing-canada/03-the-tfsa.md) (regular saving).
-- Glossary: [[g:annuity|annuity]], [[g:perpetuity|perpetuity]], [[g:consol|consol]], [[g:amortization|amortization]].
+- Glossary: [annuity](../glossary/foundations/annuity.md), [perpetuity](../glossary/foundations/perpetuity.md), [consol](../glossary/foundations/consol.md), [amortization](../glossary/foundations/amortization.md).

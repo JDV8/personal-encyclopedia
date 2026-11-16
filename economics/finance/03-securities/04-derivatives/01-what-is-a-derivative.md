@@ -73,4 +73,4 @@ flowchart LR
 
 - Next: [forwards and futures](02-forwards-and-futures.md).
 - Related: [clearing and settlement](../../04-markets/07-clearing-and-settlement.md), [short selling and margin](../../04-markets/08-short-selling-and-margin.md).
-- Glossary: [[g:derivative|derivative]], [[g:underlying|underlying]], [[g:hedging|hedging]], [[g:speculation|speculation]], [[g:leverage|leverage]], [[g:counterparty-risk|counterparty risk]], [[g:notional-amount|notional amount]], [[g:arbitrage|arbitrage]].
+- Glossary: [derivative](../../glossary/derivatives/derivative.md), [underlying](../../glossary/derivatives/underlying.md), [hedging](../../glossary/derivatives/hedging.md), [speculation](../../glossary/derivatives/speculation.md), [leverage](../../glossary/firms-and-accounting/leverage.md), [counterparty risk](../../glossary/derivatives/counterparty-risk.md), [notional amount](../../glossary/derivatives/notional-amount.md), [arbitrage](../../glossary/derivatives/arbitrage.md).

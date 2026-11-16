@@ -1,6 +1,6 @@
 # The balance sheet
 
-**Prerequisites:** [Equity and debt](equity-and-debt.md).
+**Prerequisites:** [Equity and debt](03-equity-and-debt.md).
 
 ![Portrait of Luca Pacioli with a student, attributed to Jacopo de' Barbari, c. 1495–1500; Pacioli's 1494 Summa described double-entry bookkeeping](images/04-the-balance-sheet.jpg)
 
@@ -51,7 +51,7 @@ The balance sheet balances: 200 = 110 + 90. The **book value of equity** is 90. 
 A few simple ratios turn the statement into information:
 
 - **Current ratio** = current assets ÷ current liabilities. For Maple: (20 + 15 + 25) ÷ 30 = 2.0. The company has two dollars of short-term assets for each dollar of short-term obligations, a measure of **liquidity**.
-- **Debt-to-equity** = total debt ÷ equity = 80 ÷ 90 ≈ 0.89, a measure of **leverage**, discussed in [capital structure](capital-structure-and-cost-of-capital.md).
+- **Debt-to-equity** = total debt ÷ equity = 80 ÷ 90 ≈ 0.89, a measure of **leverage**, discussed in [capital structure](08-capital-structure-and-cost-of-capital.md).
 - **Equity ratio** = equity ÷ assets = 90 ÷ 200 = 45%.
 
 ## Book value versus market value
@@ -83,6 +83,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next: [the income statement](the-income-statement.md) for performance over a period.
+- Next: [the income statement](05-the-income-statement.md) for performance over a period.
 - Later: [other valuation ratios](../03-securities/01-stocks/07-other-valuation-ratios.md), [credit risk](../03-securities/02-bonds/06-credit-risk-and-ratings.md).
-- Glossary: [[g:balance-sheet|balance sheet]], [[g:retained-earnings|retained earnings]], [[g:book-value|book value]], [[g:current-ratio|current ratio]], [[g:leverage|leverage]].
+- Glossary: [balance sheet](../glossary/firms-and-accounting/balance-sheet.md), [retained earnings](../glossary/firms-and-accounting/retained-earnings.md), [book value](../glossary/firms-and-accounting/book-value.md), [current ratio](../glossary/firms-and-accounting/current-ratio.md), [leverage](../glossary/firms-and-accounting/leverage.md).

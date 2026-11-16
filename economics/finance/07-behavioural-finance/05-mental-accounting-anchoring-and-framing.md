@@ -74,4 +74,4 @@ flowchart TB
 
 - Next: [history](../08-history/01-lending-and-banking-before-stock-markets.md), the long record of manias, crashes and institutions.
 - Related: [dividends](../03-securities/01-stocks/03-dividends.md), [foundations before investing](../09-personal-investing-canada/01-foundations-before-investing.md).
-- Glossary: [[g:mental-accounting|mental accounting]], [[g:anchoring|anchoring]], [[g:framing|framing]], [[g:house-money-effect|house-money effect]], [[g:narrow-framing|narrow framing]], [[g:fungibility|fungibility]], [[g:default-effect|default effect]].
+- Glossary: [mental accounting](../glossary/behavioural-finance/mental-accounting.md), [anchoring](../glossary/behavioural-finance/anchoring.md), [framing](../glossary/behavioural-finance/framing.md), [house-money effect](../glossary/behavioural-finance/house-money-effect.md), [narrow framing](../glossary/behavioural-finance/narrow-framing.md), [fungibility](../glossary/behavioural-finance/fungibility.md), [default effect](../glossary/behavioural-finance/default-effect.md).

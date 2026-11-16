@@ -76,4 +76,4 @@ flowchart LR
 
 - Next: [the yield curve](09-the-yield-curve.md).
 - Related: [credit default swaps](../04-derivatives/06-swaps-and-credit-derivatives.md), [private equity and leveraged buyouts](../03-funds/05-hedge-funds-private-equity-and-closed-end-funds.md).
-- Glossary: [[g:corporate-bond|corporate bond]], [[g:junk-bond|junk bond]], [[g:leveraged-buyout|leveraged buyout]], [[g:subordinated-debt|subordinated debt]], [[g:floating-rate-note|floating-rate note]], [[g:call-risk|call risk]].
+- Glossary: [corporate bond](../../glossary/bonds/corporate-bond.md), [junk bond](../../glossary/bonds/junk-bond.md), [leveraged buyout](../../glossary/bonds/leveraged-buyout.md), [subordinated debt](../../glossary/bonds/subordinated-debt.md), [floating-rate note](../../glossary/bonds/floating-rate-note.md), [call risk](../../glossary/bonds/call-risk.md).

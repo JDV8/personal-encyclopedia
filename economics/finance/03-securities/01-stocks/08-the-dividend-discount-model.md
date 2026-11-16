@@ -82,4 +82,4 @@ flowchart LR
 
 - Next: [discounted cash flow valuation](09-discounted-cash-flow-valuation.md).
 - Related: [CAPM and the cost of equity](../../06-portfolio-theory/03-capm-and-beta.md), [growth, value and factors](../../06-portfolio-theory/07-factor-investing.md).
-- Glossary: [[g:dividend-discount-model|dividend discount model]], [[g:gordon-growth-model|Gordon growth model]], [[g:terminal-value|terminal value]], [[g:cost-of-equity|cost of equity]], [[g:retention-ratio|retention ratio]].
+- Glossary: [dividend discount model](../../glossary/stocks/dividend-discount-model.md), [Gordon growth model](../../glossary/stocks/gordon-growth-model.md), [terminal value](../../glossary/stocks/terminal-value.md), [cost of equity](../../glossary/firms-and-accounting/cost-of-equity.md), [retention ratio](../../glossary/stocks/retention-ratio.md).

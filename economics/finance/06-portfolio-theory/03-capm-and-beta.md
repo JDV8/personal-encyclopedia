@@ -76,4 +76,4 @@ flowchart LR
 
 - Next: [the efficient market hypothesis](04-the-efficient-market-hypothesis.md).
 - Related: [capital structure and cost of capital](../02-firms-and-capital/08-capital-structure-and-cost-of-capital.md), [factor investing](07-factor-investing.md).
-- Glossary: [[g:capm|CAPM]], [[g:beta|beta]], [[g:alpha|alpha]], [[g:security-market-line|security market line]], [[g:market-risk-premium|market risk premium]], [[g:cost-of-equity|cost of equity]].
+- Glossary: [CAPM](../glossary/portfolio-theory/capm.md), [beta](../glossary/portfolio-theory/beta.md), [alpha](../glossary/portfolio-theory/alpha.md), [security market line](../glossary/portfolio-theory/security-market-line.md), [market risk premium](../glossary/portfolio-theory/market-risk-premium.md), [cost of equity](../glossary/firms-and-accounting/cost-of-equity.md).

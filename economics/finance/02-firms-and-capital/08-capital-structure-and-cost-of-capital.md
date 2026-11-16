@@ -1,6 +1,6 @@
 # Capital structure and cost of capital
 
-**Prerequisites:** [Equity and debt](equity-and-debt.md), [The income statement](the-income-statement.md), [Risk and return](../01-foundations/10-risk-and-return.md).
+**Prerequisites:** [Equity and debt](03-equity-and-debt.md), [The income statement](05-the-income-statement.md), [Risk and return](../01-foundations/10-risk-and-return.md).
 
 ![A diagram of the Modigliani–Miller theorem with taxes](images/08-capital-structure-and-cost-of-capital.jpg)
 
@@ -71,4 +71,4 @@ flowchart LR
 
 - Next: the [securities section](../03-securities/README.md), starting with [what a share is](../03-securities/01-stocks/01-what-is-a-share.md).
 - Later: [discounted cash flow valuation](../03-securities/01-stocks/09-discounted-cash-flow-valuation.md), [CAPM and beta](../06-portfolio-theory/03-capm-and-beta.md).
-- Glossary: [[g:wacc|WACC]], [[g:cost-of-equity|cost of equity]], [[g:cost-of-debt|cost of debt]], [[g:modigliani-miller|Modigliani–Miller]], [[g:tax-shield|tax shield]].
+- Glossary: [WACC](../glossary/firms-and-accounting/wacc.md), [cost of equity](../glossary/firms-and-accounting/cost-of-equity.md), [cost of debt](../glossary/firms-and-accounting/cost-of-debt.md), [Modigliani–Miller](../glossary/firms-and-accounting/modigliani-miller.md), [tax shield](../glossary/firms-and-accounting/tax-shield.md).

@@ -74,4 +74,4 @@ In 2022, central banks raised policy rates sharply to fight inflation. Governmen
 
 - Next: [duration and convexity](05-duration-and-convexity.md), the measures of rate sensitivity.
 - Related: [the yield curve](09-the-yield-curve.md), [central banks](../../05-regulation/06-central-banks-and-monetary-policy.md), [2022 and the rate shock](../../08-history/12-covid-crash-and-the-rate-shock.md).
-- Glossary: [[g:interest-rate-risk|interest rate risk]], [[g:convexity|convexity]], [[g:price-yield-relationship|price–yield relationship]], [[g:pull-to-par|pull to par]].
+- Glossary: [interest rate risk](../../glossary/bonds/interest-rate-risk.md), [convexity](../../glossary/bonds/convexity.md), [price–yield relationship](../../glossary/bonds/price-yield-relationship.md), [pull to par](../../glossary/bonds/pull-to-par.md).

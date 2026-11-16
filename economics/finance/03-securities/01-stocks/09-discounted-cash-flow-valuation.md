@@ -83,4 +83,4 @@ flowchart TB
 
 - Next: the [bonds](../02-bonds/01-what-is-a-bond.md) branch of the securities section, where the cash flows are contractual and valuation is mechanical.
 - Related: [capital structure and WACC](../../02-firms-and-capital/08-capital-structure-and-cost-of-capital.md), [efficient markets](../../06-portfolio-theory/04-the-efficient-market-hypothesis.md).
-- Glossary: [[g:dcf|DCF]], [[g:free-cash-flow|free cash flow]], [[g:terminal-value|terminal value]], [[g:enterprise-value|enterprise value]], [[g:net-debt|net debt]], [[g:sensitivity-analysis|sensitivity analysis]].
+- Glossary: [DCF](../../glossary/stocks/dcf.md), [free cash flow](../../glossary/firms-and-accounting/free-cash-flow.md), [terminal value](../../glossary/stocks/terminal-value.md), [enterprise value](../../glossary/stocks/enterprise-value.md), [net debt](../../glossary/stocks/net-debt.md), [sensitivity analysis](../../glossary/stocks/sensitivity-analysis.md).

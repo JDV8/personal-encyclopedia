@@ -1,6 +1,6 @@
 # Probability and expected value
 
-**Prerequisites:** [The time value of money](time-value-of-money.md).
+**Prerequisites:** [The time value of money](04-time-value-of-money.md).
 
 ![Blaise Pascal, who with Pierre de Fermat worked out the first rules of probability and expected value in 1654](images/08-probability-and-expected-value.jpg)
 
@@ -10,7 +10,7 @@ So far every payment was certain. Real investments are not: a share may rise or 
 
 ## Where the mathematics came from
 
-Modern probability began with a question about gambling. In 1654, the French mathematicians Blaise Pascal and Pierre de Fermat corresponded about how to fairly divide the stakes of an interrupted game of chance. Their solution introduced the idea that the fair value of an uncertain prize is its probability-weighted average. The Dutch scientist Christiaan Huygens published the first printed treatise on the subject a few years later. Insurance, annuities and the pricing of risk grew from the same roots, as you will see when risk enters the picture in [risk and return](risk-and-return.md).
+Modern probability began with a question about gambling. In 1654, the French mathematicians Blaise Pascal and Pierre de Fermat corresponded about how to fairly divide the stakes of an interrupted game of chance. Their solution introduced the idea that the fair value of an uncertain prize is its probability-weighted average. The Dutch scientist Christiaan Huygens published the first printed treatise on the subject a few years later. Insurance, annuities and the pricing of risk grew from the same roots, as you will see when risk enters the picture in [risk and return](10-risk-and-return.md).
 
 ## Probabilities and outcomes
 
@@ -32,7 +32,7 @@ A second example with three scenarios: boom (25% chance, +25% return), normal (5
 
 If you were asked to pay 100 for a ticket paying 300 with probability 40% and nothing otherwise, the expected payoff is 120, so on average you would gain 20. The rule "take bets with positive expected value" is sensible when the stakes are small compared with your wealth and you can repeat the bet many times.
 
-It fails in two ways. First, **risk**: two bets with the same expected value can differ greatly in how much they can hurt you. A coin flip paying 1,000,000 or nothing has the same expected value as a sure 500,000, but almost nobody values them equally. This is the subject of the [next lessons](variance-and-standard-deviation.md). Second, **ruin**: a bet with a high expected value can still be unwise if a bad outcome wipes you out, because you cannot play again. Investors speak of avoiding "risk of ruin" for this reason.
+It fails in two ways. First, **risk**: two bets with the same expected value can differ greatly in how much they can hurt you. A coin flip paying 1,000,000 or nothing has the same expected value as a sure 500,000, but almost nobody values them equally. This is the subject of the [next lessons](09-variance-and-standard-deviation.md). Second, **ruin**: a bet with a high expected value can still be unwise if a bad outcome wipes you out, because you cannot play again. Investors speak of avoiding "risk of ruin" for this reason.
 
 The mathematician Daniel Bernoulli proposed in 1738 that people evaluate gambles not by money but by the *utility* of money, which rises more slowly as wealth increases. This idea of diminishing marginal utility is the standard explanation of risk aversion, and it returns in [prospect theory](../07-behavioural-finance/02-prospect-theory-and-loss-aversion.md).
 
@@ -57,6 +57,6 @@ flowchart TB
 
 ## Where this leads
 
-- Next: [variance and standard deviation](variance-and-standard-deviation.md), measuring how spread out outcomes are.
-- Related: [risk and return](risk-and-return.md), [behavioural finance](../07-behavioural-finance/01-from-rational-to-behavioural.md).
-- Glossary: [[g:expected-value|expected value]], [[g:probability-distribution|probability distribution]], [[g:random-variable|random variable]], [[g:risk-aversion|risk aversion]].
+- Next: [variance and standard deviation](09-variance-and-standard-deviation.md), measuring how spread out outcomes are.
+- Related: [risk and return](10-risk-and-return.md), [behavioural finance](../07-behavioural-finance/01-from-rational-to-behavioural.md).
+- Glossary: [expected value](../glossary/foundations/expected-value.md), [probability distribution](../glossary/foundations/probability-distribution.md), [random variable](../glossary/foundations/random-variable.md), [risk aversion](../glossary/foundations/risk-aversion.md).

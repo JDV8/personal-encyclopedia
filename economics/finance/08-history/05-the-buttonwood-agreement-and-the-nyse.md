@@ -61,4 +61,4 @@ flowchart LR
 
 - Next: [Canadian markets history](06-canadian-markets-history.md).
 - Related: [the crash of 1929](07-the-crash-of-1929-and-the-great-depression.md), [central banks](../05-regulation/06-central-banks-and-monetary-policy.md).
-- Glossary: [[g:buttonwood-agreement|Buttonwood Agreement]], [[g:nyse|NYSE]], [[g:bank-run|bank run]], [[g:panic|financial panic]], [[g:gold-standard|gold standard]], [[g:stock-ticker|stock ticker]], [[g:robber-barons|robber barons]].
+- Glossary: [Buttonwood Agreement](../glossary/history/buttonwood-agreement.md), [NYSE](../glossary/history/nyse.md), [bank run](../glossary/foundations/bank-run.md), [financial panic](../glossary/behavioural-finance/panic.md), [gold standard](../glossary/history/gold-standard.md), [stock ticker](../glossary/stocks/stock-ticker.md), [robber barons](../glossary/history/robber-barons.md).

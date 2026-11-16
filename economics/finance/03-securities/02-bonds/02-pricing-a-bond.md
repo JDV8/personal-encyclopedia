@@ -72,4 +72,4 @@ flowchart TB
 ## Where this leads
 
 - Next: [yield to maturity](03-yield-to-maturity.md), the inverse problem, then [the price–yield relationship](04-the-price-yield-relationship.md).
-- Glossary: [[g:bond-price|bond price]], [[g:par|par]], [[g:premium-bond|premium bond]], [[g:discount-bond|discount bond]], [[g:accrued-interest|accrued interest]], [[g:zero-coupon-bond|zero-coupon bond]].
+- Glossary: [bond price](../../glossary/bonds/bond-price.md), [par](../../glossary/bonds/par.md), [premium bond](../../glossary/bonds/premium-bond.md), [discount bond](../../glossary/bonds/discount-bond.md), [accrued interest](../../glossary/bonds/accrued-interest.md), [zero-coupon bond](../../glossary/bonds/zero-coupon-bond.md).

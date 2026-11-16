@@ -69,4 +69,4 @@ flowchart LR
 
 - Next: [index funds](03-index-funds.md).
 - Related: [fees and the cost of investing](04-fees-and-the-cost-of-investing.md), [building a simple portfolio](../../09-personal-investing-canada/07-building-a-simple-portfolio.md).
-- Glossary: [[g:etf|ETF]], [[g:authorized-participant|authorized participant]], [[g:tracking-error|tracking error]], [[g:leveraged-etf|leveraged ETF]], [[g:bid-ask-spread|bid-ask spread]], [[g:synthetic-etf|synthetic ETF]].
+- Glossary: [ETF](../../glossary/funds/etf.md), [authorized participant](../../glossary/funds/authorized-participant.md), [tracking error](../../glossary/funds/tracking-error.md), [leveraged ETF](../../glossary/funds/leveraged-etf.md), [bid-ask spread](../../glossary/markets/bid-ask-spread.md), [synthetic ETF](../../glossary/funds/synthetic-etf.md).

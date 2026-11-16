@@ -85,4 +85,4 @@ flowchart TB
 
 - Next: [building a simple portfolio](07-building-a-simple-portfolio.md).
 - Related: [registered and non-registered accounts](02-registered-and-non-registered-accounts.md), [dividends](../03-securities/01-stocks/03-dividends.md).
-- Glossary: [[g:capital-gain|capital gain]], [[g:inclusion-rate|inclusion rate]], [[g:adjusted-cost-base|adjusted cost base]], [[g:dividend-tax-credit|dividend tax credit]], [[g:superficial-loss|superficial loss]], [[g:t5|T5 slip]], [[g:tax-loss-harvesting|tax-loss harvesting]], [[g:t1135|T1135]].
+- Glossary: [capital gain](../glossary/personal-investing-canada/capital-gain.md), [inclusion rate](../glossary/personal-investing-canada/inclusion-rate.md), [adjusted cost base](../glossary/personal-investing-canada/adjusted-cost-base.md), [dividend tax credit](../glossary/personal-investing-canada/dividend-tax-credit.md), [superficial loss](../glossary/personal-investing-canada/superficial-loss.md), [T5 slip](../glossary/personal-investing-canada/t5.md), [tax-loss harvesting](../glossary/personal-investing-canada/tax-loss-harvesting.md), [T1135](../glossary/personal-investing-canada/t1135.md).

@@ -62,4 +62,4 @@ flowchart LR
 
 - Next: [the 2008 financial crisis](11-the-2008-financial-crisis.md).
 - Related: [IPOs and the primary market](../04-markets/02-ipos-and-the-primary-market.md), [the price-to-earnings ratio](../03-securities/01-stocks/06-the-price-to-earnings-ratio.md).
-- Glossary: [[g:dot-com-bubble|dot-com bubble]], [[g:nasdaq|Nasdaq]], [[g:irrational-exuberance|irrational exuberance]], [[g:venture-capital|venture capital]], [[g:analyst-conflict|analyst conflict of interest]], [[g:cape|CAPE]], [[g:new-economy|new economy]].
+- Glossary: [dot-com bubble](../glossary/history/dot-com-bubble.md), [Nasdaq](../glossary/history/nasdaq.md), [irrational exuberance](../glossary/behavioural-finance/irrational-exuberance.md), [venture capital](../glossary/funds/venture-capital.md), [analyst conflict of interest](../glossary/history/analyst-conflict.md), [CAPE](../glossary/stocks/cape.md), [new economy](../glossary/history/new-economy.md).

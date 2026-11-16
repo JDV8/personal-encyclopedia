@@ -70,4 +70,4 @@ flowchart LR
 
 - Next: [commodities and gold](02-commodities-and-gold.md).
 - Related: [credit and banking](../../01-foundations/02-credit-and-banking.md), [the registered accounts](../../09-personal-investing-canada/02-registered-and-non-registered-accounts.md).
-- Glossary: [[g:reit|REIT]], [[g:cap-rate|capitalisation rate]], [[g:net-operating-income|net operating income]], [[g:ffo|FFO]], [[g:illiquidity|illiquidity]], [[g:return-of-capital|return of capital]].
+- Glossary: [REIT](../../glossary/alternatives/reit.md), [capitalisation rate](../../glossary/alternatives/cap-rate.md), [net operating income](../../glossary/alternatives/net-operating-income.md), [FFO](../../glossary/alternatives/ffo.md), [illiquidity](../../glossary/markets/illiquidity.md), [return of capital](../../glossary/stocks/return-of-capital.md).

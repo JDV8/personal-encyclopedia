@@ -79,4 +79,4 @@ flowchart TB
 
 - Next: [measuring performance](08-measuring-performance.md).
 - Related: [active versus passive investing](05-active-versus-passive-investing.md), [other valuation ratios](../03-securities/01-stocks/07-other-valuation-ratios.md).
-- Glossary: [[g:factor|factor]], [[g:fama-french|Fama–French model]], [[g:value-investing|value investing]], [[g:size-premium|size premium]], [[g:momentum|momentum]], [[g:smart-beta|smart beta]], [[g:low-volatility|low volatility]].
+- Glossary: [factor](../glossary/portfolio-theory/factor.md), [Fama–French model](../glossary/portfolio-theory/fama-french.md), [value investing](../glossary/portfolio-theory/value-investing.md), [size premium](../glossary/portfolio-theory/size-premium.md), [momentum](../glossary/portfolio-theory/momentum.md), [smart beta](../glossary/portfolio-theory/smart-beta.md), [low volatility](../glossary/portfolio-theory/low-volatility.md).

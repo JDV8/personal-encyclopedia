@@ -80,4 +80,4 @@ flowchart LR
 
 - Next: [the efficient frontier](02-the-efficient-frontier.md).
 - Related: [risk and return](../01-foundations/10-risk-and-return.md), [asset allocation](06-asset-allocation-and-rebalancing.md).
-- Glossary: [[g:portfolio|portfolio]], [[g:modern-portfolio-theory|modern portfolio theory]], [[g:covariance|covariance]], [[g:correlation|correlation]], [[g:diversification|diversification]], [[g:systematic-risk|systematic risk]], [[g:idiosyncratic-risk|idiosyncratic risk]].
+- Glossary: [portfolio](../glossary/portfolio-theory/portfolio.md), [modern portfolio theory](../glossary/portfolio-theory/modern-portfolio-theory.md), [covariance](../glossary/portfolio-theory/covariance.md), [correlation](../glossary/foundations/correlation.md), [diversification](../glossary/foundations/diversification.md), [systematic risk](../glossary/foundations/systematic-risk.md), [idiosyncratic risk](../glossary/foundations/idiosyncratic-risk.md).

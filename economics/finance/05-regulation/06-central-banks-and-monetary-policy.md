@@ -73,4 +73,4 @@ flowchart LR
 
 - Next: [portfolio theory](../06-portfolio-theory/01-portfolio-return-and-risk.md).
 - Related: [history of markets and crises](../08-history/README.md), [the yield curve](../03-securities/02-bonds/09-the-yield-curve.md).
-- Glossary: [[g:central-bank|central bank]], [[g:policy-rate|policy rate]], [[g:lender-of-last-resort|lender of last resort]], [[g:quantitative-easing|quantitative easing]], [[g:overnight-rate|overnight rate]], [[g:monetary-policy|monetary policy]], [[g:inflation-targeting|inflation targeting]].
+- Glossary: [central bank](../glossary/regulation/central-bank.md), [policy rate](../glossary/regulation/policy-rate.md), [lender of last resort](../glossary/regulation/lender-of-last-resort.md), [quantitative easing](../glossary/regulation/quantitative-easing.md), [overnight rate](../glossary/regulation/overnight-rate.md), [monetary policy](../glossary/regulation/monetary-policy.md), [inflation targeting](../glossary/regulation/inflation-targeting.md).

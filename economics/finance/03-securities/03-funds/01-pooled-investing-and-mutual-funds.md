@@ -70,4 +70,4 @@ flowchart LR
 
 - Next: [exchange-traded funds](02-exchange-traded-funds.md), then [index funds](03-index-funds.md).
 - Related: [portfolio theory](../../06-portfolio-theory/README.md), [costs and choosing a platform](../../09-personal-investing-canada/08-costs-brokers-and-choosing-a-platform.md).
-- Glossary: [[g:mutual-fund|mutual fund]], [[g:net-asset-value|net asset value]], [[g:open-end-fund|open-end fund]], [[g:target-date-fund|target-date fund]], [[g:segregated-fund|segregated fund]], [[g:custodian|custodian]].
+- Glossary: [mutual fund](../../glossary/funds/mutual-fund.md), [net asset value](../../glossary/funds/net-asset-value.md), [open-end fund](../../glossary/funds/open-end-fund.md), [target-date fund](../../glossary/funds/target-date-fund.md), [segregated fund](../../glossary/funds/segregated-fund.md), [custodian](../../glossary/funds/custodian.md).

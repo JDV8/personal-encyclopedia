@@ -65,4 +65,4 @@ flowchart LR
 
 - Next: [swaps and credit derivatives](06-swaps-and-credit-derivatives.md).
 - Related: [capital structure and cost of capital](../../02-firms-and-capital/08-capital-structure-and-cost-of-capital.md), [CAPM and beta](../../06-portfolio-theory/03-capm-and-beta.md).
-- Glossary: [[g:black-scholes|Black–Scholes]], [[g:implied-volatility|implied volatility]], [[g:vix|VIX]], [[g:risk-neutral-valuation|risk-neutral valuation]], [[g:replication|replication]], [[g:volatility-smile|volatility smile]], [[g:real-option|real option]].
+- Glossary: [Black–Scholes](../../glossary/derivatives/black-scholes.md), [implied volatility](../../glossary/derivatives/implied-volatility.md), [VIX](../../glossary/portfolio-theory/vix.md), [risk-neutral valuation](../../glossary/derivatives/risk-neutral-valuation.md), [replication](../../glossary/derivatives/replication.md), [volatility smile](../../glossary/derivatives/volatility-smile.md), [real option](../../glossary/derivatives/real-option.md).

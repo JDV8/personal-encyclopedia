@@ -73,4 +73,4 @@ flowchart TB
 
 - Next: [CAPM and beta](03-capm-and-beta.md).
 - Related: [the Sharpe ratio and performance measurement](08-measuring-performance.md), [asset allocation](06-asset-allocation-and-rebalancing.md).
-- Glossary: [[g:efficient-frontier|efficient frontier]], [[g:sharpe-ratio|Sharpe ratio]], [[g:tangency-portfolio|tangency portfolio]], [[g:capital-allocation-line|capital allocation line]], [[g:market-portfolio|market portfolio]], [[g:minimum-variance-portfolio|minimum-variance portfolio]].
+- Glossary: [efficient frontier](../glossary/portfolio-theory/efficient-frontier.md), [Sharpe ratio](../glossary/portfolio-theory/sharpe-ratio.md), [tangency portfolio](../glossary/portfolio-theory/tangency-portfolio.md), [capital allocation line](../glossary/portfolio-theory/capital-allocation-line.md), [market portfolio](../glossary/portfolio-theory/market-portfolio.md), [minimum-variance portfolio](../glossary/portfolio-theory/minimum-variance-portfolio.md).

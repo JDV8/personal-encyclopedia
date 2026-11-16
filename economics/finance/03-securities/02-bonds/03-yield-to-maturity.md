@@ -66,4 +66,4 @@ flowchart LR
 
 - Next: [the price–yield relationship](04-the-price-yield-relationship.md).
 - Related: [credit risk and spreads](06-credit-risk-and-ratings.md), [the yield curve](09-the-yield-curve.md).
-- Glossary: [[g:yield-to-maturity|yield to maturity]], [[g:current-yield|current yield]], [[g:basis-point|basis point]], [[g:yield-to-call|yield to call]], [[g:reinvestment-risk|reinvestment risk]], [[g:credit-spread|credit spread]].
+- Glossary: [yield to maturity](../../glossary/bonds/yield-to-maturity.md), [current yield](../../glossary/bonds/current-yield.md), [basis point](../../glossary/bonds/basis-point.md), [yield to call](../../glossary/bonds/yield-to-call.md), [reinvestment risk](../../glossary/bonds/reinvestment-risk.md), [credit spread](../../glossary/bonds/credit-spread.md).

@@ -1,6 +1,6 @@
 # What a security is
 
-**Prerequisites:** [Equity and debt](equity-and-debt.md).
+**Prerequisites:** [Equity and debt](03-equity-and-debt.md).
 
 ![A stock certificate of the Chicago, Burlington & Quincy Railroad: a security is a tradable piece of paper (now an electronic record) representing a financial claim](images/07-what-is-a-security.jpg)
 
@@ -67,5 +67,5 @@ When a company first sells a security to investors, raising new money, that is a
 
 ## Where this leads
 
-- Next: [capital structure and cost of capital](capital-structure-and-cost-of-capital.md), then the [securities section](../03-securities/README.md).
-- Glossary: [[g:security|security]], [[g:securitization|securitization]], [[g:liquidity|liquidity]], [[g:primary-market|primary market]], [[g:secondary-market|secondary market]].
+- Next: [capital structure and cost of capital](08-capital-structure-and-cost-of-capital.md), then the [securities section](../03-securities/README.md).
+- Glossary: [security](../glossary/firms-and-accounting/security.md), [securitization](../glossary/firms-and-accounting/securitization.md), [liquidity](../glossary/firms-and-accounting/liquidity.md), [primary market](../glossary/markets/primary-market.md), [secondary market](../glossary/markets/secondary-market.md).

@@ -77,4 +77,4 @@ flowchart LR
 
 - Next: [prospect theory and loss aversion](02-prospect-theory-and-loss-aversion.md).
 - Related: [measuring performance](../06-portfolio-theory/08-measuring-performance.md), [the history of manias](../08-history/README.md).
-- Glossary: [[g:behavioral-finance|behavioural finance]], [[g:heuristic|heuristic]], [[g:expected-utility|expected utility]], [[g:limits-to-arbitrage|limits to arbitrage]], [[g:nudge|nudge]], [[g:disposition-effect|disposition effect]], [[g:home-bias|home bias]].
+- Glossary: [behavioural finance](../glossary/behavioural-finance/behavioral-finance.md), [heuristic](../glossary/behavioural-finance/heuristic.md), [expected utility](../glossary/behavioural-finance/expected-utility.md), [limits to arbitrage](../glossary/behavioural-finance/limits-to-arbitrage.md), [nudge](../glossary/behavioural-finance/nudge.md), [disposition effect](../glossary/behavioural-finance/disposition-effect.md), [home bias](../glossary/portfolio-theory/home-bias.md).

@@ -65,4 +65,4 @@ flowchart LR
 
 - Next: [common and preferred shares](02-common-and-preferred-shares.md), then [dividends](03-dividends.md).
 - Related: [the corporation](../../02-firms-and-capital/02-limited-liability-and-the-corporation.md), [IPOs](../../04-markets/02-ipos-and-the-primary-market.md).
-- Glossary: [[g:share|share]], [[g:shares-outstanding|shares outstanding]], [[g:market-capitalization|market capitalization]], [[g:dilution|dilution]], [[g:total-return|total return]], [[g:dual-class-shares|dual-class shares]].
+- Glossary: [share](../../glossary/stocks/share.md), [shares outstanding](../../glossary/stocks/shares-outstanding.md), [market capitalization](../../glossary/stocks/market-capitalization.md), [dilution](../../glossary/markets/dilution.md), [total return](../../glossary/markets/total-return.md), [dual-class shares](../../glossary/stocks/dual-class-shares.md).

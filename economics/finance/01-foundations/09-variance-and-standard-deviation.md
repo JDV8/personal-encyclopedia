@@ -1,6 +1,6 @@
 # Variance and standard deviation
 
-**Prerequisites:** [Probability and expected value](probability-and-expected-value.md).
+**Prerequisites:** [Probability and expected value](08-probability-and-expected-value.md).
 
 ![A Galton board before and after: many small random shocks pile up into a bell-shaped distribution](images/09-variance-and-standard-deviation.jpg)
 
@@ -38,7 +38,7 @@ If annual stock returns were normal with a mean of 8% and a volatility of 20%, t
 
 ## Standard deviation as a measure of risk: strengths and critiques
 
-Why use σ as risk? It is simple, additive in a clever way (as the [diversification lesson](correlation-and-diversification.md) shows), and it is the foundation of [modern portfolio theory](../06-portfolio-theory/01-portfolio-return-and-risk.md). Critics point out that it treats upside surprises and downside surprises alike, whereas investors dislike only the latter, and that it says nothing about the chance of permanent loss. A bond that defaults and a stock that merely fluctuates can have similar σ in a calm year. Think of volatility as a measure of *uncertainty of the path*, and keep a separate eye on the possibility of *permanent loss of capital*.
+Why use σ as risk? It is simple, additive in a clever way (as the [diversification lesson](11-correlation-and-diversification.md) shows), and it is the foundation of [modern portfolio theory](../06-portfolio-theory/01-portfolio-return-and-risk.md). Critics point out that it treats upside surprises and downside surprises alike, whereas investors dislike only the latter, and that it says nothing about the chance of permanent loss. A bond that defaults and a stock that merely fluctuates can have similar σ in a calm year. Think of volatility as a measure of *uncertainty of the path*, and keep a separate eye on the possibility of *permanent loss of capital*.
 
 ```mermaid
 flowchart LR
@@ -57,6 +57,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next: [risk and return](risk-and-return.md), then [correlation and diversification](correlation-and-diversification.md).
+- Next: [risk and return](10-risk-and-return.md), then [correlation and diversification](11-correlation-and-diversification.md).
 - Later: [portfolio return and risk](../06-portfolio-theory/01-portfolio-return-and-risk.md), [measuring performance](../06-portfolio-theory/08-measuring-performance.md).
-- Glossary: [[g:variance|variance]], [[g:standard-deviation|standard deviation]], [[g:volatility|volatility]], [[g:normal-distribution|normal distribution]], [[g:fat-tails|fat tails]].
+- Glossary: [variance](../glossary/foundations/variance.md), [standard deviation](../glossary/foundations/standard-deviation.md), [volatility](../glossary/foundations/volatility.md), [normal distribution](../glossary/foundations/normal-distribution.md), [fat tails](../glossary/foundations/fat-tails.md).

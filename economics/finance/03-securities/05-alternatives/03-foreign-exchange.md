@@ -70,4 +70,4 @@ flowchart LR
 
 - Next: [cryptoassets](04-cryptoassets.md).
 - Related: [Bretton Woods and the postwar order](../../08-history/08-bretton-woods-and-the-postwar-order.md), [central banks and monetary policy](../../05-regulation/06-central-banks-and-monetary-policy.md).
-- Glossary: [[g:exchange-rate|exchange rate]], [[g:spot-rate|spot rate]], [[g:reserve-currency|reserve currency]], [[g:purchasing-power-parity|purchasing power parity]], [[g:interest-rate-parity|interest rate parity]], [[g:carry-trade|carry trade]], [[g:currency-hedging|currency hedging]].
+- Glossary: [exchange rate](../../glossary/alternatives/exchange-rate.md), [spot rate](../../glossary/bonds/spot-rate.md), [reserve currency](../../glossary/history/reserve-currency.md), [purchasing power parity](../../glossary/alternatives/purchasing-power-parity.md), [interest rate parity](../../glossary/alternatives/interest-rate-parity.md), [carry trade](../../glossary/alternatives/carry-trade.md), [currency hedging](../../glossary/alternatives/currency-hedging.md).

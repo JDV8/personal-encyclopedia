@@ -62,4 +62,4 @@ flowchart LR
 
 - Next: [the Mississippi and South Sea bubbles](04-the-mississippi-and-south-sea-bubbles.md).
 - Related: [herding, bubbles and manias](../07-behavioural-finance/04-herding-bubbles-and-manias.md), [forwards and futures](../03-securities/04-derivatives/02-forwards-and-futures.md).
-- Glossary: [[g:tulip-mania|tulip mania]], [[g:windhandel|windhandel]], [[g:speculative-bubble|speculative bubble]], [[g:futures-contract|futures contract]], [[g:fundamental-value|fundamental value]], [[g:leverage|leverage]].
+- Glossary: [tulip mania](../glossary/history/tulip-mania.md), [windhandel](../glossary/history/windhandel.md), [speculative bubble](../glossary/behavioural-finance/speculative-bubble.md), [futures contract](../glossary/derivatives/futures-contract.md), [fundamental value](../glossary/history/fundamental-value.md), [leverage](../glossary/firms-and-accounting/leverage.md).
