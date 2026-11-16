@@ -1,0 +1,7 @@
+# Sacrifice and atonement
+
+Sacrifice, in the Torah, is the ordered offering of animals, grain, and incense at the sanctuary: burnt offerings, well-being offerings, purification and reparation offerings, and the great rite of the Day of Atonement in [Leviticus](../../old-testament/books/law-torah/leviticus.md) 16. Atonement (*kippur*) is the covering or purging of guilt and uncleanness so that a holy God can dwell with a people. The system is a grammar, not a single theory.
+
+The prophets can attack sacrifice that is detached from justice (Amos, Isaiah, Micah, Jeremiah) without, in most cases, abolishing the cult. After the temple's destruction, Jews and Christians both had to say how atonement and worship continue. [Hebrews](../../new-testament/books/general-epistles/hebrews.md) reads Jesus' death as a once-for-all offering in a heavenly sanctuary. Paul speaks of blood, of a mercy seat, of reconciliation. The Gospels time the death in relation to [Passover](../terms/passover.md). Later doctrines (satisfaction, substitution, victory, moral influence) are attempts to systematize that language. They should not be treated as if one of them were simply "the" biblical theory, and they should not be used to sneer at the Levitical grammar they reread.
+
+**See also:** [Priest](../terms/priest.md), [Temple](temple.md), [Passover](../terms/passover.md), [Crucifixion](../terms/crucifixion.md), [Leviticus](../../old-testament/books/law-torah/leviticus.md)
