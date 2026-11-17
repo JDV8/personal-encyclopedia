@@ -8,7 +8,7 @@
 
 ![Workers on the Ford moving assembly line, 1913](images/06-specialization-and-division-of-labour-2.jpg)
 
-*Workers on the Ford moving assembly line, 1913. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Ford assembly line - 1913.jpg](https://commons.wikimedia.org/wiki/File:Ford_assembly_line_-_1913.jpg).*
+*Workers on the Ford moving assembly line, 1913. Credit: Unknown author. License: Public domain. Source: [File:Ford assembly line - 1913.jpg](https://commons.wikimedia.org/wiki/File:Ford_assembly_line_-_1913.jpg).*
 
 Imagine having to grow your own food, sew your own clothes, build your own house and make your own phone. You would be very poor. The wealth of modern economies rests on **specialization**: people concentrate on a narrow range of tasks and obtain everything else by trade. Adam Smith opened *The Wealth of Nations* (1776) with this idea, and it remains the starting point for understanding why markets exist at all.
 

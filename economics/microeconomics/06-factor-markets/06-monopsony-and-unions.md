@@ -4,7 +4,7 @@
 
 ![Russellton, Pennsylvania, a town inhabited by employees of the Republic Collieries Company: in a company town, one employer dominates the labour market](images/06-monopsony-and-unions.jpg)
 
-*Russellton, Pennsylvania, a town inhabited by employees of the Republic Collieries Company: in a company town, one employer dominates the labour market. Credit: Unknown authorUnknown author or not provided. License: Public domain. Source: [File:Industries of War - Mining - Coal - Town inhabited by employees of Republic Collieries Company, Russellton, Pennsylvania - NARA - 45488520.jpg](https://commons.wikimedia.org/wiki/File:Industries_of_War_-_Mining_-_Coal_-_Town_inhabited_by_employees_of_Republic_Collieries_Company,_Russellton,_Pennsylvania_-_NARA_-_45488520.jpg).*
+*Russellton, Pennsylvania, a town inhabited by employees of the Republic Collieries Company: in a company town, one employer dominates the labour market. Credit: Unknown author or not provided. License: Public domain. Source: [File:Industries of War - Mining - Coal - Town inhabited by employees of Republic Collieries Company, Russellton, Pennsylvania - NARA - 45488520.jpg](https://commons.wikimedia.org/wiki/File:Industries_of_War_-_Mining_-_Coal_-_Town_inhabited_by_employees_of_Republic_Collieries_Company,_Russellton,_Pennsylvania_-_NARA_-_45488520.jpg).*
 
 The competitive model assumes many employers compete for workers, so no single employer can set the wage. But in some labour markets, employers do have wage-setting power. And workers often bargain collectively through unions. This lesson analyses both.
 

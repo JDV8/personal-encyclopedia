@@ -4,7 +4,7 @@
 
 ![Antoine Augustin Cournot (1801–1877), who in 1838 first stated profit maximisation using marginal revenue and marginal cost](images/09-profit-maximization.jpg)
 
-*Antoine Augustin Cournot (1801–1877), who in 1838 first stated profit maximisation using marginal revenue and marginal cost. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Antoine Augustin Cournot.jpg](https://commons.wikimedia.org/wiki/File:Antoine_Augustin_Cournot.jpg).*
+*Antoine Augustin Cournot (1801–1877), who in 1838 first stated profit maximisation using marginal revenue and marginal cost. Credit: Unknown author. License: Public domain. Source: [File:Antoine Augustin Cournot.jpg](https://commons.wikimedia.org/wiki/File:Antoine_Augustin_Cournot.jpg).*
 
 The firm has costs. It also has revenue, which depends on how much it sells and at what price. Profit maximization combines the two. The rule is the same for every kind of firm, from a wheat farmer to a monopolist: **produce the quantity at which marginal revenue equals marginal cost**. What differs between market structures is what marginal revenue looks like.
 

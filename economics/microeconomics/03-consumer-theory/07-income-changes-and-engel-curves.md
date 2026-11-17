@@ -4,7 +4,7 @@
 
 ![Ernst Engel (1821–1896), the statistician who found that the share of income spent on food falls as income rises](images/07-income-changes-and-engel-curves.jpg)
 
-*Ernst Engel (1821–1896), the statistician who found that the share of income spent on food falls as income rises. Credit: The original uploader was Goerdten at German Wikipedia.. License: Public domain. Source: [File:Ernst Engel.jpg](https://commons.wikimedia.org/wiki/File:Ernst_Engel.jpg).*
+*Ernst Engel (1821–1896), the statistician who found that the share of income spent on food falls as income rises. Credit: The original uploader was Goerdten at German Wikipedia. License: Public domain. Source: [File:Ernst Engel.jpg](https://commons.wikimedia.org/wiki/File:Ernst_Engel.jpg).*
 
 What happens to a consumer's choices when income rises but prices stay the same? The budget line shifts outward in parallel, and the optimal bundle moves. Tracing those moves gives two useful curves: the **income-consumption curve** and the **Engel curve**.
 

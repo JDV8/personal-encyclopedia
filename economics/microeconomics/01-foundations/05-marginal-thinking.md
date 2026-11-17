@@ -4,7 +4,7 @@
 
 ![William Stanley Jevons in 1858; in 1871 he helped launch marginal analysis in economics](images/05-marginal-thinking.jpg)
 
-*William Stanley Jevons in 1858; in 1871 he helped launch marginal analysis in economics. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:William Stanley Jevons 1858.jpg](https://commons.wikimedia.org/wiki/File:William_Stanley_Jevons_1858.jpg).*
+*William Stanley Jevons in 1858; in 1871 he helped launch marginal analysis in economics. Credit: Unknown author. License: Public domain. Source: [File:William Stanley Jevons 1858.jpg](https://commons.wikimedia.org/wiki/File:William_Stanley_Jevons_1858.jpg).*
 
 Most real decisions are not "all or nothing" but "a little more or a little less". Should the café stay open one more hour? Should you study one more chapter? Should a farmer add one more bag of fertiliser? Economists call these **marginal** decisions, from the Latin *margo*, edge. Thinking at the margin is the main analytical tool of microeconomics.
 

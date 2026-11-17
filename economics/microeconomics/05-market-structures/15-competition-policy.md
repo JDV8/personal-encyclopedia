@@ -4,7 +4,7 @@
 
 ![A 1911 cartoon depicting the trusts' opposition to the Sherman Antitrust Act, the 1890 law used to break up Standard Oil that year](images/15-competition-policy.jpg)
 
-*A 1911 cartoon depicting the trusts' opposition to the Sherman Antitrust Act, the 1890 law used to break up Standard Oil that year. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Sherman Antitrust Act 09 21 1911.jpg](https://commons.wikimedia.org/wiki/File:Sherman_Antitrust_Act_09_21_1911.jpg).*
+*A 1911 cartoon depicting the trusts' opposition to the Sherman Antitrust Act, the 1890 law used to break up Standard Oil that year. Credit: Unknown author. License: Public domain. Source: [File:Sherman Antitrust Act 09 21 1911.jpg](https://commons.wikimedia.org/wiki/File:Sherman_Antitrust_Act_09_21_1911.jpg).*
 
 If monopoly and collusion reduce total surplus, what should governments do? **Competition policy**, called **antitrust** in the United States, is the body of law and enforcement that aims to keep markets competitive. It targets three main problems: agreements between competitors, abuse of dominant positions, and mergers that substantially lessen competition.
 

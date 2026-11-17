@@ -4,7 +4,7 @@
 
 ![Joseph Bertrand (1822–1900), the French mathematician who argued in 1883 that firms compete on price](images/13-cournot-bertrand-and-stackelberg.jpg)
 
-*Joseph Bertrand (1822–1900), the French mathematician who argued in 1883 that firms compete on price. Credit: The original uploader was Kelson at French Wikipedia.. License: Public domain. Source: [File:Joseph bertrand.jpg](https://commons.wikimedia.org/wiki/File:Joseph_bertrand.jpg).*
+*Joseph Bertrand (1822–1900), the French mathematician who argued in 1883 that firms compete on price. Credit: The original uploader was Kelson at French Wikipedia. License: Public domain. Source: [File:Joseph bertrand.jpg](https://commons.wikimedia.org/wiki/File:Joseph_bertrand.jpg).*
 
 How exactly do oligopolists compete? Three classic models give different answers depending on what firms choose (quantities or prices) and when they choose it (simultaneously or in sequence). Each is a Nash equilibrium of a different game, and comparing them shows how much the details of competition matter.
 

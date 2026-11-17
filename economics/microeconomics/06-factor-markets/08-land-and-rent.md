@@ -4,7 +4,7 @@
 
 ![Henry George in about 1885; his Progress and Poverty (1879) argued for a single tax on land values](images/08-land-and-rent.jpg)
 
-*Henry George in about 1885; his Progress and Poverty (1879) argued for a single tax on land values. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Henry George c1885 retouched.jpg](https://commons.wikimedia.org/wiki/File:Henry_George_c1885_retouched.jpg).*
+*Henry George in about 1885; his Progress and Poverty (1879) argued for a single tax on land values. Credit: Unknown author. License: Public domain. Source: [File:Henry George c1885 retouched.jpg](https://commons.wikimedia.org/wiki/File:Henry_George_c1885_retouched.jpg).*
 
 Land is the factor of production whose total supply is, to a first approximation, fixed. Nobody produces more of downtown Vancouver or more acres of the Prairies. That simple fact gives land prices and land taxes special properties, and it gave rise to one of the most important ideas in economics: **economic rent**.
 

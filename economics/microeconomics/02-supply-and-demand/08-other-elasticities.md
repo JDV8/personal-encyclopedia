@@ -4,7 +4,7 @@
 
 ![Engel curves: how the quantity demanded of a good changes as income rises, for normal and inferior goods](images/08-other-elasticities.jpg)
 
-*Engel curves: how the quantity demanded of a good changes as income rises, for normal and inferior goods. Credit: The original uploader was Artinger at English Wikibooks.. License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Source: [File:Engel Curve.jpg](https://commons.wikimedia.org/wiki/File:Engel_Curve.jpg).*
+*Engel curves: how the quantity demanded of a good changes as income rises, for normal and inferior goods. Credit: The original uploader was Artinger at English Wikibooks. License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Source: [File:Engel Curve.jpg](https://commons.wikimedia.org/wiki/File:Engel_Curve.jpg).*
 
 Elasticity is a general tool: the percentage response of one variable to a percentage change in another. The price elasticity of demand is the most famous, but three others are used constantly.
 

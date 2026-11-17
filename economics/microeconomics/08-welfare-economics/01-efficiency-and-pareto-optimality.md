@@ -4,7 +4,7 @@
 
 ![Vilfredo Pareto in the 1870s; his name is attached to the central efficiency standard in welfare economics](images/01-efficiency-and-pareto-optimality.jpg)
 
-*Vilfredo Pareto in the 1870s; his name is attached to the central efficiency standard in welfare economics. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Vilfredo Pareto 1870s2.jpg](https://commons.wikimedia.org/wiki/File:Vilfredo_Pareto_1870s2.jpg).*
+*Vilfredo Pareto in the 1870s; his name is attached to the central efficiency standard in welfare economics. Credit: Unknown author. License: Public domain. Source: [File:Vilfredo Pareto 1870s2.jpg](https://commons.wikimedia.org/wiki/File:Vilfredo_Pareto_1870s2.jpg).*
 
 **Welfare economics** is the branch of economics that evaluates outcomes: is one allocation of resources better than another? To answer, economists need a standard. The most widely used is **Pareto efficiency**, named after the Italian economist [[vilfredo-pareto|Vilfredo Pareto]], who developed it in his *Manual of Political Economy* (1906).
 
