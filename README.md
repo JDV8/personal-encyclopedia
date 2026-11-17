@@ -39,6 +39,18 @@ personal-encyclopedia/
         greek-and-chinese-compared.md
       imperial/        Song-Ming Confucian bridges (Zhu Xi, Wang Yangming)
   economics/
+    microeconomics/    105 lessons in 10 sections, 16 thinkers, a 345-entry glossary
+      01-foundations/  Scarcity, opportunity cost, marginal thinking, trade
+      02-supply-and-demand/   Equilibrium, elasticity, surplus, controls, taxes
+      03-consumer-theory/     Utility, indifference curves, income and substitution effects
+      04-producer-theory/     Production, cost curves, scale, profit maximisation
+      05-market-structures/   Competition, monopoly, oligopoly, game theory
+      06-factor-markets/      Labour, capital, land, inequality
+      07-market-failure/      Externalities, public goods, commons, information
+      08-welfare-economics/   Pareto, general equilibrium, equity, social choice, CBA
+      09-behavioural-economics/   Biases, prospect theory, nudges, critiques
+      10-history-of-thought/  Aristotle to the present, plus thinkers/
+      glossary/        Flat A to Z glossary
     finance/           102 lessons in 9 sections, plus a 583-entry glossary
       01-foundations/  Money, interest, time value, probability, risk
       02-firms-and-capital/   Companies, equity and debt, financial statements
@@ -65,7 +77,7 @@ Start here:
 
 1. [Philosophy](philosophy/README.md) — what the discipline is, and the five branches that structure later questions.
 2. [Ancient philosophy](philosophy/history/ancient/README.md) — then either the [Greek](philosophy/history/ancient/greek/README.md) or [Chinese](philosophy/history/ancient/chinese/README.md) path, and the [comparison](philosophy/history/ancient/greek-and-chinese-compared.md) after both.
-3. [Economics](economics/README.md) — currently the [finance course](economics/finance/README.md) (time value, stocks, bonds, funds, derivatives, markets, regulation, portfolios, behaviour, history, investing in Canada) and its [glossary](economics/finance/glossary/README.md).
+3. [Economics](economics/README.md) — the [microeconomics course](economics/microeconomics/README.md) (scarcity, supply and demand, consumer and producer theory, market structures and game theory, market failure, welfare, behavioural economics, history of thought) and its [glossary](economics/microeconomics/glossary/README.md), then the [finance course](economics/finance/README.md) (time value, stocks, bonds, funds, derivatives, markets, regulation, portfolios, behaviour, history, investing in Canada) and its [glossary](economics/finance/glossary/README.md).
 4. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), its [book overviews](religion/abrahamic/christianity/bible/old-testament/books/README.md), and the [glossary](religion/abrahamic/christianity/bible/glossary/README.md).
 
 Future topics should be added as new branches of this tree (for example `engineering/mechanical/…`), not as loose files at the root.
@@ -76,4 +88,5 @@ Future topics should be added as new branches of this tree (for example `enginee
 - Julia Annas, *Ancient Philosophy: A Very Short Introduction* (Beginner). A first book for the Greek side of the philosophy branch.
 - Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (Beginner). A first book for the Chinese side.
 - John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). A careful, readable overview of how the biblical library formed.
+- N. Gregory Mankiw, *Principles of Microeconomics* (Beginner). A first book for the microeconomics course.
 - Burton G. Malkiel, *A Random Walk Down Wall Street* (Beginner). A first book for the finance branch under economics.
