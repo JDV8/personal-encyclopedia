@@ -71,4 +71,4 @@ Engel curves describe the **income effect** on demand. When the price of a good 
 ## Where this leads
 
 - Next: [income and substitution effects](08-income-and-substitution-effects.md).
-- Glossary: [[g:engel-curve|Engel curve]], [[g:engels-law|Engel's law]], [[g:normal-good|normal good]], [[g:luxury-good|luxury good]].
+- Glossary: [Engel curve](../glossary/engel-curve.md), [Engel's law](../glossary/engels-law.md), [normal good](../glossary/normal-good.md), [luxury good](../glossary/luxury-good.md).

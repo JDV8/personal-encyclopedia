@@ -1,6 +1,6 @@
 # Monopoly
 
-**Prerequisites:** [[profit-maximization|Profit maximization]], [[perfect-competition|Perfect competition]].
+**Prerequisites:** [Profit maximization](../04-producer-theory/09-profit-maximization.md), [Perfect competition](01-perfect-competition.md).
 
 !["Next!", a 1904 Puck cartoon by Udo Keppler showing Standard Oil as an octopus with its tentacles around industry and government](images/04-monopoly.jpg)
 
@@ -17,13 +17,13 @@ A monopoly can persist only if something stops other firms entering. These **bar
    - **Patents** grant inventors exclusive rights for a limited time, typically 20 years from filing. Pharmaceutical companies hold monopolies on new drugs this way.
    - **Copyrights** protect books, music, films and software.
    - **Government licences and franchises**: for example, a single provincially authorised liquor retailer, or a postal monopoly on certain letters.
-3. **Economies of scale.** When one firm can supply the whole market more cheaply than two or more, the industry is a **natural monopoly** (see [[natural-monopoly-and-regulation|natural monopoly and regulation]]).
+3. **Economies of scale.** When one firm can supply the whole market more cheaply than two or more, the industry is a **natural monopoly** (see [natural monopoly and regulation](07-natural-monopoly-and-regulation.md)).
 4. **Network effects.** When a product becomes more valuable as more people use it, the market can "tip" to a dominant firm. Operating systems, social networks and online marketplaces show this pattern.
-5. **Strategic behaviour.** Incumbents may deter entry by threatening price wars, building excess capacity or tying up distribution channels. Many such tactics are restricted by [[competition-policy|competition law]].
+5. **Strategic behaviour.** Incumbents may deter entry by threatening price wars, building excess capacity or tying up distribution channels. Many such tactics are restricted by [competition law](15-competition-policy.md).
 
 ## Monopoly and marginal revenue
 
-Because the monopolist faces the market demand curve, it must lower its price to sell more. As shown in [[profit-maximization|profit maximization]], this makes **marginal revenue less than price**. For a straight-line demand curve P = a − bQ, MR = a − 2bQ.
+Because the monopolist faces the market demand curve, it must lower its price to sell more. As shown in [profit maximization](../04-producer-theory/09-profit-maximization.md), this makes **marginal revenue less than price**. For a straight-line demand curve P = a − bQ, MR = a − 2bQ.
 
 ## The monopolist's choice
 
@@ -72,5 +72,5 @@ Monopoly produces less and charges more than competition, causing a deadweight l
 
 ## Where this leads
 
-- Next: [[monopoly-pricing-and-deadweight-loss|monopoly pricing and deadweight loss]].
-- Glossary: [[g:monopoly|monopoly]], [[g:barriers-to-entry|barriers to entry]], [[g:market-power|market power]], [[g:patent|patent]].
+- Next: [monopoly pricing and deadweight loss](05-monopoly-pricing-and-deadweight-loss.md).
+- Glossary: [monopoly](../glossary/monopoly.md), [barriers to entry](../glossary/barriers-to-entry.md), [market power](../glossary/market-power.md), [patent](../glossary/patent.md).

@@ -1,6 +1,6 @@
 # Nash equilibrium
 
-**Prerequisites:** [[game-theory-basics|Game theory basics]].
+**Prerequisites:** [Game theory basics](10-game-theory-basics.md).
 
 ![John Forbes Nash Jr. in 2006](images/11-nash-equilibrium.jpg)
 
@@ -50,7 +50,7 @@ Some games have no equilibrium in **pure** strategies (choosing one option for c
 
 ## Nash equilibrium need not be efficient
 
-The coffee game shows that a Nash equilibrium can leave everyone worse off than another outcome. (High, High) gives both players 50, but it is not an equilibrium: each would deviate to Low. Nash equilibrium is a prediction about stable behaviour, not a statement that the outcome is good. This gap between individual rationality and collective benefit lies behind cartels' instability, overfishing, arms races and many other problems in [[prisoners-dilemma-and-cartels|the prisoner's dilemma]] and [[common-resources|common resources]].
+The coffee game shows that a Nash equilibrium can leave everyone worse off than another outcome. (High, High) gives both players 50, but it is not an equilibrium: each would deviate to Low. Nash equilibrium is a prediction about stable behaviour, not a statement that the outcome is good. This gap between individual rationality and collective benefit lies behind cartels' instability, overfishing, arms races and many other problems in [the prisoner's dilemma](12-prisoners-dilemma-and-cartels.md) and [common resources](../07-market-failure/09-common-resources.md).
 
 ## Nash equilibrium in markets
 
@@ -60,13 +60,13 @@ Many market models are Nash equilibria:
 - In the **Bertrand model**, each firm chooses price as a best response to rivals' prices.
 - Even **perfect competition** can be seen as a Nash equilibrium in which each tiny firm's best response is to produce where price equals marginal cost.
 
-These are developed in [[cournot-bertrand-and-stackelberg|Cournot, Bertrand and Stackelberg]].
+These are developed in [Cournot, Bertrand and Stackelberg](13-cournot-bertrand-and-stackelberg.md).
 
 ## Refinements and critiques
 
 When games have many Nash equilibria, economists use **refinements** to rule out implausible ones. Reinhard Selten's **subgame perfect equilibrium** rules out non-credible threats in sequential games. John Harsanyi extended game theory to situations where players have private information (**Bayesian games**). Nash, Selten and Harsanyi shared the 1994 Nobel memorial prize.
 
-Critics note that Nash equilibrium assumes players are rational and expect others to be rational too. In experiments, play in novel games often departs from Nash predictions at first and moves toward them with experience. Models of **level-k thinking**, where people reason only a few steps about what others will do, and **learning** models describe this better in some settings. See [[bounded-rationality|bounded rationality]].
+Critics note that Nash equilibrium assumes players are rational and expect others to be rational too. In experiments, play in novel games often departs from Nash predictions at first and moves toward them with experience. Models of **level-k thinking**, where people reason only a few steps about what others will do, and **learning** models describe this better in some settings. See [bounded rationality](../09-behavioural-economics/02-bounded-rationality.md).
 
 ## Key ideas
 
@@ -78,6 +78,6 @@ Critics note that Nash equilibrium assumes players are rational and expect other
 
 ## Where this leads
 
-- Next: [[prisoners-dilemma-and-cartels|the prisoner's dilemma and cartels]].
-- Related: [[john-nash|John Nash]].
-- Glossary: [[g:nash-equilibrium|Nash equilibrium]], [[g:best-response|best response]], [[g:mixed-strategy|mixed strategy]], [[g:focal-point|focal point]].
+- Next: [the prisoner's dilemma and cartels](12-prisoners-dilemma-and-cartels.md).
+- Related: [John Nash](../10-history-of-thought/thinkers/14-john-nash.md).
+- Glossary: [Nash equilibrium](../glossary/nash-equilibrium.md), [best response](../glossary/best-response.md), [mixed strategy](../glossary/mixed-strategy.md), [focal point](../glossary/focal-point.md).

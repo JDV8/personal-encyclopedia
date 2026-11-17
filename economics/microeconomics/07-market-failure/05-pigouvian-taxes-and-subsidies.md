@@ -1,12 +1,12 @@
 # Pigouvian taxes and subsidies
 
-**Prerequisites:** [[negative-externalities-and-pollution|Negative externalities]], [[taxes-and-tax-incidence|Taxes and tax incidence]].
+**Prerequisites:** [Negative externalities](03-negative-externalities-and-pollution.md), [Taxes and tax incidence](../02-supply-and-demand/13-taxes-and-tax-incidence.md).
 
 ![Cameras enforcing London's congestion charge (introduced 2003), a Pigouvian-style price on road use](images/05-pigouvian-taxes-and-subsidies.jpg)
 
 *Cameras enforcing London's congestion charge (introduced 2003), a Pigouvian-style price on road use. Credit: Guppiefish. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Congestion charge cameras on Gower Street, London WC1.jpg](https://commons.wikimedia.org/wiki/File:Congestion_charge_cameras_on_Gower_Street,_London_WC1.jpg).*
 
-If the problem with pollution is that polluters do not pay for the damage they cause, one solution is obvious: make them pay. A tax on each unit of a harmful activity, set equal to the marginal external cost, makes the private cost equal the social cost. The idea is named after the Cambridge economist [[arthur-cecil-pigou|Arthur Cecil Pigou]], who developed it in *The Economics of Welfare* (1920).
+If the problem with pollution is that polluters do not pay for the damage they cause, one solution is obvious: make them pay. A tax on each unit of a harmful activity, set equal to the marginal external cost, makes the private cost equal the social cost. The idea is named after the Cambridge economist [Arthur Cecil Pigou](../10-history-of-thought/thinkers/10-arthur-cecil-pigou.md), who developed it in *The Economics of Welfare* (1920).
 
 ## How a Pigouvian tax works
 
@@ -22,7 +22,7 @@ flowchart LR
 
 ## Worked example
 
-From [[negative-externalities-and-pollution|the steel example]]: demand P = 120 − 0.8Q, supply P = 20 + 0.6Q, and marginal external cost of 24 per tonne.
+From [the steel example](03-negative-externalities-and-pollution.md): demand P = 120 − 0.8Q, supply P = 20 + 0.6Q, and marginal external cost of 24 per tonne.
 
 A tax of 24 per tonne makes supply P = 44 + 0.6Q. The new equilibrium is Q ≈ 54.3 thousand tonnes, the efficient quantity.
 
@@ -31,7 +31,7 @@ A tax of 24 per tonne makes supply P = 44 + 0.6Q. The new equilibrium is Q ≈ 5
 - Tax revenue ≈ 24 × 54.3 ≈ **1,303 thousand dollars**.
 - The deadweight loss of about 205 thousand dollars is eliminated.
 
-Unlike most taxes, which create deadweight loss by discouraging valuable trades (see [[deadweight-loss|deadweight loss]]), a correctly set Pigouvian tax **removes** a deadweight loss. It improves efficiency and raises revenue at the same time.
+Unlike most taxes, which create deadweight loss by discouraging valuable trades (see [deadweight loss](../02-supply-and-demand/14-deadweight-loss.md)), a correctly set Pigouvian tax **removes** a deadweight loss. It improves efficiency and raises revenue at the same time.
 
 ## The double dividend
 
@@ -58,7 +58,7 @@ For positive externalities, the mirror image applies: a subsidy per unit equal t
 
 ## Other "Pigouvian" taxes
 
-Taxes on tobacco, alcohol, sugary drinks and gambling are sometimes justified as Pigouvian, either because of externalities (health costs borne by public systems, second-hand smoke) or because people may harm themselves through self-control problems ("internalities"; see [[time-inconsistency-and-self-control|time inconsistency]]).
+Taxes on tobacco, alcohol, sugary drinks and gambling are sometimes justified as Pigouvian, either because of externalities (health costs borne by public systems, second-hand smoke) or because people may harm themselves through self-control problems ("internalities"; see [time inconsistency](../09-behavioural-economics/05-time-inconsistency-and-self-control.md)).
 
 ## Key ideas
 
@@ -69,6 +69,6 @@ Taxes on tobacco, alcohol, sugary drinks and gambling are sometimes justified as
 
 ## Where this leads
 
-- Next: [[coase-theorem|the Coase theorem]], which questions whether taxation is always needed.
-- Related: [[cap-and-trade-and-regulation|cap and trade]], a quantity-based alternative.
-- Glossary: [[g:pigouvian-tax|Pigouvian tax]], [[g:double-dividend|double dividend]], [[g:carbon-tax|carbon tax]].
+- Next: [the Coase theorem](06-coase-theorem.md), which questions whether taxation is always needed.
+- Related: [cap and trade](07-cap-and-trade-and-regulation.md), a quantity-based alternative.
+- Glossary: [Pigouvian tax](../glossary/pigouvian-tax.md), [double dividend](../glossary/double-dividend.md), [carbon tax](../glossary/carbon-tax.md).

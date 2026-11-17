@@ -43,7 +43,7 @@ If one good is "money for everything else", the MRS has a direct meaning: it is 
 
 ## Why MRS differs across people, and why that creates trade
 
-Two people with different tastes or different holdings will usually have different MRSs. Suppose Jo has lots of coffee and few muffins, so her MRS (muffins per coffee) is 0.5. Kai has the opposite, with MRS of 3. Jo would give up a coffee for anything over half a muffin; Kai would pay up to 3 muffins for a coffee. If Jo gives Kai a coffee in exchange for 1 muffin, both are better off. They should keep trading until their MRSs are equal. That condition, equal MRSs across people, is the definition of an efficient allocation in exchange, developed in [[general-equilibrium|general equilibrium]] with the Edgeworth box. When both face the same market prices and each sets MRS equal to the price ratio, their MRSs automatically equalise, which is one reason competitive markets can be efficient.
+Two people with different tastes or different holdings will usually have different MRSs. Suppose Jo has lots of coffee and few muffins, so her MRS (muffins per coffee) is 0.5. Kai has the opposite, with MRS of 3. Jo would give up a coffee for anything over half a muffin; Kai would pay up to 3 muffins for a coffee. If Jo gives Kai a coffee in exchange for 1 muffin, both are better off. They should keep trading until their MRSs are equal. That condition, equal MRSs across people, is the definition of an efficient allocation in exchange, developed in [general equilibrium](../08-welfare-economics/02-general-equilibrium.md) with the Edgeworth box. When both face the same market prices and each sets MRS equal to the price ratio, their MRSs automatically equalise, which is one reason competitive markets can be efficient.
 
 ## Special cases revisited
 
@@ -63,4 +63,4 @@ Two people with different tastes or different holdings will usually have differe
 
 - Next: [the budget constraint](05-budget-constraint.md), the market's trade-off.
 - Then: [optimal choice](06-optimal-choice.md), where the two meet.
-- Glossary: [[g:marginal-rate-of-substitution|marginal rate of substitution]], [[g:cobb-douglas|Cobb-Douglas function]].
+- Glossary: [marginal rate of substitution](../glossary/marginal-rate-of-substitution.md), [Cobb-Douglas function](../glossary/cobb-douglas.md).

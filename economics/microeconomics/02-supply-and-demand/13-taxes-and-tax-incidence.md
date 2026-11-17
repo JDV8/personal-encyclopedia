@@ -73,6 +73,6 @@ Many taxes are a percentage of price (**ad valorem**), like Canada's GST/HST. Th
 ## Where this leads
 
 - Next: [deadweight loss](14-deadweight-loss.md), the cost of taxes beyond the revenue they raise.
-- Related: [[pigouvian-taxes-and-subsidies|Pigouvian taxes]], which use taxes to correct externalities.
+- Related: [Pigouvian taxes](../07-market-failure/05-pigouvian-taxes-and-subsidies.md), which use taxes to correct externalities.
 - Related branch: [taxes on investments](../../finance/09-personal-investing-canada/06-taxes-on-investments.md).
-- Glossary: [[g:tax-incidence|tax incidence]], [[g:excise-tax|excise tax]], [[g:tax-wedge|tax wedge]].
+- Glossary: [tax incidence](../glossary/tax-incidence.md), [excise tax](../glossary/excise-tax.md), [tax wedge](../glossary/tax-wedge.md).

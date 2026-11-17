@@ -1,16 +1,16 @@
 # What is market failure?
 
-**Prerequisites:** [[deadweight-loss|Deadweight loss]], [[long-run-competitive-equilibrium|Long-run competitive equilibrium]], [[monopoly-pricing-and-deadweight-loss|Monopoly pricing]].
+**Prerequisites:** [Deadweight loss](../02-supply-and-demand/14-deadweight-loss.md), [Long-run competitive equilibrium](../05-market-structures/03-long-run-competitive-equilibrium.md), [Monopoly pricing](../05-market-structures/05-monopoly-pricing-and-deadweight-loss.md).
 
 ![Smog and haze over the Salt Lake valley, Utah: air pollution is a classic case where market prices leave out real costs](images/01-what-is-market-failure.jpg)
 
 *Smog and haze over the Salt Lake valley, Utah: air pollution is a classic case where market prices leave out real costs. Credit: Eltiempo10. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Salt Lake City smog haze skyline 02.jpg](https://commons.wikimedia.org/wiki/File:Salt_Lake_City_smog_haze_skyline_02.jpg).*
 
-The earlier sections showed that, under the right conditions, a competitive market produces the quantity at which marginal benefit to buyers equals marginal cost to sellers, which maximises total surplus. Adam Smith's "invisible hand" is the poetic name for this result; the [[the-welfare-theorems|first welfare theorem]] is its formal version. But the conditions matter. When they fail, markets can produce too much of some things, too little of others, or nothing at all. Economists call such situations **market failures**.
+The earlier sections showed that, under the right conditions, a competitive market produces the quantity at which marginal benefit to buyers equals marginal cost to sellers, which maximises total surplus. Adam Smith's "invisible hand" is the poetic name for this result; the [first welfare theorem](../08-welfare-economics/03-the-welfare-theorems.md) is its formal version. But the conditions matter. When they fail, markets can produce too much of some things, too little of others, or nothing at all. Economists call such situations **market failures**.
 
 ## The definition
 
-A **market failure** is a situation in which the unregulated market outcome is **inefficient**: some reallocation could make at least one person better off without making anyone worse off, or, in surplus terms, total surplus could be increased. Market failure is about efficiency, not fairness. A market can be efficient and still produce an income distribution many people find unjust (see [[efficiency-versus-equity|efficiency versus equity]]); that is a separate concern.
+A **market failure** is a situation in which the unregulated market outcome is **inefficient**: some reallocation could make at least one person better off without making anyone worse off, or, in surplus terms, total surplus could be increased. Market failure is about efficiency, not fairness. A market can be efficient and still produce an income distribution many people find unjust (see [efficiency versus equity](../08-welfare-economics/04-efficiency-versus-equity.md)); that is a separate concern.
 
 ## The conditions behind the invisible hand
 
@@ -29,13 +29,13 @@ Each source of market failure is a breakdown of one of these.
 
 | Source | Assumption violated | Typical result | Lessons |
 |---|---|---|---|
-| Market power | Many sellers | Too little output, price above marginal cost | [[monopoly|Monopoly]], [[oligopoly|Oligopoly]] |
-| Externalities | All costs and benefits internal | Too much pollution, too little vaccination | [[externalities|Externalities]] |
-| Public goods | Excludability | Under-provision; free riders | [[public-goods|Public goods]] |
-| Common resources | Excludability with rivalry | Overuse (tragedy of the commons) | [[common-resources|Common resources]] |
-| Asymmetric information | Both sides informed | Markets shrink or collapse | [[asymmetric-information|Asymmetric information]] |
+| Market power | Many sellers | Too little output, price above marginal cost | [Monopoly](../05-market-structures/04-monopoly.md), [Oligopoly](../05-market-structures/09-oligopoly.md) |
+| Externalities | All costs and benefits internal | Too much pollution, too little vaccination | [Externalities](02-externalities.md) |
+| Public goods | Excludability | Under-provision; free riders | [Public goods](08-public-goods.md) |
+| Common resources | Excludability with rivalry | Overuse (tragedy of the commons) | [Common resources](09-common-resources.md) |
+| Asymmetric information | Both sides informed | Markets shrink or collapse | [Asymmetric information](10-asymmetric-information.md) |
 
-Some economists add **macroeconomic instability** (unemployment and inflation) and **behavioural failures** (people making choices they themselves regret; see [[the-rationality-assumption|the rationality assumption]]).
+Some economists add **macroeconomic instability** (unemployment and inflation) and **behavioural failures** (people making choices they themselves regret; see [the rationality assumption](../09-behavioural-economics/01-the-rationality-assumption.md)).
 
 ```mermaid
 flowchart TB
@@ -56,9 +56,9 @@ Return to the coffee market: Qd = 1100 − 200P and Qs = −100 + 200P, with equ
 
 ## Market failure does not automatically justify intervention
 
-A market failure shows that the outcome could be improved; it does not show that any particular government action will improve it. Governments also face information problems, interest-group pressure and incentives of their own. This is the subject of [[government-failure|government failure]]. Ronald Coase argued that the right comparison is between real, imperfect institutions, not between an imperfect market and an ideal government. Harold Demsetz called the latter mistake the "nirvana fallacy" (1969).
+A market failure shows that the outcome could be improved; it does not show that any particular government action will improve it. Governments also face information problems, interest-group pressure and incentives of their own. This is the subject of [government failure](15-government-failure.md). Ronald Coase argued that the right comparison is between real, imperfect institutions, not between an imperfect market and an ideal government. Harold Demsetz called the latter mistake the "nirvana fallacy" (1969).
 
-Equally, private institutions often solve market failures without government: reputations and warranties tackle information problems, clubs provide shared goods, and communities manage commons, as [[elinor-ostrom|Elinor Ostrom]] documented.
+Equally, private institutions often solve market failures without government: reputations and warranties tackle information problems, clubs provide shared goods, and communities manage commons, as [Elinor Ostrom](../10-history-of-thought/thinkers/15-elinor-ostrom.md) documented.
 
 ## Key ideas
 
@@ -69,6 +69,6 @@ Equally, private institutions often solve market failures without government: re
 
 ## Where this leads
 
-- Next: [[externalities|externalities]].
-- Later: [[government-failure|government failure]], [[the-welfare-theorems|the welfare theorems]].
-- Glossary: [[g:market-failure|market failure]], [[g:externality|externality]], [[g:nirvana-fallacy|nirvana fallacy]].
+- Next: [externalities](02-externalities.md).
+- Later: [government failure](15-government-failure.md), [the welfare theorems](../08-welfare-economics/03-the-welfare-theorems.md).
+- Glossary: [market failure](../glossary/market-failure.md), [externality](../glossary/externality.md), [nirvana fallacy](../glossary/nirvana-fallacy.md).

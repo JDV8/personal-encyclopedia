@@ -1,6 +1,6 @@
 # Elinor Ostrom (1933–2012)
 
-**Prerequisites:** [[common-resources|Common resources]], [[public-goods|Public goods]].
+**Prerequisites:** [Common resources](../../07-market-failure/09-common-resources.md), [Public goods](../../07-market-failure/08-public-goods.md).
 
 ![Elinor Ostrom, 2009 Nobel laureate in economics](images/15-elinor-ostrom.jpg)
 
@@ -27,7 +27,7 @@ She also studied failures, such as some fisheries in Turkey and Sri Lanka, to se
 
 ### Design principles
 
-From these cases, Ostrom identified eight design principles shared by robust commons institutions (see [[common-resources|common resources]]):
+From these cases, Ostrom identified eight design principles shared by robust commons institutions (see [common resources](../../07-market-failure/09-common-resources.md)):
 
 1. Clearly defined boundaries of the resource and of who may use it.
 2. Rules fitting local conditions, with benefits proportional to costs.
@@ -72,6 +72,6 @@ Ostrom showed that the "tragedy of the commons" is not inevitable, but she also 
 
 ## Where this leads
 
-- Next thinker: [[daniel-kahneman|Daniel Kahneman]].
-- Related: [[ronald-coase|Ronald Coase]], [[social-preferences-and-fairness|social preferences]].
-- Glossary: [[g:tragedy-of-the-commons|tragedy of the commons]], [[g:common-resource|common resource]], [[g:polycentric-governance|polycentric governance]].
+- Next thinker: [Daniel Kahneman](16-daniel-kahneman.md).
+- Related: [Ronald Coase](12-ronald-coase.md), [social preferences](../../09-behavioural-economics/06-social-preferences-and-fairness.md).
+- Glossary: [tragedy of the commons](../../glossary/tragedy-of-the-commons.md), [common resource](../../glossary/common-resource.md), [polycentric governance](../../glossary/polycentric-governance.md).

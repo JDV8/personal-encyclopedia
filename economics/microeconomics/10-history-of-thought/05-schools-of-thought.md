@@ -1,6 +1,6 @@
 # Schools of thought
 
-**Prerequisites:** [[twentieth-century-microeconomics|Twentieth-century microeconomics]], [[models-and-economic-method|Models and economic method]].
+**Prerequisites:** [Twentieth-century microeconomics](04-twentieth-century-microeconomics.md), [Models and economic method](../01-foundations/11-models-and-economic-method.md).
 
 ![Thorstein Veblen, founder of old institutional economics and author of The Theory of the Leisure Class (1899)](images/05-schools-of-thought.jpg)
 
@@ -20,7 +20,7 @@ Much of modern economics, including information economics, game theory and behav
 
 ## Marxian economics
 
-**Core ideas.** Building on classical political economy, [[karl-marx|Karl Marx]] (*Capital*, volume 1, 1867) argued that labour is the source of value and that capitalists extract **surplus value** from workers: workers produce more value than they are paid in wages. Capitalism is driven by competition to accumulate capital, which produces technological change, concentration of ownership, recurring crises and class conflict.
+**Core ideas.** Building on classical political economy, [Karl Marx](thinkers/04-karl-marx.md) (*Capital*, volume 1, 1867) argued that labour is the source of value and that capitalists extract **surplus value** from workers: workers produce more value than they are paid in wages. Capitalism is driven by competition to accumulate capital, which produces technological change, concentration of ownership, recurring crises and class conflict.
 
 **Influence.** Marxian ideas influenced political movements worldwide, the study of economic history, and debates about labour, inequality and power.
 
@@ -28,7 +28,7 @@ Much of modern economics, including information economics, game theory and behav
 
 ## The Austrian school
 
-**Core ideas.** Founded by [[carl-menger|Carl Menger]] and developed by Eugen von Böhm-Bawerk, Ludwig von Mises and [[friedrich-hayek|Friedrich Hayek]]. Emphasises subjective value, the market as a **process** of discovery rather than a state of equilibrium, the role of entrepreneurs (Israel Kirzner), dispersed knowledge, and the dangers of central planning. Austrians tend to be sceptical of mathematical models and of government intervention. Austrian business cycle theory attributes booms and busts to credit expansion.
+**Core ideas.** Founded by [Carl Menger](thinkers/06-carl-menger.md) and developed by Eugen von Böhm-Bawerk, Ludwig von Mises and [Friedrich Hayek](thinkers/11-friedrich-hayek.md). Emphasises subjective value, the market as a **process** of discovery rather than a state of equilibrium, the role of entrepreneurs (Israel Kirzner), dispersed knowledge, and the dangers of central planning. Austrians tend to be sceptical of mathematical models and of government intervention. Austrian business cycle theory attributes booms and busts to credit expansion.
 
 **Influence.** Hayek's "The Use of Knowledge in Society" (1945) is among the most cited economics papers; the socialist calculation argument is widely regarded as having been vindicated.
 
@@ -44,11 +44,11 @@ These schools are mainly macroeconomic. John Maynard Keynes (*The General Theory
 
 ## The Chicago school
 
-Associated with the University of Chicago (Frank Knight, Milton Friedman, George Stigler, Gary Becker, Ronald Coase, Robert Lucas). It emphasises the power of price theory, the efficiency of markets, scepticism about regulation (regulatory capture), and the application of economics to non-market behaviour. The Chicago approach to antitrust, which focuses on consumer welfare and efficiency, strongly influenced US competition policy from the 1970s (see [[competition-policy|competition policy]]).
+Associated with the University of Chicago (Frank Knight, Milton Friedman, George Stigler, Gary Becker, Ronald Coase, Robert Lucas). It emphasises the power of price theory, the efficiency of markets, scepticism about regulation (regulatory capture), and the application of economics to non-market behaviour. The Chicago approach to antitrust, which focuses on consumer welfare and efficiency, strongly influenced US competition policy from the 1970s (see [competition policy](../05-market-structures/15-competition-policy.md)).
 
 ## Behavioural and evolutionary economics
 
-**Behavioural economics** incorporates psychology (see [[the-rationality-assumption|the rationality assumption]]). **Evolutionary economics**, inspired by Joseph Schumpeter (creative destruction) and developed by Richard Nelson and Sidney Winter (1982), models firms and technologies as evolving through variation and selection rather than optimisation.
+**Behavioural economics** incorporates psychology (see [the rationality assumption](../09-behavioural-economics/01-the-rationality-assumption.md)). **Evolutionary economics**, inspired by Joseph Schumpeter (creative destruction) and developed by Richard Nelson and Sidney Winter (1982), models firms and technologies as evolving through variation and selection rather than optimisation.
 
 ## Feminist and ecological economics
 
@@ -86,6 +86,6 @@ flowchart TB
 
 ## Where this leads
 
-- Thinkers: see the [[dir:economics/microeconomics/10-history-of-thought/thinkers|thinkers]] folder, starting with [[adam-smith|Adam Smith]].
-- Related: [[path:philosophy/concepts/epistemology/knowledge-and-opinion.md|knowledge and opinion]] (method and evidence).
-- Glossary: [[g:austrian-school|Austrian school]], [[g:marxian-economics|Marxian economics]], [[g:institutional-economics|institutional economics]], [[g:surplus-value|surplus value]].
+- Thinkers: see the [thinkers](thinkers/README.md) folder, starting with [Adam Smith](thinkers/01-adam-smith.md).
+- Related: [knowledge and opinion](../../../philosophy/concepts/epistemology/knowledge-and-opinion.md) (method and evidence).
+- Glossary: [Austrian school](../glossary/austrian-school.md), [Marxian economics](../glossary/marxian-economics.md), [institutional economics](../glossary/institutional-economics.md), [surplus value](../glossary/surplus-value.md).

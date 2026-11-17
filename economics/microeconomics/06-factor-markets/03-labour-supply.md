@@ -1,6 +1,6 @@
 # Labour supply
 
-**Prerequisites:** [[income-and-substitution-effects|Income and substitution effects]], [[budget-constraint|The budget constraint]].
+**Prerequisites:** [Income and substitution effects](../03-consumer-theory/08-income-and-substitution-effects.md), [The budget constraint](../03-consumer-theory/05-budget-constraint.md).
 
 ![Commuting to work by bicycle: every hour of paid work is an hour not spent on leisure, family or rest](images/03-labour-supply.jpg)
 
@@ -14,7 +14,7 @@ Imagine a worker with 16 waking hours a day to divide between paid work and leis
 
 The worker's budget constraint: income = w × (16 − leisure hours) + any non-labour income.
 
-**Example.** At a wage of 20, the worker could earn up to 320 a day by working 16 hours, or take 16 hours of leisure and earn nothing. Each hour of leisure costs 20. The worker chooses the point on this budget line that reaches the highest indifference curve between income and leisure, exactly as in [[optimal-choice|optimal choice]].
+**Example.** At a wage of 20, the worker could earn up to 320 a day by working 16 hours, or take 16 hours of leisure and earn nothing. Each hour of leisure costs 20. The worker chooses the point on this budget line that reaches the highest indifference curve between income and leisure, exactly as in [optimal choice](../03-consumer-theory/06-optimal-choice.md).
 
 ## What happens when wages rise?
 
@@ -53,7 +53,7 @@ Labour economists distinguish:
 - **Intensive margin**: how many hours employed people work.
 - **Extensive margin**: whether people work at all (labour force participation).
 
-Studies generally find that hours worked by prime-age men respond little to wage changes (small elasticities), while participation decisions, especially of second earners in households, respond more. Historically, as real wages rose over the 20th century, average weekly hours in rich countries fell, consistent with a strong income effect over the long run. Economists debate the size of these elasticities because they matter for tax policy: the more labour supply responds to after-tax wages, the larger the deadweight loss of income taxes (see [[deadweight-loss|deadweight loss]]).
+Studies generally find that hours worked by prime-age men respond little to wage changes (small elasticities), while participation decisions, especially of second earners in households, respond more. Historically, as real wages rose over the 20th century, average weekly hours in rich countries fell, consistent with a strong income effect over the long run. Economists debate the size of these elasticities because they matter for tax policy: the more labour supply responds to after-tax wages, the larger the deadweight loss of income taxes (see [deadweight loss](../02-supply-and-demand/14-deadweight-loss.md)).
 
 ## Taxes, benefits and kinks
 
@@ -81,5 +81,5 @@ What shifts market labour supply:
 
 ## Where this leads
 
-- Next: [[wage-determination|wage determination]].
-- Glossary: [[g:labour-supply|labour supply]], [[g:backward-bending-labour-supply|backward-bending labour supply curve]], [[g:effective-marginal-tax-rate|effective marginal tax rate]].
+- Next: [wage determination](04-wage-determination.md).
+- Glossary: [labour supply](../glossary/labour-supply.md), [backward-bending labour supply curve](../glossary/backward-bending-labour-supply.md), [effective marginal tax rate](../glossary/effective-marginal-tax-rate.md).

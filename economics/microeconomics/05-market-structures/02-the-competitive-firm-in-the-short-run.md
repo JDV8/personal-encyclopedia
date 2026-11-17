@@ -1,6 +1,6 @@
 # The competitive firm in the short run
 
-**Prerequisites:** [[perfect-competition|Perfect competition]], [[short-run-costs|Short-run costs]].
+**Prerequisites:** [Perfect competition](01-perfect-competition.md), [Short-run costs](../04-producer-theory/05-short-run-costs.md).
 
 ![Closed factory gates: when price falls below average variable cost, a firm does better producing nothing](images/02-the-competitive-firm-in-the-short-run.jpg)
 
@@ -51,7 +51,7 @@ flowchart TB
 
 At any price above the shutdown point, the firm produces where P = MC. So the firm's **short-run supply curve is its marginal cost curve above the minimum of AVC**. Below that price it supplies zero.
 
-This is the origin of the upward-sloping supply curve from [[supply|supply]]. It slopes up because marginal cost rises, which reflects [[diminishing-marginal-returns|diminishing marginal returns]] with fixed plant. The **short-run market supply curve** is the horizontal sum of all firms' supply curves.
+This is the origin of the upward-sloping supply curve from [supply](../02-supply-and-demand/03-supply.md). It slopes up because marginal cost rises, which reflects [diminishing marginal returns](../04-producer-theory/03-diminishing-marginal-returns.md) with fixed plant. The **short-run market supply curve** is the horizontal sum of all firms' supply curves.
 
 ## Shutdown versus exit
 
@@ -59,7 +59,7 @@ A **shutdown** is a short-run decision to produce nothing for a while; the firm 
 
 ## Sunk costs and real decisions
 
-The shutdown rule is a clean application of the [[opportunity-cost|sunk-cost principle]]. In practice firms sometimes keep operating below AVC for a while, for example to keep skilled staff, maintain customer relationships, or avoid the cost of restarting a blast furnace or a mine. Those considerations can be folded into the analysis as additional costs of shutting down. The core logic remains: decisions should depend on costs that the decision can still change.
+The shutdown rule is a clean application of the [sunk-cost principle](../01-foundations/03-opportunity-cost.md). In practice firms sometimes keep operating below AVC for a while, for example to keep skilled staff, maintain customer relationships, or avoid the cost of restarting a blast furnace or a mine. Those considerations can be folded into the analysis as additional costs of shutting down. The core logic remains: decisions should depend on costs that the decision can still change.
 
 ## Key ideas
 
@@ -71,5 +71,5 @@ The shutdown rule is a clean application of the [[opportunity-cost|sunk-cost pri
 
 ## Where this leads
 
-- Next: [[long-run-competitive-equilibrium|long-run competitive equilibrium]].
-- Glossary: [[g:shutdown-point|shutdown point]], [[g:break-even-point|break-even point]], [[g:sunk-cost|sunk cost]].
+- Next: [long-run competitive equilibrium](03-long-run-competitive-equilibrium.md).
+- Glossary: [shutdown point](../glossary/shutdown-point.md), [break-even point](../glossary/break-even-point.md), [sunk cost](../glossary/sunk-cost.md).

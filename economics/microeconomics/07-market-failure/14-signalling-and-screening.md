@@ -1,6 +1,6 @@
 # Signalling and screening
 
-**Prerequisites:** [[adverse-selection|Adverse selection]], [[human-capital|Human capital]].
+**Prerequisites:** [Adverse selection](11-adverse-selection.md), [Human capital](../06-factor-markets/05-human-capital.md).
 
 ![Michael Spence, who developed the theory of job-market signalling and shared the 2001 Nobel prize](images/14-signalling-and-screening.jpg)
 
@@ -35,7 +35,7 @@ If the cost for low-ability workers fell to 30, they would get degrees too (100 
 
 ### How much of education is signalling?
 
-This is debated. Human capital theory ([[human-capital|human capital]]) says education raises productivity. Signalling theory says it partly certifies traits people already had. Evidence for some signalling includes the "sheepskin effect", where earnings jump at degree completion more than for each additional year of study. Evidence for human capital includes natural experiments, such as changes in compulsory schooling laws, that raise earnings. Most economists believe both matter; Bryan Caplan's *The Case against Education* (2018) argues that signalling dominates, a minority view that has been widely discussed and contested.
+This is debated. Human capital theory ([human capital](../06-factor-markets/05-human-capital.md)) says education raises productivity. Signalling theory says it partly certifies traits people already had. Evidence for some signalling includes the "sheepskin effect", where earnings jump at degree completion more than for each additional year of study. Evidence for human capital includes natural experiments, such as changes in compulsory schooling laws, that raise earnings. Most economists believe both matter; Bryan Caplan's *The Case against Education* (2018) argues that signalling dominates, a minority view that has been widely discussed and contested.
 
 ## Other signals
 
@@ -68,7 +68,7 @@ High-risk customers, who expect to claim often, prefer full cover even at a high
 
 Other screening devices:
 
-- **Airline fares**: cheap tickets that require a Saturday-night stay screen out business travellers, a form of [[price-discrimination|price discrimination]].
+- **Airline fares**: cheap tickets that require a Saturday-night stay screen out business travellers, a form of [price discrimination](../05-market-structures/06-price-discrimination.md).
 - **Job probation periods and deferred pay**: only workers who expect to stay and perform well accept them.
 - **Credit applications** asking for collateral.
 
@@ -81,6 +81,6 @@ Other screening devices:
 
 ## Where this leads
 
-- Next: [[government-failure|government failure]].
-- Related: [[price-discrimination|price discrimination]], [[human-capital|human capital]].
-- Glossary: [[g:signalling|signalling]], [[g:screening|screening]], [[g:separating-equilibrium|separating equilibrium]], [[g:pooling-equilibrium|pooling equilibrium]].
+- Next: [government failure](15-government-failure.md).
+- Related: [price discrimination](../05-market-structures/06-price-discrimination.md), [human capital](../06-factor-markets/05-human-capital.md).
+- Glossary: [signalling](../glossary/signalling.md), [screening](../glossary/screening.md), [separating equilibrium](../glossary/separating-equilibrium.md), [pooling equilibrium](../glossary/pooling-equilibrium.md).

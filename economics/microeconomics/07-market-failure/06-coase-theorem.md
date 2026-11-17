@@ -1,12 +1,12 @@
 # The Coase theorem
 
-**Prerequisites:** [[pigouvian-taxes-and-subsidies|Pigouvian taxes and subsidies]], [[markets-prices-and-property-rights|Markets, prices and property rights]], [[the-firm|The firm]] (transaction costs).
+**Prerequisites:** [Pigouvian taxes and subsidies](05-pigouvian-taxes-and-subsidies.md), [Markets, prices and property rights](../01-foundations/10-markets-prices-and-property-rights.md), [The firm](../04-producer-theory/01-the-firm.md) (transaction costs).
 
 ![Postcard of a typical cattle ranch near Fort Worth, Texas; straying cattle and neighbouring crops are the standard Coase example](images/06-coase-theorem.jpg)
 
 *Postcard of a typical cattle ranch near Fort Worth, Texas; straying cattle and neighbouring crops are the standard Coase example. Credit: Adolph Selige Pub. Co. (St. Louis–Leipzig). License: Public domain. Source: [File:Typical Cattle Ranch (20106810).jpg](https://commons.wikimedia.org/wiki/File:Typical_Cattle_Ranch_(20106810).jpg).*
 
-In 1960, [[ronald-coase|Ronald Coase]] published "The Problem of Social Cost" in the *Journal of Law and Economics*. It became one of the most cited articles in economics and helped launch the field of law and economics. Coase challenged the Pigouvian view that externalities require government taxes. He argued that externalities are **reciprocal**, and that if property rights are well defined and bargaining is cheap, the parties will reach an efficient outcome on their own, whoever holds the rights.
+In 1960, [Ronald Coase](../10-history-of-thought/thinkers/12-ronald-coase.md) published "The Problem of Social Cost" in the *Journal of Law and Economics*. It became one of the most cited articles in economics and helped launch the field of law and economics. Coase challenged the Pigouvian view that externalities require government taxes. He argued that externalities are **reciprocal**, and that if property rights are well defined and bargaining is cheap, the parties will reach an efficient outcome on their own, whoever holds the rights.
 
 ## Externalities are reciprocal
 
@@ -43,7 +43,7 @@ Coase himself emphasised that the zero-transaction-cost world is unrealistic. In
 
 - **Many parties are involved.** Millions of people affected by air pollution cannot practically negotiate with thousands of emitters.
 - **Free riding** makes each victim reluctant to contribute to a payment.
-- **Information is private.** Each party may exaggerate its costs or benefits to win a better deal ([[asymmetric-information|asymmetric information]]).
+- **Information is private.** Each party may exaggerate its costs or benefits to win a better deal ([asymmetric information](10-asymmetric-information.md)).
 - **Enforcement is costly.**
 - **Rights are unclear**, as with the atmosphere or the high seas.
 
@@ -53,7 +53,7 @@ When transaction costs are high, the legal assignment of rights matters a great 
 
 - **Bees and orchards.** Steven Cheung found that Washington beekeepers and orchard owners did contract over pollination, internalising the externality.
 - **Ranchers in Shasta County.** Robert Ellickson's *Order without Law* (1991) found that California ranchers and neighbours resolved cattle-trespass disputes through informal norms, largely ignoring the formal law. Bargaining happened, but not in the form Coase described.
-- **The lighthouse.** In "The Lighthouse in Economics" (1974), Coase showed that many British lighthouses had been privately built and financed through fees collected at ports, challenging the textbook claim that lighthouses must be publicly provided (see [[public-goods|public goods]]). Later researchers have debated how much government involvement there actually was.
+- **The lighthouse.** In "The Lighthouse in Economics" (1974), Coase showed that many British lighthouses had been privately built and financed through fees collected at ports, challenging the textbook claim that lighthouses must be publicly provided (see [public goods](08-public-goods.md)). Later researchers have debated how much government involvement there actually was.
 - **Experiments.** Elizabeth Hoffman and Matthew Spitzer (1982) found that small groups in the lab usually reached efficient agreements, consistent with the theorem. Behavioural research also shows an **endowment effect**: people value what they own more than identical things they do not own, which can make the initial assignment affect outcomes even with low transaction costs.
 
 ## Key ideas
@@ -65,6 +65,6 @@ When transaction costs are high, the legal assignment of rights matters a great 
 
 ## Where this leads
 
-- Next: [[cap-and-trade-and-regulation|cap and trade and regulation]], which creates property rights in pollution.
-- Related: [[ronald-coase|Ronald Coase]], [[the-firm|the firm]], [[heuristics-and-biases|the endowment effect]].
-- Glossary: [[g:coase-theorem|Coase theorem]], [[g:transaction-costs|transaction costs]], [[g:endowment-effect|endowment effect]].
+- Next: [cap and trade and regulation](07-cap-and-trade-and-regulation.md), which creates property rights in pollution.
+- Related: [Ronald Coase](../10-history-of-thought/thinkers/12-ronald-coase.md), [the firm](../04-producer-theory/01-the-firm.md), [the endowment effect](../09-behavioural-economics/03-heuristics-and-biases.md).
+- Glossary: [Coase theorem](../glossary/coase-theorem.md), [transaction costs](../glossary/transaction-costs.md), [endowment effect](../glossary/endowment-effect.md).

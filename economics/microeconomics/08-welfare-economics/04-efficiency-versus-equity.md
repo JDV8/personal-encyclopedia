@@ -1,6 +1,6 @@
 # Efficiency versus equity
 
-**Prerequisites:** [[the-welfare-theorems|The welfare theorems]], [[income-inequality|Income inequality]].
+**Prerequisites:** [The welfare theorems](03-the-welfare-theorems.md), [Income inequality](../06-factor-markets/09-income-inequality.md).
 
 ![John Rawls in 1971, the year A Theory of Justice was published](images/04-efficiency-versus-equity.jpg)
 
@@ -10,7 +10,7 @@ Efficiency asks whether the economic pie is as large as it can be. **Equity** as
 
 ## Why there is often a trade-off
 
-The [[the-welfare-theorems|second welfare theorem]] suggests that society could redistribute with lump-sum transfers without any loss of efficiency. In practice, governments must tax things people can change: income, spending, wealth. Taxes on these reduce the reward for working, saving or investing, which creates [[deadweight-loss|deadweight loss]]. Means-tested benefits that shrink as income rises create similar disincentives.
+The [second welfare theorem](03-the-welfare-theorems.md) suggests that society could redistribute with lump-sum transfers without any loss of efficiency. In practice, governments must tax things people can change: income, spending, wealth. Taxes on these reduce the reward for working, saving or investing, which creates [deadweight loss](../02-supply-and-demand/14-deadweight-loss.md). Means-tested benefits that shrink as income rises create similar disincentives.
 
 Arthur Okun described redistribution as carrying money from rich to poor in a **leaky bucket**: some leaks out through administrative costs and reduced work, saving and investment. How large the leak is, and how much leakage is acceptable, are the key questions.
 
@@ -19,7 +19,7 @@ Arthur Okun described redistribution as carrying money from rich to poor in a **
 Suppose taking 100 dollars from a high-income household reduces its work effort so that the economy loses 15 dollars of output, and administering the transfer costs 5 dollars. The low-income household receives 80 dollars. Is this worthwhile?
 
 - A pure efficiency (Kaldor–Hicks) view says no: 100 lost, 80 gained.
-- If the poorer household's marginal utility of income is, say, three times the richer household's (plausible with [[diminishing-marginal-utility|diminishing marginal utility]]), a utilitarian counts the 80 as worth 240 units of welfare against 100 lost. Yes.
+- If the poorer household's marginal utility of income is, say, three times the richer household's (plausible with [diminishing marginal utility](../glossary/diminishing-marginal-utility.md)), a utilitarian counts the 80 as worth 240 units of welfare against 100 lost. Yes.
 - A Rawlsian, focused on the worst-off, says yes as long as it improves their position.
 - A libertarian may say no regardless of the numbers, because compulsory taking violates property rights.
 
@@ -37,7 +37,7 @@ The answer depends on the leak and on values.
 
 Rawls (*A Theory of Justice*, 1971) asked what principles people would choose behind a **veil of ignorance**, not knowing their place in society. He argued they would choose equal basic liberties and the "difference principle": inequalities are justified only if they benefit the least advantaged. Nozick (*Anarchy, State, and Utopia*, 1974) replied with his "Wilt Chamberlain" example: if millions of fans freely pay to watch a basketball star, the resulting inequality arises from free choices, and redistributing it requires interfering with liberty.
 
-The capabilities view connects to Aristotle's idea of human flourishing; see philosophy's [[path:philosophy/concepts/ethics/eudaimonia.md|eudaimonia]].
+The capabilities view connects to Aristotle's idea of human flourishing; see philosophy's [eudaimonia](../../../philosophy/concepts/ethics/eudaimonia.md).
 
 ## Social welfare functions
 
@@ -47,7 +47,7 @@ Economists formalise these views with a **social welfare function** W(U₁, U₂
 - **Rawlsian**: W = min(U₁, U₂, ..., Uₙ).
 - **Weighted** (between these): give extra weight to people with lower utility.
 
-Abram Bergson (1938) and Paul Samuelson developed this approach. Whether a social welfare function that satisfies reasonable democratic conditions can be constructed from individual preferences is the subject of [[social-choice-and-arrows-theorem|Arrow's theorem]].
+Abram Bergson (1938) and Paul Samuelson developed this approach. Whether a social welfare function that satisfies reasonable democratic conditions can be constructed from individual preferences is the subject of [Arrow's theorem](05-social-choice-and-arrows-theorem.md).
 
 ```mermaid
 flowchart LR
@@ -61,7 +61,7 @@ flowchart LR
 
 This is an empirical question, and evidence is mixed:
 
-- Studies of labour supply generally find that hours worked respond modestly to tax rates for primary earners and more for second earners and people near retirement (see [[labour-supply|labour supply]]).
+- Studies of labour supply generally find that hours worked respond modestly to tax rates for primary earners and more for second earners and people near retirement (see [labour supply](../06-factor-markets/03-labour-supply.md)).
 - Taxable income (as opposed to hours) is more responsive among top earners, partly through tax avoidance.
 - Some redistributive policies may increase efficiency: early-childhood programs, health care for poor children, and education can raise future productivity. Research by economists including Raj Chetty and James Heckman has found long-run benefits from such investments.
 - Countries with high taxes and large welfare states, such as the Nordic countries, have high incomes, suggesting the trade-off can be managed, though there is debate about what explains their success.
@@ -75,6 +75,6 @@ This is an empirical question, and evidence is mixed:
 
 ## Where this leads
 
-- Next: [[social-choice-and-arrows-theorem|social choice and Arrow's theorem]].
-- Related: [[cost-benefit-analysis|cost-benefit analysis]], [[path:economics/finance/09-personal-investing-canada/06-taxes-on-investments.md|taxes on investments in Canada]].
-- Glossary: [[g:equity|equity]], [[g:social-welfare-function|social welfare function]], [[g:veil-of-ignorance|veil of ignorance]], [[g:okuns-leaky-bucket|Okun's leaky bucket]].
+- Next: [social choice and Arrow's theorem](05-social-choice-and-arrows-theorem.md).
+- Related: [cost-benefit analysis](06-cost-benefit-analysis.md), [taxes on investments in Canada](../../finance/09-personal-investing-canada/06-taxes-on-investments.md).
+- Glossary: [equity](../glossary/equity.md), [social welfare function](../glossary/social-welfare-function.md), [veil of ignorance](../glossary/veil-of-ignorance.md), [Okun's leaky bucket](../glossary/okuns-leaky-bucket.md).

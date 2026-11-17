@@ -48,11 +48,11 @@ flowchart LR
 
 ## Incentives inside organisations
 
-Firms face the same issue with their own employees. Paying salespeople on commission rewards effort but can also reward pushing customers into products they do not need. Paying a manager a bonus on this year's profit can encourage cutting maintenance that pays off only in later years. These are examples of the [[principal-agent-problem|principal-agent problem]], where one party (the agent) acts for another (the principal) with different interests and better information.
+Firms face the same issue with their own employees. Paying salespeople on commission rewards effort but can also reward pushing customers into products they do not need. Paying a manager a bonus on this year's profit can encourage cutting maintenance that pays off only in later years. These are examples of the [principal-agent problem](../07-market-failure/13-principal-agent-problem.md), where one party (the agent) acts for another (the principal) with different interests and better information.
 
 ## Intrinsic motivation and crowding out
 
-A caveat comes from both psychology and economics: paying people to do something they already do for its own sake can sometimes reduce their effort. A well-known 2000 study by Uri Gneezy and Aldo Rustichini of Israeli day-care centres found that introducing a small fine for parents who picked up children late was followed by *more* late pickups. One interpretation is that the fine turned a moral obligation into a price, and many parents decided the price was worth paying. Such cases do not overturn the idea that incentives matter; they show that incentives include social and moral ones, and that a price can change what kind of decision people think they are making. See [[social-preferences-and-fairness|social preferences and fairness]].
+A caveat comes from both psychology and economics: paying people to do something they already do for its own sake can sometimes reduce their effort. A well-known 2000 study by Uri Gneezy and Aldo Rustichini of Israeli day-care centres found that introducing a small fine for parents who picked up children late was followed by *more* late pickups. One interpretation is that the fine turned a moral obligation into a price, and many parents decided the price was worth paying. Such cases do not overturn the idea that incentives matter; they show that incentives include social and moral ones, and that a price can change what kind of decision people think they are making. See [social preferences and fairness](../09-behavioural-economics/06-social-preferences-and-fairness.md).
 
 ## Key ideas
 
@@ -65,5 +65,5 @@ A caveat comes from both psychology and economics: paying people to do something
 ## Where this leads
 
 - Next: [marginal thinking](05-marginal-thinking.md), which explains how much people respond.
-- Applied: [[pigouvian-taxes-and-subsidies|Pigouvian taxes and subsidies]] use incentives deliberately.
-- Glossary: [[g:incentive|incentive]], [[g:unintended-consequences|unintended consequences]], [[g:principal-agent-problem|principal-agent problem]].
+- Applied: [Pigouvian taxes and subsidies](../07-market-failure/05-pigouvian-taxes-and-subsidies.md) use incentives deliberately.
+- Glossary: [incentive](../glossary/incentive.md), [unintended consequences](../glossary/unintended-consequences.md), [principal-agent problem](../glossary/principal-agent-problem.md).

@@ -46,7 +46,7 @@ If wheat sells for 300 dollars a tonne and a bag costs 90 dollars, how much fert
 - Bag 3: 0.4 × 300 = 120 > 90. Use it.
 - Bag 4: 0.2 × 300 = 60 < 90. Stop.
 
-She should apply **3 bags**. The marginal revenue product of fertiliser (marginal product times price) falls because of diminishing returns, and she stops when it drops below the price of a bag. The same logic determines how many workers a firm hires, as shown in [[labour-demand|labour demand]].
+She should apply **3 bags**. The marginal revenue product of fertiliser (marginal product times price) falls because of diminishing returns, and she stops when it drops below the price of a bag. The same logic determines how many workers a firm hires, as shown in [labour demand](../06-factor-markets/02-labour-demand.md).
 
 ```mermaid
 flowchart LR
@@ -84,4 +84,4 @@ The principle applies far beyond farms and factories:
 
 - Next: [isoquants and input choice](04-isoquants-and-input-choice.md).
 - Then: [short-run costs](05-short-run-costs.md).
-- Glossary: [[g:diminishing-marginal-returns|diminishing marginal returns]], [[g:marginal-product|marginal product]], [[g:returns-to-scale|returns to scale]].
+- Glossary: [diminishing marginal returns](../glossary/diminishing-marginal-returns.md), [marginal product](../glossary/marginal-product.md), [returns to scale](../glossary/returns-to-scale.md).

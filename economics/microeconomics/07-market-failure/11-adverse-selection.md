@@ -1,6 +1,6 @@
 # Adverse selection
 
-**Prerequisites:** [[asymmetric-information|Asymmetric information]], [[market-equilibrium|Market equilibrium]].
+**Prerequisites:** [Asymmetric information](10-asymmetric-information.md), [Market equilibrium](../02-supply-and-demand/05-market-equilibrium.md).
 
 ![A used-car lot in the UK: the setting of Akerlof's market for lemons](images/11-adverse-selection.jpg)
 
@@ -54,7 +54,7 @@ Two of the three groups end up uninsured even though each valued insurance above
 
 - **Mandates.** Requiring everyone to buy insurance keeps low-risk people in the pool. Public health insurance (as in Canada's provincial systems) or employer-based group plans, which pool people for reasons unrelated to health, avoid selection. The US Affordable Care Act (2010) combined rules preventing insurers from refusing people with pre-existing conditions with an individual mandate (whose penalty was reduced to zero from 2019) and subsidies.
 - **Risk classification.** Insurers charge different premiums based on observable characteristics such as age or driving record. This reduces selection but raises fairness concerns, and is restricted for some characteristics.
-- **Signalling and screening.** Sellers of good cars offer warranties; insurers offer menus of deductibles (see [[signalling-and-screening|signalling and screening]]).
+- **Signalling and screening.** Sellers of good cars offer warranties; insurers offer menus of deductibles (see [signalling and screening](14-signalling-and-screening.md)).
 - **Reputation and intermediaries.** Certified pre-owned programs, dealer reputation, independent inspections, and vehicle history reports reduce the used-car problem.
 - **Waiting periods and exclusions.** Some insurance excludes conditions in the first months of cover.
 
@@ -63,7 +63,7 @@ Two of the three groups end up uninsured even though each valued insurance above
 - **Credit markets.** At high interest rates, safe borrowers drop out and risky ones remain, so lenders may ration credit instead of raising rates (Stiglitz and Weiss, 1981).
 - **Annuities.** People who expect to live long are more likely to buy annuities, which raises annuity prices.
 - **Labour markets.** If a firm cuts wages, its best workers, who have better outside options, may leave first. This is one reason for efficiency wages.
-- **Lemons in finance.** Firms that issue new shares may be those whose managers think the shares are overvalued; investors know this and react (Myers and Majluf, 1984). See [[path:economics/finance/02-firms-and-capital/08-capital-structure-and-cost-of-capital.md|capital structure]].
+- **Lemons in finance.** Firms that issue new shares may be those whose managers think the shares are overvalued; investors know this and react (Myers and Majluf, 1984). See [capital structure](../../finance/02-firms-and-capital/08-capital-structure-and-cost-of-capital.md).
 
 ## Evidence
 
@@ -78,6 +78,6 @@ Empirical work finds adverse selection in some markets and not others. Amy Finke
 
 ## Where this leads
 
-- Next: [[moral-hazard|moral hazard]].
-- Related: [[signalling-and-screening|signalling and screening]].
-- Glossary: [[g:adverse-selection|adverse selection]], [[g:market-for-lemons|market for lemons]], [[g:death-spiral|death spiral]].
+- Next: [moral hazard](12-moral-hazard.md).
+- Related: [signalling and screening](14-signalling-and-screening.md).
+- Glossary: [adverse selection](../glossary/adverse-selection.md), [market for lemons](../glossary/market-for-lemons.md), [death spiral](../glossary/death-spiral.md).

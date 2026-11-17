@@ -1,6 +1,6 @@
 # Carl Menger (1840–1921)
 
-**Prerequisites:** [[the-marginal-revolution|The marginal revolution]], [[schools-of-thought|Schools of thought]].
+**Prerequisites:** [The marginal revolution](../03-the-marginal-revolution.md), [Schools of thought](../05-schools-of-thought.md).
 
 ![Carl Menger, collotype portrait (Austrian National Library)](images/06-carl-menger.jpg)
 
@@ -16,7 +16,7 @@ Menger was born in 1840 in Neu-Sandez, Galicia (now Nowy Sącz, Poland), then pa
 
 ### Goods and needs
 
-Menger started from human needs. Something becomes a **good** when it can satisfy a need, people know this, and they can command it. Goods are ranked by **order**: bread is a first-order good (consumed directly); flour and the baker's labour are second-order goods; wheat and mills are higher-order goods. The value of higher-order goods is **derived** from the value of the consumer goods they help produce, the reverse of the classical view that costs determine value (see [[derived-demand|derived demand]]).
+Menger started from human needs. Something becomes a **good** when it can satisfy a need, people know this, and they can command it. Goods are ranked by **order**: bread is a first-order good (consumed directly); flour and the baker's labour are second-order goods; wheat and mills are higher-order goods. The value of higher-order goods is **derived** from the value of the consumer goods they help produce, the reverse of the classical view that costs determine value (see [derived demand](../../06-factor-markets/01-derived-demand.md)).
 
 ### Subjective, marginal value
 
@@ -38,7 +38,7 @@ flowchart TB
 
 ## The origin of money
 
-In an 1892 article, "On the Origin of Money", Menger argued that money was not invented by government decree but emerged spontaneously. In barter, people accept goods that are easier to trade on (more **saleable**), even if they do not need them. Over time, the most saleable commodities, such as precious metals, become general media of exchange. Money is an example of an institution that is, in the Scottish philosopher Adam Ferguson's phrase, "the result of human action, but not the execution of any human design", a theme Hayek later developed as **spontaneous order**. See [[path:economics/finance/01-foundations/01-money-and-value.md|money and value]].
+In an 1892 article, "On the Origin of Money", Menger argued that money was not invented by government decree but emerged spontaneously. In barter, people accept goods that are easier to trade on (more **saleable**), even if they do not need them. Over time, the most saleable commodities, such as precious metals, become general media of exchange. Money is an example of an institution that is, in the Scottish philosopher Adam Ferguson's phrase, "the result of human action, but not the execution of any human design", a theme Hayek later developed as **spontaneous order**. See [money and value](../../../finance/01-foundations/01-money-and-value.md).
 
 ## The Methodenstreit
 
@@ -46,7 +46,7 @@ Menger's *Investigations into the Method of the Social Sciences* (1883) defended
 
 ## Legacy
 
-Menger's students and followers, Eugen von Böhm-Bawerk and Friedrich von Wieser, developed capital theory, opportunity cost and imputation. Through Ludwig von Mises and [[friedrich-hayek|Friedrich Hayek]], his ideas about subjective value, process, knowledge and spontaneous order became the core of the Austrian tradition. His approach to marginal value is also part of mainstream economics.
+Menger's students and followers, Eugen von Böhm-Bawerk and Friedrich von Wieser, developed capital theory, opportunity cost and imputation. Through Ludwig von Mises and [Friedrich Hayek](11-friedrich-hayek.md), his ideas about subjective value, process, knowledge and spontaneous order became the core of the Austrian tradition. His approach to marginal value is also part of mainstream economics.
 
 ## Key ideas
 
@@ -57,6 +57,6 @@ Menger's students and followers, Eugen von Böhm-Bawerk and Friedrich von Wieser
 
 ## Where this leads
 
-- Next thinker: [[leon-walras|Léon Walras]].
-- Related: [[friedrich-hayek|Friedrich Hayek]], [[capital-and-interest|capital and interest]].
-- Glossary: [[g:austrian-school|Austrian school]], [[g:spontaneous-order|spontaneous order]], [[g:subjective-value|subjective value]].
+- Next thinker: [Léon Walras](07-leon-walras.md).
+- Related: [Friedrich Hayek](11-friedrich-hayek.md), [capital and interest](../../06-factor-markets/07-capital-and-interest.md).
+- Glossary: [Austrian school](../../glossary/austrian-school.md), [spontaneous order](../../glossary/spontaneous-order.md), [subjective value](../../glossary/subjective-value.md).

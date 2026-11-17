@@ -19,7 +19,7 @@ New equilibrium with demand Qd = 1,100 − 200P: 1,100 − 200P = 100 + 200P, so
 - Consumer surplus rises from 625 to ½ × 600 × 3 = 900 (+275). Producer surplus rises from 625 to ½ × 600 × 3 = 900 (+275). Gains total 550.
 - **Deadweight loss**: 600 − 550 = **50**. The extra 100 cups cost more to produce than buyers value them.
 
-So a subsidy, in a market without externalities, also creates a deadweight loss: it encourages trades whose cost exceeds their value. Subsidies make economic sense when the good has **positive externalities** (vaccinations, basic research) that the market undervalues; then the subsidy can move quantity toward the efficient level. See [[positive-externalities|positive externalities]].
+So a subsidy, in a market without externalities, also creates a deadweight loss: it encourages trades whose cost exceeds their value. Subsidies make economic sense when the good has **positive externalities** (vaccinations, basic research) that the market undervalues; then the subsidy can move quantity toward the efficient level. See [positive externalities](../07-market-failure/04-positive-externalities.md).
 
 ## Quotas
 
@@ -56,7 +56,7 @@ Suppose domestic demand for steel is Qd = 1,000 − 10P and domestic supply is Q
 - Producer surplus rises by 10 × (200 + 300)/2 = **2,500**.
 - **Deadweight loss** = 5,500 − 2,500 − 2,000 = **1,000**, made of two triangles: ½ × 10 × 100 = 500 from excess domestic production (steel made at home that costs more than importing) and ½ × 10 × 100 = 500 from lost consumption.
 
-A tariff therefore helps domestic producers, raises revenue, and hurts domestic consumers by more than those gains combined. Because consumers are many and each loses a little, while producers are few and each gains a lot, producers are often better organised to lobby for tariffs. This pattern, analysed by Mancur Olson in *The Logic of Collective Action* (1965), helps explain why tariffs persist. See [[government-failure|government failure]].
+A tariff therefore helps domestic producers, raises revenue, and hurts domestic consumers by more than those gains combined. Because consumers are many and each loses a little, while producers are few and each gains a lot, producers are often better organised to lobby for tariffs. This pattern, analysed by Mancur Olson in *The Logic of Collective Action* (1965), helps explain why tariffs persist. See [government failure](../07-market-failure/15-government-failure.md).
 
 ## A historical episode
 
@@ -72,5 +72,5 @@ The US Smoot-Hawley Tariff Act of 1930 raised tariffs on thousands of imported g
 ## Where this leads
 
 - Next section: [consumer theory](../03-consumer-theory/01-preferences-and-utility.md), which looks beneath the demand curve.
-- Related: [gains from trade](../01-foundations/08-gains-from-trade.md), [[government-failure|government failure]].
-- Glossary: [[g:subsidy|subsidy]], [[g:quota|quota]], [[g:tariff|tariff]], [[g:quota-rent|quota rent]].
+- Related: [gains from trade](../01-foundations/08-gains-from-trade.md), [government failure](../07-market-failure/15-government-failure.md).
+- Glossary: [subsidy](../glossary/subsidy.md), [quota](../glossary/quota.md), [tariff](../glossary/tariff.md), [quota rent](../glossary/quota-rent.md).

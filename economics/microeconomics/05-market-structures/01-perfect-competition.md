@@ -1,6 +1,6 @@
 # Perfect competition
 
-**Prerequisites:** [[profit-maximization|Profit maximization]], [[market-equilibrium|Market equilibrium]].
+**Prerequisites:** [Profit maximization](../04-producer-theory/09-profit-maximization.md), [Market equilibrium](../02-supply-and-demand/05-market-equilibrium.md).
 
 ![The trading floor of the Chicago Board of Trade, where grain was traded in a market close to perfect competition](images/01-perfect-competition.jpg)
 
@@ -39,7 +39,7 @@ Because the firm sells every unit at the market price, **marginal revenue equals
 
 The competitive firm produces up to the point where the market price equals its marginal cost.
 
-**Worked example.** A brewery has the cost curves from [[cost-curves|cost curves]]: MC = 10 − 2Q + 0.3Q², AVC = 10 − Q + 0.1Q², ATC = 100/Q + 10 − Q + 0.1Q². The market price is 20.
+**Worked example.** A brewery has the cost curves from [cost curves](../04-producer-theory/06-cost-curves.md): MC = 10 − 2Q + 0.3Q², AVC = 10 − Q + 0.1Q², ATC = 100/Q + 10 − Q + 0.1Q². The market price is 20.
 
 - Set P = MC: 20 = 10 − 2Q + 0.3Q², so 0.3Q² − 2Q − 10 = 0. Solving, Q = (2 + √(4 + 12))/0.6 = (2 + 4)/0.6 = **10**.
 - At Q = 10, ATC = 20. Profit = (P − ATC) × Q = (20 − 20) × 10 = **0**.
@@ -50,8 +50,8 @@ At a price of 20, the brewery just covers all its costs, including normal profit
 
 Perfect competition has three properties economists value:
 
-1. **Allocative efficiency.** Price equals marginal cost, so the value buyers place on the last unit (price) equals the cost of producing it. No mutually beneficial trades are left out, and none that cost more than they are worth are made. Total surplus is maximised, as shown in [[producer-surplus-and-total-surplus|producer surplus and total surplus]].
-2. **Productive efficiency** in the long run. Entry and exit push price to the minimum of average total cost, so goods are produced at the lowest possible cost. See [[long-run-competitive-equilibrium|long-run competitive equilibrium]].
+1. **Allocative efficiency.** Price equals marginal cost, so the value buyers place on the last unit (price) equals the cost of producing it. No mutually beneficial trades are left out, and none that cost more than they are worth are made. Total surplus is maximised, as shown in [producer surplus and total surplus](../02-supply-and-demand/10-producer-surplus-and-total-surplus.md).
+2. **Productive efficiency** in the long run. Entry and exit push price to the minimum of average total cost, so goods are produced at the lowest possible cost. See [long-run competitive equilibrium](03-long-run-competitive-equilibrium.md).
 3. **No economic profit in the long run.** Consumers capture the benefits of cost reductions.
 
 ## How realistic is it?
@@ -70,6 +70,6 @@ Defenders of the model reply that it is a benchmark, not a description, and that
 
 ## Where this leads
 
-- Next: [[the-competitive-firm-in-the-short-run|the competitive firm in the short run]].
-- Contrast: [[monopoly|monopoly]].
-- Glossary: [[g:perfect-competition|perfect competition]], [[g:price-taker|price taker]], [[g:allocative-efficiency|allocative efficiency]], [[g:creative-destruction|creative destruction]].
+- Next: [the competitive firm in the short run](02-the-competitive-firm-in-the-short-run.md).
+- Contrast: [monopoly](04-monopoly.md).
+- Glossary: [perfect competition](../glossary/perfect-competition.md), [price taker](../glossary/price-taker.md), [allocative efficiency](../glossary/allocative-efficiency.md), [creative destruction](../glossary/creative-destruction.md).

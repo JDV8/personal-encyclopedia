@@ -58,11 +58,11 @@ flowchart TB
 
 Risk aversion explains insurance. Suppose a person with wealth 100 faces a 10 percent chance of losing 64 (say, a car accident). Their expected wealth is 0.9 × 100 + 0.1 × 36 = 93.6. With u = √w, expected utility is 0.9 × 10 + 0.1 × 6 = 9.6, whose certainty equivalent is 9.6² = 92.16. They would pay up to 100 − 92.16 = **7.84** for full insurance, even though the expected loss is only 6.4. An insurer pooling many such independent risks can charge, say, 7 and expect to profit, and both sides gain. The same logic underlies why investors demand higher expected returns on riskier assets, the subject of [risk and return](../../finance/01-foundations/10-risk-and-return.md) in the finance course.
 
-Insurance markets face their own problems when insurers and customers know different things: see [[adverse-selection|adverse selection]] and [[moral-hazard|moral hazard]].
+Insurance markets face their own problems when insurers and customers know different things: see [adverse selection](../07-market-failure/11-adverse-selection.md) and [moral hazard](../07-market-failure/12-moral-hazard.md).
 
 ## Challenges to expected utility
 
-Experiments show systematic departures from expected utility. In the **Allais paradox** (Maurice Allais, 1953), many people make pairs of choices that violate the independence axiom, overweighting certainty. Kahneman and Tversky's **prospect theory** (1979) describes such patterns using reference points, loss aversion and probability weighting. These are discussed in [[prospect-theory-in-economics|prospect theory in economics]]. Expected utility remains the standard benchmark, both as a model of rational choice and as a starting point for richer descriptive models.
+Experiments show systematic departures from expected utility. In the **Allais paradox** (Maurice Allais, 1953), many people make pairs of choices that violate the independence axiom, overweighting certainty. Kahneman and Tversky's **prospect theory** (1979) describes such patterns using reference points, loss aversion and probability weighting. These are discussed in [prospect theory in economics](../09-behavioural-economics/04-prospect-theory-in-economics.md). Expected utility remains the standard benchmark, both as a model of rational choice and as a starting point for richer descriptive models.
 
 ## Key ideas
 
@@ -75,5 +75,5 @@ Experiments show systematic departures from expected utility. In the **Allais pa
 ## Where this leads
 
 - Next: [intertemporal choice](12-intertemporal-choice.md).
-- Related: [[prospect-theory-in-economics|prospect theory in economics]], [[asymmetric-information|asymmetric information]].
-- Glossary: [[g:expected-utility|expected utility]], [[g:risk-aversion|risk aversion]], [[g:certainty-equivalent|certainty equivalent]], [[g:st-petersburg-paradox|St. Petersburg paradox]].
+- Related: [prospect theory in economics](../09-behavioural-economics/04-prospect-theory-in-economics.md), [asymmetric information](../07-market-failure/10-asymmetric-information.md).
+- Glossary: [expected utility](../glossary/expected-utility.md), [risk aversion](../glossary/risk-aversion.md), [certainty equivalent](../glossary/certainty-equivalent.md), [St. Petersburg paradox](../glossary/st-petersburg-paradox.md).

@@ -56,7 +56,7 @@ The **long-run marginal cost (LRMC)** is the extra cost of one more unit of outp
 
 The distinction matters for decisions and for predictions:
 
-- **Price wars and recessions.** In a downturn, a firm with a large plant may keep producing at a loss in the short run, covering variable costs and some fixed costs, rather than shut down. In the long run it may downsize or exit. See [[the-competitive-firm-in-the-short-run|the competitive firm in the short run]].
+- **Price wars and recessions.** In a downturn, a firm with a large plant may keep producing at a loss in the short run, covering variable costs and some fixed costs, rather than shut down. In the long run it may downsize or exit. See [the competitive firm in the short run](../05-market-structures/02-the-competitive-firm-in-the-short-run.md).
 - **Capacity planning.** A firm expecting demand to grow chooses a plant larger than today's demand requires, accepting higher unit costs now for lower ones later.
 - **Flexibility.** Some firms deliberately choose plants with flatter short-run cost curves, sacrificing minimum cost for the ability to vary output cheaply, an idea developed by George Stigler in 1939.
 
@@ -75,4 +75,4 @@ Costs can fall not only with the scale of output per period but with **cumulativ
 ## Where this leads
 
 - Next: [economies of scale](08-economies-of-scale.md).
-- Glossary: [[g:long-run|long run]], [[g:long-run-average-cost|long-run average cost]], [[g:minimum-efficient-scale|minimum efficient scale]], [[g:learning-curve|learning curve]].
+- Glossary: [long run](../glossary/long-run.md), [long-run average cost](../glossary/long-run-average-cost.md), [minimum efficient scale](../glossary/minimum-efficient-scale.md), [learning curve](../glossary/learning-curve.md).

@@ -31,7 +31,7 @@ Standard theory assumes firms aim to **maximise profit**. Profit is total revenu
 
 **Profit = Total revenue − Total cost**
 
-This is a simplification. Managers may pursue growth, prestige or a quiet life; owners may care about the community or the environment; nonprofits and cooperatives have different goals. When managers' interests differ from owners', the [[principal-agent-problem|principal-agent problem]] arises. Still, the profit-maximisation assumption predicts a great deal about how firms respond to prices and costs, and competition tends to weed out firms that stray far from it.
+This is a simplification. Managers may pursue growth, prestige or a quiet life; owners may care about the community or the environment; nonprofits and cooperatives have different goals. When managers' interests differ from owners', the [principal-agent problem](../07-market-failure/13-principal-agent-problem.md) arises. Still, the profit-maximisation assumption predicts a great deal about how firms respond to prices and costs, and competition tends to weed out firms that stray far from it.
 
 ## Accounting profit and economic profit
 
@@ -54,7 +54,7 @@ Rosa's bakery is doing better than her next-best alternative by 15,000. If her a
 
 ## Normal profit
 
-When economic profit is exactly zero, the firm earns **normal profit**: enough to cover all opportunity costs, including a market return on the owner's capital and time. Normal profit is the minimum needed to keep the owner in the business. Zero economic profit is not a disaster; it means the owner is doing as well as they could elsewhere. This concept is central to [[long-run-competitive-equilibrium|long-run competitive equilibrium]], where entry drives economic profit to zero.
+When economic profit is exactly zero, the firm earns **normal profit**: enough to cover all opportunity costs, including a market return on the owner's capital and time. Normal profit is the minimum needed to keep the owner in the business. Zero economic profit is not a disaster; it means the owner is doing as well as they could elsewhere. This concept is central to [long-run competitive equilibrium](../05-market-structures/03-long-run-competitive-equilibrium.md), where entry drives economic profit to zero.
 
 ## Short run and long run
 
@@ -76,5 +76,5 @@ These are not fixed calendar periods. For a food truck, the long run might be a 
 ## Where this leads
 
 - Next: [production functions](02-production-functions.md).
-- Related: [[ronald-coase|Ronald Coase]], [[principal-agent-problem|the principal-agent problem]].
-- Glossary: [[g:firm|firm]], [[g:economic-profit|economic profit]], [[g:accounting-profit|accounting profit]], [[g:normal-profit|normal profit]], [[g:transaction-costs|transaction costs]].
+- Related: [Ronald Coase](../10-history-of-thought/thinkers/12-ronald-coase.md), [the principal-agent problem](../07-market-failure/13-principal-agent-problem.md).
+- Glossary: [firm](../glossary/firm.md), [economic profit](../glossary/economic-profit.md), [accounting profit](../glossary/accounting-profit.md), [normal profit](../glossary/normal-profit.md), [transaction costs](../glossary/transaction-costs.md).

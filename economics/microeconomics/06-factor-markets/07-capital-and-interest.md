@@ -1,6 +1,6 @@
 # Capital and interest
 
-**Prerequisites:** [[derived-demand|Derived demand and factor markets]], [[intertemporal-choice|Intertemporal choice]].
+**Prerequisites:** [Derived demand and factor markets](01-derived-demand.md), [Intertemporal choice](../03-consumer-theory/12-intertemporal-choice.md).
 
 ![Eugen von Böhm-Bawerk in 1896; he explained interest by time preference and the productivity of roundabout production](images/07-capital-and-interest.jpg)
 
@@ -15,7 +15,7 @@ Two senses of "capital" are often confused:
 - **Physical capital** is the stock of equipment and structures used in production.
 - **Financial capital** is money and financial claims (bonds, shares, loans) used to buy physical capital.
 
-When a firm sells bonds to build a factory, savers supply financial capital, and the firm turns it into physical capital. The finance course follows the financial side in detail, from [[path:economics/finance/02-firms-and-capital/03-equity-and-debt.md|equity and debt]] to the [[path:economics/finance/02-firms-and-capital/08-capital-structure-and-cost-of-capital.md|cost of capital]].
+When a firm sells bonds to build a factory, savers supply financial capital, and the firm turns it into physical capital. The finance course follows the financial side in detail, from [equity and debt](../../finance/02-firms-and-capital/03-equity-and-debt.md) to the [cost of capital](../../finance/02-firms-and-capital/08-capital-structure-and-cost-of-capital.md).
 
 ## Renting capital: the rental rate
 
@@ -38,7 +38,7 @@ If the interest rate rose to 16 percent, the annuity factor would fall to about 
 
 ## The supply of saving
 
-Households supply funds by saving, which means consuming less now to consume more later. As shown in [[intertemporal-choice|intertemporal choice]], a higher interest rate makes future consumption cheaper relative to present consumption (substitution effect toward saving) but also makes savers richer (income effect toward consuming more now). The net effect on saving is theoretically ambiguous; most textbook treatments assume the supply of saving rises modestly with the interest rate.
+Households supply funds by saving, which means consuming less now to consume more later. As shown in [intertemporal choice](../03-consumer-theory/12-intertemporal-choice.md), a higher interest rate makes future consumption cheaper relative to present consumption (substitution effect toward saving) but also makes savers richer (income effect toward consuming more now). The net effect on saving is theoretically ambiguous; most textbook treatments assume the supply of saving rises modestly with the interest rate.
 
 ## The market for loanable funds
 
@@ -52,7 +52,7 @@ flowchart LR
   R --> K["Determines the rate of capital accumulation"]
 ```
 
-The equilibrium **real interest rate** balances desired saving with desired investment. In practice, interest rates are also strongly influenced by central bank policy and by risk, as explained in the finance course's [[path:economics/finance/05-regulation/06-central-banks-and-monetary-policy.md|central banks and monetary policy]].
+The equilibrium **real interest rate** balances desired saving with desired investment. In practice, interest rates are also strongly influenced by central bank policy and by risk, as explained in the finance course's [central banks and monetary policy](../../finance/05-regulation/06-central-banks-and-monetary-policy.md).
 
 ## Why is there interest at all?
 
@@ -69,7 +69,7 @@ Fisher's *The Theory of Interest* (1930) combined impatience and investment oppo
 
 Capital theory has been contentious. In the 1950s and 1960s, the **Cambridge capital controversy** pitted economists at Cambridge, England (Joan Robinson, Piero Sraffa) against those at Cambridge, Massachusetts (Paul Samuelson, Robert Solow). The English side argued that aggregating diverse capital goods into a single quantity "K" is logically problematic, because the value of capital depends on the interest rate it is supposed to explain. Samuelson conceded in 1966 that some of the critics' technical points were correct. Most economists continued to use aggregate capital as a practical approximation, but the debate is a reminder that simple models rest on simplifications.
 
-From a different direction, Marxian economics interprets profit and interest as surplus value extracted from labour, a view discussed in [[karl-marx|Karl Marx]] and [[schools-of-thought|schools of thought]].
+From a different direction, Marxian economics interprets profit and interest as surplus value extracted from labour, a view discussed in [Karl Marx](../10-history-of-thought/thinkers/04-karl-marx.md) and [schools of thought](../10-history-of-thought/05-schools-of-thought.md).
 
 ## Key ideas
 
@@ -81,5 +81,5 @@ From a different direction, Marxian economics interprets profit and interest as 
 
 ## Where this leads
 
-- Next: [[land-and-rent|land and rent]].
-- Glossary: [[g:capital|capital]], [[g:interest-rate|interest rate]], [[g:loanable-funds|loanable funds]], [[g:present-value|present value]], [[g:time-preference|time preference]].
+- Next: [land and rent](08-land-and-rent.md).
+- Glossary: [capital](../glossary/capital.md), [interest rate](../glossary/interest-rate.md), [loanable funds](../glossary/loanable-funds.md), [present value](../glossary/present-value.md), [time preference](../glossary/time-preference.md).

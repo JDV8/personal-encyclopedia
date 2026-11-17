@@ -1,6 +1,6 @@
 # John Stuart Mill (1806–1873)
 
-**Prerequisites:** [[classical-economics|Classical economics]], [[efficiency-versus-equity|Efficiency versus equity]].
+**Prerequisites:** [Classical economics](../02-classical-economics.md), [Efficiency versus equity](../../08-welfare-economics/04-efficiency-versus-equity.md).
 
 ![John Stuart Mill, photographed by the London Stereoscopic Company, about 1870](images/03-john-stuart-mill.jpg)
 
@@ -29,12 +29,12 @@ Mill synthesised classical economics in a clear and humane form. Key points:
 
 ### Method and "economic man"
 
-In his 1836 essay "On the Definition of Political Economy", Mill argued that economics studies people only as beings who desire wealth, abstracting from other motives. This is an early statement of what later became called **homo economicus**, though Mill presented it as a deliberate simplification, not a full account of human nature (see [[the-rationality-assumption|the rationality assumption]]).
+In his 1836 essay "On the Definition of Political Economy", Mill argued that economics studies people only as beings who desire wealth, abstracting from other motives. This is an early statement of what later became called **homo economicus**, though Mill presented it as a deliberate simplification, not a full account of human nature (see [the rationality assumption](../../09-behavioural-economics/01-the-rationality-assumption.md)).
 
 ## Philosophy relevant to economics
 
 - **Utilitarianism.** Mill refined Bentham's utilitarianism, arguing that some pleasures (intellectual, moral) are higher than others: "It is better to be a human being dissatisfied than a pig satisfied." Utilitarian thinking underlies welfare economics and cost-benefit analysis.
-- **The harm principle.** In *On Liberty*, "the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others." The principle bears on debates about paternalism and nudges (see [[nudges-and-choice-architecture|nudges]]).
+- **The harm principle.** In *On Liberty*, "the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others." The principle bears on debates about paternalism and nudges (see [nudges](../../09-behavioural-economics/07-nudges-and-choice-architecture.md)).
 
 ```mermaid
 flowchart TB
@@ -60,6 +60,6 @@ Mill bridged classical economics and liberal political thought. The marginal rev
 
 ## Where this leads
 
-- Next thinker: [[karl-marx|Karl Marx]].
-- Related: [[efficiency-versus-equity|efficiency versus equity]], [[path:philosophy/concepts/ethics/eudaimonia.md|eudaimonia]] (happiness and flourishing).
-- Glossary: [[g:utilitarianism|utilitarianism]], [[g:harm-principle|harm principle]], [[g:homo-economicus|homo economicus]].
+- Next thinker: [Karl Marx](04-karl-marx.md).
+- Related: [efficiency versus equity](../../08-welfare-economics/04-efficiency-versus-equity.md), [eudaimonia](../../../../philosophy/concepts/ethics/eudaimonia.md) (happiness and flourishing).
+- Glossary: [utilitarianism](../../glossary/utilitarianism.md), [harm principle](../../glossary/harm-principle.md), [homo economicus](../../glossary/homo-economicus.md).

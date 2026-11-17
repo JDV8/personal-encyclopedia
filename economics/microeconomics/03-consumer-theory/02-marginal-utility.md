@@ -79,5 +79,5 @@ The table above uses utility numbers as if they were measurable. Modern theory d
 ## Where this leads
 
 - Next: [indifference curves](03-indifference-curves.md).
-- History: [[the-marginal-revolution|the marginal revolution]], [[william-stanley-jevons|William Stanley Jevons]], [[carl-menger|Carl Menger]].
-- Glossary: [[g:marginal-utility|marginal utility]], [[g:diminishing-marginal-utility|diminishing marginal utility]], [[g:equal-marginal-principle|equal-marginal principle]].
+- History: [the marginal revolution](../10-history-of-thought/03-the-marginal-revolution.md), [William Stanley Jevons](../10-history-of-thought/thinkers/05-william-stanley-jevons.md), [Carl Menger](../10-history-of-thought/thinkers/06-carl-menger.md).
+- Glossary: [marginal utility](../glossary/marginal-utility.md), [diminishing marginal utility](../glossary/diminishing-marginal-utility.md), [equal-marginal principle](../glossary/equal-marginal-principle.md).

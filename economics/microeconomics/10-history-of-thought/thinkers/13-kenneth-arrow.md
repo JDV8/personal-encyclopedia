@@ -1,6 +1,6 @@
 # Kenneth Arrow (1921–2017)
 
-**Prerequisites:** [[the-welfare-theorems|The welfare theorems]], [[social-choice-and-arrows-theorem|Social choice and Arrow's theorem]].
+**Prerequisites:** [The welfare theorems](../../08-welfare-economics/03-the-welfare-theorems.md), [Social choice and Arrow's theorem](../../08-welfare-economics/05-social-choice-and-arrows-theorem.md).
 
 ![Kenneth Arrow at Stanford University](images/13-kenneth-arrow.jpg)
 
@@ -16,11 +16,11 @@ He worked at the Cowles Commission in Chicago, then taught at Stanford Universit
 
 ## Social choice
 
-At the RAND Corporation in 1948–49, Arrow was asked how to represent the preferences of a nation as a single "rational" actor. He proved that no method of aggregating individual rankings into a social ranking can satisfy a small set of reasonable conditions (unrestricted domain, Pareto, independence of irrelevant alternatives, non-dictatorship, transitivity). The **impossibility theorem** founded modern social choice theory and showed that "the will of the people" cannot be derived from individual preferences without further value judgements (see [[social-choice-and-arrows-theorem|social choice and Arrow's theorem]]).
+At the RAND Corporation in 1948–49, Arrow was asked how to represent the preferences of a nation as a single "rational" actor. He proved that no method of aggregating individual rankings into a social ranking can satisfy a small set of reasonable conditions (unrestricted domain, Pareto, independence of irrelevant alternatives, non-dictatorship, transitivity). The **impossibility theorem** founded modern social choice theory and showed that "the will of the people" cannot be derived from individual preferences without further value judgements (see [social choice and Arrow's theorem](../../08-welfare-economics/05-social-choice-and-arrows-theorem.md)).
 
 ## General equilibrium and the welfare theorems
 
-In 1951, Arrow gave a rigorous proof of the two fundamental welfare theorems using convex analysis. In 1954, with Gérard Debreu, he proved the existence of a competitive general equilibrium ("Existence of an Equilibrium for a Competitive Economy", *Econometrica*). The **Arrow–Debreu model** treats goods differing by date and "state of the world" as distinct commodities. Arrow (1953) also showed that with a set of securities paying off in different states (**Arrow securities**), the number of markets needed could be reduced, foundational for financial economics (see [[general-equilibrium|general equilibrium]], [[path:economics/finance/01-foundations/10-risk-and-return.md|risk and return]]).
+In 1951, Arrow gave a rigorous proof of the two fundamental welfare theorems using convex analysis. In 1954, with Gérard Debreu, he proved the existence of a competitive general equilibrium ("Existence of an Equilibrium for a Competitive Economy", *Econometrica*). The **Arrow–Debreu model** treats goods differing by date and "state of the world" as distinct commodities. Arrow (1953) also showed that with a set of securities paying off in different states (**Arrow securities**), the number of markets needed could be reduced, foundational for financial economics (see [general equilibrium](../../08-welfare-economics/02-general-equilibrium.md), [risk and return](../../../finance/01-foundations/10-risk-and-return.md)).
 
 ```mermaid
 flowchart TB
@@ -33,15 +33,15 @@ flowchart TB
 
 ## Uncertainty, insurance and health
 
-- **Risk aversion.** With John Pratt, Arrow developed the standard measures of risk aversion (the Arrow–Pratt measures), used throughout economics and finance (see [[choice-under-uncertainty|choice under uncertainty]]).
-- **"Uncertainty and the Welfare Economics of Medical Care"** (1963, *American Economic Review*) founded health economics. Arrow argued that medical care differs from other goods because of uncertainty about illness and treatment and the large information gap between doctors and patients. He discussed **moral hazard** and **adverse selection** in insurance, and explained professional norms, licensing and non-profit hospitals as responses to these problems (see [[moral-hazard|moral hazard]], [[adverse-selection|adverse selection]]).
+- **Risk aversion.** With John Pratt, Arrow developed the standard measures of risk aversion (the Arrow–Pratt measures), used throughout economics and finance (see [choice under uncertainty](../../03-consumer-theory/11-choice-under-uncertainty.md)).
+- **"Uncertainty and the Welfare Economics of Medical Care"** (1963, *American Economic Review*) founded health economics. Arrow argued that medical care differs from other goods because of uncertainty about illness and treatment and the large information gap between doctors and patients. He discussed **moral hazard** and **adverse selection** in insurance, and explained professional norms, licensing and non-profit hospitals as responses to these problems (see [moral hazard](../../07-market-failure/12-moral-hazard.md), [adverse selection](../../07-market-failure/11-adverse-selection.md)).
 - **Information.** Arrow (1962) noted that information has unusual properties: its value to a buyer cannot be known until it is revealed, but once revealed, the buyer has it without paying, which makes markets for information prone to failure. He argued that this leads to underinvestment in research, supporting public funding of science.
 
 **Arrow's information paradox, illustrated.** An inventor wants to sell a new manufacturing technique to a firm. The firm will not pay without knowing how good it is; but if the inventor explains it fully, the firm no longer needs to pay. Patents, non-disclosure agreements and reputation are partial solutions.
 
 ## Learning by doing and other work
 
-In "The Economic Implications of Learning by Doing" (1962), Arrow modelled productivity as rising with cumulative experience (for example, airframe production costs falling as more planes are built), an important influence on endogenous growth theory (see [[g:learning-curve|learning curve]]). He also wrote on discrimination in labour markets, organisations (*The Limits of Organization*, 1974), and climate change economics.
+In "The Economic Implications of Learning by Doing" (1962), Arrow modelled productivity as rising with cumulative experience (for example, airframe production costs falling as more planes are built), an important influence on endogenous growth theory (see [learning curve](../../glossary/learning-curve.md)). He also wrote on discrimination in labour markets, organisations (*The Limits of Organization*, 1974), and climate change economics.
 
 ## Legacy
 
@@ -56,6 +56,6 @@ Arrow's work underpins much of modern economic theory. His theorems define the c
 
 ## Where this leads
 
-- Next thinker: [[john-nash|John Nash]].
-- Related: [[efficiency-and-pareto-optimality|efficiency]], [[asymmetric-information|asymmetric information]].
-- Glossary: [[g:arrows-impossibility-theorem|Arrow's impossibility theorem]], [[g:arrow-debreu-model|Arrow–Debreu model]], [[g:risk-aversion|risk aversion]].
+- Next thinker: [John Nash](14-john-nash.md).
+- Related: [efficiency](../../08-welfare-economics/01-efficiency-and-pareto-optimality.md), [asymmetric information](../../07-market-failure/10-asymmetric-information.md).
+- Glossary: [Arrow's impossibility theorem](../../glossary/arrows-impossibility-theorem.md), [Arrow–Debreu model](../../glossary/arrow-debreu-model.md), [risk aversion](../../glossary/risk-aversion.md).

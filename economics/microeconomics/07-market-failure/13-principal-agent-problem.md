@@ -1,6 +1,6 @@
 # The principal–agent problem
 
-**Prerequisites:** [[moral-hazard|Moral hazard]], [[the-firm|The firm]].
+**Prerequisites:** [Moral hazard](12-moral-hazard.md), [The firm](../04-producer-theory/01-the-firm.md).
 
 ![A board of directors meeting; boards monitor managers on behalf of shareholders](images/13-principal-agent-problem.jpg)
 
@@ -26,7 +26,7 @@ Adolf Berle and Gardiner Means, in *The Modern Corporation and Private Property*
 - bonding costs paid by the agent to assure the principal (contracts, reputational commitments), and
 - the residual loss from decisions that still diverge from the principal's interest.
 
-See [[path:economics/finance/02-firms-and-capital/02-limited-liability-and-the-corporation.md|limited liability and the corporation]].
+See [limited liability and the corporation](../../finance/02-firms-and-capital/02-limited-liability-and-the-corporation.md).
 
 ## Designing incentives: a worked example
 
@@ -54,7 +54,7 @@ flowchart LR
 - **Multitasking.** Holmström and Paul Milgrom (1991) showed that if a job has several tasks and only some are measurable, strong incentives on measurable tasks crowd out effort on others. Teachers paid on test scores may "teach to the test".
 - **Gaming.** Agents manipulate the measure rather than improve the outcome. Goodhart's law (after economist Charles Goodhart) is often paraphrased: "When a measure becomes a target, it ceases to be a good measure."
 - **Short-termism.** Executives paid with stock options may favour short-term share price over long-term value.
-- **Crowding out intrinsic motivation.** Some studies suggest monetary incentives can reduce people's internal motivation for tasks they care about (see [[social-preferences-and-fairness|social preferences]]).
+- **Crowding out intrinsic motivation.** Some studies suggest monetary incentives can reduce people's internal motivation for tasks they care about (see [social preferences](../09-behavioural-economics/06-social-preferences-and-fairness.md)).
 
 ## Other examples
 
@@ -78,6 +78,6 @@ The real-estate example has empirical support: Steven Levitt and Chad Syverson (
 
 ## Where this leads
 
-- Next: [[signalling-and-screening|signalling and screening]].
-- Related: [[government-failure|government failure]], where voters and officials are principals and agents.
-- Glossary: [[g:principal-agent-problem|principal–agent problem]], [[g:agency-costs|agency costs]], [[g:goodharts-law|Goodhart's law]].
+- Next: [signalling and screening](14-signalling-and-screening.md).
+- Related: [government failure](15-government-failure.md), where voters and officials are principals and agents.
+- Glossary: [principal–agent problem](../glossary/principal-agent-problem.md), [agency costs](../glossary/agency-costs.md), [Goodhart's law](../glossary/goodharts-law.md).

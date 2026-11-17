@@ -35,7 +35,7 @@ flowchart TB
 
 ## What makes deadweight loss large
 
-**1. Elasticity.** The more buyers and sellers respond to the tax, the more trades disappear, and the larger the loss. A tax on a good with very inelastic demand and supply barely changes quantity and causes little deadweight loss. This is one argument for taxing goods like land, whose supply is fixed: the 19th-century writer Henry George argued that a tax on land rents would raise revenue with no deadweight loss. See [[land-and-rent|land and rent]].
+**1. Elasticity.** The more buyers and sellers respond to the tax, the more trades disappear, and the larger the loss. A tax on a good with very inelastic demand and supply barely changes quantity and causes little deadweight loss. This is one argument for taxing goods like land, whose supply is fixed: the 19th-century writer Henry George argued that a tax on land rents would raise revenue with no deadweight loss. See [land and rent](../06-factor-markets/08-land-and-rent.md).
 
 **2. The size of the tax.** Deadweight loss grows roughly with the **square** of the tax. Doubling the tax roughly quadruples the loss. In the coffee example:
 
@@ -59,8 +59,8 @@ The table also shows that **revenue first rises and then falls** as the tax grow
 The same triangle appears whenever a market produces the wrong quantity:
 
 - [Price ceilings](11-price-ceilings.md) and [price floors](12-price-floors.md) reduce quantity below equilibrium.
-- [[monopoly-pricing-and-deadweight-loss|Monopoly]] restricts output to raise prices.
-- [[externalities|Externalities]] cause markets to produce too much or too little relative to the efficient level, and there the "triangle" is the loss from the market's own outcome.
+- [Monopoly](../05-market-structures/05-monopoly-pricing-and-deadweight-loss.md) restricts output to raise prices.
+- [Externalities](../07-market-failure/02-externalities.md) cause markets to produce too much or too little relative to the efficient level, and there the "triangle" is the loss from the market's own outcome.
 
 Arnold Harberger did much to develop deadweight loss triangles as practical tools of policy analysis in the 1950s and 1960s, which is why they are sometimes called **Harberger triangles**.
 
@@ -79,5 +79,5 @@ Deadweight loss is a cost of raising revenue, not a reason never to tax. Governm
 ## Where this leads
 
 - Next: [subsidies, quotas and tariffs](15-subsidies-quotas-and-tariffs.md).
-- Related: [[cost-benefit-analysis|cost-benefit analysis]].
-- Glossary: [[g:deadweight-loss|deadweight loss]], [[g:laffer-curve|Laffer curve]].
+- Related: [cost-benefit analysis](../08-welfare-economics/06-cost-benefit-analysis.md).
+- Glossary: [deadweight loss](../glossary/deadweight-loss.md), [Laffer curve](../glossary/laffer-curve.md).

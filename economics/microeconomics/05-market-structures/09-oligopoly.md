@@ -1,6 +1,6 @@
 # Oligopoly
 
-**Prerequisites:** [[monopoly|Monopoly]], [[economies-of-scale|Economies of scale]].
+**Prerequisites:** [Monopoly](04-monopoly.md), [Economies of scale](../04-producer-theory/08-economies-of-scale.md).
 
 ![An Airbus A380 and a Boeing 747: two firms dominate the market for large passenger jets](images/09-oligopoly.jpg)
 
@@ -26,7 +26,7 @@ Oligopolists face a tension. Collectively they would earn the most by acting lik
 - **If both produce 10**: Q = 20, P = 10, each earns **100**. Both are worse off than with cooperation.
 - **Under perfect competition** (P = MC = 0): profits are zero.
 
-The outcome when both firms independently choose output to maximise their own profit, taking the other's output as given, is the **Cournot equilibrium**: here each produces 10 and earns 100. It lies between monopoly and competition. See [[cournot-bertrand-and-stackelberg|Cournot, Bertrand and Stackelberg]].
+The outcome when both firms independently choose output to maximise their own profit, taking the other's output as given, is the **Cournot equilibrium**: here each produces 10 and earns 100. It lies between monopoly and competition. See [Cournot, Bertrand and Stackelberg](13-cournot-bertrand-and-stackelberg.md).
 
 ```mermaid
 flowchart LR
@@ -39,11 +39,11 @@ flowchart LR
 
 Firms that explicitly agree to fix prices or divide markets form a **cartel**. OPEC, founded in 1960, is the best-known international example: its members coordinate oil production targets. Cartels are illegal in most countries' domestic markets. In Canada, the **Competition Act** makes price-fixing agreements between competitors a criminal offence. A notable Canadian case is the bread price-fixing scheme that Loblaw and George Weston disclosed in 2017, under the Competition Bureau's immunity programme, after admitting participation in an industry-wide arrangement running from about 2001 to 2015.
 
-Cartels are unstable: each member has an incentive to cheat by producing more than its quota. OPEC's history shows repeated episodes of members exceeding quotas. The logic of cheating is the [[prisoners-dilemma-and-cartels|prisoner's dilemma]].
+Cartels are unstable: each member has an incentive to cheat by producing more than its quota. OPEC's history shows repeated episodes of members exceeding quotas. The logic of cheating is the [prisoner's dilemma](12-prisoners-dilemma-and-cartels.md).
 
 ## Tacit collusion and price leadership
 
-Even without an explicit agreement, firms can sometimes coordinate on high prices. One firm, often the largest, may act as a **price leader**, and others follow its price changes. Repeated interaction lets firms punish defectors, making cooperation sustainable, as explained in [[repeated-games-and-strategic-moves|repeated games and strategic moves]]. Tacit collusion is generally not illegal, which makes it a challenge for competition authorities.
+Even without an explicit agreement, firms can sometimes coordinate on high prices. One firm, often the largest, may act as a **price leader**, and others follow its price changes. Repeated interaction lets firms punish defectors, making cooperation sustainable, as explained in [repeated games and strategic moves](14-repeated-games-and-strategic-moves.md). Tacit collusion is generally not illegal, which makes it a challenge for competition authorities.
 
 ## The kinked demand curve
 
@@ -63,5 +63,5 @@ In monopoly and perfect competition, a firm can treat its environment as given. 
 
 ## Where this leads
 
-- Next: [[game-theory-basics|game theory basics]].
-- Glossary: [[g:oligopoly|oligopoly]], [[g:cartel|cartel]], [[g:herfindahl-hirschman-index|Herfindahl-Hirschman Index]], [[g:price-leadership|price leadership]].
+- Next: [game theory basics](10-game-theory-basics.md).
+- Glossary: [oligopoly](../glossary/oligopoly.md), [cartel](../glossary/cartel.md), [Herfindahl-Hirschman Index](../glossary/herfindahl-hirschman-index.md), [price leadership](../glossary/price-leadership.md).

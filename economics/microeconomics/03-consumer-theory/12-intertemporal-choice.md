@@ -61,7 +61,7 @@ Because marginal utility diminishes, most people prefer a smooth path of consump
 
 ## When people are not consistent
 
-The standard model assumes **exponential discounting**: the trade-off between today and tomorrow is the same as between day 100 and day 101. Experiments suggest many people are much more impatient about the immediate present than about the distant future, a pattern called **present bias** or **hyperbolic discounting**. It helps explain procrastination and undersaving and is the subject of [[time-inconsistency-and-self-control|time inconsistency and self-control]].
+The standard model assumes **exponential discounting**: the trade-off between today and tomorrow is the same as between day 100 and day 101. Experiments suggest many people are much more impatient about the immediate present than about the distant future, a pattern called **present bias** or **hyperbolic discounting**. It helps explain procrastination and undersaving and is the subject of [time inconsistency and self-control](../09-behavioural-economics/05-time-inconsistency-and-self-control.md).
 
 ## Key ideas
 
@@ -74,6 +74,6 @@ The standard model assumes **exponential discounting**: the trade-off between to
 ## Where this leads
 
 - Next section: [producer theory](../04-producer-theory/01-the-firm.md), starting with the firm.
-- Related: [[capital-and-interest|capital and interest]], [[time-inconsistency-and-self-control|time inconsistency]].
+- Related: [capital and interest](../06-factor-markets/07-capital-and-interest.md), [time inconsistency](../09-behavioural-economics/05-time-inconsistency-and-self-control.md).
 - Related branch: [the time value of money](../../finance/01-foundations/04-time-value-of-money.md).
-- Glossary: [[g:time-preference|time preference]], [[g:discount-factor|discount factor]], [[g:consumption-smoothing|consumption smoothing]], [[g:present-value|present value]].
+- Glossary: [time preference](../glossary/time-preference.md), [discount factor](../glossary/discount-factor.md), [consumption smoothing](../glossary/consumption-smoothing.md), [present value](../glossary/present-value.md).

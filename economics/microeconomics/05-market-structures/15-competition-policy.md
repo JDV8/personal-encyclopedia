@@ -1,6 +1,6 @@
 # Competition policy
 
-**Prerequisites:** [[monopoly-pricing-and-deadweight-loss|Monopoly pricing and deadweight loss]], [[prisoners-dilemma-and-cartels|The prisoner's dilemma and cartels]].
+**Prerequisites:** [Monopoly pricing and deadweight loss](05-monopoly-pricing-and-deadweight-loss.md), [The prisoner's dilemma and cartels](12-prisoners-dilemma-and-cartels.md).
 
 ![A 1911 cartoon depicting the trusts' opposition to the Sherman Antitrust Act, the 1890 law used to break up Standard Oil that year](images/15-competition-policy.jpg)
 
@@ -16,7 +16,7 @@ In Canada, the current law is the **Competition Act** (1986), enforced by the **
 
 ## Three main targets
 
-**1. Cartels and agreements between competitors.** Price-fixing, bid-rigging, market allocation and output restriction among competitors are treated most severely: in Canada and the United States they are criminal offences. Enforcement relies heavily on **leniency programmes**, which exploit the [[prisoners-dilemma-and-cartels|prisoner's dilemma]] by offering immunity to the first cartel member to confess.
+**1. Cartels and agreements between competitors.** Price-fixing, bid-rigging, market allocation and output restriction among competitors are treated most severely: in Canada and the United States they are criminal offences. Enforcement relies heavily on **leniency programmes**, which exploit the [prisoner's dilemma](12-prisoners-dilemma-and-cartels.md) by offering immunity to the first cartel member to confess.
 
 **2. Abuse of dominance (monopolisation).** Having a large market share is not illegal. Using it to exclude rivals unfairly can be. Examples of potentially abusive conduct include predatory pricing (pricing below cost to drive out rivals and then raising prices), exclusive dealing contracts that foreclose competitors, tying (requiring customers who buy one product to buy another), and refusing access to essential facilities. Many of these practices can also have legitimate business reasons, so cases often turn on detailed evidence about effects.
 
@@ -24,7 +24,7 @@ In Canada, the current law is the **Competition Act** (1986), enforced by the **
 
 ## Tools of analysis
 
-- **Market definition.** Which products and regions compete with each other? The **hypothetical monopolist test** asks whether a single firm controlling a set of products could profitably impose a small but significant non-transitory increase in price (SSNIP), typically 5 percent. If customers would switch away in large numbers, the market is defined more broadly. This uses [[other-elasticities|cross-price elasticities]].
+- **Market definition.** Which products and regions compete with each other? The **hypothetical monopolist test** asks whether a single firm controlling a set of products could profitably impose a small but significant non-transitory increase in price (SSNIP), typically 5 percent. If customers would switch away in large numbers, the market is defined more broadly. This uses [cross-price elasticities](../02-supply-and-demand/08-other-elasticities.md).
 - **Concentration measures.** The **Herfindahl-Hirschman Index** (HHI), the sum of squared market shares, is widely used. US merger guidelines (2023) treat markets with HHI above 1,800 as highly concentrated and presume that mergers raising HHI by more than 100 in such markets are likely to substantially lessen competition.
 - **Unilateral and coordinated effects.** A merger may let the merged firm raise prices on its own (unilateral effects), or may make tacit collusion among remaining firms easier (coordinated effects).
 - **Efficiencies.** Cost savings from a merger may offset harm to consumers. Canada historically had a distinctive **efficiencies defence** that allowed mergers producing efficiency gains greater than their anti-competitive effects; the 2023 amendments repealed it.
@@ -62,6 +62,6 @@ Large technology platforms raise new questions: services that are free to users,
 
 ## Where this leads
 
-- Next section: [[derived-demand|factor markets]].
-- Related branch: [[path:economics/finance/05-regulation/01-why-markets-are-regulated.md|why markets are regulated]] in the finance course.
-- Glossary: [[g:antitrust|antitrust]], [[g:herfindahl-hirschman-index|Herfindahl-Hirschman Index]], [[g:predatory-pricing|predatory pricing]], [[g:merger|merger]].
+- Next section: [factor markets](../06-factor-markets/01-derived-demand.md).
+- Related branch: [why markets are regulated](../../finance/05-regulation/01-why-markets-are-regulated.md) in the finance course.
+- Glossary: [antitrust](../glossary/antitrust.md), [Herfindahl-Hirschman Index](../glossary/herfindahl-hirschman-index.md), [predatory pricing](../glossary/predatory-pricing.md), [merger](../glossary/merger.md).

@@ -1,6 +1,6 @@
 # Income inequality
 
-**Prerequisites:** [[wage-determination|Wage determination]], [[human-capital|Human capital]], [[capital-and-interest|Capital and interest]].
+**Prerequisites:** [Wage determination](04-wage-determination.md), [Human capital](05-human-capital.md), [Capital and interest](07-capital-and-interest.md).
 
 ![Lorenz curves for Denmark, Hungary and Namibia (data from 1997, 2002 and 2003): the further the curve sags below the diagonal, the more unequal the income distribution](images/09-income-inequality.jpg)
 
@@ -71,7 +71,7 @@ Economics measures inequality; judging it involves values:
 - **Rawlsian** views (John Rawls, *A Theory of Justice*, 1971) judge a society by how well its worst-off members fare.
 - **Libertarian** views (Robert Nozick, *Anarchy, State, and Utopia*, 1974) judge distributions by whether they arose through just acquisition and voluntary exchange, not by their shape.
 
-These are developed in [[efficiency-versus-equity|efficiency versus equity]]. Arthur Okun's *Equality and Efficiency: The Big Tradeoff* (1975) famously compared redistribution to carrying water in a "leaky bucket": some is lost through reduced incentives and administrative costs. How leaky the bucket is remains an empirical question.
+These are developed in [efficiency versus equity](../08-welfare-economics/04-efficiency-versus-equity.md). Arthur Okun's *Equality and Efficiency: The Big Tradeoff* (1975) famously compared redistribution to carrying water in a "leaky bucket": some is lost through reduced incentives and administrative costs. How leaky the bucket is remains an empirical question.
 
 ## Key ideas
 
@@ -83,7 +83,7 @@ These are developed in [[efficiency-versus-equity|efficiency versus equity]]. Ar
 
 ## Where this leads
 
-- Next section: [[what-is-market-failure|market failure]].
-- Related: [[efficiency-versus-equity|efficiency versus equity]].
-- Related branch: philosophy's [[path:philosophy/concepts/political/README.md|political philosophy]].
-- Glossary: [[g:lorenz-curve|Lorenz curve]], [[g:gini-coefficient|Gini coefficient]], [[g:intergenerational-mobility|intergenerational mobility]].
+- Next section: [market failure](../07-market-failure/01-what-is-market-failure.md).
+- Related: [efficiency versus equity](../08-welfare-economics/04-efficiency-versus-equity.md).
+- Related branch: philosophy's [political philosophy](../../../philosophy/concepts/political/README.md).
+- Glossary: [Lorenz curve](../glossary/lorenz-curve.md), [Gini coefficient](../glossary/gini-coefficient.md), [intergenerational mobility](../glossary/intergenerational-mobility.md).

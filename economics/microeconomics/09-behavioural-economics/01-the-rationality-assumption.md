@@ -1,6 +1,6 @@
 # The rationality assumption
 
-**Prerequisites:** [[preferences-and-utility|Preferences and utility]], [[optimal-choice|Optimal choice]], [[choice-under-uncertainty|Choice under uncertainty]].
+**Prerequisites:** [Preferences and utility](../03-consumer-theory/01-preferences-and-utility.md), [Optimal choice](../03-consumer-theory/06-optimal-choice.md), [Choice under uncertainty](../03-consumer-theory/11-choice-under-uncertainty.md).
 
 ![A chess position: the rational agent of economic theory is often pictured as a flawless calculator, looking ahead to every consequence](images/01-the-rationality-assumption.jpg)
 
@@ -15,8 +15,8 @@ In everyday speech, "rational" suggests sensible or reasonable. In economics it 
 1. **Completeness.** For any two options, a person either prefers one or is indifferent.
 2. **Transitivity.** If you prefer A to B and B to C, you prefer A to C.
 3. **Maximisation.** You choose the most preferred option you can afford.
-4. Under uncertainty, **expected utility maximisation**: you weigh outcomes by their probabilities (see [[choice-under-uncertainty|choice under uncertainty]]).
-5. Over time, **consistent discounting**: your plans for the future do not change merely because time passes (see [[intertemporal-choice|intertemporal choice]]).
+4. Under uncertainty, **expected utility maximisation**: you weigh outcomes by their probabilities (see [choice under uncertainty](../03-consumer-theory/11-choice-under-uncertainty.md)).
+5. Over time, **consistent discounting**: your plans for the future do not change merely because time passes (see [intertemporal choice](../03-consumer-theory/12-intertemporal-choice.md)).
 6. Often, **self-interest**: people care mainly about their own consumption.
 
 Rationality in this sense says nothing about *what* people should want. Someone who prefers opera to football, or spends all their money on charity, can be perfectly rational. It concerns the consistency of choices, not their content.
@@ -26,17 +26,17 @@ The term **homo economicus** ("economic man") is often used, sometimes mockingly
 ## Why economists assume rationality
 
 - **Tractability.** Rational choice gives precise, testable predictions. If you assume people maximise, you can derive demand curves, labour supply and responses to taxes.
-- **"As if" reasoning.** Milton Friedman argued in "The Methodology of Positive Economics" (1953) that the realism of assumptions matters less than the accuracy of predictions. Billiard players do not solve physics equations, but they play "as if" they did. See [[models-and-economic-method|models and economic method]].
+- **"As if" reasoning.** Milton Friedman argued in "The Methodology of Positive Economics" (1953) that the realism of assumptions matters less than the accuracy of predictions. Billiard players do not solve physics equations, but they play "as if" they did. See [models and economic method](../01-foundations/11-models-and-economic-method.md).
 - **Markets discipline mistakes.** Firms that do not maximise profit may be driven out. Arbitrageurs exploit mispricing. Mistakes may cancel out in aggregate.
 - **Normative benchmark.** Even if people are not fully rational, rational choice describes what they would do with full information and consistency, a useful standard for policy.
-- **Many predictions work.** People buy less when prices rise; drivers respond to fuel prices; workers move toward higher wages. The [[law-of-demand|law of demand]] holds broadly.
+- **Many predictions work.** People buy less when prices rise; drivers respond to fuel prices; workers move toward higher wages. The [law of demand](../glossary/law-of-demand.md) holds broadly.
 
 ## Early challenges
 
 Doubts about rationality are old. Adam Smith's *The Theory of Moral Sentiments* (1759) discussed sympathy, self-deception and overconfidence. But formal challenges began in the 1950s:
 
 - **The Allais paradox** (Maurice Allais, 1953). Faced with pairs of gambles, most people make choices that are inconsistent with expected utility theory.
-- **Herbert Simon** (1955) argued that people have limited time, information and computing power, and so "satisfice" rather than optimise (see [[bounded-rationality|bounded rationality]]).
+- **Herbert Simon** (1955) argued that people have limited time, information and computing power, and so "satisfice" rather than optimise (see [bounded rationality](02-bounded-rationality.md)).
 - **The Ellsberg paradox** (Daniel Ellsberg, 1961). People prefer known risks to unknown ones (ambiguity aversion) in ways expected utility cannot explain.
 
 ### The Allais paradox: a worked example
@@ -55,7 +55,7 @@ Most people choose 2B. But under expected utility, the two choices should go the
 
 ## From anomalies to a field
 
-In the 1970s, the psychologists Daniel Kahneman and Amos Tversky documented systematic patterns in judgement and choice ([[heuristics-and-biases|heuristics and biases]], [[prospect-theory-in-economics|prospect theory]]). Economists such as Richard Thaler collected "anomalies" in a regular column in the *Journal of Economic Perspectives* (from 1987). Behavioural economics became mainstream: Kahneman won the Nobel prize in 2002 (Tversky died in 1996), Robert Shiller in 2013, and Thaler in 2017.
+In the 1970s, the psychologists Daniel Kahneman and Amos Tversky documented systematic patterns in judgement and choice ([heuristics and biases](03-heuristics-and-biases.md), [prospect theory](04-prospect-theory-in-economics.md)). Economists such as Richard Thaler collected "anomalies" in a regular column in the *Journal of Economic Perspectives* (from 1987). Behavioural economics became mainstream: Kahneman won the Nobel prize in 2002 (Tversky died in 1996), Robert Shiller in 2013, and Thaler in 2017.
 
 ```mermaid
 flowchart LR
@@ -79,6 +79,6 @@ Behavioural economics does not claim people are irrational in the sense of rando
 
 ## Where this leads
 
-- Next: [[bounded-rationality|bounded rationality]].
-- Related: [[path:economics/finance/07-behavioural-finance/01-from-rational-to-behavioural.md|from rational to behavioural finance]].
-- Glossary: [[g:homo-economicus|homo economicus]], [[g:allais-paradox|Allais paradox]], [[g:behavioural-economics|behavioural economics]], [[g:ambiguity-aversion|ambiguity aversion]].
+- Next: [bounded rationality](02-bounded-rationality.md).
+- Related: [from rational to behavioural finance](../../finance/07-behavioural-finance/01-from-rational-to-behavioural.md).
+- Glossary: [homo economicus](../glossary/homo-economicus.md), [Allais paradox](../glossary/allais-paradox.md), [behavioural economics](../glossary/behavioural-economics.md), [ambiguity aversion](../glossary/ambiguity-aversion.md).

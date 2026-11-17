@@ -75,5 +75,5 @@ Comparative advantage is a statement about potential gains under its assumptions
 ## Where this leads
 
 - Next: [gains from trade](08-gains-from-trade.md).
-- Related: [the production possibilities frontier](09-production-possibilities-frontier.md), [[david-ricardo|David Ricardo]].
-- Glossary: [[g:comparative-advantage|comparative advantage]], [[g:absolute-advantage|absolute advantage]], [[g:terms-of-trade|terms of trade]].
+- Related: [the production possibilities frontier](09-production-possibilities-frontier.md), [David Ricardo](../10-history-of-thought/thinkers/02-david-ricardo.md).
+- Glossary: [comparative advantage](../glossary/comparative-advantage.md), [absolute advantage](../glossary/absolute-advantage.md), [terms of trade](../glossary/terms-of-trade.md).

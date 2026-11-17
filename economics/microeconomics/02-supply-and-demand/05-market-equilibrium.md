@@ -84,5 +84,5 @@ The equilibrium above is **stable**: if the price is disturbed, forces push it b
 ## Where this leads
 
 - Next: [comparative statics](06-comparative-statics.md), how equilibrium moves when curves shift.
-- Related: [[general-equilibrium|general equilibrium]], equilibrium in many markets at once.
-- Glossary: [[g:equilibrium|equilibrium]], [[g:shortage|shortage]], [[g:surplus|surplus (excess supply)]].
+- Related: [general equilibrium](../08-welfare-economics/02-general-equilibrium.md), equilibrium in many markets at once.
+- Glossary: [equilibrium](../glossary/equilibrium.md), [shortage](../glossary/shortage.md), [surplus (excess supply)](../glossary/surplus.md).

@@ -1,6 +1,6 @@
 # Cournot, Bertrand and Stackelberg
 
-**Prerequisites:** [[nash-equilibrium|Nash equilibrium]], [[oligopoly|Oligopoly]].
+**Prerequisites:** [Nash equilibrium](11-nash-equilibrium.md), [Oligopoly](09-oligopoly.md).
 
 ![Joseph Bertrand (1822–1900), the French mathematician who argued in 1883 that firms compete on price](images/13-cournot-bertrand-and-stackelberg.jpg)
 
@@ -46,7 +46,7 @@ Real duopolies rarely price at marginal cost. The Bertrand result relies on assu
 
 - **Capacity constraints.** If a firm cannot serve the whole market, undercutting gains less. David Kreps and José Scheinkman showed in 1983 that when firms first choose capacities and then compete in prices, the outcome can be the Cournot one.
 - **Product differentiation.** If products differ, a small price cut does not capture all customers, and prices stay above marginal cost.
-- **Repeated interaction.** Firms meeting repeatedly can sustain higher prices through implicit threats (see [[repeated-games-and-strategic-moves|repeated games]]).
+- **Repeated interaction.** Firms meeting repeatedly can sustain higher prices through implicit threats (see [repeated games](14-repeated-games-and-strategic-moves.md)).
 
 Which model fits depends on the industry. Where capacity is costly to adjust and set in advance (steel, cement, oil refining), Cournot often fits better. Where capacity is flexible and products are similar (some online retail, software), Bertrand-like price competition is more relevant.
 
@@ -90,5 +90,5 @@ The leader produces more and earns more than in Cournot (900); the follower prod
 
 ## Where this leads
 
-- Next: [[repeated-games-and-strategic-moves|repeated games and strategic moves]].
-- Glossary: [[g:cournot-competition|Cournot competition]], [[g:bertrand-competition|Bertrand competition]], [[g:stackelberg-competition|Stackelberg competition]], [[g:best-response|best response]].
+- Next: [repeated games and strategic moves](14-repeated-games-and-strategic-moves.md).
+- Glossary: [Cournot competition](../glossary/cournot-competition.md), [Bertrand competition](../glossary/bertrand-competition.md), [Stackelberg competition](../glossary/stackelberg-competition.md), [best response](../glossary/best-response.md).

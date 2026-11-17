@@ -1,6 +1,6 @@
 # Cap and trade and regulation
 
-**Prerequisites:** [[pigouvian-taxes-and-subsidies|Pigouvian taxes and subsidies]], [[coase-theorem|The Coase theorem]].
+**Prerequisites:** [Pigouvian taxes and subsidies](05-pigouvian-taxes-and-subsidies.md), [The Coase theorem](06-coase-theorem.md).
 
 ![Carbon taxes and emissions trading systems around the world as of 2021](images/07-cap-and-trade-and-regulation.jpg)
 
@@ -75,6 +75,6 @@ Disadvantages:
 
 ## Where this leads
 
-- Next: [[public-goods|public goods]].
-- Related: [[path:economics/finance/04-markets/01-what-an-exchange-does.md|what an exchange does]] (permit markets are exchanges).
-- Glossary: [[g:cap-and-trade|cap and trade]], [[g:command-and-control|command and control]], [[g:emissions-permit|emissions permit]].
+- Next: [public goods](08-public-goods.md).
+- Related: [what an exchange does](../../finance/04-markets/01-what-an-exchange-does.md) (permit markets are exchanges).
+- Glossary: [cap and trade](../glossary/cap-and-trade.md), [command and control](../glossary/command-and-control.md), [emissions permit](../glossary/emissions-permit.md).

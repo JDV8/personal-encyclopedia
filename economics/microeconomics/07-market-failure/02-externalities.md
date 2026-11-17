@@ -1,6 +1,6 @@
 # Externalities
 
-**Prerequisites:** [[what-is-market-failure|What is market failure?]], [[producer-surplus-and-total-surplus|Total surplus]].
+**Prerequisites:** [What is market failure?](01-what-is-market-failure.md), [Total surplus](../02-supply-and-demand/10-producer-surplus-and-total-surplus.md).
 
 ![A factory stack emitting smoke; the people downwind are third parties to the factory's sales](images/02-externalities.jpg)
 
@@ -31,8 +31,8 @@ Markets equate MPB and MPC. Efficiency requires MSB = MSC. When MEC or MEB is no
 | **Negative** | Factory smoke, agricultural runoff | Second-hand smoke, traffic congestion, loud parties |
 | **Positive** | Bees from a honey farm pollinating nearby orchards; research spillovers | Vaccination, education, restoring a historic house |
 
-- **Negative externalities** lead to **overproduction**: the market quantity exceeds the efficient quantity. See [[negative-externalities-and-pollution|negative externalities and pollution]].
-- **Positive externalities** lead to **underproduction**. See [[positive-externalities|positive externalities]].
+- **Negative externalities** lead to **overproduction**: the market quantity exceeds the efficient quantity. See [negative externalities and pollution](03-negative-externalities-and-pollution.md).
+- **Positive externalities** lead to **underproduction**. See [positive externalities](04-positive-externalities.md).
 
 ```mermaid
 flowchart LR
@@ -60,10 +60,10 @@ If each shot gives others an external benefit of 8 dollars (reduced infection ri
 
 | Approach | Idea | Lesson |
 |---|---|---|
-| Pigouvian tax or subsidy | Make private cost equal social cost | [[pigouvian-taxes-and-subsidies|Pigouvian taxes and subsidies]] |
-| Bargaining | Assign property rights and let parties trade | [[coase-theorem|The Coase theorem]] |
-| Tradable permits | Cap total quantity, let firms trade the right to emit | [[cap-and-trade-and-regulation|Cap and trade]] |
-| Command and control | Set standards or bans | [[cap-and-trade-and-regulation|Regulation]] |
+| Pigouvian tax or subsidy | Make private cost equal social cost | [Pigouvian taxes and subsidies](05-pigouvian-taxes-and-subsidies.md) |
+| Bargaining | Assign property rights and let parties trade | [The Coase theorem](06-coase-theorem.md) |
+| Tradable permits | Cap total quantity, let firms trade the right to emit | [Cap and trade](07-cap-and-trade-and-regulation.md) |
+| Command and control | Set standards or bans | [Regulation](07-cap-and-trade-and-regulation.md) |
 | Social norms and private action | Etiquette, reputation, mergers that internalise spillovers | — |
 
 ## Key ideas
@@ -75,6 +75,6 @@ If each shot gives others an external benefit of 8 dollars (reduced infection ri
 
 ## Where this leads
 
-- Next: [[negative-externalities-and-pollution|negative externalities and pollution]].
-- Related: [[path:economics/finance/05-regulation/01-why-markets-are-regulated.md|why financial markets are regulated]] (systemic risk is an externality).
-- Glossary: [[g:externality|externality]], [[g:marginal-social-cost|marginal social cost]], [[g:pecuniary-externality|pecuniary externality]].
+- Next: [negative externalities and pollution](03-negative-externalities-and-pollution.md).
+- Related: [why financial markets are regulated](../../finance/05-regulation/01-why-markets-are-regulated.md) (systemic risk is an externality).
+- Glossary: [externality](../glossary/externality.md), [marginal social cost](../glossary/marginal-social-cost.md), [pecuniary externality](../glossary/pecuniary-externality.md).

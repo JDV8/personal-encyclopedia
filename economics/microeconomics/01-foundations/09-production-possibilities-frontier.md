@@ -76,5 +76,5 @@ The PPF shows what is possible, not what is best. Choosing a point on the fronti
 ## Where this leads
 
 - Next: [markets, prices and property rights](10-markets-prices-and-property-rights.md).
-- Later: [[efficiency-and-pareto-optimality|efficiency and Pareto optimality]] generalises the idea of being "on the frontier".
-- Glossary: [[g:production-possibilities-frontier|production possibilities frontier]], [[g:productive-efficiency|productive efficiency]].
+- Later: [efficiency and Pareto optimality](../08-welfare-economics/01-efficiency-and-pareto-optimality.md) generalises the idea of being "on the frontier".
+- Glossary: [production possibilities frontier](../glossary/production-possibilities-frontier.md), [productive efficiency](../glossary/productive-efficiency.md).

@@ -1,6 +1,6 @@
 # The prisoner's dilemma and cartels
 
-**Prerequisites:** [[nash-equilibrium|Nash equilibrium]], [[oligopoly|Oligopoly]].
+**Prerequisites:** [Nash equilibrium](11-nash-equilibrium.md), [Oligopoly](09-oligopoly.md).
 
 ![OPEC headquarters in Vienna; the oil cartel's members face the temptation to produce above their quotas](images/12-prisoners-dilemma-and-cartels.jpg)
 
@@ -45,7 +45,7 @@ flowchart TB
 
 ## Cartels as prisoner's dilemmas
 
-Return to the two bottled-water firms from [[oligopoly|oligopoly]], now choosing between keeping to a cartel quota (7.5 thousand bottles each) or cheating (10 thousand). With demand P = 30 − Q and zero cost, profits are:
+Return to the two bottled-water firms from [oligopoly](09-oligopoly.md), now choosing between keeping to a cartel quota (7.5 thousand bottles each) or cheating (10 thousand). With demand P = 30 − Q and zero cost, profits are:
 
 | | B: Keep quota | B: Cheat |
 |---|---|---|
@@ -60,19 +60,19 @@ This is why cartels need ways to detect and punish cheating, and why they often 
 
 - **Advertising wars.** Two firms might both be better off not advertising, but each advertises to avoid losing customers to the other. When the US banned television cigarette advertising from 1971, some economists noted that the ban may have helped the tobacco companies by ending costly advertising competition.
 - **Arms races.** Each country prefers to arm whatever the other does; both end up spending heavily and no safer.
-- **Climate change.** Each country benefits from others' emissions cuts while bearing the cost of its own. See [[public-goods|public goods]].
-- **Overfishing and the commons.** Each fishing fleet catches as much as possible; the stock collapses. See [[common-resources|common resources]].
+- **Climate change.** Each country benefits from others' emissions cuts while bearing the cost of its own. See [public goods](../07-market-failure/08-public-goods.md).
+- **Overfishing and the commons.** Each fishing fleet catches as much as possible; the stock collapses. See [common resources](../07-market-failure/09-common-resources.md).
 - **Doping in sport**, **grade inflation**, **traffic congestion** and many other situations share the structure.
 
 ## Escaping the dilemma
 
 Cooperation is possible when the game changes:
 
-1. **Repetition.** If the game is played many times with no known end, the threat of future punishment can sustain cooperation now. See [[repeated-games-and-strategic-moves|repeated games]].
+1. **Repetition.** If the game is played many times with no known end, the threat of future punishment can sustain cooperation now. See [repeated games](14-repeated-games-and-strategic-moves.md).
 2. **Binding agreements and enforcement.** Contracts, laws and regulations can change payoffs so that cooperation becomes individually rational. Governments do this when they mandate fishing quotas or emissions limits.
 3. **Communication and trust.** In experiments, allowing players to talk increases cooperation, even though promises are not binding.
-4. **Social norms and preferences.** People who care about fairness or reputation, or feel guilt at betraying a partner, do not have the payoffs of the pure game. Experiments find that many people cooperate in one-shot dilemmas more often than the theory predicts, especially at first. See [[social-preferences-and-fairness|social preferences and fairness]].
-5. **Changing the players' institutions.** Elinor Ostrom documented how communities manage common resources through locally designed rules, monitoring and graduated sanctions. See [[elinor-ostrom|Elinor Ostrom]].
+4. **Social norms and preferences.** People who care about fairness or reputation, or feel guilt at betraying a partner, do not have the payoffs of the pure game. Experiments find that many people cooperate in one-shot dilemmas more often than the theory predicts, especially at first. See [social preferences and fairness](../09-behavioural-economics/06-social-preferences-and-fairness.md).
+5. **Changing the players' institutions.** Elinor Ostrom documented how communities manage common resources through locally designed rules, monitoring and graduated sanctions. See [Elinor Ostrom](../10-history-of-thought/thinkers/15-elinor-ostrom.md).
 
 ## Key ideas
 
@@ -84,6 +84,6 @@ Cooperation is possible when the game changes:
 
 ## Where this leads
 
-- Next: [[cournot-bertrand-and-stackelberg|Cournot, Bertrand and Stackelberg]].
-- Related: [[common-resources|common resources]], [[public-goods|public goods]].
-- Glossary: [[g:prisoners-dilemma|prisoner's dilemma]], [[g:cartel|cartel]], [[g:dominant-strategy|dominant strategy]].
+- Next: [Cournot, Bertrand and Stackelberg](13-cournot-bertrand-and-stackelberg.md).
+- Related: [common resources](../07-market-failure/09-common-resources.md), [public goods](../07-market-failure/08-public-goods.md).
+- Glossary: [prisoner's dilemma](../glossary/prisoners-dilemma.md), [cartel](../glossary/cartel.md), [dominant strategy](../glossary/dominant-strategy.md).

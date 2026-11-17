@@ -42,7 +42,7 @@ The **law of supply** says that, other things equal, a higher price leads to a l
 
 Read from the quantity axis up, the height of the supply curve shows the **marginal cost** of the last unit, or equivalently the lowest price at which a seller would be willing to supply it. On our schedule, the 500th cup is supplied by a seller whose cost of producing it is 3 dollars. Earlier cups are supplied by sellers with lower costs. This reading underlies [producer surplus](10-producer-surplus-and-total-surplus.md).
 
-In a competitive market, a firm's supply curve is literally the rising part of its marginal cost curve, a result proved in [[the-competitive-firm-in-the-short-run|the competitive firm in the short run]].
+In a competitive market, a firm's supply curve is literally the rising part of its marginal cost curve, a result proved in [the competitive firm in the short run](../05-market-structures/02-the-competitive-firm-in-the-short-run.md).
 
 ## Individual and market supply
 
@@ -63,15 +63,15 @@ How much quantity supplied can respond depends on time:
 - In the **short run**, firms can vary labour and materials but not plant size; supply slopes upward.
 - In the **long run**, firms can build new plants and new firms can enter, so supply responds much more.
 
-Alfred Marshall introduced this distinction between time periods in his *Principles of Economics* (1890), and it recurs throughout the course. See [elasticity of supply](08-other-elasticities.md) and [[long-run-competitive-equilibrium|long-run competitive equilibrium]].
+Alfred Marshall introduced this distinction between time periods in his *Principles of Economics* (1890), and it recurs throughout the course. See [elasticity of supply](08-other-elasticities.md) and [long-run competitive equilibrium](../05-market-structures/03-long-run-competitive-equilibrium.md).
 
 ## Upward-sloping supply is not universal
 
 The law of supply is a good general rule, with some exceptions and subtleties:
 
 - In industries with strong economies of scale, long-run average costs can fall as output grows, so long-run supply can be flat or even slope down over some ranges.
-- Some supply is fixed regardless of price: there is only one Mona Lisa, and the land area of downtown Toronto does not grow when rents rise. Such supply is perfectly inelastic, which is central to the theory of [[land-and-rent|land and rent]].
-- Labour supply can bend backward at high wages, because people may choose more leisure when they are richer. See [[labour-supply|labour supply]].
+- Some supply is fixed regardless of price: there is only one Mona Lisa, and the land area of downtown Toronto does not grow when rents rise. Such supply is perfectly inelastic, which is central to the theory of [land and rent](../06-factor-markets/08-land-and-rent.md).
+- Labour supply can bend backward at high wages, because people may choose more leisure when they are richer. See [labour supply](../06-factor-markets/03-labour-supply.md).
 
 ## Key ideas
 
@@ -85,4 +85,4 @@ The law of supply is a good general rule, with some exceptions and subtleties:
 
 - Next: [shifts in supply](04-shifts-in-supply.md).
 - Then: [market equilibrium](05-market-equilibrium.md), where supply meets demand.
-- Glossary: [[g:supply|supply]], [[g:law-of-supply|law of supply]], [[g:supply-curve|supply curve]], [[g:marginal-cost|marginal cost]].
+- Glossary: [supply](../glossary/supply.md), [law of supply](../glossary/law-of-supply.md), [supply curve](../glossary/supply-curve.md), [marginal cost](../glossary/marginal-cost.md).

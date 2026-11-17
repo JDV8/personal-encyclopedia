@@ -71,4 +71,4 @@ Giffen goods are a curiosity in practice, but they teach two things. First, the 
 ## Where this leads
 
 - Next: [from individual to market demand](10-from-individual-to-market-demand.md).
-- Glossary: [[g:giffen-good|Giffen good]], [[g:inferior-good|inferior good]], [[g:veblen-good|Veblen good]].
+- Glossary: [Giffen good](../glossary/giffen-good.md), [inferior good](../glossary/inferior-good.md), [Veblen good](../glossary/veblen-good.md).

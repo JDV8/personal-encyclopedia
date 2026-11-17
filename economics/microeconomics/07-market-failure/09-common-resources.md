@@ -1,6 +1,6 @@
 # Common resources
 
-**Prerequisites:** [[public-goods|Public goods]], [[negative-externalities-and-pollution|Negative externalities]].
+**Prerequisites:** [Public goods](08-public-goods.md), [Negative externalities](03-negative-externalities-and-pollution.md).
 
 ![Hand-line dory cod fishing on the Grand Bank of Newfoundland, a common resource that collapsed by the early 1990s](images/09-common-resources.jpg)
 
@@ -54,7 +54,7 @@ flowchart LR
 2. **Quotas and individual transferable quotas (ITQs).** Total catch is capped and shares are assigned to fishers, who can trade them. Iceland and New Zealand adopted ITQs in the 1980s; studies such as Costello, Gaines and Lynham (2008) found that ITQ fisheries were much less likely to collapse.
 3. **Taxes or fees** per unit of use, like congestion charges.
 4. **Government regulation** of seasons, gear and licences.
-5. **Community governance.** [[elinor-ostrom|Elinor Ostrom]] showed that many communities manage commons successfully for centuries without either privatisation or central control.
+5. **Community governance.** [Elinor Ostrom](../10-history-of-thought/thinkers/15-elinor-ostrom.md) showed that many communities manage commons successfully for centuries without either privatisation or central control.
 
 ## Ostrom's design principles
 
@@ -80,6 +80,6 @@ Ostrom became the first woman to win the Nobel prize in economics, in 2009, shar
 
 ## Where this leads
 
-- Next: [[asymmetric-information|asymmetric information]].
-- Related: [[path:philosophy/history/ancient/greek/thinkers/aristotle.md|Aristotle]], who anticipated the problem.
-- Glossary: [[g:tragedy-of-the-commons|tragedy of the commons]], [[g:common-resource|common resource]], [[g:individual-transferable-quota|individual transferable quota]].
+- Next: [asymmetric information](10-asymmetric-information.md).
+- Related: [Aristotle](../../../philosophy/history/ancient/greek/thinkers/aristotle.md), who anticipated the problem.
+- Glossary: [tragedy of the commons](../glossary/tragedy-of-the-commons.md), [common resource](../glossary/common-resource.md), [individual transferable quota](../glossary/individual-transferable-quota.md).

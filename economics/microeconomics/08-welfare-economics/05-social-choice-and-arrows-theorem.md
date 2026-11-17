@@ -1,12 +1,12 @@
 # Social choice and Arrow's theorem
 
-**Prerequisites:** [[efficiency-versus-equity|Efficiency versus equity]], [[preferences-and-utility|Preferences and utility]].
+**Prerequisites:** [Efficiency versus equity](04-efficiency-versus-equity.md), [Preferences and utility](../03-consumer-theory/01-preferences-and-utility.md).
 
 ![Medallion of the Marquis de Condorcet by David d'Angers; Condorcet discovered the voting paradox that bears his name (1785)](images/05-social-choice-and-arrows-theorem.jpg)
 
 *Medallion of the Marquis de Condorcet by David d'Angers; Condorcet discovered the voting paradox that bears his name (1785). Credit: David d'Angers. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Marie-Jean-Antoine-Nicolas de Caritat, marquis de Condorcet MET SF2003 492 1.jpg](https://commons.wikimedia.org/wiki/File:Marie-Jean-Antoine-Nicolas_de_Caritat,_marquis_de_Condorcet_MET_SF2003_492_1.jpg).*
 
-Individuals have preferences, but how should a group decide? Should it vote, and if so how? Can individual preferences be combined into a coherent "social preference"? **Social choice theory** studies these questions. Its central result, [[kenneth-arrow|Kenneth Arrow]]'s impossibility theorem (*Social Choice and Individual Values*, 1951), shows that no method of aggregating ranked preferences can satisfy a short list of reasonable conditions at once.
+Individuals have preferences, but how should a group decide? Should it vote, and if so how? Can individual preferences be combined into a coherent "social preference"? **Social choice theory** studies these questions. Its central result, [Kenneth Arrow](../10-history-of-thought/thinkers/13-kenneth-arrow.md)'s impossibility theorem (*Social Choice and Individual Values*, 1951), shows that no method of aggregating ranked preferences can satisfy a short list of reasonable conditions at once.
 
 ## The Condorcet paradox
 
@@ -71,7 +71,7 @@ Arrow's theorem does not say democracy is impossible; it says every rule has fla
 
 ## Why this matters for economics
 
-Welfare economics often speaks of "society's" preferences or a social welfare function. Arrow's theorem warns that such a function cannot simply be derived from individual rankings in a neutral way: value judgements about how to weigh people, or restrictions on what counts, are unavoidable. It also underpins public choice analysis of voting and agenda control (see [[government-failure|government failure]]).
+Welfare economics often speaks of "society's" preferences or a social welfare function. Arrow's theorem warns that such a function cannot simply be derived from individual rankings in a neutral way: value judgements about how to weigh people, or restrictions on what counts, are unavoidable. It also underpins public choice analysis of voting and agenda control (see [government failure](../07-market-failure/15-government-failure.md)).
 
 ## Key ideas
 
@@ -82,6 +82,6 @@ Welfare economics often speaks of "society's" preferences or a social welfare fu
 
 ## Where this leads
 
-- Next: [[cost-benefit-analysis|cost-benefit analysis]].
-- Related: [[kenneth-arrow|Kenneth Arrow]]; philosophy's [[path:philosophy/concepts/political/the-polis-and-political-animal.md|the polis and the political animal]].
-- Glossary: [[g:arrows-impossibility-theorem|Arrow's impossibility theorem]], [[g:condorcet-paradox|Condorcet paradox]], [[g:median-voter-theorem|median voter theorem]], [[g:independence-of-irrelevant-alternatives|independence of irrelevant alternatives]].
+- Next: [cost-benefit analysis](06-cost-benefit-analysis.md).
+- Related: [Kenneth Arrow](../10-history-of-thought/thinkers/13-kenneth-arrow.md); philosophy's [the polis and the political animal](../../../philosophy/concepts/political/the-polis-and-political-animal.md).
+- Glossary: [Arrow's impossibility theorem](../glossary/arrows-impossibility-theorem.md), [Condorcet paradox](../glossary/condorcet-paradox.md), [median voter theorem](../glossary/median-voter-theorem.md), [independence of irrelevant alternatives](../glossary/independence-of-irrelevant-alternatives.md).

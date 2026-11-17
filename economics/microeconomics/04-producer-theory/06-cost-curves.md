@@ -92,4 +92,4 @@ These curves answer the firm's key questions:
 ## Where this leads
 
 - Next: [long-run costs](07-long-run-costs.md).
-- Glossary: [[g:marginal-cost|marginal cost]], [[g:average-variable-cost|average variable cost]], [[g:average-total-cost|average total cost]], [[g:efficient-scale|efficient scale]].
+- Glossary: [marginal cost](../glossary/marginal-cost.md), [average variable cost](../glossary/average-variable-cost.md), [average total cost](../glossary/average-total-cost.md), [efficient scale](../glossary/efficient-scale.md).

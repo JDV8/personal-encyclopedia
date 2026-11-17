@@ -31,7 +31,7 @@ The idea that food takes a falling share of the budget as income rises is called
 - **Negative**: X and Y are **complements**. If printer prices rise 10% and ink cartridge sales fall 4%, the cross-elasticity is −0.4.
 - **Near zero**: unrelated goods.
 
-Competition authorities use cross-price elasticities to define markets. If a rise in the price of one product would send many customers to another, the two may be in the same market for antitrust purposes. A standard approach asks whether a hypothetical monopolist of a product could profitably impose a "small but significant and non-transitory increase in price" (the SSNIP test, typically 5 to 10 percent). See [[competition-policy|competition policy]].
+Competition authorities use cross-price elasticities to define markets. If a rise in the price of one product would send many customers to another, the two may be in the same market for antitrust purposes. A standard approach asks whether a hypothetical monopolist of a product could profitably impose a "small but significant and non-transitory increase in price" (the SSNIP test, typically 5 to 10 percent). See [competition policy](../05-market-structures/15-competition-policy.md).
 
 ## Price elasticity of supply
 
@@ -77,4 +77,4 @@ This is why oil price spikes can be so large: both short-run demand and short-ru
 
 - Next: [consumer surplus](09-consumer-surplus.md).
 - Related: [taxes and tax incidence](13-taxes-and-tax-incidence.md), where elasticities decide who pays.
-- Glossary: [[g:income-elasticity-of-demand|income elasticity of demand]], [[g:cross-price-elasticity|cross-price elasticity]], [[g:price-elasticity-of-supply|price elasticity of supply]], [[g:engels-law|Engel's law]].
+- Glossary: [income elasticity of demand](../glossary/income-elasticity-of-demand.md), [cross-price elasticity](../glossary/cross-price-elasticity.md), [price elasticity of supply](../glossary/price-elasticity-of-supply.md), [Engel's law](../glossary/engels-law.md).

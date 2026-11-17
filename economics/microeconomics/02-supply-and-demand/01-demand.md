@@ -81,4 +81,4 @@ Firms and economists estimate demand curves from data, surveys and experiments. 
 
 - Next: [shifts in demand](02-shifts-in-demand.md).
 - Related: [price elasticity of demand](07-price-elasticity-of-demand.md) measures how strongly quantity responds.
-- Glossary: [[g:demand|demand]], [[g:law-of-demand|law of demand]], [[g:demand-curve|demand curve]], [[g:willingness-to-pay|willingness to pay]].
+- Glossary: [demand](../glossary/demand.md), [law of demand](../glossary/law-of-demand.md), [demand curve](../glossary/demand-curve.md), [willingness to pay](../glossary/willingness-to-pay.md).

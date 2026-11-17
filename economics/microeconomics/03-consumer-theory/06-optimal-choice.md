@@ -51,7 +51,7 @@ With perfect substitutes, the consumer buys only the cheaper good (or is indiffe
 
 ## What the model claims
 
-The model does not claim people consciously compute tangencies. It claims that people behave **as if** they balanced the value of goods against their cost at the margin. It predicts how choices change when prices or income change, and those predictions, such as the law of demand, are broadly confirmed. Where behaviour departs from the model, for example because of inattention to prices or poor self-control, behavioural economics offers refinements. See [[bounded-rationality|bounded rationality]].
+The model does not claim people consciously compute tangencies. It claims that people behave **as if** they balanced the value of goods against their cost at the margin. It predicts how choices change when prices or income change, and those predictions, such as the law of demand, are broadly confirmed. Where behaviour departs from the model, for example because of inattention to prices or poor self-control, behavioural economics offers refinements. See [bounded rationality](../09-behavioural-economics/02-bounded-rationality.md).
 
 ## Key ideas
 
@@ -65,4 +65,4 @@ The model does not claim people consciously compute tangencies. It claims that p
 
 - Next: [income changes and Engel curves](07-income-changes-and-engel-curves.md).
 - Then: [income and substitution effects](08-income-and-substitution-effects.md).
-- Glossary: [[g:consumer-optimum|consumer optimum]], [[g:corner-solution|corner solution]].
+- Glossary: [consumer optimum](../glossary/consumer-optimum.md), [corner solution](../glossary/corner-solution.md).

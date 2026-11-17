@@ -47,7 +47,7 @@ The evidence is more mixed than the simple model suggests, and this is one of th
 
 - The 1994 study by David Card and Alan Krueger of fast-food restaurants in New Jersey and Pennsylvania found no reduction in employment after New Jersey's increase. David Neumark and William Wascher, using different data, disputed the finding.
 - Many later studies of moderate increases find small or statistically undetectable effects on employment, while some find larger effects, especially for teenagers or for large increases.
-- Explanations for small effects include **monopsony** power (employers with wage-setting power, in which case a minimum wage can raise both pay and employment; see [[monopsony-and-unions|monopsony and unions]]), reduced turnover, higher prices, and adjustment through hours or benefits rather than jobs.
+- Explanations for small effects include **monopsony** power (employers with wage-setting power, in which case a minimum wage can raise both pay and employment; see [monopsony and unions](../06-factor-markets/06-monopsony-and-unions.md)), reduced turnover, higher prices, and adjustment through hours or benefits rather than jobs.
 
 A reasonable summary is that the employment effect depends on how high the minimum wage is relative to local wages: modest increases appear to have small employment effects, while very high minimums relative to the local median wage carry more risk. Economists still disagree about where the line lies.
 
@@ -66,5 +66,5 @@ A reasonable summary is that the employment effect depends on how high the minim
 ## Where this leads
 
 - Next: [taxes and tax incidence](13-taxes-and-tax-incidence.md).
-- Related: [[wage-determination|wage determination]], [[monopsony-and-unions|monopsony and unions]].
-- Glossary: [[g:price-floor|price floor]], [[g:minimum-wage|minimum wage]], [[g:surplus|surplus (excess supply)]].
+- Related: [wage determination](../06-factor-markets/04-wage-determination.md), [monopsony and unions](../06-factor-markets/06-monopsony-and-unions.md).
+- Glossary: [price floor](../glossary/price-floor.md), [minimum wage](../glossary/minimum-wage.md), [surplus (excess supply)](../glossary/surplus.md).

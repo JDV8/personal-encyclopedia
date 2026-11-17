@@ -1,6 +1,6 @@
 # Classical economics
 
-**Prerequisites:** [[before-adam-smith|Before Adam Smith]], [[comparative-advantage|Comparative advantage]].
+**Prerequisites:** [Before Adam Smith](01-before-adam-smith.md), [Comparative advantage](../01-foundations/07-comparative-advantage.md).
 
 ![Thomas Robert Malthus, engraving after a portrait by John Linnell; his Essay on the Principle of Population (1798) shaped classical economics](images/02-classical-economics.jpg)
 
@@ -10,9 +10,9 @@
 
 ## Adam Smith and the wealth of nations
 
-[[adam-smith|Adam Smith]] argued, against mercantilism, that a nation's wealth is not its gold but the goods its people produce and consume ("the annual produce of the land and labour"). Its main source is **productivity**, driven by:
+[Adam Smith](thinkers/01-adam-smith.md) argued, against mercantilism, that a nation's wealth is not its gold but the goods its people produce and consume ("the annual produce of the land and labour"). Its main source is **productivity**, driven by:
 
-- **The division of labour.** His famous pin factory: one untrained worker alone "certainly could not make twenty" pins a day, while ten workers each specialising in a few operations made about 48,000, or 4,800 each (see [[specialization-and-division-of-labour|specialisation and division of labour]]).
+- **The division of labour.** His famous pin factory: one untrained worker alone "certainly could not make twenty" pins a day, while ten workers each specialising in a few operations made about 48,000, or 4,800 each (see [specialisation and division of labour](../01-foundations/06-specialization-and-division-of-labour.md)).
 - **The extent of the market.** Specialisation is limited by how large the market is; trade and transport extend it.
 - **Capital accumulation**, which funds tools and the employment of labour.
 
@@ -30,10 +30,10 @@ Thomas Robert Malthus's *An Essay on the Principle of Population* (1798) argued 
 
 ## Ricardo: rent, trade and the stationary state
 
-[[david-ricardo|David Ricardo]]'s *On the Principles of Political Economy and Taxation* (1817) brought rigour through abstract models:
+[David Ricardo](thinkers/02-david-ricardo.md)'s *On the Principles of Political Economy and Taxation* (1817) brought rigour through abstract models:
 
-- **Differential rent.** Rent arises from differences in land fertility; as population grows and poorer land is farmed, rents rise (see [[land-and-rent|land and rent]]).
-- **Comparative advantage.** Trade benefits both countries even if one is better at producing everything (see [[comparative-advantage|comparative advantage]]).
+- **Differential rent.** Rent arises from differences in land fertility; as population grows and poorer land is farmed, rents rise (see [land and rent](../06-factor-markets/08-land-and-rent.md)).
+- **Comparative advantage.** Trade benefits both countries even if one is better at producing everything (see [comparative advantage](../01-foundations/07-comparative-advantage.md)).
 - **The stationary state.** Ricardo predicted that rising rents and food costs would squeeze profits, eventually halting capital accumulation and growth, unless free trade (repeal of the Corn Laws) allowed cheap food imports.
 
 ```mermaid
@@ -52,11 +52,11 @@ Jean-Baptiste Say (*Treatise on Political Economy*, 1803) argued that production
 
 ## John Stuart Mill
 
-[[john-stuart-mill|John Stuart Mill]]'s *Principles of Political Economy* (1848) was the leading economics textbook for decades. Mill distinguished the **laws of production**, which he thought had the character of physical truths, from the **laws of distribution**, which he said are "a matter of human institution solely" and could be changed by society. He contributed to the theory of international trade (reciprocal demand, which determines the terms of trade) and was sympathetic to cooperatives, women's rights and, in principle, a stationary state where people would pursue culture rather than ever-growing wealth.
+[John Stuart Mill](thinkers/03-john-stuart-mill.md)'s *Principles of Political Economy* (1848) was the leading economics textbook for decades. Mill distinguished the **laws of production**, which he thought had the character of physical truths, from the **laws of distribution**, which he said are "a matter of human institution solely" and could be changed by society. He contributed to the theory of international trade (reciprocal demand, which determines the terms of trade) and was sympathetic to cooperatives, women's rights and, in principle, a stationary state where people would pursue culture rather than ever-growing wealth.
 
 ## Legacy
 
-Classical economics gave economics many lasting ideas: gains from specialisation and trade, the self-regulating tendencies of competitive markets, the role of capital accumulation, rent theory, comparative advantage and the quantity theory of money. Its labour and cost-based theories of value were replaced in the 1870s by marginal utility (see [[the-marginal-revolution|the marginal revolution]]). Its focus on growth and distribution returned in modern growth theory and in debates about inequality.
+Classical economics gave economics many lasting ideas: gains from specialisation and trade, the self-regulating tendencies of competitive markets, the role of capital accumulation, rent theory, comparative advantage and the quantity theory of money. Its labour and cost-based theories of value were replaced in the 1870s by marginal utility (see [the marginal revolution](03-the-marginal-revolution.md)). Its focus on growth and distribution returned in modern growth theory and in debates about inequality.
 
 ## Key ideas
 
@@ -67,6 +67,6 @@ Classical economics gave economics many lasting ideas: gains from specialisation
 
 ## Where this leads
 
-- Next: [[the-marginal-revolution|the marginal revolution]].
-- Thinkers: [[adam-smith|Adam Smith]], [[david-ricardo|David Ricardo]], [[john-stuart-mill|John Stuart Mill]], [[karl-marx|Karl Marx]].
-- Glossary: [[g:classical-economics|classical economics]], [[g:labour-theory-of-value|labour theory of value]], [[g:says-law|Say's law]], [[g:malthusian-trap|Malthusian trap]].
+- Next: [the marginal revolution](03-the-marginal-revolution.md).
+- Thinkers: [Adam Smith](thinkers/01-adam-smith.md), [David Ricardo](thinkers/02-david-ricardo.md), [John Stuart Mill](thinkers/03-john-stuart-mill.md), [Karl Marx](thinkers/04-karl-marx.md).
+- Glossary: [classical economics](../glossary/classical-economics.md), [labour theory of value](../glossary/labour-theory-of-value.md), [Say's law](../glossary/says-law.md), [Malthusian trap](../glossary/malthusian-trap.md).

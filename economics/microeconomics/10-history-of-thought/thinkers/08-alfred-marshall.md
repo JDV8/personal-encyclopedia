@@ -1,6 +1,6 @@
 # Alfred Marshall (1842–1924)
 
-**Prerequisites:** [[the-marginal-revolution|The marginal revolution]], [[market-equilibrium|Market equilibrium]], [[price-elasticity-of-demand|Price elasticity of demand]].
+**Prerequisites:** [The marginal revolution](../03-the-marginal-revolution.md), [Market equilibrium](../../02-supply-and-demand/05-market-equilibrium.md), [Price elasticity of demand](../../02-supply-and-demand/07-price-elasticity-of-demand.md).
 
 ![Alfred Marshall in his Cambridge home, Balliol Croft, around the time of his Principles of Economics](images/08-alfred-marshall.jpg)
 
@@ -18,17 +18,17 @@ In 1877 he married Mary Paley, one of the first women to study economics at Camb
 
 ### Supply and demand: the scissors
 
-Marshall argued that classical economists had overemphasised costs (supply) and the marginalists utility (demand). Both matter: "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production." Demand reflects marginal utility; supply reflects marginal cost (see [[market-equilibrium|market equilibrium]]).
+Marshall argued that classical economists had overemphasised costs (supply) and the marginalists utility (demand). Both matter: "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production." Demand reflects marginal utility; supply reflects marginal cost (see [market equilibrium](../../02-supply-and-demand/05-market-equilibrium.md)).
 
 The convention of drawing price on the vertical axis and quantity on the horizontal, still used today, comes from Marshall, who treated price as depending on quantity.
 
 ### Time periods
 
-Marshall distinguished the **market period** (supply fixed), the **short run** (firms can vary output with existing plant), and the **long run** (plant and the number of firms can change). Supply becomes more elastic as the period lengthens; cost of production matters more in the long run, demand more in the short run (see [[long-run-costs|long-run costs]]).
+Marshall distinguished the **market period** (supply fixed), the **short run** (firms can vary output with existing plant), and the **long run** (plant and the number of firms can change). Supply becomes more elastic as the period lengthens; cost of production matters more in the long run, demand more in the short run (see [long-run costs](../../04-producer-theory/07-long-run-costs.md)).
 
 ### Elasticity and consumer surplus
 
-He formalised **price elasticity of demand** (see [[price-elasticity-of-demand|price elasticity]]) and **consumer surplus**, the difference between what consumers would pay and what they do pay (see [[consumer-surplus|consumer surplus]]), building on Dupuit.
+He formalised **price elasticity of demand** (see [price elasticity](../../02-supply-and-demand/07-price-elasticity-of-demand.md)) and **consumer surplus**, the difference between what consumers would pay and what they do pay (see [consumer surplus](../../02-supply-and-demand/09-consumer-surplus.md)), building on Dupuit.
 
 ### Partial equilibrium and ceteris paribus
 
@@ -36,7 +36,7 @@ To keep analysis manageable, Marshall studied one market at a time, holding othe
 
 ### Industrial organisation
 
-Marshall described **external economies**, benefits firms gain from the growth of their industry or district, such as shared skills and suppliers, where "the mysteries of the trade become no mysteries; but are as it were in the air" (see [[positive-externalities|positive externalities]]). His concept of the "representative firm" and his biological analogies (firms as trees in a forest) reflected his view of the economy as evolving.
+Marshall described **external economies**, benefits firms gain from the growth of their industry or district, such as shared skills and suppliers, where "the mysteries of the trade become no mysteries; but are as it were in the air" (see [positive externalities](../../07-market-failure/04-positive-externalities.md)). His concept of the "representative firm" and his biological analogies (firms as trees in a forest) reflected his view of the economy as evolving.
 
 ```mermaid
 flowchart TB
@@ -66,6 +66,6 @@ The *Principles* went through eight editions and dominated English-language econ
 
 ## Where this leads
 
-- Next thinker: [[vilfredo-pareto|Vilfredo Pareto]].
-- Related: [[demand|demand]], [[supply|supply]], [[comparative-statics|comparative statics]].
-- Glossary: [[g:partial-equilibrium|partial equilibrium]], [[g:ceteris-paribus|ceteris paribus]], [[g:consumer-surplus|consumer surplus]], [[g:agglomeration-economies|agglomeration economies]].
+- Next thinker: [Vilfredo Pareto](09-vilfredo-pareto.md).
+- Related: [demand](../../02-supply-and-demand/01-demand.md), [supply](../../02-supply-and-demand/03-supply.md), [comparative statics](../../02-supply-and-demand/06-comparative-statics.md).
+- Glossary: [partial equilibrium](../../glossary/partial-equilibrium.md), [ceteris paribus](../../glossary/ceteris-paribus.md), [consumer surplus](../../glossary/consumer-surplus.md), [agglomeration economies](../../glossary/agglomeration-economies.md).

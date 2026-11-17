@@ -48,8 +48,8 @@ The French engineer-economist Jules Dupuit introduced the idea in 1844 in a pape
 
 Consumer surplus measures benefit in dollars, using buyers' willingness to pay. This has two consequences worth knowing:
 
-1. **It weights by ability to pay.** A rich person's willingness to pay is higher partly because they have more money. A dollar of surplus to a billionaire counts the same as a dollar to a student. Economists use consumer surplus mainly to measure *efficiency*, and treat distribution as a separate question. See [[efficiency-versus-equity|efficiency versus equity]].
-2. **It assumes demand reflects true benefit.** If buyers are misinformed or, as behavioural economics suggests, make predictable errors, willingness to pay may not match the benefit they actually get. See [[heuristics-and-biases|heuristics and biases]].
+1. **It weights by ability to pay.** A rich person's willingness to pay is higher partly because they have more money. A dollar of surplus to a billionaire counts the same as a dollar to a student. Economists use consumer surplus mainly to measure *efficiency*, and treat distribution as a separate question. See [efficiency versus equity](../08-welfare-economics/04-efficiency-versus-equity.md).
+2. **It assumes demand reflects true benefit.** If buyers are misinformed or, as behavioural economics suggests, make predictable errors, willingness to pay may not match the benefit they actually get. See [heuristics and biases](../09-behavioural-economics/03-heuristics-and-biases.md).
 
 There is also a technical subtlety: when a price change significantly affects buyers' real income, the area under an ordinary demand curve is only an approximation of the welfare change. More precise measures, called **compensating** and **equivalent variation**, were developed by John Hicks in the 1940s. For most goods that take a small share of the budget, the approximation is good.
 
@@ -69,4 +69,4 @@ Some of the largest consumer surplus comes from goods that are cheap or free. Se
 
 - Next: [producer surplus and total surplus](10-producer-surplus-and-total-surplus.md).
 - Applied: [deadweight loss](14-deadweight-loss.md) measures surplus destroyed by taxes and controls.
-- Glossary: [[g:consumer-surplus|consumer surplus]], [[g:willingness-to-pay|willingness to pay]], [[g:choke-price|choke price]].
+- Glossary: [consumer surplus](../glossary/consumer-surplus.md), [willingness to pay](../glossary/willingness-to-pay.md), [choke price](../glossary/choke-price.md).

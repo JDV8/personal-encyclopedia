@@ -1,12 +1,12 @@
 # Derived demand and factor markets
 
-**Prerequisites:** [[production-functions|Production functions]], [[profit-maximization|Profit maximization]].
+**Prerequisites:** [Production functions](../04-producer-theory/02-production-functions.md), [Profit maximization](../04-producer-theory/09-profit-maximization.md).
 
 ![Construction workers in Mexico preparing a concrete structure: builders are hired because people want buildings](images/01-derived-demand.jpg)
 
 *Construction workers in Mexico preparing a concrete structure: builders are hired because people want buildings. Credit: Tomascastelazo. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Construction workers in Mexico.jpg](https://commons.wikimedia.org/wiki/File:Construction_workers_in_Mexico.jpg).*
 
-So far the course has studied markets for goods and services. But firms also buy: they hire labour, rent or buy capital, and lease land. These are **factor markets**, the markets for the [[scarcity|factors of production]]. Factor markets determine wages, interest and rents, and therefore how national income is divided among workers, savers and landowners. This section applies supply and demand to them.
+So far the course has studied markets for goods and services. But firms also buy: they hire labour, rent or buy capital, and lease land. These are **factor markets**, the markets for the [factors of production](../01-foundations/01-scarcity.md). Factor markets determine wages, interest and rents, and therefore how national income is divided among workers, savers and landowners. This section applies supply and demand to them.
 
 ## Demand for a factor is derived
 
@@ -42,7 +42,7 @@ The firm hires up to the point where the MRP of the factor equals its price (the
 
 ## Why derived demand slopes down
 
-Because of [[diminishing-marginal-returns|diminishing marginal returns]], each additional worker or machine adds less output than the one before, so its MRP falls. A lower factor price makes it worth hiring more, down the falling MRP curve. So factor demand curves slope downward.
+Because of [diminishing marginal returns](../04-producer-theory/03-diminishing-marginal-returns.md), each additional worker or machine adds less output than the one before, so its MRP falls. A lower factor price makes it worth hiring more, down the falling MRP curve. So factor demand curves slope downward.
 
 ## What makes factor demand elastic
 
@@ -57,7 +57,7 @@ These laws help explain why some groups of workers have more bargaining power th
 
 ## Factor prices and income distribution
 
-Because factor prices determine incomes, factor markets are where microeconomics meets the question of distribution. Classical economists such as Ricardo saw the division of output among wages, profits and rent as the central problem of economics. The neoclassical answer, developed by John Bates Clark and others around 1900 as **marginal productivity theory**, is that in competitive markets each factor is paid its marginal revenue product. Whether that payment is "fair" is a separate, normative question; Clark thought it was, while critics have challenged both the theory's assumptions and its ethics. This section covers both the theory and the debates, ending with [[income-inequality|income inequality]].
+Because factor prices determine incomes, factor markets are where microeconomics meets the question of distribution. Classical economists such as Ricardo saw the division of output among wages, profits and rent as the central problem of economics. The neoclassical answer, developed by John Bates Clark and others around 1900 as **marginal productivity theory**, is that in competitive markets each factor is paid its marginal revenue product. Whether that payment is "fair" is a separate, normative question; Clark thought it was, while critics have challenged both the theory's assumptions and its ethics. This section covers both the theory and the debates, ending with [income inequality](09-income-inequality.md).
 
 ## Key ideas
 
@@ -69,5 +69,5 @@ Because factor prices determine incomes, factor markets are where microeconomics
 
 ## Where this leads
 
-- Next: [[labour-demand|labour demand]].
-- Glossary: [[g:derived-demand|derived demand]], [[g:marginal-revenue-product|marginal revenue product]], [[g:factors-of-production|factors of production]], [[g:marginal-productivity-theory|marginal productivity theory]].
+- Next: [labour demand](02-labour-demand.md).
+- Glossary: [derived demand](../glossary/derived-demand.md), [marginal revenue product](../glossary/marginal-revenue-product.md), [factors of production](../glossary/factors-of-production.md), [marginal productivity theory](../glossary/marginal-productivity-theory.md).

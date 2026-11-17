@@ -48,7 +48,7 @@ Real budget constraints often have kinks and complications:
 
 - **Quantity discounts** ("buy two, get the third half-price") create kinked budget lines.
 - **Rationing or limits** ("maximum two per customer") cut off part of the budget set.
-- **Taxes and benefits** that depend on income create kinks in the budget line between work and income, which matter for [[labour-supply|labour supply]].
+- **Taxes and benefits** that depend on income create kinks in the budget line between work and income, which matter for [labour supply](../06-factor-markets/03-labour-supply.md).
 - **Borrowing and saving** let consumers spend more or less than current income, adding a time dimension, covered in [intertemporal choice](12-intertemporal-choice.md).
 - **Time budgets** constrain choices that require time as well as money: a cheap holiday still takes a week.
 
@@ -67,4 +67,4 @@ Real consumers buy thousands of goods, not two. A standard trick is to let one a
 ## Where this leads
 
 - Next: [optimal choice](06-optimal-choice.md), where the budget line meets the indifference map.
-- Glossary: [[g:budget-constraint|budget constraint]], [[g:relative-price|relative price]], [[g:real-income|real income]].
+- Glossary: [budget constraint](../glossary/budget-constraint.md), [relative price](../glossary/relative-price.md), [real income](../glossary/real-income.md).

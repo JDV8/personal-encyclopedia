@@ -1,6 +1,6 @@
 # Human capital
 
-**Prerequisites:** [[wage-determination|Wage determination]], [[intertemporal-choice|Intertemporal choice]], [[opportunity-cost|Opportunity cost]].
+**Prerequisites:** [Wage determination](04-wage-determination.md), [Intertemporal choice](../03-consumer-theory/12-intertemporal-choice.md), [Opportunity cost](../01-foundations/03-opportunity-cost.md).
 
 ![Gary Becker in 2008; his book Human Capital (1964) named the field](images/05-human-capital.jpg)
 
@@ -26,7 +26,7 @@ An investment in education has costs now and benefits later:
 - **Costs**: tuition and fees, plus the much larger **opportunity cost** of forgone earnings while studying.
 - **Benefits**: higher earnings over a working life, plus non-monetary benefits such as more interesting work, better health and, for many people, the enjoyment of learning itself.
 
-The decision can be analysed with present values, as in the finance course's lessons on [[path:economics/finance/01-foundations/05-present-value-and-discounting.md|present value and discounting]].
+The decision can be analysed with present values, as in the finance course's lessons on [present value and discounting](../../finance/01-foundations/05-present-value-and-discounting.md).
 
 **Worked example.** Jordan can start work now at 40,000 a year, or spend two years in a technical college (tuition 5,000 a year) and then earn 52,000 a year. Assume a 40-year career either way (simplifying), and a discount rate of 5 percent.
 
@@ -55,7 +55,7 @@ But correlation is not causation: people who get more education may differ in ab
 
 ## Signalling: an alternative view
 
-Michael Spence's **job-market signalling** model (1973) offers a different interpretation. Suppose education does not raise productivity at all, but it is easier (less costly) for more able people to complete. Then employers can use education as a **signal** of ability, and able people get educated to distinguish themselves. Education would still raise individual earnings, but it would add less to society's output. See [[signalling-and-screening|signalling and screening]].
+Michael Spence's **job-market signalling** model (1973) offers a different interpretation. Suppose education does not raise productivity at all, but it is easier (less costly) for more able people to complete. Then employers can use education as a **signal** of ability, and able people get educated to distinguish themselves. Education would still raise individual earnings, but it would add less to society's output. See [signalling and screening](../07-market-failure/14-signalling-and-screening.md).
 
 Most economists think both effects exist. Evidence such as the **sheepskin effect** (an extra jump in earnings for completing a degree, compared with just completing the same number of years) suggests some signalling. Bryan Caplan's *The Case Against Education* (2018) argues signalling dominates; most labour economists believe human capital accounts for a substantial share of the return.
 
@@ -76,5 +76,5 @@ Becker distinguished:
 
 ## Where this leads
 
-- Next: [[monopsony-and-unions|monopsony and unions]].
-- Glossary: [[g:human-capital|human capital]], [[g:signalling|signalling]], [[g:returns-to-education|returns to education]].
+- Next: [monopsony and unions](06-monopsony-and-unions.md).
+- Glossary: [human capital](../glossary/human-capital.md), [signalling](../glossary/signalling.md), [returns to education](../glossary/returns-to-education.md).

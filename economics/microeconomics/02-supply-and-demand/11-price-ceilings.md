@@ -62,7 +62,7 @@ Supporters of rent regulation argue that it provides stability and protects tena
 
 ## Price controls in emergencies
 
-Many jurisdictions forbid large price increases on essentials after disasters. Economists who emphasise efficiency point out that high prices would ration scarce goods and draw in supply from elsewhere (trucks of generators and water from other regions). Defenders of such laws, and research on perceived fairness by Daniel Kahneman, Jack Knetsch and Richard Thaler (1986), point out that most people judge sharp price rises in emergencies to be unfair, and that firms that raise prices can lose customer trust. This tension between efficiency and fairness is explored in [[social-preferences-and-fairness|social preferences and fairness]].
+Many jurisdictions forbid large price increases on essentials after disasters. Economists who emphasise efficiency point out that high prices would ration scarce goods and draw in supply from elsewhere (trucks of generators and water from other regions). Defenders of such laws, and research on perceived fairness by Daniel Kahneman, Jack Knetsch and Richard Thaler (1986), point out that most people judge sharp price rises in emergencies to be unfair, and that firms that raise prices can lose customer trust. This tension between efficiency and fairness is explored in [social preferences and fairness](../09-behavioural-economics/06-social-preferences-and-fairness.md).
 
 ## Key ideas
 
@@ -76,4 +76,4 @@ Many jurisdictions forbid large price increases on essentials after disasters. E
 
 - Next: [price floors](12-price-floors.md).
 - Related: [deadweight loss](14-deadweight-loss.md).
-- Glossary: [[g:price-ceiling|price ceiling]], [[g:rent-control|rent control]], [[g:shortage|shortage]], [[g:black-market|black market]].
+- Glossary: [price ceiling](../glossary/price-ceiling.md), [rent control](../glossary/rent-control.md), [shortage](../glossary/shortage.md), [black market](../glossary/black-market.md).

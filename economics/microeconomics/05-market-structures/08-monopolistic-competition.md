@@ -1,6 +1,6 @@
 # Monopolistic competition
 
-**Prerequisites:** [[long-run-competitive-equilibrium|Long-run competitive equilibrium]], [[monopoly|Monopoly]].
+**Prerequisites:** [Long-run competitive equilibrium](03-long-run-competitive-equilibrium.md), [Monopoly](04-monopoly.md).
 
 ![Restaurants side by side on the Place du Tertre, Paris: many sellers of similar but differentiated products](images/08-monopolistic-competition.jpg)
 
@@ -66,7 +66,7 @@ Chamberlin argued that the inefficiency is the price of **variety**. Consumers v
 Firms in monopolistic competition advertise to differentiate their products. Economists disagree about its effects:
 
 - **Critics** argue that advertising manipulates tastes, creates artificial differences between nearly identical products and builds barriers to entry.
-- **Defenders** argue that advertising informs buyers about prices, products and new entrants, and that spending heavily on advertising can **signal** quality, because only firms confident of repeat business would pay for it (an argument developed by Phillip Nelson in the 1970s). See [[signalling-and-screening|signalling and screening]].
+- **Defenders** argue that advertising informs buyers about prices, products and new entrants, and that spending heavily on advertising can **signal** quality, because only firms confident of repeat business would pay for it (an argument developed by Phillip Nelson in the 1970s). See [signalling and screening](../07-market-failure/14-signalling-and-screening.md).
 
 Brand names can help consumers by guaranteeing consistent quality and giving firms an incentive to maintain it.
 
@@ -80,5 +80,5 @@ Brand names can help consumers by guaranteeing consistent quality and giving fir
 
 ## Where this leads
 
-- Next: [[oligopoly|oligopoly]].
-- Glossary: [[g:monopolistic-competition|monopolistic competition]], [[g:product-differentiation|product differentiation]], [[g:excess-capacity|excess capacity]].
+- Next: [oligopoly](09-oligopoly.md).
+- Glossary: [monopolistic competition](../glossary/monopolistic-competition.md), [product differentiation](../glossary/product-differentiation.md), [excess capacity](../glossary/excess-capacity.md).

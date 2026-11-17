@@ -1,6 +1,6 @@
 # Repeated games and strategic moves
 
-**Prerequisites:** [[prisoners-dilemma-and-cartels|The prisoner's dilemma and cartels]], [[cournot-bertrand-and-stackelberg|Cournot, Bertrand and Stackelberg]].
+**Prerequisites:** [The prisoner's dilemma and cartels](12-prisoners-dilemma-and-cartels.md), [Cournot, Bertrand and Stackelberg](13-cournot-bertrand-and-stackelberg.md).
 
 ![Thomas Schelling (1921–2016), who analysed commitment, threats and focal points in The Strategy of Conflict (1960)](images/14-repeated-games-and-strategic-moves.jpg)
 
@@ -18,7 +18,7 @@ In experiments, however, people often cooperate for many rounds and defect only 
 
 If the game has no known end, or continues with some probability each round, cooperation can be an equilibrium. Consider the **grim trigger** strategy: cooperate as long as the other player has always cooperated; defect forever after any defection.
 
-Using the payoffs from [[game-theory-basics|game theory basics]] (cooperate-cooperate 50 each, defect when the other cooperates 70, mutual defection 30), with a discount factor δ per round (how much a player values next round's payoff compared with this round's):
+Using the payoffs from [game theory basics](10-game-theory-basics.md) (cooperate-cooperate 50 each, defect when the other cooperates 70, mutual defection 30), with a discount factor δ per round (how much a player values next round's payoff compared with this round's):
 
 - **Cooperating forever** yields 50 + 50δ + 50δ² + ... = 50 / (1 − δ).
 - **Defecting now** yields 70 today, then 30 forever: 70 + 30δ / (1 − δ).
@@ -45,7 +45,7 @@ In 1980, the political scientist Robert Axelrod invited game theorists to submit
 Thomas Schelling, in *The Strategy of Conflict* (1960), showed that players can gain by **limiting their own options**. A strategic move changes the game in your favour by changing what others expect you to do.
 
 - **Commitment.** A Stackelberg leader gains by committing to a large output before its rival decides. Commitment must be credible, which often means irreversible: a firm that builds a large factory has committed to producing a lot.
-- **Threats.** "If you enter my market, I will start a price war." A threat is credible only if carrying it out would be in your interest when the time comes, or if you have arranged in advance to have no choice. As shown in the entry game in [[game-theory-basics|game theory basics]], many threats are not credible.
+- **Threats.** "If you enter my market, I will start a price war." A threat is credible only if carrying it out would be in your interest when the time comes, or if you have arranged in advance to have no choice. As shown in the entry game in [game theory basics](10-game-theory-basics.md), many threats are not credible.
 - **Promises.** "If you keep prices high, I will too." Promises need credibility as well.
 
 Ways to make moves credible include building reputation, signing contracts, investing in irreversible capacity, delegating to agents with different incentives, and "burning bridges". Schelling's famous examples include a general who burns the bridge behind his army so it cannot retreat, making its threat to fight to the end credible.
@@ -68,5 +68,5 @@ Competition authorities scrutinise such practices because they can facilitate co
 
 ## Where this leads
 
-- Next: [[competition-policy|competition policy]].
-- Glossary: [[g:tit-for-tat|tit-for-tat]], [[g:folk-theorem|folk theorem]], [[g:credible-commitment|credible commitment]].
+- Next: [competition policy](15-competition-policy.md).
+- Glossary: [tit-for-tat](../glossary/tit-for-tat.md), [folk theorem](../glossary/folk-theorem.md), [credible commitment](../glossary/credible-commitment.md).

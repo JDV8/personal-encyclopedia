@@ -1,6 +1,6 @@
 # Bounded rationality
 
-**Prerequisites:** [[the-rationality-assumption|The rationality assumption]].
+**Prerequisites:** [The rationality assumption](01-the-rationality-assumption.md).
 
 ![Herbert A. Simon in 1981, as featured in a Rochester Institute of Technology newsletter; Simon coined bounded rationality and satisficing](images/02-bounded-rationality.jpg)
 
@@ -26,7 +26,7 @@ Bounded rationality has several sources:
 - **Limited attention.** Attention is scarce. People may ignore taxes not shown on price tags. Raj Chetty, Adam Looney and Kory Kroft (2009) found that posting tax-inclusive prices on supermarket shelves reduced demand for the affected products by about 8 percent, even though the tax was unchanged.
 - **Limited computation.** Even with all the facts, some problems, such as optimal retirement saving or chess, are too complex to solve exactly.
 - **Limited time.** Decisions must often be made quickly.
-- **Limited self-control** (see [[time-inconsistency-and-self-control|time inconsistency]]).
+- **Limited self-control** (see [time inconsistency](05-time-inconsistency-and-self-control.md)).
 
 ```mermaid
 flowchart TB
@@ -45,16 +45,16 @@ More options are not always better. In a well-known study, Sheena Iyengar and Ma
 
 The psychologist Gerd Gigerenzer argues that simple heuristics are not merely error-prone shortcuts; in many real environments they perform as well as, or better than, complex calculations. His "fast and frugal" heuristics include the **recognition heuristic** (if you recognise one option but not another, infer that the recognised one is bigger or better) and **take-the-best** (decide on the single most important cue that discriminates between options). Rationality, in this view, is about the fit between a decision method and the environment (**ecological rationality**).
 
-This contrasts with the "heuristics and biases" programme of Kahneman and Tversky, which emphasises when heuristics lead to systematic errors (see [[heuristics-and-biases|heuristics and biases]]). The two views agree that people use heuristics; they disagree on how often this leads people astray.
+This contrasts with the "heuristics and biases" programme of Kahneman and Tversky, which emphasises when heuristics lead to systematic errors (see [heuristics and biases](03-heuristics-and-biases.md)). The two views agree that people use heuristics; they disagree on how often this leads people astray.
 
 ## Bounded rationality in organisations
 
-Simon's earlier book *Administrative Behavior* (1947) studied how organisations make decisions. Firms use rules, routines and standard procedures because no manager can optimise everything. Richard Cyert and James March's *A Behavioral Theory of the Firm* (1963) and Richard Nelson and Sidney Winter's *An Evolutionary Theory of Economic Change* (1982) built on this, modelling firms as following routines that change slowly through search and selection rather than through maximisation (see [[the-firm|the firm]]).
+Simon's earlier book *Administrative Behavior* (1947) studied how organisations make decisions. Firms use rules, routines and standard procedures because no manager can optimise everything. Richard Cyert and James March's *A Behavioral Theory of the Firm* (1963) and Richard Nelson and Sidney Winter's *An Evolutionary Theory of Economic Change* (1982) built on this, modelling firms as following routines that change slowly through search and selection rather than through maximisation (see [the firm](../04-producer-theory/01-the-firm.md)).
 
 ## Implications for economics
 
 - Small frictions, such as the effort of filling in a form, can have large effects on behaviour (for example, on take-up of benefits).
-- Defaults matter because many people do not actively choose (see [[nudges-and-choice-architecture|nudges]]).
+- Defaults matter because many people do not actively choose (see [nudges](07-nudges-and-choice-architecture.md)).
 - Complexity can be exploited: firms may design confusing pricing (shrouded fees) to take advantage of limited attention.
 - Markets may still work well when the environment rewards learning and feedback is quick.
 
@@ -67,6 +67,6 @@ Simon's earlier book *Administrative Behavior* (1947) studied how organisations 
 
 ## Where this leads
 
-- Next: [[heuristics-and-biases|heuristics and biases]].
-- Related: [[path:philosophy/concepts/epistemology/knowledge-and-opinion.md|knowledge and opinion]].
-- Glossary: [[g:bounded-rationality|bounded rationality]], [[g:satisficing|satisficing]], [[g:choice-overload|choice overload]], [[g:ecological-rationality|ecological rationality]].
+- Next: [heuristics and biases](03-heuristics-and-biases.md).
+- Related: [knowledge and opinion](../../../philosophy/concepts/epistemology/knowledge-and-opinion.md).
+- Glossary: [bounded rationality](../glossary/bounded-rationality.md), [satisficing](../glossary/satisficing.md), [choice overload](../glossary/choice-overload.md), [ecological rationality](../glossary/ecological-rationality.md).

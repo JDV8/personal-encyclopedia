@@ -1,6 +1,6 @@
 # David Ricardo (1772–1823)
 
-**Prerequisites:** [[classical-economics|Classical economics]], [[comparative-advantage|Comparative advantage]].
+**Prerequisites:** [Classical economics](../02-classical-economics.md), [Comparative advantage](../../01-foundations/07-comparative-advantage.md).
 
 ![David Ricardo, portrait by Thomas Phillips](images/02-david-ricardo.jpg)
 
@@ -22,11 +22,11 @@ Ricardo first became known through pamphlets on the "bullion controversy". In *T
 
 ### Differential rent
 
-Rent arises because land differs in fertility. As population grows, less fertile land comes into cultivation; the better land then earns a rent equal to its productivity advantage over the worst land in use. Rent is a result of high grain prices, not their cause (see [[land-and-rent|land and rent]]).
+Rent arises because land differs in fertility. As population grows, less fertile land comes into cultivation; the better land then earns a rent equal to its productivity advantage over the worst land in use. Rent is a result of high grain prices, not their cause (see [land and rent](../../06-factor-markets/08-land-and-rent.md)).
 
 ### Comparative advantage
 
-Ricardo's example of England and Portugal trading cloth and wine showed that a country benefits from trade even if it is more efficient at producing everything, as long as relative costs differ. In his example, Portugal needed 90 men's labour for a year to produce a quantity of cloth and 80 for a quantity of wine; England needed 100 and 120. Portugal is better at both, but relatively better at wine; England should specialise in cloth (see [[comparative-advantage|comparative advantage]]).
+Ricardo's example of England and Portugal trading cloth and wine showed that a country benefits from trade even if it is more efficient at producing everything, as long as relative costs differ. In his example, Portugal needed 90 men's labour for a year to produce a quantity of cloth and 80 for a quantity of wine; England needed 100 and 120. Portugal is better at both, but relatively better at wine; England should specialise in cloth (see [comparative advantage](../../01-foundations/07-comparative-advantage.md)).
 
 ```mermaid
 flowchart LR
@@ -60,6 +60,6 @@ Ricardo reasoned from simplified assumptions to strong conclusions, an approach 
 
 ## Where this leads
 
-- Next thinker: [[john-stuart-mill|John Stuart Mill]].
-- Related: [[adam-smith|Adam Smith]], [[gains-from-trade|gains from trade]].
-- Glossary: [[g:comparative-advantage|comparative advantage]], [[g:economic-rent|economic rent]], [[g:ricardian-equivalence|Ricardian equivalence]].
+- Next thinker: [John Stuart Mill](03-john-stuart-mill.md).
+- Related: [Adam Smith](01-adam-smith.md), [gains from trade](../../01-foundations/08-gains-from-trade.md).
+- Glossary: [comparative advantage](../../glossary/comparative-advantage.md), [economic rent](../../glossary/economic-rent.md), [Ricardian equivalence](../../glossary/ricardian-equivalence.md).

@@ -1,6 +1,6 @@
 # Government failure
 
-**Prerequisites:** [[what-is-market-failure|What is market failure?]], [[principal-agent-problem|The principal–agent problem]].
+**Prerequisites:** [What is market failure?](01-what-is-market-failure.md), [The principal–agent problem](13-principal-agent-problem.md).
 
 ![James M. Buchanan, a founder of public choice theory and winner of the 1986 Nobel prize in economics](images/15-government-failure.jpg)
 
@@ -12,7 +12,7 @@ Market failures create a potential case for government action. But governments a
 
 ### 1. Information problems
 
-To set an ideal Pigouvian tax, regulators must know marginal damage; to regulate a natural monopoly, they must know its costs. Often they do not. [[friedrich-hayek|Hayek]] argued that central planners could never gather the dispersed, local and often tacit knowledge that prices summarise ("The Use of Knowledge in Society", 1945). This was a key argument in the socialist calculation debate with economists such as Oskar Lange in the 1930s and 1940s.
+To set an ideal Pigouvian tax, regulators must know marginal damage; to regulate a natural monopoly, they must know its costs. Often they do not. [Hayek](../10-history-of-thought/thinkers/11-friedrich-hayek.md) argued that central planners could never gather the dispersed, local and often tacit knowledge that prices summarise ("The Use of Knowledge in Society", 1945). This was a key argument in the socialist calculation debate with economists such as Oskar Lange in the 1930s and 1940s.
 
 ### 2. Rational ignorance and voting
 
@@ -24,11 +24,11 @@ Mancur Olson's *The Logic of Collective Action* (1965) showed that small groups 
 
 ### 4. Rent-seeking
 
-**Rent-seeking** is spending resources to obtain a transfer of existing wealth rather than to create new wealth: lobbying for tariffs, licences, subsidies or protection from competition. Tullock (1967) and Anne Krueger (1974, who coined the term) argued that resources spent competing for these rents are a social cost on top of the usual deadweight loss. If firms compete for a monopoly worth 10 million, they may spend up to that amount lobbying, dissipating much of the monopoly profit (see [[g:rent-seeking|rent-seeking]]).
+**Rent-seeking** is spending resources to obtain a transfer of existing wealth rather than to create new wealth: lobbying for tariffs, licences, subsidies or protection from competition. Tullock (1967) and Anne Krueger (1974, who coined the term) argued that resources spent competing for these rents are a social cost on top of the usual deadweight loss. If firms compete for a monopoly worth 10 million, they may spend up to that amount lobbying, dissipating much of the monopoly profit (see [rent-seeking](../glossary/rent-seeking.md)).
 
 ### 5. Regulatory capture
 
-George Stigler's "The Theory of Economic Regulation" (1971) argued that regulatory agencies tend to be "captured" by the industries they regulate, because those industries care most about regulation and have the most expertise. Regulators may also hope for future industry jobs (the "revolving door"). See [[natural-monopoly-and-regulation|natural monopoly and regulation]].
+George Stigler's "The Theory of Economic Regulation" (1971) argued that regulatory agencies tend to be "captured" by the industries they regulate, because those industries care most about regulation and have the most expertise. Regulators may also hope for future industry jobs (the "revolving door"). See [natural monopoly and regulation](../05-market-structures/07-natural-monopoly-and-regulation.md).
 
 ### 6. Bureaucratic incentives
 
@@ -40,7 +40,7 @@ Elected politicians face elections every few years, which can favour policies wi
 
 ### 8. Unintended consequences
 
-Policies change incentives in ways designers did not foresee. [[price-ceilings|Rent control]] can reduce housing supply; fuel-economy standards may encourage more driving (the rebound effect).
+Policies change incentives in ways designers did not foresee. [Rent control](../02-supply-and-demand/11-price-ceilings.md) can reduce housing supply; fuel-economy standards may encourage more driving (the rebound effect).
 
 ```mermaid
 flowchart TB
@@ -64,7 +64,7 @@ An industry of 10 firms gains 50 million dollars a year in extra profit from an 
 
 ## Balancing the two kinds of failure
 
-The point of government-failure analysis is not that government action is always worse, but that the choice is between **imperfect alternatives**. As Coase and Demsetz argued, one should compare actual markets with actual governments, not with an ideal. Many interventions have clearly improved welfare: the elimination of leaded petrol, the Montreal Protocol on ozone-depleting substances, and public health measures such as sanitation and vaccination. Others have failed or been captured. Careful empirical evaluation, [[cost-benefit-analysis|cost-benefit analysis]], sunset clauses, transparency and independent agencies are among the tools used to reduce government failure.
+The point of government-failure analysis is not that government action is always worse, but that the choice is between **imperfect alternatives**. As Coase and Demsetz argued, one should compare actual markets with actual governments, not with an ideal. Many interventions have clearly improved welfare: the elimination of leaded petrol, the Montreal Protocol on ozone-depleting substances, and public health measures such as sanitation and vaccination. Others have failed or been captured. Careful empirical evaluation, [cost-benefit analysis](../08-welfare-economics/06-cost-benefit-analysis.md), sunset clauses, transparency and independent agencies are among the tools used to reduce government failure.
 
 Economists across the spectrum accept both market and government failures; they disagree about which is more common in particular areas, and therefore about the right scope for government.
 
@@ -77,7 +77,7 @@ Economists across the spectrum accept both market and government failures; they 
 
 ## Where this leads
 
-- Next section: [[efficiency-and-pareto-optimality|efficiency and Pareto optimality]].
-- Related: [[social-choice-and-arrows-theorem|social choice and Arrow's theorem]].
-- Related branch: philosophy's [[path:philosophy/concepts/political/the-polis-and-political-animal.md|the polis and the political animal]].
-- Glossary: [[g:government-failure|government failure]], [[g:public-choice-theory|public choice theory]], [[g:rational-ignorance|rational ignorance]], [[g:regulatory-capture|regulatory capture]].
+- Next section: [efficiency and Pareto optimality](../08-welfare-economics/01-efficiency-and-pareto-optimality.md).
+- Related: [social choice and Arrow's theorem](../08-welfare-economics/05-social-choice-and-arrows-theorem.md).
+- Related branch: philosophy's [the polis and the political animal](../../../philosophy/concepts/political/the-polis-and-political-animal.md).
+- Glossary: [government failure](../glossary/government-failure.md), [public choice theory](../glossary/public-choice-theory.md), [rational ignorance](../glossary/rational-ignorance.md), [regulatory capture](../glossary/regulatory-capture.md).

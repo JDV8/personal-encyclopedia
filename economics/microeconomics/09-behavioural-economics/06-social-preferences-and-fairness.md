@@ -1,6 +1,6 @@
 # Social preferences and fairness
 
-**Prerequisites:** [[the-rationality-assumption|The rationality assumption]], [[game-theory-basics|Game theory basics]].
+**Prerequisites:** [The rationality assumption](01-the-rationality-assumption.md), [Game theory basics](../05-market-structures/10-game-theory-basics.md).
 
 ![Ernst Fehr of the University of Zurich, whose experiments documented altruistic punishment and inequity aversion](images/06-social-preferences-and-fairness.jpg)
 
@@ -12,7 +12,7 @@ Standard models often assume people care only about their own material payoffs. 
 
 Werner Güth, Rolf Schmittberger and Bernd Schwarze (1982) introduced the **ultimatum game**. A proposer receives a sum, say 100 dollars, and offers some share to a responder. If the responder accepts, the money is split as proposed. If the responder rejects, both get nothing.
 
-**Standard prediction.** A self-interested responder accepts any positive amount (1 dollar is better than nothing). Knowing this, the proposer offers the minimum. By [[repeated-games-and-strategic-moves|backward induction]], the outcome is about 99/1.
+**Standard prediction.** A self-interested responder accepts any positive amount (1 dollar is better than nothing). Knowing this, the proposer offers the minimum. By [backward induction](../05-market-structures/14-repeated-games-and-strategic-moves.md), the outcome is about 99/1.
 
 **What actually happens.** Across many studies:
 
@@ -27,7 +27,7 @@ Joseph Henrich and colleagues (2001, 2005) ran ultimatum games in 15 small-scale
 
 ## Public goods games and punishment
 
-In a **public goods game**, each of several players can contribute money to a common pot that is multiplied (say, doubled) and shared equally. Contributing nothing is the dominant strategy for a selfish player, but everyone contributing maximises the group's total (a [[public-goods|public goods]] problem).
+In a **public goods game**, each of several players can contribute money to a common pot that is multiplied (say, doubled) and shared equally. Contributing nothing is the dominant strategy for a selfish player, but everyone contributing maximises the group's total (a [public goods](../07-market-failure/08-public-goods.md) problem).
 
 ### Worked example
 
@@ -77,6 +77,6 @@ Monetary incentives can sometimes reduce prosocial behaviour. Gneezy and Aldo Ru
 
 ## Where this leads
 
-- Next: [[nudges-and-choice-architecture|nudges and choice architecture]].
-- Related: [[prisoners-dilemma-and-cartels|the prisoners' dilemma]]; philosophy's [[path:philosophy/history/ancient/greek/texts/nicomachean-ethics.md|Nicomachean Ethics]] on justice and reciprocity.
-- Glossary: [[g:ultimatum-game|ultimatum game]], [[g:dictator-game|dictator game]], [[g:inequity-aversion|inequity aversion]], [[g:reciprocity|reciprocity]], [[g:warm-glow|warm glow]].
+- Next: [nudges and choice architecture](07-nudges-and-choice-architecture.md).
+- Related: [the prisoners' dilemma](../05-market-structures/12-prisoners-dilemma-and-cartels.md); philosophy's [Nicomachean Ethics](../../../philosophy/history/ancient/greek/texts/nicomachean-ethics.md) on justice and reciprocity.
+- Glossary: [ultimatum game](../glossary/ultimatum-game.md), [dictator game](../glossary/dictator-game.md), [inequity aversion](../glossary/inequity-aversion.md), [reciprocity](../glossary/reciprocity.md), [warm glow](../glossary/warm-glow.md).

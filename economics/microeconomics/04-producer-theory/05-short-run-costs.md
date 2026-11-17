@@ -63,13 +63,13 @@ flowchart TB
 
 ## Why fixed costs do not matter for short-run decisions
 
-Fixed costs must be paid whatever the firm does in the short run, so they are, for that period, sunk. They do not affect how much to produce or even whether to produce this week. A firm deciding whether to bake another batch should compare the extra revenue with the **marginal cost**; a firm deciding whether to open at all this week should compare revenue with **variable cost**. Both decisions ignore fixed costs. This is the logic of the shutdown rule in [[the-competitive-firm-in-the-short-run|the competitive firm in the short run]].
+Fixed costs must be paid whatever the firm does in the short run, so they are, for that period, sunk. They do not affect how much to produce or even whether to produce this week. A firm deciding whether to bake another batch should compare the extra revenue with the **marginal cost**; a firm deciding whether to open at all this week should compare revenue with **variable cost**. Both decisions ignore fixed costs. This is the logic of the shutdown rule in [the competitive firm in the short run](../05-market-structures/02-the-competitive-firm-in-the-short-run.md).
 
 Fixed costs do matter in the long run, when the firm decides whether to renew its lease, buy new equipment, or leave the industry.
 
 ## Quasi-fixed and sunk costs
 
-Some costs are fixed but avoidable: if the bakery shuts down entirely, it might stop paying for heating or sublet the space. Economists sometimes call these **avoidable fixed costs**, as distinct from **sunk costs** that cannot be recovered at all (a non-refundable licence fee, specialised equipment with no resale value). The distinction matters for entry and exit decisions and for how competitive an industry can be: large sunk costs deter entry, a theme in [[monopoly|monopoly]] and [[competition-policy|competition policy]].
+Some costs are fixed but avoidable: if the bakery shuts down entirely, it might stop paying for heating or sublet the space. Economists sometimes call these **avoidable fixed costs**, as distinct from **sunk costs** that cannot be recovered at all (a non-refundable licence fee, specialised equipment with no resale value). The distinction matters for entry and exit decisions and for how competitive an industry can be: large sunk costs deter entry, a theme in [monopoly](../05-market-structures/04-monopoly.md) and [competition policy](../05-market-structures/15-competition-policy.md).
 
 ## Key ideas
 
@@ -82,4 +82,4 @@ Some costs are fixed but avoidable: if the bakery shuts down entirely, it might 
 ## Where this leads
 
 - Next: [cost curves](06-cost-curves.md), which turns these numbers into shapes.
-- Glossary: [[g:fixed-cost|fixed cost]], [[g:variable-cost|variable cost]], [[g:average-total-cost|average total cost]], [[g:marginal-cost|marginal cost]].
+- Glossary: [fixed cost](../glossary/fixed-cost.md), [variable cost](../glossary/variable-cost.md), [average total cost](../glossary/average-total-cost.md), [marginal cost](../glossary/marginal-cost.md).

@@ -1,6 +1,6 @@
 # Moral hazard
 
-**Prerequisites:** [[asymmetric-information|Asymmetric information]], [[incentives|Incentives]].
+**Prerequisites:** [Asymmetric information](10-asymmetric-information.md), [Incentives](../01-foundations/04-incentives.md).
 
 ![Buckling a seat belt; whether safety protection makes people take more risks (risk compensation) is a close cousin of moral hazard](images/12-moral-hazard.jpg)
 
@@ -35,8 +35,8 @@ flowchart LR
 ## Examples beyond insurance
 
 - **Health care.** With insurance, patients may use more care than they would if paying full cost. The RAND Health Insurance Experiment (1974 to 1982) randomly assigned families to plans with different cost-sharing. Families with free care used about 30 percent more services than those with substantial cost-sharing, with little measurable difference in health for the average participant, though some low-income people with particular conditions did benefit.
-- **Banking and bailouts.** If banks expect governments to rescue them in a crisis ("too big to fail"), they may take on more risk. Deposit insurance protects savers but can reduce depositors' incentive to monitor banks. Regulators respond with capital requirements and supervision (see [[path:economics/finance/05-regulation/01-why-markets-are-regulated.md|why financial markets are regulated]]).
-- **Employment.** Once hired at a fixed wage, workers may shirk. This is a [[principal-agent-problem|principal–agent problem]].
+- **Banking and bailouts.** If banks expect governments to rescue them in a crisis ("too big to fail"), they may take on more risk. Deposit insurance protects savers but can reduce depositors' incentive to monitor banks. Regulators respond with capital requirements and supervision (see [why financial markets are regulated](../../finance/05-regulation/01-why-markets-are-regulated.md)).
+- **Employment.** Once hired at a fixed wage, workers may shirk. This is a [principal–agent problem](13-principal-agent-problem.md).
 - **Unemployment insurance** may lengthen job searches. Studies find modest effects, and longer search can also produce better job matches.
 - **Rental cars.** People are said to treat rental cars less carefully than their own.
 - **Limited liability.** Shareholders cannot lose more than they invested, which can encourage firms near bankruptcy to "gamble for resurrection" with creditors' money.
@@ -68,6 +68,6 @@ Both stem from asymmetric information, but the timing differs. Adverse selection
 
 ## Where this leads
 
-- Next: [[principal-agent-problem|the principal–agent problem]].
-- Related: [[repeated-games-and-strategic-moves|repeated games]] (reputation).
-- Glossary: [[g:moral-hazard|moral hazard]], [[g:deductible|deductible]], [[g:too-big-to-fail|too big to fail]].
+- Next: [the principal–agent problem](13-principal-agent-problem.md).
+- Related: [repeated games](../05-market-structures/14-repeated-games-and-strategic-moves.md) (reputation).
+- Glossary: [moral hazard](../glossary/moral-hazard.md), [deductible](../glossary/deductible.md), [too big to fail](../glossary/too-big-to-fail.md).

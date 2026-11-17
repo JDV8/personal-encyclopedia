@@ -1,6 +1,6 @@
 # Time inconsistency and self-control
 
-**Prerequisites:** [[intertemporal-choice|Intertemporal choice]], [[the-rationality-assumption|The rationality assumption]].
+**Prerequisites:** [Intertemporal choice](../03-consumer-theory/12-intertemporal-choice.md), [The rationality assumption](01-the-rationality-assumption.md).
 
 ![Ulysses and the Sirens by Herbert James Draper (1909): Odysseus had himself bound to the mast, the original commitment device](images/05-time-inconsistency-and-self-control.jpg)
 
@@ -59,7 +59,7 @@ Modern examples:
 
 ## Economic consequences
 
-- **Under-saving for retirement.** Present bias can explain why many people save less than they say they want to, and why automatic enrolment in pension plans has such large effects (see [[nudges-and-choice-architecture|nudges]]).
+- **Under-saving for retirement.** Present bias can explain why many people save less than they say they want to, and why automatic enrolment in pension plans has such large effects (see [nudges](07-nudges-and-choice-architecture.md)).
 - **Credit-card borrowing.** People may borrow at high interest for immediate consumption while planning to pay it off soon.
 - **Health behaviours.** Smoking, exercise, diet and medication adherence involve immediate costs and delayed benefits.
 - **Procrastination** on tasks such as filing taxes or applying for benefits.
@@ -78,6 +78,6 @@ It depends on the standard. Time inconsistency violates consistency, but whose p
 
 ## Where this leads
 
-- Next: [[social-preferences-and-fairness|social preferences and fairness]].
-- Related: [[path:economics/finance/01-foundations/04-time-value-of-money.md|time value of money]].
-- Glossary: [[g:present-bias|present bias]], [[g:hyperbolic-discounting|hyperbolic discounting]], [[g:commitment-device|commitment device]], [[g:time-inconsistency|time inconsistency]].
+- Next: [social preferences and fairness](06-social-preferences-and-fairness.md).
+- Related: [time value of money](../../finance/01-foundations/04-time-value-of-money.md).
+- Glossary: [present bias](../glossary/present-bias.md), [hyperbolic discounting](../glossary/hyperbolic-discounting.md), [commitment device](../glossary/commitment-device.md), [time inconsistency](../glossary/time-inconsistency.md).

@@ -1,12 +1,12 @@
 # The welfare theorems
 
-**Prerequisites:** [[general-equilibrium|General equilibrium]], [[efficiency-and-pareto-optimality|Efficiency and Pareto optimality]].
+**Prerequisites:** [General equilibrium](02-general-equilibrium.md), [Efficiency and Pareto optimality](01-efficiency-and-pareto-optimality.md).
 
 ![An Edgeworth box illustrating the first welfare theorem: trade from the starting endowment leads to a Pareto-optimal point on the contract curve](images/03-the-welfare-theorems.jpg)
 
 *An Edgeworth box illustrating the first welfare theorem: trade from the starting endowment leads to a Pareto-optimal point on the contract curve. Credit: Cyrflo2000. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Edgeworth box.png](https://commons.wikimedia.org/wiki/File:Edgeworth_box.png).*
 
-Adam Smith wrote in 1776 that an individual pursuing his own gain is "led by an invisible hand to promote an end which was no part of his intention". For nearly two centuries this was an insight, not a theorem. The **fundamental theorems of welfare economics**, proved rigorously in the 1950s by [[kenneth-arrow|Kenneth Arrow]], Gérard Debreu and others, state precisely when competitive markets produce efficient outcomes, and what this does and does not imply.
+Adam Smith wrote in 1776 that an individual pursuing his own gain is "led by an invisible hand to promote an end which was no part of his intention". For nearly two centuries this was an insight, not a theorem. The **fundamental theorems of welfare economics**, proved rigorously in the 1950s by [Kenneth Arrow](../10-history-of-thought/thinkers/13-kenneth-arrow.md), Gérard Debreu and others, state precisely when competitive markets produce efficient outcomes, and what this does and does not imply.
 
 ## The first welfare theorem
 
@@ -20,7 +20,7 @@ Adam Smith wrote in 1776 that an individual pursuing his own gain is "led by an 
 
 ### Why it works
 
-In a competitive equilibrium, every consumer chooses a bundle where their marginal rate of substitution between two goods equals the price ratio. Every firm produces where its marginal rate of transformation equals the same price ratio. Since everyone faces the **same prices**, everyone's MRS is equal (efficient exchange), every firm's marginal rate of technical substitution is equal (efficient production), and MRS equals the marginal rate of transformation (efficient product mix). All three conditions from [[efficiency-and-pareto-optimality|the previous lesson]] hold.
+In a competitive equilibrium, every consumer chooses a bundle where their marginal rate of substitution between two goods equals the price ratio. Every firm produces where its marginal rate of transformation equals the same price ratio. Since everyone faces the **same prices**, everyone's MRS is equal (efficient exchange), every firm's marginal rate of technical substitution is equal (efficient production), and MRS equals the marginal rate of transformation (efficient product mix). All three conditions from [the previous lesson](01-efficiency-and-pareto-optimality.md) hold.
 
 A more intuitive argument: suppose a different allocation made someone better off and no one worse off. The person made better off must be consuming a bundle she could not afford at equilibrium prices (otherwise she would already have chosen it), and everyone else needs bundles costing at least as much as before. So the alternative would cost more in total than the economy's total value, which is impossible for an allocation the economy can actually produce.
 
@@ -47,8 +47,8 @@ flowchart TB
 The welfare theorems are often misread. Important caveats:
 
 1. **Efficiency is not fairness.** A competitive equilibrium is efficient given the initial distribution of wealth, however unequal.
-2. **The assumptions often fail.** Externalities, public goods, market power and asymmetric information are common, which is why the theorems are also a map of [[what-is-market-failure|market failure]]. Each assumption corresponds to a reason markets can fail.
-3. **Lump-sum transfers are impractical.** Real taxes depend on income or spending, which people can change, so they distort behaviour and create [[deadweight-loss|deadweight loss]]. The clean separation of efficiency and equity is an idealisation. This is why redistribution usually involves trade-offs (see [[efficiency-versus-equity|efficiency versus equity]]).
+2. **The assumptions often fail.** Externalities, public goods, market power and asymmetric information are common, which is why the theorems are also a map of [market failure](../07-market-failure/01-what-is-market-failure.md). Each assumption corresponds to a reason markets can fail.
+3. **Lump-sum transfers are impractical.** Real taxes depend on income or spending, which people can change, so they distort behaviour and create [deadweight loss](../02-supply-and-demand/14-deadweight-loss.md). The clean separation of efficiency and equity is an idealisation. This is why redistribution usually involves trade-offs (see [efficiency versus equity](04-efficiency-versus-equity.md)).
 4. **Missing markets.** The theorems require markets for every good in every future contingency, which do not exist. Bruce Greenwald and Joseph Stiglitz (1986) showed that with imperfect information or incomplete markets, competitive equilibria are generally not even "constrained" efficient: government interventions could, in principle, improve on them.
 5. **The theory of the second best.** Richard Lipsey and Kelvin Lancaster (1956) showed that if one efficiency condition cannot be satisfied, satisfying the others is not necessarily desirable. Removing one distortion when others remain may make things worse.
 
@@ -65,6 +65,6 @@ Different economists draw different lessons. Some see the first theorem as a str
 
 ## Where this leads
 
-- Next: [[efficiency-versus-equity|efficiency versus equity]].
-- Related: [[adam-smith|Adam Smith]], [[kenneth-arrow|Kenneth Arrow]].
-- Glossary: [[g:first-welfare-theorem|first welfare theorem]], [[g:second-welfare-theorem|second welfare theorem]], [[g:lump-sum-tax|lump-sum tax]], [[g:theory-of-the-second-best|theory of the second best]].
+- Next: [efficiency versus equity](04-efficiency-versus-equity.md).
+- Related: [Adam Smith](../10-history-of-thought/thinkers/01-adam-smith.md), [Kenneth Arrow](../10-history-of-thought/thinkers/13-kenneth-arrow.md).
+- Glossary: [first welfare theorem](../glossary/first-welfare-theorem.md), [second welfare theorem](../glossary/second-welfare-theorem.md), [lump-sum tax](../glossary/lump-sum-tax.md), [theory of the second best](../glossary/theory-of-the-second-best.md).

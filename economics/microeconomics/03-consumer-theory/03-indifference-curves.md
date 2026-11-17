@@ -83,5 +83,5 @@ The beauty of indifference curves is that they show **trade-offs a consumer is w
 ## Where this leads
 
 - Next: [the marginal rate of substitution](04-marginal-rate-of-substitution.md).
-- Later: [[general-equilibrium|general equilibrium]] uses indifference curves in the Edgeworth box.
-- Glossary: [[g:indifference-curve|indifference curve]], [[g:perfect-substitutes|perfect substitutes]], [[g:perfect-complements|perfect complements]].
+- Later: [general equilibrium](../08-welfare-economics/02-general-equilibrium.md) uses indifference curves in the Edgeworth box.
+- Glossary: [indifference curve](../glossary/indifference-curve.md), [perfect substitutes](../glossary/perfect-substitutes.md), [perfect complements](../glossary/perfect-complements.md).

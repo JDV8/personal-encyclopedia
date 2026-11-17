@@ -1,6 +1,6 @@
 # Natural monopoly and regulation
 
-**Prerequisites:** [[monopoly|Monopoly]], [[economies-of-scale|Economies of scale]].
+**Prerequisites:** [Monopoly](04-monopoly.md), [Economies of scale](../04-producer-theory/08-economies-of-scale.md).
 
 ![Pipes laid out for a new water main: duplicating such networks would multiply fixed costs, which makes water supply a natural monopoly](images/07-natural-monopoly-and-regulation.jpg)
 
@@ -51,7 +51,7 @@ flowchart LR
 
 ## Regulatory capture
 
-George Stigler argued in "The Theory of Economic Regulation" (1971) that regulatory agencies tend to be "captured" by the industries they regulate, because the industry has concentrated interests, expertise and resources, while consumers are dispersed. Captured regulators may protect incumbents from competition instead of protecting consumers. This is one form of [[government-failure|government failure]].
+George Stigler argued in "The Theory of Economic Regulation" (1971) that regulatory agencies tend to be "captured" by the industries they regulate, because the industry has concentrated interests, expertise and resources, while consumers are dispersed. Captured regulators may protect incumbents from competition instead of protecting consumers. This is one form of [government failure](../07-market-failure/15-government-failure.md).
 
 ## Key ideas
 
@@ -63,5 +63,5 @@ George Stigler argued in "The Theory of Economic Regulation" (1971) that regulat
 
 ## Where this leads
 
-- Next: [[monopolistic-competition|monopolistic competition]].
-- Glossary: [[g:natural-monopoly|natural monopoly]], [[g:two-part-tariff|two-part tariff]], [[g:regulatory-capture|regulatory capture]].
+- Next: [monopolistic competition](08-monopolistic-competition.md).
+- Glossary: [natural monopoly](../glossary/natural-monopoly.md), [two-part tariff](../glossary/two-part-tariff.md), [regulatory capture](../glossary/regulatory-capture.md).

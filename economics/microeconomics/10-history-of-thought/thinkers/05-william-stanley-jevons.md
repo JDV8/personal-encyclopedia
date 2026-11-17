@@ -1,6 +1,6 @@
 # William Stanley Jevons (1835–1882)
 
-**Prerequisites:** [[the-marginal-revolution|The marginal revolution]], [[marginal-utility|Marginal utility]].
+**Prerequisites:** [The marginal revolution](../03-the-marginal-revolution.md), [Marginal utility](../../03-consumer-theory/02-marginal-utility.md).
 
 ![William Stanley Jevons in 1858, during his years in Sydney](images/05-william-stanley-jevons.jpg)
 
@@ -61,6 +61,6 @@ Jevons established the mathematical, utility-based approach that, through Edgewo
 
 ## Where this leads
 
-- Next thinker: [[carl-menger|Carl Menger]].
-- Related: [[marginal-utility|marginal utility]], [[negative-externalities-and-pollution|pollution]].
-- Glossary: [[g:jevons-paradox|Jevons paradox]], [[g:marginal-utility|marginal utility]], [[g:marginal-revolution|marginal revolution]].
+- Next thinker: [Carl Menger](06-carl-menger.md).
+- Related: [marginal utility](../../03-consumer-theory/02-marginal-utility.md), [pollution](../../07-market-failure/03-negative-externalities-and-pollution.md).
+- Glossary: [Jevons paradox](../../glossary/jevons-paradox.md), [marginal utility](../../glossary/marginal-utility.md), [marginal revolution](../../glossary/marginal-revolution.md).

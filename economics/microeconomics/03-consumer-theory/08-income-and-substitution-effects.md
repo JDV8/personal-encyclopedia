@@ -64,7 +64,7 @@ Only if the good is inferior **and** the income effect is large enough to outwei
 
 The same decomposition illuminates many problems:
 
-- **Labour supply.** A wage rise makes leisure more expensive (substitution effect toward work) but also makes the worker richer (income effect toward more leisure, which is a normal good). The net effect can go either way. See [[labour-supply|labour supply]].
+- **Labour supply.** A wage rise makes leisure more expensive (substitution effect toward work) but also makes the worker richer (income effect toward more leisure, which is a normal good). The net effect can go either way. See [labour supply](../06-factor-markets/03-labour-supply.md).
 - **Saving.** A rise in interest rates makes current consumption more expensive relative to future consumption (substitution toward saving), but makes savers richer (income effect toward more consumption now). See [intertemporal choice](12-intertemporal-choice.md).
 - **Taxes and rebates.** A tax on gasoline combined with a lump-sum rebate leaves the consumer with roughly the same real income but higher relative fuel prices: a pure substitution effect. Some carbon-pricing schemes, including Canada's federal fuel charge with its rebate from 2019 until the consumer charge was removed in 2025, were designed on this logic.
 
@@ -79,5 +79,5 @@ The same decomposition illuminates many problems:
 ## Where this leads
 
 - Next: [inferior and Giffen goods](09-inferior-and-giffen-goods.md).
-- Applied: [[labour-supply|labour supply]], [intertemporal choice](12-intertemporal-choice.md).
-- Glossary: [[g:income-effect|income effect]], [[g:substitution-effect|substitution effect]], [[g:slutsky-equation|Slutsky equation]].
+- Applied: [labour supply](../06-factor-markets/03-labour-supply.md), [intertemporal choice](12-intertemporal-choice.md).
+- Glossary: [income effect](../glossary/income-effect.md), [substitution effect](../glossary/substitution-effect.md), [Slutsky equation](../glossary/slutsky-equation.md).

@@ -81,4 +81,4 @@ Solving the cost-minimisation problem for every output level gives the firm's **
 ## Where this leads
 
 - Next: [short-run costs](05-short-run-costs.md).
-- Glossary: [[g:isoquant|isoquant]], [[g:isocost-line|isocost line]], [[g:marginal-rate-of-technical-substitution|marginal rate of technical substitution]], [[g:elasticity-of-substitution|elasticity of substitution]].
+- Glossary: [isoquant](../glossary/isoquant.md), [isocost line](../glossary/isocost-line.md), [marginal rate of technical substitution](../glossary/marginal-rate-of-technical-substitution.md), [elasticity of substitution](../glossary/elasticity-of-substitution.md).

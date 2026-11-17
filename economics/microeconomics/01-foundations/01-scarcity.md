@@ -71,4 +71,4 @@ Suppose a student has 10 free hours this week. Each hour can go to studying for 
 
 - Next: [choice and trade-offs](02-choice-and-trade-offs.md).
 - Related: [the production possibilities frontier](09-production-possibilities-frontier.md), which draws scarcity as a curve.
-- Glossary: [[g:scarcity|scarcity]], [[g:factors-of-production|factors of production]], [[g:opportunity-cost|opportunity cost]].
+- Glossary: [scarcity](../glossary/scarcity.md), [factors of production](../glossary/factors-of-production.md), [opportunity cost](../glossary/opportunity-cost.md).

@@ -1,12 +1,12 @@
 # Cost-benefit analysis
 
-**Prerequisites:** [[efficiency-and-pareto-optimality|Efficiency and Pareto optimality]] (Kaldor–Hicks), [[consumer-surplus|Consumer surplus]], [[intertemporal-choice|Intertemporal choice]].
+**Prerequisites:** [Efficiency and Pareto optimality](01-efficiency-and-pareto-optimality.md) (Kaldor–Hicks), [Consumer surplus](../02-supply-and-demand/09-consumer-surplus.md), [Intertemporal choice](../03-consumer-theory/12-intertemporal-choice.md).
 
 ![The Manhattan Bridge under construction, 1909; Jules Dupuit's 1844 analysis of bridges founded cost-benefit analysis](images/06-cost-benefit-analysis.jpg)
 
 *The Manhattan Bridge under construction, 1909; Jules Dupuit's 1844 analysis of bridges founded cost-benefit analysis. Credit: Irving Underhill. License: Public domain. Source: [File:Manhattan Bridge Construction 1909.jpg](https://commons.wikimedia.org/wiki/File:Manhattan_Bridge_Construction_1909.jpg).*
 
-Should a city build a new subway line? Should a regulator ban a chemical? Should a province build a dam? **Cost-benefit analysis (CBA)** is the practical method economists use to answer such questions. It tries to list all the costs and benefits of a project, express them in money, adjust for timing, and recommend projects whose benefits exceed their costs. It is the applied form of the [[efficiency-and-pareto-optimality|Kaldor–Hicks criterion]].
+Should a city build a new subway line? Should a regulator ban a chemical? Should a province build a dam? **Cost-benefit analysis (CBA)** is the practical method economists use to answer such questions. It tries to list all the costs and benefits of a project, express them in money, adjust for timing, and recommend projects whose benefits exceed their costs. It is the applied form of the [Kaldor–Hicks criterion](01-efficiency-and-pareto-optimality.md).
 
 The French engineer Jules Dupuit pioneered the approach in 1844, analysing the benefits of bridges and roads using what we now call consumer surplus. The US Flood Control Act of 1936 required that federal water projects have benefits "in excess of the estimated costs". Today, governments, including Canada's through the Treasury Board's cost-benefit analysis guide for regulatory proposals, routinely require CBA for major regulations.
 
@@ -58,7 +58,7 @@ The hardest part of CBA is valuing non-market goods:
 
 ## Discounting
 
-Because benefits and costs occur at different times, they must be discounted (see [[path:economics/finance/01-foundations/05-present-value-and-discounting.md|present value and discounting]]). The choice of discount rate can decide the outcome, especially for long-lived projects such as climate policy or nuclear waste storage. A high rate favours projects with quick returns; a low rate gives more weight to future generations. There are two main views: base the rate on market returns on capital (the opportunity cost of investment), or on ethical judgements about how to weigh future people's welfare (the "social rate of time preference").
+Because benefits and costs occur at different times, they must be discounted (see [present value and discounting](../../finance/01-foundations/05-present-value-and-discounting.md)). The choice of discount rate can decide the outcome, especially for long-lived projects such as climate policy or nuclear waste storage. A high rate favours projects with quick returns; a low rate gives more weight to future generations. There are two main views: base the rate on market returns on capital (the opportunity cost of investment), or on ethical judgements about how to weigh future people's welfare (the "social rate of time preference").
 
 ## Criticisms and limits
 
@@ -79,6 +79,6 @@ Defenders reply that decisions inevitably trade off values; CBA makes those trad
 
 ## Where this leads
 
-- Next section: [[the-rationality-assumption|the rationality assumption]].
-- Related: [[negative-externalities-and-pollution|pollution and the social cost of carbon]], [[capital-and-interest|capital and interest]].
-- Glossary: [[g:cost-benefit-analysis|cost-benefit analysis]], [[g:value-of-a-statistical-life|value of a statistical life]], [[g:contingent-valuation|contingent valuation]], [[g:hedonic-pricing|hedonic pricing]], [[g:social-discount-rate|social discount rate]].
+- Next section: [the rationality assumption](../09-behavioural-economics/01-the-rationality-assumption.md).
+- Related: [pollution and the social cost of carbon](../07-market-failure/03-negative-externalities-and-pollution.md), [capital and interest](../06-factor-markets/07-capital-and-interest.md).
+- Glossary: [cost-benefit analysis](../glossary/cost-benefit-analysis.md), [value of a statistical life](../glossary/value-of-a-statistical-life.md), [contingent valuation](../glossary/contingent-valuation.md), [hedonic pricing](../glossary/hedonic-pricing.md), [social discount rate](../glossary/social-discount-rate.md).

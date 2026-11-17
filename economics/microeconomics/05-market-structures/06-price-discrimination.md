@@ -1,6 +1,6 @@
 # Price discrimination
 
-**Prerequisites:** [[monopoly-pricing-and-deadweight-loss|Monopoly pricing and deadweight loss]], [[price-elasticity-of-demand|Price elasticity of demand]].
+**Prerequisites:** [Monopoly pricing and deadweight loss](05-monopoly-pricing-and-deadweight-loss.md), [Price elasticity of demand](../02-supply-and-demand/07-price-elasticity-of-demand.md).
 
 ![Premium economy seats on a Boeing 777: airlines sell seats on the same flight at many different prices](images/06-price-discrimination.jpg)
 
@@ -77,6 +77,6 @@ Is price discrimination good or bad?
 
 ## Where this leads
 
-- Next: [[natural-monopoly-and-regulation|natural monopoly and regulation]].
-- Related: [[arthur-cecil-pigou|Arthur Cecil Pigou]].
-- Glossary: [[g:price-discrimination|price discrimination]], [[g:arbitrage|arbitrage]], [[g:peak-load-pricing|peak-load pricing]].
+- Next: [natural monopoly and regulation](07-natural-monopoly-and-regulation.md).
+- Related: [Arthur Cecil Pigou](../10-history-of-thought/thinkers/10-arthur-cecil-pigou.md).
+- Glossary: [price discrimination](../glossary/price-discrimination.md), [arbitrage](../glossary/arbitrage.md), [peak-load pricing](../glossary/peak-load-pricing.md).

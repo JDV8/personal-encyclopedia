@@ -1,6 +1,6 @@
 # Before Adam Smith
 
-**Prerequisites:** [[scarcity|Scarcity]], [[markets-prices-and-property-rights|Markets, prices and property rights]].
+**Prerequisites:** [Scarcity](../01-foundations/01-scarcity.md), [Markets, prices and property rights](../01-foundations/10-markets-prices-and-property-rights.md).
 
 ![François Quesnay's Tableau économique (1758), the first diagram of the economy as a circular flow](images/01-before-adam-smith.jpg)
 
@@ -17,7 +17,7 @@ The word "economics" comes from the Greek *oikonomia*, the management of a house
 - *oikonomia*, natural acquisition for the needs of the household, which has a natural limit; and
 - *chrematistike*, the pursuit of money for its own sake, which he regarded as unnatural and unlimited.
 
-He also separated a thing's **use value** (wearing a shoe) from its **exchange value** (trading it), a distinction that reappears in Smith, Ricardo and Marx. In the *Nicomachean Ethics* (Book V), he discussed **justice in exchange**: exchange requires a common measure, and money serves that role "by convention" (*nomos*), which is the origin of the Greek word for coin, *nomisma*. He condemned charging interest as making money breed from money. See philosophy's [[path:philosophy/history/ancient/greek/thinkers/aristotle.md|Aristotle]] and [[path:philosophy/history/ancient/greek/texts/nicomachean-ethics.md|Nicomachean Ethics]].
+He also separated a thing's **use value** (wearing a shoe) from its **exchange value** (trading it), a distinction that reappears in Smith, Ricardo and Marx. In the *Nicomachean Ethics* (Book V), he discussed **justice in exchange**: exchange requires a common measure, and money serves that role "by convention" (*nomos*), which is the origin of the Greek word for coin, *nomisma*. He condemned charging interest as making money breed from money. See philosophy's [Aristotle](../../../philosophy/history/ancient/greek/thinkers/aristotle.md) and [Nicomachean Ethics](../../../philosophy/history/ancient/greek/texts/nicomachean-ethics.md).
 
 ## Medieval scholastics
 
@@ -29,7 +29,7 @@ Medieval scholars, working within Christian theology, discussed the **just price
 
 ## The Islamic world
 
-**Ibn Khaldun** (1332–1406), in the *Muqaddimah* (1377), analysed the division of labour, the role of supply and demand in setting prices, and the effects of taxation. He argued that moderate taxes encourage economic activity and raise more revenue, while high taxes discourage it and reduce revenue, an idea sometimes compared to the [[g:laffer-curve|Laffer curve]].
+**Ibn Khaldun** (1332–1406), in the *Muqaddimah* (1377), analysed the division of labour, the role of supply and demand in setting prices, and the effects of taxation. He argued that moderate taxes encourage economic activity and raise more revenue, while high taxes discourage it and reduce revenue, an idea sometimes compared to the [Laffer curve](../glossary/laffer-curve.md).
 
 ## Mercantilism
 
@@ -72,6 +72,6 @@ In mid-18th-century France, **François Quesnay** (1694–1774) and his follower
 
 ## Where this leads
 
-- Next: [[classical-economics|classical economics]].
-- Related: [[adam-smith|Adam Smith]], [[comparative-advantage|comparative advantage]].
-- Glossary: [[g:mercantilism|mercantilism]], [[g:physiocracy|physiocracy]], [[g:just-price|just price]], [[g:price-specie-flow-mechanism|price–specie flow mechanism]], [[g:laissez-faire|laissez-faire]].
+- Next: [classical economics](02-classical-economics.md).
+- Related: [Adam Smith](thinkers/01-adam-smith.md), [comparative advantage](../01-foundations/07-comparative-advantage.md).
+- Glossary: [mercantilism](../glossary/mercantilism.md), [physiocracy](../glossary/physiocracy.md), [just price](../glossary/just-price.md), [price–specie flow mechanism](../glossary/price-specie-flow-mechanism.md), [laissez-faire](../glossary/laissez-faire.md).

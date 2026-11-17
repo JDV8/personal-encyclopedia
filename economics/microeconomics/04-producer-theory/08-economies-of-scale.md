@@ -63,7 +63,7 @@ Compare minimum efficient scale (MES) with total market demand:
 
 - If MES is **small** relative to the market, many firms can operate at low cost: competition is natural (farming, restaurants, hairdressing).
 - If MES is **large** relative to the market, only a few firms fit: oligopoly is likely (aircraft manufacturing, where Airbus and Boeing dominate large jets).
-- If one firm can supply the whole market more cheaply than two or more, the industry is a **natural monopoly** (water mains, electricity transmission). See [[natural-monopoly-and-regulation|natural monopoly and regulation]].
+- If one firm can supply the whole market more cheaply than two or more, the industry is a **natural monopoly** (water mains, electricity transmission). See [natural monopoly and regulation](../05-market-structures/07-natural-monopoly-and-regulation.md).
 
 ## Key ideas
 
@@ -76,5 +76,5 @@ Compare minimum efficient scale (MES) with total market demand:
 ## Where this leads
 
 - Next: [profit maximization](09-profit-maximization.md).
-- Later: [[natural-monopoly-and-regulation|natural monopoly and regulation]], [[oligopoly|oligopoly]].
-- Glossary: [[g:economies-of-scale|economies of scale]], [[g:diseconomies-of-scale|diseconomies of scale]], [[g:economies-of-scope|economies of scope]], [[g:returns-to-scale|returns to scale]].
+- Later: [natural monopoly and regulation](../05-market-structures/07-natural-monopoly-and-regulation.md), [oligopoly](../05-market-structures/09-oligopoly.md).
+- Glossary: [economies of scale](../glossary/economies-of-scale.md), [diseconomies of scale](../glossary/diseconomies-of-scale.md), [economies of scope](../glossary/economies-of-scope.md), [returns to scale](../glossary/returns-to-scale.md).

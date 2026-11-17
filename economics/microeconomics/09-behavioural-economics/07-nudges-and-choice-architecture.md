@@ -1,6 +1,6 @@
 # Nudges and choice architecture
 
-**Prerequisites:** [[time-inconsistency-and-self-control|Time inconsistency and self-control]], [[heuristics-and-biases|Heuristics and biases]].
+**Prerequisites:** [Time inconsistency and self-control](05-time-inconsistency-and-self-control.md), [Heuristics and biases](03-heuristics-and-biases.md).
 
 ![Richard H. Thaler at Chatham House; co-author of Nudge (2008) and winner of the 2017 Nobel prize in economics](images/07-nudges-and-choice-architecture.jpg)
 
@@ -81,6 +81,6 @@ Stefano DellaVigna and Elizabeth Linos (2022) compared 126 randomised trials run
 
 ## Where this leads
 
-- Next: [[limits-and-critiques|limits and critiques of behavioural economics]].
-- Related: [[government-failure|government failure]].
-- Glossary: [[g:nudge|nudge]], [[g:choice-architecture|choice architecture]], [[g:default-option|default option]], [[g:libertarian-paternalism|libertarian paternalism]], [[g:sludge|sludge]].
+- Next: [limits and critiques of behavioural economics](08-limits-and-critiques.md).
+- Related: [government failure](../07-market-failure/15-government-failure.md).
+- Glossary: [nudge](../glossary/nudge.md), [choice architecture](../glossary/choice-architecture.md), [default option](../glossary/default-option.md), [libertarian paternalism](../glossary/libertarian-paternalism.md), [sludge](../glossary/sludge.md).

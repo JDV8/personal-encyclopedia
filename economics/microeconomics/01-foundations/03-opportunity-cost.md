@@ -32,11 +32,11 @@ Consider a four-year degree with these yearly numbers (illustrative, not officia
 | Room and board | 12,000 | 48,000 |
 | Earnings forgone (full-time job instead) | 35,000 | 140,000 |
 
-What is the opportunity cost? Tuition and books are clearly costs of the degree. Room and board is trickier: you would have to eat and live somewhere even without the degree, so only the *extra* cost of living near campus counts. If housing would have cost the same either way, it drops out. The largest item is the one people forget: the 140,000 in earnings you could have had. Counting tuition, books and forgone earnings, the opportunity cost is about 32,000 + 4,000 + 140,000 = 176,000. That does not mean the degree is a bad choice; graduates on average earn more over their lifetimes. It means the right comparison is that lifetime gain against 176,000, not against 36,000 of fees. This is the logic of [[human-capital|human capital]].
+What is the opportunity cost? Tuition and books are clearly costs of the degree. Room and board is trickier: you would have to eat and live somewhere even without the degree, so only the *extra* cost of living near campus counts. If housing would have cost the same either way, it drops out. The largest item is the one people forget: the 140,000 in earnings you could have had. Counting tuition, books and forgone earnings, the opportunity cost is about 32,000 + 4,000 + 140,000 = 176,000. That does not mean the degree is a bad choice; graduates on average earn more over their lifetimes. It means the right comparison is that lifetime gain against 176,000, not against 36,000 of fees. This is the logic of [human capital](../06-factor-markets/05-human-capital.md).
 
 ## Sunk costs are not opportunity costs
 
-A **sunk cost** is a cost already incurred that cannot be recovered whatever you do next. Because it cannot be changed, it should not affect a forward-looking decision. Suppose you paid 80 dollars for a non-refundable concert ticket, then fall ill on the night. Should you go because you "already paid"? The 80 dollars is gone either way. The only question is whether going, feeling ill, is better than staying home. People often do let sunk costs sway them, a pattern called the sunk-cost fallacy, which the behavioural lessons discuss under [[heuristics-and-biases|heuristics and biases]]. The finance course shows the same trap with investors who refuse to sell a losing stock until it gets "back to what I paid".
+A **sunk cost** is a cost already incurred that cannot be recovered whatever you do next. Because it cannot be changed, it should not affect a forward-looking decision. Suppose you paid 80 dollars for a non-refundable concert ticket, then fall ill on the night. Should you go because you "already paid"? The 80 dollars is gone either way. The only question is whether going, feeling ill, is better than staying home. People often do let sunk costs sway them, a pattern called the sunk-cost fallacy, which the behavioural lessons discuss under [heuristics and biases](../09-behavioural-economics/03-heuristics-and-biases.md). The finance course shows the same trap with investors who refuse to sell a losing stock until it gets "back to what I paid".
 
 ```mermaid
 flowchart LR
@@ -48,7 +48,7 @@ flowchart LR
 
 ## Opportunity cost and price
 
-Market prices often measure opportunity costs well, because the price of a resource reflects what other buyers would pay to use it. If a carpenter's time sells for 50 dollars an hour, then using an hour of that time to build your bookcase costs society 50 dollars of other carpentry. But prices and opportunity costs can diverge. A "free" public park still uses land that could hold housing. A gift card feels like free money but its opportunity cost is whatever else the cash value could have bought. And, as the [[externalities|externalities]] lessons show, when prices leave out costs imposed on third parties, the price of a good understates its true opportunity cost to society.
+Market prices often measure opportunity costs well, because the price of a resource reflects what other buyers would pay to use it. If a carpenter's time sells for 50 dollars an hour, then using an hour of that time to build your bookcase costs society 50 dollars of other carpentry. But prices and opportunity costs can diverge. A "free" public park still uses land that could hold housing. A gift card feels like free money but its opportunity cost is whatever else the cash value could have bought. And, as the [externalities](../07-market-failure/02-externalities.md) lessons show, when prices leave out costs imposed on third parties, the price of a good understates its true opportunity cost to society.
 
 ## Opportunity cost in production
 
@@ -67,4 +67,4 @@ Opportunity cost also applies to what an economy produces. If a farm can grow ei
 - Next: [incentives](04-incentives.md).
 - Applied: [comparative advantage](07-comparative-advantage.md) rests entirely on opportunity cost.
 - Related branch: [the time value of money](../../finance/01-foundations/04-time-value-of-money.md) treats forgone interest as an opportunity cost.
-- Glossary: [[g:opportunity-cost|opportunity cost]], [[g:sunk-cost|sunk cost]], [[g:implicit-cost|implicit cost]].
+- Glossary: [opportunity cost](../glossary/opportunity-cost.md), [sunk cost](../glossary/sunk-cost.md), [implicit cost](../glossary/implicit-cost.md).

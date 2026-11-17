@@ -73,4 +73,4 @@ Thorstein Veblen's *The Theory of the Leisure Class* (1899) described **conspicu
 
 - Next: [supply](03-supply.md).
 - Later: [comparative statics](06-comparative-statics.md) combines demand shifts with supply.
-- Glossary: [[g:normal-good|normal good]], [[g:inferior-good|inferior good]], [[g:substitute|substitute]], [[g:complement|complement]], [[g:network-effect|network effect]], [[g:veblen-good|Veblen good]].
+- Glossary: [normal good](../glossary/normal-good.md), [inferior good](../glossary/inferior-good.md), [substitute](../glossary/substitute.md), [complement](../glossary/complement.md), [network effect](../glossary/network-effect.md), [Veblen good](../glossary/veblen-good.md).

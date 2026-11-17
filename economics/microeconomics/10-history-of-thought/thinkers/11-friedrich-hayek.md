@@ -1,6 +1,6 @@
 # Friedrich Hayek (1899–1992)
 
-**Prerequisites:** [[markets-prices-and-property-rights|Markets, prices and property rights]], [[schools-of-thought|Schools of thought]].
+**Prerequisites:** [Markets, prices and property rights](../../01-foundations/10-markets-prices-and-property-rights.md), [Schools of thought](../05-schools-of-thought.md).
 
 ![Friedrich A. Hayek (portrait released by the Mises Institute)](images/11-friedrich-hayek.jpg)
 
@@ -56,6 +56,6 @@ Hayek influenced economists, legal scholars and politicians, including Margaret 
 
 ## Where this leads
 
-- Next thinker: [[ronald-coase|Ronald Coase]].
-- Related: [[carl-menger|Carl Menger]], [[asymmetric-information|asymmetric information]], [[government-failure|government failure]].
-- Glossary: [[g:spontaneous-order|spontaneous order]], [[g:price-signal|price signal]], [[g:socialist-calculation-debate|socialist calculation debate]].
+- Next thinker: [Ronald Coase](12-ronald-coase.md).
+- Related: [Carl Menger](06-carl-menger.md), [asymmetric information](../../07-market-failure/10-asymmetric-information.md), [government failure](../../07-market-failure/15-government-failure.md).
+- Glossary: [spontaneous order](../../glossary/spontaneous-order.md), [price signal](../../glossary/price-signal.md), [socialist calculation debate](../../glossary/socialist-calculation-debate.md).

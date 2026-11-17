@@ -1,6 +1,6 @@
 # Arthur Cecil Pigou (1877–1959)
 
-**Prerequisites:** [[pigouvian-taxes-and-subsidies|Pigouvian taxes and subsidies]], [[price-discrimination|Price discrimination]].
+**Prerequisites:** [Pigouvian taxes and subsidies](../../07-market-failure/05-pigouvian-taxes-and-subsidies.md), [Price discrimination](../../05-market-structures/06-price-discrimination.md).
 
 ![Arthur Cecil Pigou, photographed by J. Palmer-Clarke, about 1918–1921](images/10-arthur-cecil-pigou.jpg)
 
@@ -33,7 +33,7 @@ Pigou's central analytical contribution was the distinction between **marginal p
 - the benefits of planting trees or of scientific research, which others enjoy without paying;
 - the costs that motor cars impose by wearing out roads.
 
-He proposed that the state could remove such divergences through "bounties and taxes", what we now call **Pigouvian taxes and subsidies**. A tax equal to the external cost aligns private incentives with social costs (see [[pigouvian-taxes-and-subsidies|Pigouvian taxes]]).
+He proposed that the state could remove such divergences through "bounties and taxes", what we now call **Pigouvian taxes and subsidies**. A tax equal to the external cost aligns private incentives with social costs (see [Pigouvian taxes](../../07-market-failure/05-pigouvian-taxes-and-subsidies.md)).
 
 **Illustration.** If a factory's smoke causes 5 dollars of laundry and health damage per unit of output, a 5-dollar tax per unit makes the factory's private cost equal the social cost; it will then produce only units whose value to buyers covers that full cost.
 
@@ -47,13 +47,13 @@ flowchart LR
 
 ### Price discrimination
 
-Pigou distinguished three degrees of price discrimination: **first degree** (charging each unit its maximum price), **second degree** (prices that vary with quantity or version, letting buyers sort themselves), and **third degree** (different prices for different groups). The classification is still standard (see [[price-discrimination|price discrimination]]).
+Pigou distinguished three degrees of price discrimination: **first degree** (charging each unit its maximum price), **second degree** (prices that vary with quantity or version, letting buyers sort themselves), and **third degree** (different prices for different groups). The classification is still standard (see [price discrimination](../../05-market-structures/06-price-discrimination.md)).
 
 ## Other work and controversies
 
 - **The Pigou effect.** In debates with Keynes, Pigou argued that falling prices raise the real value of money holdings, increasing wealth and spending, so that deflation could in principle restore full employment. This "real balance effect" became part of macroeconomic theory.
 - **Keynes's target.** In *The General Theory* (1936), Keynes used Pigou's *The Theory of Unemployment* (1933) as the main example of the "classical" view he was attacking. Pigou's review was harsh, though he later acknowledged Keynes's contribution.
-- **Coase's critique.** In 1960, Ronald Coase argued that Pigou's analysis ignored the reciprocal nature of harm and the possibility of bargaining (see [[coase-theorem|the Coase theorem]]). Some historians argue that Coase's reading oversimplified Pigou, who was aware of institutional complexities.
+- **Coase's critique.** In 1960, Ronald Coase argued that Pigou's analysis ignored the reciprocal nature of harm and the possibility of bargaining (see [the Coase theorem](../../07-market-failure/06-coase-theorem.md)). Some historians argue that Coase's reading oversimplified Pigou, who was aware of institutional complexities.
 
 ## Legacy
 
@@ -68,6 +68,6 @@ Pigou's divergence between private and social costs is the basis of environmenta
 
 ## Where this leads
 
-- Next thinker: [[friedrich-hayek|Friedrich Hayek]].
-- Related: [[externalities|externalities]], [[alfred-marshall|Alfred Marshall]].
-- Glossary: [[g:pigouvian-tax|Pigouvian tax]], [[g:externality|externality]], [[g:price-discrimination|price discrimination]].
+- Next thinker: [Friedrich Hayek](11-friedrich-hayek.md).
+- Related: [externalities](../../07-market-failure/02-externalities.md), [Alfred Marshall](08-alfred-marshall.md).
+- Glossary: [Pigouvian tax](../../glossary/pigouvian-tax.md), [externality](../../glossary/externality.md), [price discrimination](../../glossary/price-discrimination.md).

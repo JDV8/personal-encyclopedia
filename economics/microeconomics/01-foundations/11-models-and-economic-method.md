@@ -53,7 +53,7 @@ Economists agree on more than public debate suggests: most accept that rent cont
 
 1. **Different values**, on normative questions.
 2. **Different readings of evidence**, on positive questions where data are hard to interpret.
-3. **Different models** or schools of thought, which emphasise different mechanisms. The [[schools-of-thought|schools of thought]] lesson describes these fairly.
+3. **Different models** or schools of thought, which emphasise different mechanisms. The [schools of thought](../10-history-of-thought/05-schools-of-thought.md) lesson describes these fairly.
 
 ## Milton Friedman on assumptions
 
@@ -70,6 +70,6 @@ In a famous 1953 essay, "The Methodology of Positive Economics", Milton Friedman
 ## Where this leads
 
 - Next section: [demand](../02-supply-and-demand/01-demand.md), the start of supply and demand.
-- Related: [[schools-of-thought|schools of thought]], [[limits-and-critiques|limits and critiques of behavioural economics]].
+- Related: [schools of thought](../10-history-of-thought/05-schools-of-thought.md), [limits and critiques of behavioural economics](../09-behavioural-economics/08-limits-and-critiques.md).
 - Related branch: [knowledge and opinion](../../../philosophy/concepts/epistemology/knowledge-and-opinion.md) in philosophy.
-- Glossary: [[g:ceteris-paribus|ceteris paribus]], [[g:positive-economics|positive economics]], [[g:normative-economics|normative economics]], [[g:economic-model|economic model]].
+- Glossary: [ceteris paribus](../glossary/ceteris-paribus.md), [positive economics](../glossary/positive-economics.md), [normative economics](../glossary/normative-economics.md), [economic model](../glossary/economic-model.md).

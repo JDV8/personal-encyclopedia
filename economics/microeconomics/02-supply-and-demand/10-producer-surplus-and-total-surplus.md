@@ -59,11 +59,11 @@ At the competitive equilibrium, total surplus is as large as it can be. Three fa
 
 Try producing 600 cups: the 600th cup costs 3.50 to make (from supply) but is worth only 2.50 to its buyer (from demand). Each cup beyond 500 destroys surplus. Producing 400: the 400th cup is worth 3.50 to a buyer and costs only 2.50 to make, so a trade worth 1 dollar of surplus is missed.
 
-This result is a simple version of the [[the-welfare-theorems|first welfare theorem]]. It depends on assumptions: competitive markets, no [[externalities|externalities]], good information, and no [[public-goods|public goods]] problems. When they fail, the market quantity can be too high or too low.
+This result is a simple version of the [first welfare theorem](../08-welfare-economics/03-the-welfare-theorems.md). It depends on assumptions: competitive markets, no [externalities](../07-market-failure/02-externalities.md), good information, and no [public goods](../07-market-failure/08-public-goods.md) problems. When they fail, the market quantity can be too high or too low.
 
 ## Efficiency is not everything
 
-A market that maximises total surplus is **efficient** in the economist's sense. It is not necessarily **fair**. The surplus could be divided very unequally, and people who cannot afford the price get nothing. Many policies deliberately trade some efficiency for other goals, such as equity or security. The point of the surplus framework is not to declare that efficiency always wins but to make the costs of each choice visible. See [[efficiency-versus-equity|efficiency versus equity]].
+A market that maximises total surplus is **efficient** in the economist's sense. It is not necessarily **fair**. The surplus could be divided very unequally, and people who cannot afford the price get nothing. Many policies deliberately trade some efficiency for other goals, such as equity or security. The point of the surplus framework is not to declare that efficiency always wins but to make the costs of each choice visible. See [efficiency versus equity](../08-welfare-economics/04-efficiency-versus-equity.md).
 
 ## Key ideas
 
@@ -76,4 +76,4 @@ A market that maximises total surplus is **efficient** in the economist's sense.
 ## Where this leads
 
 - Next: [price ceilings](11-price-ceilings.md), the first of several interventions measured with surplus.
-- Glossary: [[g:producer-surplus|producer surplus]], [[g:total-surplus|total surplus]], [[g:efficiency|efficiency]].
+- Glossary: [producer surplus](../glossary/producer-surplus.md), [total surplus](../glossary/total-surplus.md), [efficiency](../glossary/efficiency.md).

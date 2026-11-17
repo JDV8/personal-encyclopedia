@@ -43,11 +43,11 @@ flowchart LR
 
 ## The diamond-water paradox
 
-Marginal thinking resolved an old puzzle. Water is essential to life and yet cheap; diamonds are inessential and yet expensive. Adam Smith noted the contrast in *The Wealth of Nations* (1776) as a puzzle about "value in use" versus "value in exchange". The answer, worked out by the marginalist economists of the 1870s (William Stanley Jevons, Carl Menger and Léon Walras), is that prices reflect the value of the *marginal* unit, not of the whole supply. Because water is abundant, the last litre a typical person uses goes to something minor, like washing a car, so its marginal value is low. Diamonds are scarce, so the marginal diamond is still highly valued. The total value of water to humanity is vastly greater than that of diamonds; the marginal value is what sets the price. See [[the-marginal-revolution|the marginal revolution]].
+Marginal thinking resolved an old puzzle. Water is essential to life and yet cheap; diamonds are inessential and yet expensive. Adam Smith noted the contrast in *The Wealth of Nations* (1776) as a puzzle about "value in use" versus "value in exchange". The answer, worked out by the marginalist economists of the 1870s (William Stanley Jevons, Carl Menger and Léon Walras), is that prices reflect the value of the *marginal* unit, not of the whole supply. Because water is abundant, the last litre a typical person uses goes to something minor, like washing a car, so its marginal value is low. Diamonds are scarce, so the marginal diamond is still highly valued. The total value of water to humanity is vastly greater than that of diamonds; the marginal value is what sets the price. See [the marginal revolution](../10-history-of-thought/03-the-marginal-revolution.md).
 
 ## Marginal thinking and sunk costs
 
-Marginal analysis is forward-looking. It asks what changes if you do one more unit. That is why sunk costs drop out: money already spent is the same whether you do the next unit or not, so it cannot affect the comparison of marginal benefit and marginal cost. An airline with an empty seat on a flight that leaves in an hour faces a marginal cost of carrying one more passenger close to zero (a snack and a little fuel). Selling that seat for even a low price adds to profit, which is why last-minute fares sometimes fall, although airlines limit this so travellers do not learn to wait. See [[price-discrimination|price discrimination]].
+Marginal analysis is forward-looking. It asks what changes if you do one more unit. That is why sunk costs drop out: money already spent is the same whether you do the next unit or not, so it cannot affect the comparison of marginal benefit and marginal cost. An airline with an empty seat on a flight that leaves in an hour faces a marginal cost of carrying one more passenger close to zero (a snack and a little fuel). Selling that seat for even a low price adds to profit, which is why last-minute fares sometimes fall, although airlines limit this so travellers do not learn to wait. See [price discrimination](../05-market-structures/06-price-discrimination.md).
 
 ## Calculus, briefly
 
@@ -65,4 +65,4 @@ If total benefit and total cost are smooth functions of quantity q, the marginal
 
 - Next: [specialization and the division of labour](06-specialization-and-division-of-labour.md).
 - Later: [profit maximization](../04-producer-theory/09-profit-maximization.md) (marginal revenue equals marginal cost) and [optimal consumer choice](../03-consumer-theory/06-optimal-choice.md).
-- Glossary: [[g:marginal-analysis|marginal analysis]], [[g:marginal-cost|marginal cost]], [[g:diamond-water-paradox|diamond-water paradox]].
+- Glossary: [marginal analysis](../glossary/marginal-analysis.md), [marginal cost](../glossary/marginal-cost.md), [diamond-water paradox](../glossary/diamond-water-paradox.md).

@@ -1,6 +1,6 @@
 # Heuristics and biases
 
-**Prerequisites:** [[bounded-rationality|Bounded rationality]], [[choice-under-uncertainty|Choice under uncertainty]].
+**Prerequisites:** [Bounded rationality](02-bounded-rationality.md), [Choice under uncertainty](../03-consumer-theory/11-choice-under-uncertainty.md).
 
 ![The Müller-Lyer illusion: the lines are equal in length but do not look it. Kahneman and Tversky compared cognitive biases to such perceptual illusions, which persist even when you know about them](images/03-heuristics-and-biases.jpg)
 
@@ -21,7 +21,7 @@ People judge the probability that something belongs to a category by how much it
 
 Most people choose 2, but this is impossible: the probability of two things both being true can never exceed the probability of one of them. This is the **conjunction fallacy**.
 
-**Base-rate neglect: a worked example.** A disease affects 1 in 1,000 people. A test detects it 99 percent of the time, and gives a false positive 5 percent of the time. You test positive. What is the chance you have the disease? Many people say about 95 percent. Out of 100,000 people, 100 have the disease and 99 test positive; of the 99,900 without it, 4,995 test positive. So only 99 of 5,094 positives, about **1.9 percent**, are true. See [[path:economics/finance/01-foundations/08-probability-and-expected-value.md|probability and expected value]].
+**Base-rate neglect: a worked example.** A disease affects 1 in 1,000 people. A test detects it 99 percent of the time, and gives a false positive 5 percent of the time. You test positive. What is the chance you have the disease? Many people say about 95 percent. Out of 100,000 people, 100 have the disease and 99 test positive; of the 99,900 without it, 4,995 test positive. So only 99 of 5,094 positives, about **1.9 percent**, are true. See [probability and expected value](../../finance/01-foundations/08-probability-and-expected-value.md).
 
 Representativeness also produces the **gambler's fallacy** (believing a coin is "due" for heads after several tails) and the belief that small samples resemble the population ("the law of small numbers").
 
@@ -42,13 +42,13 @@ People start from an initial value (an anchor) and adjust insufficiently. In one
 | **Hindsight bias** | Believing after the fact that an outcome was predictable | "I knew the crash was coming" |
 | **Endowment effect** | Valuing things more once you own them | Mug experiments (below) |
 | **Status quo bias** | Preferring the current state of affairs | Sticking with default pension plans |
-| **Sunk-cost fallacy** | Letting unrecoverable costs affect decisions | Finishing a bad movie because you paid for it (see [[g:sunk-cost|sunk cost]]) |
+| **Sunk-cost fallacy** | Letting unrecoverable costs affect decisions | Finishing a bad movie because you paid for it (see [sunk cost](../glossary/sunk-cost.md)) |
 | **Framing effects** | Different descriptions of the same choice change decisions | "90% survival" vs "10% mortality" |
 | **Mental accounting** | Treating money differently depending on its source or label | Spending a tax refund freely while carrying credit-card debt |
 
 ### The endowment effect
 
-Kahneman, Jack Knetsch and Richard Thaler (1990) gave coffee mugs to half the students in a class. Owners were asked their minimum selling price; non-owners their maximum buying price. Standard theory predicts the two should be similar and about half the mugs should trade. In fact, median selling prices were roughly two to three times median buying prices, and far fewer trades occurred. This is consistent with **loss aversion**: giving up the mug feels like a loss (see [[prospect-theory-in-economics|prospect theory]]). Later research, such as Plott and Zeiler (2005), found the gap shrinks with careful experimental procedures, and debate continues about its size and causes.
+Kahneman, Jack Knetsch and Richard Thaler (1990) gave coffee mugs to half the students in a class. Owners were asked their minimum selling price; non-owners their maximum buying price. Standard theory predicts the two should be similar and about half the mugs should trade. In fact, median selling prices were roughly two to three times median buying prices, and far fewer trades occurred. This is consistent with **loss aversion**: giving up the mug feels like a loss (see [prospect theory](04-prospect-theory-in-economics.md)). Later research, such as Plott and Zeiler (2005), found the gap shrinks with careful experimental procedures, and debate continues about its size and causes.
 
 ### Framing: the Asian disease problem
 
@@ -77,6 +77,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next: [[prospect-theory-in-economics|prospect theory in economics]].
-- Related: [[path:economics/finance/07-behavioural-finance/03-overconfidence-and-other-biases.md|overconfidence and other biases in investing]], [[path:economics/finance/07-behavioural-finance/05-mental-accounting-anchoring-and-framing.md|mental accounting, anchoring and framing]].
-- Glossary: [[g:heuristic|heuristic]], [[g:anchoring|anchoring]], [[g:availability-heuristic|availability heuristic]], [[g:representativeness-heuristic|representativeness heuristic]], [[g:framing-effect|framing effect]], [[g:endowment-effect|endowment effect]].
+- Next: [prospect theory in economics](04-prospect-theory-in-economics.md).
+- Related: [overconfidence and other biases in investing](../../finance/07-behavioural-finance/03-overconfidence-and-other-biases.md), [mental accounting, anchoring and framing](../../finance/07-behavioural-finance/05-mental-accounting-anchoring-and-framing.md).
+- Glossary: [heuristic](../glossary/heuristic.md), [anchoring](../glossary/anchoring.md), [availability heuristic](../glossary/availability-heuristic.md), [representativeness heuristic](../glossary/representativeness-heuristic.md), [framing effect](../glossary/framing-effect.md), [endowment effect](../glossary/endowment-effect.md).

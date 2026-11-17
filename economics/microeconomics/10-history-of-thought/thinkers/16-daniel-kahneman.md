@@ -1,6 +1,6 @@
 # Daniel Kahneman (1934–2024)
 
-**Prerequisites:** [[heuristics-and-biases|Heuristics and biases]], [[prospect-theory-in-economics|Prospect theory in economics]].
+**Prerequisites:** [Heuristics and biases](../../09-behavioural-economics/03-heuristics-and-biases.md), [Prospect theory in economics](../../09-behavioural-economics/04-prospect-theory-in-economics.md).
 
 ![Daniel Kahneman, 2002 Nobel laureate in economics](images/16-daniel-kahneman.jpg)
 
@@ -18,15 +18,15 @@ The family moved to Palestine in 1948. Kahneman studied psychology and mathemati
 
 Kahneman and Tversky worked closely together, often writing in the same room and arguing over every sentence. Their partnership is described in Michael Lewis's *The Undoing Project* (2016). Key works:
 
-- **"Judgment under Uncertainty: Heuristics and Biases"** (*Science*, 1974): the representativeness, availability and anchoring heuristics and the biases they produce (see [[heuristics-and-biases|heuristics and biases]]).
-- **"Prospect Theory: An Analysis of Decision under Risk"** (*Econometrica*, 1979): reference dependence, loss aversion, diminishing sensitivity and probability weighting (see [[prospect-theory-in-economics|prospect theory]]). One of the most cited papers ever published in economics.
+- **"Judgment under Uncertainty: Heuristics and Biases"** (*Science*, 1974): the representativeness, availability and anchoring heuristics and the biases they produce (see [heuristics and biases](../../09-behavioural-economics/03-heuristics-and-biases.md)).
+- **"Prospect Theory: An Analysis of Decision under Risk"** (*Econometrica*, 1979): reference dependence, loss aversion, diminishing sensitivity and probability weighting (see [prospect theory](../../09-behavioural-economics/04-prospect-theory-in-economics.md)). One of the most cited papers ever published in economics.
 - **"The Framing of Decisions and the Psychology of Choice"** (*Science*, 1981): the Asian disease problem and framing effects.
 - **Cumulative prospect theory** (1992).
 
 ## Other contributions
 
 - **The endowment effect** experiments with Jack Knetsch and Richard Thaler (1990).
-- **Fairness in markets** (1986): survey evidence that people view price increases exploiting shortages as unfair (see [[social-preferences-and-fairness|social preferences and fairness]]).
+- **Fairness in markets** (1986): survey evidence that people view price increases exploiting shortages as unfair (see [social preferences and fairness](../../09-behavioural-economics/06-social-preferences-and-fairness.md)).
 - **The planning fallacy** (with Tversky, 1979): people underestimate how long projects take; the **outside view** (reference class forecasting) helps correct it.
 - **Experienced versus remembered utility.** In the "cold-hand" experiments (1993), people preferred to repeat a longer painful episode that ended less painfully, showing the **peak–end rule**: memories of experiences are dominated by their most intense moment and their end, with **duration neglect**.
 - **Well-being research.** With Angus Deaton (2010), he found that in the US, people's life evaluations kept rising with income, while day-to-day emotional well-being appeared to plateau around 75,000 dollars a year; a 2023 joint study with Matthew Killingsworth and Barbara Mellers revised this, finding that for most people happiness continues to rise with income.
@@ -68,6 +68,6 @@ Kahneman was notable for publicly acknowledging errors. After failures to replic
 
 ## Where this leads
 
-- Back to the start of the thinkers: [[adam-smith|Adam Smith]].
-- Related: [[the-rationality-assumption|the rationality assumption]], [[limits-and-critiques|limits and critiques]], [[path:economics/finance/07-behavioural-finance/02-prospect-theory-and-loss-aversion.md|prospect theory in finance]].
-- Glossary: [[g:prospect-theory|prospect theory]], [[g:loss-aversion|loss aversion]], [[g:peak-end-rule|peak–end rule]], [[g:planning-fallacy|planning fallacy]].
+- Back to the start of the thinkers: [Adam Smith](01-adam-smith.md).
+- Related: [the rationality assumption](../../09-behavioural-economics/01-the-rationality-assumption.md), [limits and critiques](../../09-behavioural-economics/08-limits-and-critiques.md), [prospect theory in finance](../../../finance/07-behavioural-finance/02-prospect-theory-and-loss-aversion.md).
+- Glossary: [prospect theory](../../glossary/prospect-theory.md), [loss aversion](../../glossary/loss-aversion.md), [peak–end rule](../../glossary/peak-end-rule.md), [planning fallacy](../../glossary/planning-fallacy.md).

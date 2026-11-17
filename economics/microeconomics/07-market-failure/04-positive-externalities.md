@@ -1,6 +1,6 @@
 # Positive externalities
 
-**Prerequisites:** [[externalities|Externalities]], [[consumer-surplus|Consumer surplus]].
+**Prerequisites:** [Externalities](02-externalities.md), [Consumer surplus](../02-supply-and-demand/09-consumer-surplus.md).
 
 ![James Gillray's 1802 cartoon The Cow-Pock, satirising fears of Edward Jenner's smallpox vaccine; vaccination protects others as well as the person vaccinated](images/04-positive-externalities.jpg)
 
@@ -22,19 +22,19 @@ xychart-beta
   line "Supply (MC)" [10, 15, 20, 25, 30, 35, 40]
 ```
 
-Using the flu-shot numbers from [[externalities|the previous lesson]]: the market provides 200,000 shots; the efficient level is 240,000; the deadweight loss of under-provision is 160,000 dollars.
+Using the flu-shot numbers from [the previous lesson](02-externalities.md): the market provides 200,000 shots; the efficient level is 240,000; the deadweight loss of under-provision is 160,000 dollars.
 
 ## Examples
 
 **Vaccination and herd immunity.** When enough people are immune to a contagious disease, it cannot spread easily, protecting those who cannot be vaccinated. Each additional vaccinated person reduces infection risk for others. For highly contagious diseases such as measles, epidemiologists estimate that roughly 95 percent coverage is needed to prevent outbreaks. Individuals weighing only their own costs and benefits will tend to under-vaccinate, especially once a disease has become rare. This is why many countries subsidise vaccines, provide them free, or require them for school attendance.
 
-**Education.** Education benefits the person educated, through higher earnings (see [[human-capital|human capital]]). Many economists also argue that it has external benefits: better-informed voters, lower crime, faster spread of ideas and innovation. The size of these external benefits is debated; empirical estimates vary, and some economists, such as Bryan Caplan in *The Case against Education* (2018), argue that much of the private return reflects signalling rather than productivity (see [[signalling-and-screening|signalling]]).
+**Education.** Education benefits the person educated, through higher earnings (see [human capital](../06-factor-markets/05-human-capital.md)). Many economists also argue that it has external benefits: better-informed voters, lower crime, faster spread of ideas and innovation. The size of these external benefits is debated; empirical estimates vary, and some economists, such as Bryan Caplan in *The Case against Education* (2018), argue that much of the private return reflects signalling rather than productivity (see [signalling](14-signalling-and-screening.md)).
 
 **Research and development.** New ideas can be copied. A firm that invents a better process captures only part of the benefit; competitors, customers and later inventors gain too. Studies by economists including Zvi Griliches and Charles Jones and John Williams have estimated social returns to R&D well above private returns, implying under-investment. Patents, research subsidies, tax credits and public funding of basic science are responses. Canada's Scientific Research and Experimental Development (SR&ED) program is an example of an R&D tax credit.
 
-**Bees and orchards.** A beekeeper's bees pollinate nearby orchards; orchards provide nectar. This was James Meade's 1952 example of an unpaid positive externality. Steven Cheung's 1973 study "The Fable of the Bees" found that in Washington State, beekeepers and orchard owners actually wrote contracts with pollination fees and nectar payments. The externality was largely internalised by private bargaining, an illustration of the [[coase-theorem|Coase theorem]].
+**Bees and orchards.** A beekeeper's bees pollinate nearby orchards; orchards provide nectar. This was James Meade's 1952 example of an unpaid positive externality. Steven Cheung's 1973 study "The Fable of the Bees" found that in Washington State, beekeepers and orchard owners actually wrote contracts with pollination fees and nectar payments. The externality was largely internalised by private bargaining, an illustration of the [Coase theorem](06-coase-theorem.md).
 
-**Network effects.** When more people use a telephone network, social platform or programming language, each user benefits. If these benefits are not captured by the network owner, adoption may be too slow; if they are captured, they can lead to dominant platforms (see [[g:network-effect|network effect]]).
+**Network effects.** When more people use a telephone network, social platform or programming language, each user benefits. If these benefits are not captured by the network owner, adoption may be too slow; if they are captured, they can lead to dominant platforms (see [network effect](../glossary/network-effect.md)).
 
 ## Production externalities and spillovers
 
@@ -57,6 +57,6 @@ Positive externalities can arise in production too. Firms that cluster in one pl
 
 ## Where this leads
 
-- Next: [[pigouvian-taxes-and-subsidies|Pigouvian taxes and subsidies]].
-- Related: [[public-goods|public goods]], an extreme case of positive spillovers.
-- Glossary: [[g:positive-externality|positive externality]], [[g:herd-immunity|herd immunity]], [[g:agglomeration-economies|agglomeration economies]].
+- Next: [Pigouvian taxes and subsidies](05-pigouvian-taxes-and-subsidies.md).
+- Related: [public goods](08-public-goods.md), an extreme case of positive spillovers.
+- Glossary: [positive externality](../glossary/positive-externality.md), [herd immunity](../glossary/herd-immunity.md), [agglomeration economies](../glossary/agglomeration-economies.md).

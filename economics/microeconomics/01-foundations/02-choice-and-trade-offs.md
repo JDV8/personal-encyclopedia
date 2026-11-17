@@ -20,13 +20,13 @@ The saying "there is no such thing as a free lunch" was popularised by Milton Fr
 
 **Governments.** A provincial budget spent on hospitals is not spent on schools or roads, or must be paid for with higher taxes that reduce what households can buy. A familiar phrase for the national version is "guns versus butter": more military spending means fewer civilian goods.
 
-**Society.** Many of the deepest trade-offs are between broad goals. Rules that make the economy more equal can reduce incentives to work or invest, and rules that encourage efficiency can widen inequality. A cleaner environment usually means higher production costs. Economists argue about how steep these trade-offs are in practice, and about which side of each is more important, but they agree the trade-offs exist. This course returns to the equity-efficiency trade-off in [[efficiency-versus-equity|efficiency versus equity]].
+**Society.** Many of the deepest trade-offs are between broad goals. Rules that make the economy more equal can reduce incentives to work or invest, and rules that encourage efficiency can widen inequality. A cleaner environment usually means higher production costs. Economists argue about how steep these trade-offs are in practice, and about which side of each is more important, but they agree the trade-offs exist. This course returns to the equity-efficiency trade-off in [efficiency versus equity](../08-welfare-economics/04-efficiency-versus-equity.md).
 
 ## Rational choice: the economist's working assumption
 
 To predict how people choose, mainstream economics uses a simplifying assumption: decision-makers are **rational**. In this technical sense, rational does not mean wise, selfish or emotionless. It means people have consistent preferences and pick the option they like best among those available to them. If you prefer tea to coffee and coffee to juice, you should prefer tea to juice; and when tea is available at the same price, you should not pick juice.
 
-This assumption is a modelling choice, not a claim that people never err. It works surprisingly well for many market questions, such as how buyers respond on average when the price of gasoline rises. It works less well in some settings, such as decisions far in the future or under heavy uncertainty, and [[the-rationality-assumption|behavioural economics]] later in the course looks at where and how it fails.
+This assumption is a modelling choice, not a claim that people never err. It works surprisingly well for many market questions, such as how buyers respond on average when the price of gasoline rises. It works less well in some settings, such as decisions far in the future or under heavy uncertainty, and [behavioural economics](../09-behavioural-economics/01-the-rationality-assumption.md) later in the course looks at where and how it fails.
 
 ## Constraints and choice sets
 
@@ -67,4 +67,4 @@ Real choices are rarely all-or-nothing. Maya is not choosing between "movies" an
 
 - Next: [opportunity cost](03-opportunity-cost.md), the precise measure of a trade-off.
 - Later: [the budget constraint](../03-consumer-theory/05-budget-constraint.md) and [optimal choice](../03-consumer-theory/06-optimal-choice.md) formalise this lesson.
-- Glossary: [[g:trade-off|trade-off]], [[g:rational-choice|rational choice]], [[g:budget-constraint|budget constraint]].
+- Glossary: [trade-off](../glossary/trade-off.md), [rational choice](../glossary/rational-choice.md), [budget constraint](../glossary/budget-constraint.md).

@@ -1,6 +1,6 @@
 # Land and rent
 
-**Prerequisites:** [[derived-demand|Derived demand and factor markets]], [[other-elasticities|Supply elasticity]], [[deadweight-loss|Deadweight loss]].
+**Prerequisites:** [Derived demand and factor markets](01-derived-demand.md), [Supply elasticity](../02-supply-and-demand/08-other-elasticities.md), [Deadweight loss](../02-supply-and-demand/14-deadweight-loss.md).
 
 ![Henry George in about 1885; his Progress and Poverty (1879) argued for a single tax on land values](images/08-land-and-rent.jpg)
 
@@ -52,7 +52,7 @@ Economic rent is not the same as everyday "rent" for an apartment. An apartment 
 
 ## Taxing land
 
-Because the supply of land is perfectly inelastic, a tax on land rent cannot reduce the quantity of land supplied. The burden falls entirely on landowners (see [[taxes-and-tax-incidence|tax incidence]]), and there is **no deadweight loss**. The land is used exactly as before.
+Because the supply of land is perfectly inelastic, a tax on land rent cannot reduce the quantity of land supplied. The burden falls entirely on landowners (see [tax incidence](../02-supply-and-demand/13-taxes-and-tax-incidence.md)), and there is **no deadweight loss**. The land is used exactly as before.
 
 This was the basis of Henry George's *Progress and Poverty* (1879), one of the best-selling economics books of the 19th century. George argued for a "single tax" on land values to replace other taxes, which would capture for the public the rising land values created by community growth rather than by owners' effort. Many economists across the political spectrum, including Milton Friedman, who called the land value tax "the least bad tax", have praised the efficiency of taxing land. Practical difficulties include separating the value of land from the value of buildings on it, and the political resistance of landowners. Some cities tax land at higher rates than buildings, and property taxes in Canada and elsewhere include a land component.
 
@@ -70,6 +70,6 @@ The price of buying land is the present value of the expected future rents. When
 
 ## Where this leads
 
-- Next: [[income-inequality|income inequality]].
-- Related: [[david-ricardo|David Ricardo]].
-- Glossary: [[g:economic-rent|economic rent]], [[g:land-value-tax|land value tax]], [[g:transfer-earnings|transfer earnings]].
+- Next: [income inequality](09-income-inequality.md).
+- Related: [David Ricardo](../10-history-of-thought/thinkers/02-david-ricardo.md).
+- Glossary: [economic rent](../glossary/economic-rent.md), [land value tax](../glossary/land-value-tax.md), [transfer earnings](../glossary/transfer-earnings.md).

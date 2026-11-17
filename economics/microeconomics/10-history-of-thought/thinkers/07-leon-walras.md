@@ -1,6 +1,6 @@
 # Léon Walras (1834–1910)
 
-**Prerequisites:** [[general-equilibrium|General equilibrium]], [[the-marginal-revolution|The marginal revolution]].
+**Prerequisites:** [General equilibrium](../../08-welfare-economics/02-general-equilibrium.md), [The marginal revolution](../03-the-marginal-revolution.md).
 
 ![Léon Walras, founder of general equilibrium theory](images/07-leon-walras.jpg)
 
@@ -12,7 +12,7 @@ Léon Walras was a French economist, working in Switzerland, who was one of the 
 
 Marie-Esprit-Léon Walras was born in Évreux, Normandy, in 1834. His father, Auguste Walras, was an economist who taught that value derives from scarcity (*rareté*) and urged his son to make economics a mathematical science. Léon twice failed the entrance examination for the École Polytechnique, studied at the École des Mines without completing the course, and tried his hand at fiction, journalism, railway clerking and managing a cooperative bank, which failed.
 
-His break came in 1860, when he presented ideas on taxation at an international congress in Lausanne. In 1870 he was appointed to the newly created chair of political economy at the Academy (later University) of Lausanne, a post he held until 1892, when he was succeeded by [[vilfredo-pareto|Vilfredo Pareto]]. Walras and Pareto together are known as the **Lausanne school**. He died at Clarens, near Montreux, in 1910.
+His break came in 1860, when he presented ideas on taxation at an international congress in Lausanne. In 1870 he was appointed to the newly created chair of political economy at the Academy (later University) of Lausanne, a post he held until 1892, when he was succeeded by [Vilfredo Pareto](09-vilfredo-pareto.md). Walras and Pareto together are known as the **Lausanne school**. He died at Clarens, near Montreux, in 1910.
 
 ## Elements of Pure Economics (1874–1877)
 
@@ -49,7 +49,7 @@ Imagine three goods: bread, wine and cloth, with cloth as numéraire. Walras wou
 
 ## Social economics
 
-Walras considered himself a social reformer. In *Studies in Social Economics* (1896) and *Studies in Applied Economics* (1898), he argued that the state should own land and use its rent to fund public spending, abolishing taxes on labour and capital, an idea related to Henry George's (see [[land-and-rent|land and rent]]). He called himself a "scientific socialist", while strongly supporting free competition in markets for goods.
+Walras considered himself a social reformer. In *Studies in Social Economics* (1896) and *Studies in Applied Economics* (1898), he argued that the state should own land and use its rent to fund public spending, abolishing taxes on labour and capital, an idea related to Henry George's (see [land and rent](../../06-factor-markets/08-land-and-rent.md)). He called himself a "scientific socialist", while strongly supporting free competition in markets for goods.
 
 ## Legacy
 
@@ -64,6 +64,6 @@ Walras was little appreciated in his lifetime, especially in France. His influen
 
 ## Where this leads
 
-- Next thinker: [[alfred-marshall|Alfred Marshall]].
-- Related: [[general-equilibrium|general equilibrium]], [[the-welfare-theorems|the welfare theorems]].
-- Glossary: [[g:walras-law|Walras's law]], [[g:tatonnement|tâtonnement]], [[g:general-equilibrium|general equilibrium]].
+- Next thinker: [Alfred Marshall](08-alfred-marshall.md).
+- Related: [general equilibrium](../../08-welfare-economics/02-general-equilibrium.md), [the welfare theorems](../../08-welfare-economics/03-the-welfare-theorems.md).
+- Glossary: [Walras's law](../../glossary/walras-law.md), [tâtonnement](../../glossary/tatonnement.md), [general equilibrium](../../glossary/general-equilibrium.md).

@@ -1,6 +1,6 @@
 # Long-run competitive equilibrium
 
-**Prerequisites:** [[the-competitive-firm-in-the-short-run|The competitive firm in the short run]], [[long-run-costs|Long-run costs]].
+**Prerequisites:** [The competitive firm in the short run](02-the-competitive-firm-in-the-short-run.md), [Long-run costs](../04-producer-theory/07-long-run-costs.md).
 
 ![Olympia Farmers Market, Washington: many small sellers with free entry and exit](images/03-long-run-competitive-equilibrium.jpg)
 
@@ -47,7 +47,7 @@ In the example, the long-run market supply curve is **horizontal** at the minimu
 Two other cases occur:
 
 - **Increasing-cost industry.** As the industry expands, it bids up the price of scarce inputs (specialised labour, suitable land, a mineral). Every firm's costs rise, so the long-run supply curve slopes **upward**. Wine-growing regions are an example: there is only so much good vineyard land.
-- **Decreasing-cost industry.** Industry expansion lowers costs for all firms, through [[economies-of-scale|external economies]] such as specialised suppliers and pools of skilled workers. The long-run supply curve slopes **downward**.
+- **Decreasing-cost industry.** Industry expansion lowers costs for all firms, through [external economies](../04-producer-theory/08-economies-of-scale.md) such as specialised suppliers and pools of skilled workers. The long-run supply curve slopes **downward**.
 
 In all cases, long-run supply is **more elastic** than short-run supply, because entry and exit add a margin of adjustment.
 
@@ -55,15 +55,15 @@ In all cases, long-run supply is **more elastic** than short-run supply, because
 
 Zero economic profit sounds grim but it is not: it means owners earn **normal profit**, a return on their time and capital equal to what they could earn elsewhere. They stay in business because they can do no better. Accounting profits are positive.
 
-Some firms in a competitive industry can earn more than others in the long run if they own a scarce, unique resource: an exceptionally fertile field, a prime location, a uniquely talented chef. These extra returns are **economic rents** to the scarce factor, not profits of the business. In the long run, the rent tends to be captured by the owner of the factor, for example through higher land prices or a higher salary for the chef. See [[land-and-rent|land and rent]].
+Some firms in a competitive industry can earn more than others in the long run if they own a scarce, unique resource: an exceptionally fertile field, a prime location, a uniquely talented chef. These extra returns are **economic rents** to the scarce factor, not profits of the business. In the long run, the rent tends to be captured by the owner of the factor, for example through higher land prices or a higher salary for the chef. See [land and rent](../06-factor-markets/08-land-and-rent.md).
 
 ## Implications
 
 The long-run competitive model makes clear predictions:
 
 - **Cost reductions are passed on to consumers.** If a new technology lowers costs, early adopters profit briefly; then entry and imitation push prices down to the new, lower minimum ATC.
-- **Taxes on a constant-cost industry are borne entirely by consumers in the long run**, because long-run supply is perfectly elastic (see [[taxes-and-tax-incidence|tax incidence]]).
-- **Profits are signals.** High profits draw resources into an industry where consumers value output highly; losses push resources out. This is the coordinating role of prices from [[markets-prices-and-property-rights|markets, prices and property rights]].
+- **Taxes on a constant-cost industry are borne entirely by consumers in the long run**, because long-run supply is perfectly elastic (see [tax incidence](../02-supply-and-demand/13-taxes-and-tax-incidence.md)).
+- **Profits are signals.** High profits draw resources into an industry where consumers value output highly; losses push resources out. This is the coordinating role of prices from [markets, prices and property rights](../01-foundations/10-markets-prices-and-property-rights.md).
 
 ## Key ideas
 
@@ -75,5 +75,5 @@ The long-run competitive model makes clear predictions:
 
 ## Where this leads
 
-- Next: [[monopoly|monopoly]], where entry is blocked.
-- Glossary: [[g:free-entry-and-exit|free entry and exit]], [[g:normal-profit|normal profit]], [[g:economic-rent|economic rent]].
+- Next: [monopoly](04-monopoly.md), where entry is blocked.
+- Glossary: [free entry and exit](../glossary/free-entry-and-exit.md), [normal profit](../glossary/normal-profit.md), [economic rent](../glossary/economic-rent.md).

@@ -70,7 +70,7 @@ This explains a farming paradox: a bumper harvest can **reduce** farmers' total 
 
 ## Uses of elasticity
 
-- **Pricing.** A firm with inelastic demand can raise prices profitably; with elastic demand it cannot. A monopolist always operates on the elastic part of its demand curve, as shown in [[monopoly|monopoly]].
+- **Pricing.** A firm with inelastic demand can raise prices profitably; with elastic demand it cannot. A monopolist always operates on the elastic part of its demand curve, as shown in [monopoly](../05-market-structures/04-monopoly.md).
 - **Taxes.** Taxes on inelastic goods (tobacco, alcohol, fuel) raise a lot of revenue with relatively small changes in quantity. See [tax incidence](13-taxes-and-tax-incidence.md).
 - **Policy.** Elasticity estimates tell regulators how much a drug policy, a congestion charge or a carbon price will change behaviour.
 
@@ -85,5 +85,5 @@ This explains a farming paradox: a bumper harvest can **reduce** farmers' total 
 ## Where this leads
 
 - Next: [income, cross-price and supply elasticities](08-other-elasticities.md).
-- Related: [[price-discrimination|price discrimination]] relies on different elasticities across buyers.
-- Glossary: [[g:price-elasticity-of-demand|price elasticity of demand]], [[g:elastic|elastic]], [[g:inelastic|inelastic]], [[g:total-revenue|total revenue]].
+- Related: [price discrimination](../05-market-structures/06-price-discrimination.md) relies on different elasticities across buyers.
+- Glossary: [price elasticity of demand](../glossary/price-elasticity-of-demand.md), [elastic](../glossary/elastic.md), [inelastic](../glossary/inelastic.md), [total revenue](../glossary/total-revenue.md).

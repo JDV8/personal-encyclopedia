@@ -1,6 +1,6 @@
 # Game theory basics
 
-**Prerequisites:** [[oligopoly|Oligopoly]], [[choice-and-trade-offs|Choice and trade-offs]].
+**Prerequisites:** [Oligopoly](09-oligopoly.md), [Choice and trade-offs](../01-foundations/02-choice-and-trade-offs.md).
 
 ![John von Neumann (1903–1957), who with Oskar Morgenstern founded game theory in 1944](images/10-game-theory-basics.jpg)
 
@@ -39,7 +39,7 @@ Look at Alpha's options:
 - If Beta plays High, Alpha gets 50 from High and 70 from Low. Low is better.
 - If Beta plays Low, Alpha gets 20 from High and 30 from Low. Low is better.
 
-Low is better for Alpha either way: it is a **dominant strategy**. By symmetry, Low is dominant for Beta too. So both choose Low and earn 30 each, even though both would earn 50 if both chose High. This particular structure is the **prisoner's dilemma**, discussed in [[prisoners-dilemma-and-cartels|the prisoner's dilemma and cartels]].
+Low is better for Alpha either way: it is a **dominant strategy**. By symmetry, Low is dominant for Beta too. So both choose Low and earn 30 each, even though both would earn 50 if both chose High. This particular structure is the **prisoner's dilemma**, discussed in [the prisoner's dilemma and cartels](12-prisoners-dilemma-and-cartels.md).
 
 ```mermaid
 flowchart TB
@@ -63,7 +63,7 @@ Consider two firms deciding which technology standard to adopt, A or B. They gai
 | **Firm 1: A** | (10, 10) | (0, 0) |
 | **Firm 1: B** | (0, 0) | (8, 8) |
 
-Neither firm has a dominant strategy: the best choice depends on what the other does. This is a **coordination game**. There are two stable outcomes, both choosing A or both choosing B. The history of video formats (VHS and Betamax in the 1970s and 1980s) and plug standards shows real coordination problems. To find predictions in such games, economists use the concept of [[nash-equilibrium|Nash equilibrium]].
+Neither firm has a dominant strategy: the best choice depends on what the other does. This is a **coordination game**. There are two stable outcomes, both choosing A or both choosing B. The history of video formats (VHS and Betamax in the 1970s and 1980s) and plug standards shows real coordination problems. To find predictions in such games, economists use the concept of [Nash equilibrium](11-nash-equilibrium.md).
 
 ## Sequential games and backward induction
 
@@ -75,7 +75,7 @@ In sequential games, players move in turn. They are drawn as **game trees**, and
 - Enter, incumbent accommodates: entrant 30, incumbent 50.
 - Enter, incumbent fights: entrant −10, incumbent 20.
 
-Backward induction: if the entrant enters, the incumbent compares 50 (accommodate) with 20 (fight) and accommodates. Knowing this, the entrant compares 30 (enter) with 0 (stay out) and enters. The incumbent's threat to fight is **not credible**: once entry has happened, fighting hurts the incumbent. This idea of credibility, formalised by Reinhard Selten as **subgame perfection** in 1965, is developed in [[repeated-games-and-strategic-moves|repeated games and strategic moves]].
+Backward induction: if the entrant enters, the incumbent compares 50 (accommodate) with 20 (fight) and accommodates. Knowing this, the entrant compares 30 (enter) with 0 (stay out) and enters. The incumbent's threat to fight is **not credible**: once entry has happened, fighting hurts the incumbent. This idea of credibility, formalised by Reinhard Selten as **subgame perfection** in 1965, is developed in [repeated games and strategic moves](14-repeated-games-and-strategic-moves.md).
 
 ## Game theory beyond economics
 
@@ -91,5 +91,5 @@ Game theory explains arms races, climate negotiations (each country benefits if 
 
 ## Where this leads
 
-- Next: [[nash-equilibrium|Nash equilibrium]].
-- Glossary: [[g:game-theory|game theory]], [[g:dominant-strategy|dominant strategy]], [[g:payoff-matrix|payoff matrix]], [[g:backward-induction|backward induction]].
+- Next: [Nash equilibrium](11-nash-equilibrium.md).
+- Glossary: [game theory](../glossary/game-theory.md), [dominant strategy](../glossary/dominant-strategy.md), [payoff matrix](../glossary/payoff-matrix.md), [backward induction](../glossary/backward-induction.md).

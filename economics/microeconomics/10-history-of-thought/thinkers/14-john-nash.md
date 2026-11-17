@@ -1,6 +1,6 @@
 # John Nash (1928–2015)
 
-**Prerequisites:** [[game-theory-basics|Game theory basics]], [[nash-equilibrium|Nash equilibrium]].
+**Prerequisites:** [Game theory basics](../../05-market-structures/10-game-theory-basics.md), [Nash equilibrium](../../05-market-structures/11-nash-equilibrium.md).
 
 ![John Forbes Nash Jr.](images/14-john-nash.jpg)
 
@@ -20,7 +20,7 @@ Von Neumann and Morgenstern (1944) had solved two-person **zero-sum** games, whe
 
 **A Nash equilibrium** is a set of strategies, one for each player, such that no player can do better by unilaterally changing their strategy, given the strategies of the others.
 
-In a one-page paper, "Equilibrium Points in n-Person Games" (*Proceedings of the National Academy of Sciences*, 1950), he proved, using a fixed-point theorem, that every finite game has at least one equilibrium, if players may use **mixed strategies** (randomising over actions) (see [[nash-equilibrium|Nash equilibrium]]).
+In a one-page paper, "Equilibrium Points in n-Person Games" (*Proceedings of the National Academy of Sciences*, 1950), he proved, using a fixed-point theorem, that every finite game has at least one equilibrium, if players may use **mixed strategies** (randomising over actions) (see [Nash equilibrium](../../05-market-structures/11-nash-equilibrium.md)).
 
 ### Worked example: matching pennies
 
@@ -28,7 +28,7 @@ Two players each show a coin heads or tails. If the coins match, player 1 wins 1
 
 ### Applications
 
-The concept applies wherever outcomes depend on others' choices: oligopoly pricing and output ([[cournot-bertrand-and-stackelberg|Cournot, Bertrand and Stackelberg]]), auctions, bargaining, arms races, voting, evolutionary biology, and traffic routing. The [[prisoners-dilemma-and-cartels|prisoners' dilemma]], formulated at RAND in 1950 by Merrill Flood and Melvin Dresher, illustrates that Nash equilibria can be collectively bad.
+The concept applies wherever outcomes depend on others' choices: oligopoly pricing and output ([Cournot, Bertrand and Stackelberg](../../05-market-structures/13-cournot-bertrand-and-stackelberg.md)), auctions, bargaining, arms races, voting, evolutionary biology, and traffic routing. The [prisoners' dilemma](../../05-market-structures/12-prisoners-dilemma-and-cartels.md), formulated at RAND in 1950 by Merrill Flood and Melvin Dresher, illustrates that Nash equilibria can be collectively bad.
 
 ```mermaid
 flowchart LR
@@ -60,6 +60,6 @@ Roger Myerson wrote that Nash's equilibrium concept was "one of the outstanding 
 
 ## Where this leads
 
-- Next thinker: [[elinor-ostrom|Elinor Ostrom]].
-- Related: [[repeated-games-and-strategic-moves|repeated games]], [[oligopoly|oligopoly]].
-- Glossary: [[g:nash-equilibrium|Nash equilibrium]], [[g:mixed-strategy|mixed strategy]], [[g:nash-bargaining-solution|Nash bargaining solution]].
+- Next thinker: [Elinor Ostrom](15-elinor-ostrom.md).
+- Related: [repeated games](../../05-market-structures/14-repeated-games-and-strategic-moves.md), [oligopoly](../../05-market-structures/09-oligopoly.md).
+- Glossary: [Nash equilibrium](../../glossary/nash-equilibrium.md), [mixed strategy](../../glossary/mixed-strategy.md), [Nash bargaining solution](../../glossary/nash-bargaining-solution.md).

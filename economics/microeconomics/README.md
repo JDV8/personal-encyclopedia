@@ -1,0 +1,143 @@
+# Microeconomics
+
+Microeconomics studies how individuals, households and firms make choices under scarcity, and how those choices interact in markets. This course starts from first principles (scarcity, opportunity cost, marginal thinking and gains from trade), builds the supply-and-demand model, derives demand from consumer theory and supply from producer theory, and then studies market structures from perfect competition to monopoly and oligopoly, using game theory. Later sections cover factor markets and inequality, market failures and government failure, welfare economics, behavioural economics and its limits, and the history of economic thought, with sixteen thinker profiles. Every lesson works through numeric examples; a few running examples (a coffee market, a brewery's cost curves) recur so you can see one model extended step by step. A glossary of 345 terms supports the lessons.
+
+**Prerequisites:** none beyond school algebra. A few lessons use simple equations and graphs; each is built up from a worked example. The [finance course](../finance/README.md) is a useful companion but not required.
+
+## Suggested reading order
+
+Read the sections in order: 01 and 02 are the core toolkit, 03 and 04 explain what lies behind demand and supply, and 05 applies them to different market structures. Sections 06 to 08 can be read in any order after that. Section 09 questions the rationality assumption used throughout, so it is best read last among the analytical sections. Section 10 can be read at any time and gives the story behind the ideas. Look terms up in the [glossary](glossary/README.md) as you go.
+
+## Contents
+
+- [Foundations: scarcity, choice and trade](01-foundations/README.md) — Scarcity, opportunity cost, incentives, marginal thinking, specialisation, comparative advantage, the PPF and economic method. (11 files)
+  - [Scarcity and the economic problem](01-foundations/01-scarcity.md)
+  - [Choice and trade-offs](01-foundations/02-choice-and-trade-offs.md)
+  - [Opportunity cost](01-foundations/03-opportunity-cost.md)
+  - [Incentives](01-foundations/04-incentives.md)
+  - [Marginal thinking](01-foundations/05-marginal-thinking.md)
+  - [Specialization and the division of labour](01-foundations/06-specialization-and-division-of-labour.md)
+  - [Comparative advantage](01-foundations/07-comparative-advantage.md)
+  - [Gains from trade](01-foundations/08-gains-from-trade.md)
+  - [The production possibilities frontier](01-foundations/09-production-possibilities-frontier.md)
+  - [Markets, prices and property rights](01-foundations/10-markets-prices-and-property-rights.md)
+  - [Models and economic method](01-foundations/11-models-and-economic-method.md)
+- [Supply and demand](02-supply-and-demand/README.md) — Demand, supply, equilibrium, elasticities, surplus, price controls, taxes, deadweight loss, subsidies and tariffs. (15 files)
+  - [Demand](02-supply-and-demand/01-demand.md)
+  - [Shifts in demand](02-supply-and-demand/02-shifts-in-demand.md)
+  - [Supply](02-supply-and-demand/03-supply.md)
+  - [Shifts in supply](02-supply-and-demand/04-shifts-in-supply.md)
+  - [Market equilibrium](02-supply-and-demand/05-market-equilibrium.md)
+  - [Comparative statics: when supply and demand shift](02-supply-and-demand/06-comparative-statics.md)
+  - [Price elasticity of demand](02-supply-and-demand/07-price-elasticity-of-demand.md)
+  - [Income, cross-price and supply elasticities](02-supply-and-demand/08-other-elasticities.md)
+  - [Consumer surplus](02-supply-and-demand/09-consumer-surplus.md)
+  - [Producer surplus and total surplus](02-supply-and-demand/10-producer-surplus-and-total-surplus.md)
+  - [Price ceilings](02-supply-and-demand/11-price-ceilings.md)
+  - [Price floors](02-supply-and-demand/12-price-floors.md)
+  - [Taxes and tax incidence](02-supply-and-demand/13-taxes-and-tax-incidence.md)
+  - [Deadweight loss](02-supply-and-demand/14-deadweight-loss.md)
+  - [Subsidies, quotas and tariffs](02-supply-and-demand/15-subsidies-quotas-and-tariffs.md)
+- [Consumer theory](03-consumer-theory/README.md) — Utility, indifference curves, budget constraints, optimal choice, income and substitution effects, uncertainty and time. (12 files)
+  - [Preferences and utility](03-consumer-theory/01-preferences-and-utility.md)
+  - [Marginal utility](03-consumer-theory/02-marginal-utility.md)
+  - [Indifference curves](03-consumer-theory/03-indifference-curves.md)
+  - [The marginal rate of substitution](03-consumer-theory/04-marginal-rate-of-substitution.md)
+  - [The budget constraint](03-consumer-theory/05-budget-constraint.md)
+  - [Optimal choice](03-consumer-theory/06-optimal-choice.md)
+  - [Income changes and Engel curves](03-consumer-theory/07-income-changes-and-engel-curves.md)
+  - [Income and substitution effects](03-consumer-theory/08-income-and-substitution-effects.md)
+  - [Inferior and Giffen goods](03-consumer-theory/09-inferior-and-giffen-goods.md)
+  - [From individual to market demand](03-consumer-theory/10-from-individual-to-market-demand.md)
+  - [Choice under uncertainty](03-consumer-theory/11-choice-under-uncertainty.md)
+  - [Intertemporal choice](03-consumer-theory/12-intertemporal-choice.md)
+- [Producer theory](04-producer-theory/README.md) — The firm, production functions, diminishing returns, cost curves, economies of scale and profit maximisation. (9 files)
+  - [The firm](04-producer-theory/01-the-firm.md)
+  - [Production functions](04-producer-theory/02-production-functions.md)
+  - [Diminishing marginal returns](04-producer-theory/03-diminishing-marginal-returns.md)
+  - [Isoquants and input choice](04-producer-theory/04-isoquants-and-input-choice.md)
+  - [Short-run costs](04-producer-theory/05-short-run-costs.md)
+  - [Cost curves](04-producer-theory/06-cost-curves.md)
+  - [Long-run costs](04-producer-theory/07-long-run-costs.md)
+  - [Economies of scale](04-producer-theory/08-economies-of-scale.md)
+  - [Profit maximization](04-producer-theory/09-profit-maximization.md)
+- [Market structures and game theory](05-market-structures/README.md) — Perfect competition, monopoly, price discrimination, monopolistic competition, oligopoly, game theory and competition policy. (15 files)
+  - [Perfect competition](05-market-structures/01-perfect-competition.md)
+  - [The competitive firm in the short run](05-market-structures/02-the-competitive-firm-in-the-short-run.md)
+  - [Long-run competitive equilibrium](05-market-structures/03-long-run-competitive-equilibrium.md)
+  - [Monopoly](05-market-structures/04-monopoly.md)
+  - [Monopoly pricing and deadweight loss](05-market-structures/05-monopoly-pricing-and-deadweight-loss.md)
+  - [Price discrimination](05-market-structures/06-price-discrimination.md)
+  - [Natural monopoly and regulation](05-market-structures/07-natural-monopoly-and-regulation.md)
+  - [Monopolistic competition](05-market-structures/08-monopolistic-competition.md)
+  - [Oligopoly](05-market-structures/09-oligopoly.md)
+  - [Game theory basics](05-market-structures/10-game-theory-basics.md)
+  - [Nash equilibrium](05-market-structures/11-nash-equilibrium.md)
+  - [The prisoner's dilemma and cartels](05-market-structures/12-prisoners-dilemma-and-cartels.md)
+  - [Cournot, Bertrand and Stackelberg](05-market-structures/13-cournot-bertrand-and-stackelberg.md)
+  - [Repeated games and strategic moves](05-market-structures/14-repeated-games-and-strategic-moves.md)
+  - [Competition policy](05-market-structures/15-competition-policy.md)
+- [Factor markets and the distribution of income](06-factor-markets/README.md) — Labour demand and supply, wages, human capital, monopsony and unions, capital, land and rent, and income inequality. (9 files)
+  - [Derived demand and factor markets](06-factor-markets/01-derived-demand.md)
+  - [Labour demand](06-factor-markets/02-labour-demand.md)
+  - [Labour supply](06-factor-markets/03-labour-supply.md)
+  - [Wage determination](06-factor-markets/04-wage-determination.md)
+  - [Human capital](06-factor-markets/05-human-capital.md)
+  - [Monopsony and unions](06-factor-markets/06-monopsony-and-unions.md)
+  - [Capital and interest](06-factor-markets/07-capital-and-interest.md)
+  - [Land and rent](06-factor-markets/08-land-and-rent.md)
+  - [Income inequality](06-factor-markets/09-income-inequality.md)
+- [Market failure](07-market-failure/README.md) — Externalities, Pigouvian taxes, Coase, cap and trade, public goods, commons, asymmetric information and government failure. (15 files)
+  - [What is market failure?](07-market-failure/01-what-is-market-failure.md)
+  - [Externalities](07-market-failure/02-externalities.md)
+  - [Negative externalities and pollution](07-market-failure/03-negative-externalities-and-pollution.md)
+  - [Positive externalities](07-market-failure/04-positive-externalities.md)
+  - [Pigouvian taxes and subsidies](07-market-failure/05-pigouvian-taxes-and-subsidies.md)
+  - [The Coase theorem](07-market-failure/06-coase-theorem.md)
+  - [Cap and trade and regulation](07-market-failure/07-cap-and-trade-and-regulation.md)
+  - [Public goods](07-market-failure/08-public-goods.md)
+  - [Common resources](07-market-failure/09-common-resources.md)
+  - [Asymmetric information](07-market-failure/10-asymmetric-information.md)
+  - [Adverse selection](07-market-failure/11-adverse-selection.md)
+  - [Moral hazard](07-market-failure/12-moral-hazard.md)
+  - [The principal–agent problem](07-market-failure/13-principal-agent-problem.md)
+  - [Signalling and screening](07-market-failure/14-signalling-and-screening.md)
+  - [Government failure](07-market-failure/15-government-failure.md)
+- [Welfare economics](08-welfare-economics/README.md) — Pareto efficiency, general equilibrium, the welfare theorems, efficiency versus equity, social choice and cost-benefit analysis. (6 files)
+  - [Efficiency and Pareto optimality](08-welfare-economics/01-efficiency-and-pareto-optimality.md)
+  - [General equilibrium](08-welfare-economics/02-general-equilibrium.md)
+  - [The welfare theorems](08-welfare-economics/03-the-welfare-theorems.md)
+  - [Efficiency versus equity](08-welfare-economics/04-efficiency-versus-equity.md)
+  - [Social choice and Arrow's theorem](08-welfare-economics/05-social-choice-and-arrows-theorem.md)
+  - [Cost-benefit analysis](08-welfare-economics/06-cost-benefit-analysis.md)
+- [Behavioural economics](09-behavioural-economics/README.md) — Rationality, bounded rationality, heuristics and biases, prospect theory, present bias, social preferences, nudges and critiques. (8 files)
+  - [The rationality assumption](09-behavioural-economics/01-the-rationality-assumption.md)
+  - [Bounded rationality](09-behavioural-economics/02-bounded-rationality.md)
+  - [Heuristics and biases](09-behavioural-economics/03-heuristics-and-biases.md)
+  - [Prospect theory in economics](09-behavioural-economics/04-prospect-theory-in-economics.md)
+  - [Time inconsistency and self-control](09-behavioural-economics/05-time-inconsistency-and-self-control.md)
+  - [Social preferences and fairness](09-behavioural-economics/06-social-preferences-and-fairness.md)
+  - [Nudges and choice architecture](09-behavioural-economics/07-nudges-and-choice-architecture.md)
+  - [Limits and critiques of behavioural economics](09-behavioural-economics/08-limits-and-critiques.md)
+- [History of economic thought](10-history-of-thought/README.md) — From Aristotle to the marginal revolution and modern microeconomics, schools of thought, and sixteen thinker profiles.
+  - [Before Adam Smith](10-history-of-thought/01-before-adam-smith.md)
+  - [Classical economics](10-history-of-thought/02-classical-economics.md)
+  - [The marginal revolution](10-history-of-thought/03-the-marginal-revolution.md)
+  - [Twentieth-century microeconomics](10-history-of-thought/04-twentieth-century-microeconomics.md)
+  - [Schools of thought](10-history-of-thought/05-schools-of-thought.md)
+  - [Thinkers](10-history-of-thought/thinkers/README.md) (16 files)
+- [Microeconomics glossary](glossary/README.md) — 345 paragraph-length definitions, A to Z. (345 files)
+
+## References & further reading
+
+- N. Gregory Mankiw, *Principles of Microeconomics* (Beginner). The most widely used introductory textbook; clear on supply and demand, elasticity, taxes and market structures.
+- Paul Krugman and Robin Wells, *Microeconomics* (Beginner). An introductory textbook with many real-world cases.
+- The CORE Team, *The Economy* (Beginner). A free online textbook (core-econ.org) that integrates modern research, institutions and behavioural evidence.
+- Thomas Sowell, *Basic Economics* (Beginner). A non-mathematical explanation of how prices, incentives and markets work, with strong views on price controls.
+- Tim Harford, *The Undercover Economist* (Beginner). Scarcity, pricing, externalities and information explained through everyday examples.
+- Charles Wheelan, *Naked Economics* (Beginner). A light, jargon-free tour of the main ideas.
+- Hal R. Varian, *Intermediate Microeconomics: A Modern Approach* (Intermediate). The standard intermediate text, with careful treatment of consumer and producer theory.
+- Robert S. Pindyck and Daniel L. Rubinfeld, *Microeconomics* (Intermediate). An intermediate textbook strong on applications, market power and information.
+- Steven E. Landsburg, *Price Theory and Applications* (Intermediate). An intermediate text with a strong emphasis on economic reasoning.
+- Andreu Mas-Colell, Michael D. Whinston and Jerry R. Green, *Microeconomic Theory* (Advanced). The graduate-level reference for consumer, producer, general equilibrium and information theory.
+- David M. Kreps, *Microeconomic Foundations I: Choice and Competitive Markets* (Advanced). A rigorous graduate treatment of choice theory and markets.

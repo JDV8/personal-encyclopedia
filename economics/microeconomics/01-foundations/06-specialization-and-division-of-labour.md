@@ -64,5 +64,5 @@ These do not erase the gains, which are enormous, but they explain why the distr
 ## Where this leads
 
 - Next: [comparative advantage](07-comparative-advantage.md), which explains who should specialise in what.
-- Related: [economies of scale](../04-producer-theory/08-economies-of-scale.md), [[adam-smith|Adam Smith]], [[karl-marx|Karl Marx]].
-- Glossary: [[g:specialization|specialization]], [[g:division-of-labour|division of labour]].
+- Related: [economies of scale](../04-producer-theory/08-economies-of-scale.md), [Adam Smith](../10-history-of-thought/thinkers/01-adam-smith.md), [Karl Marx](../10-history-of-thought/thinkers/04-karl-marx.md).
+- Glossary: [specialization](../glossary/specialization.md), [division of labour](../glossary/division-of-labour.md).

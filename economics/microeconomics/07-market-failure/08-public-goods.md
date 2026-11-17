@@ -1,6 +1,6 @@
 # Public goods
 
-**Prerequisites:** [[positive-externalities|Positive externalities]], [[what-is-market-failure|What is market failure?]].
+**Prerequisites:** [Positive externalities](04-positive-externalities.md), [What is market failure?](01-what-is-market-failure.md).
 
 ![Aerial photograph of Westerhever lighthouse, Germany; lighthouses are the textbook (and disputed) example of a public good](images/08-public-goods.jpg)
 
@@ -24,7 +24,7 @@ A **pure public good** is both non-rival and non-excludable. "Public good" in ec
 
 ## The free-rider problem
 
-If a good is non-excludable, each person has an incentive to let others pay and enjoy it anyway: to **free ride**. If everyone reasons this way, the good is under-provided or not provided at all, even though everyone would be better off if all contributed. This is a [[prisoners-dilemma-and-cartels|prisoners' dilemma]] with many players.
+If a good is non-excludable, each person has an incentive to let others pay and enjoy it anyway: to **free ride**. If everyone reasons this way, the good is under-provided or not provided at all, even though everyone would be better off if all contributed. This is a [prisoners' dilemma](../05-market-structures/12-prisoners-dilemma-and-cartels.md) with many players.
 
 ## The Samuelson condition
 
@@ -81,6 +81,6 @@ Ideas are non-rival: one person using the Pythagorean theorem does not stop anyo
 
 ## Where this leads
 
-- Next: [[common-resources|common resources]].
-- Related: [[social-choice-and-arrows-theorem|social choice]] (how groups decide on public goods).
-- Glossary: [[g:public-good|public good]], [[g:free-rider-problem|free-rider problem]], [[g:club-good|club good]], [[g:non-rival|non-rival]], [[g:non-excludable|non-excludable]].
+- Next: [common resources](09-common-resources.md).
+- Related: [social choice](../08-welfare-economics/05-social-choice-and-arrows-theorem.md) (how groups decide on public goods).
+- Glossary: [public good](../glossary/public-good.md), [free-rider problem](../glossary/free-rider-problem.md), [club good](../glossary/club-good.md), [non-rival](../glossary/non-rival.md), [non-excludable](../glossary/non-excludable.md).

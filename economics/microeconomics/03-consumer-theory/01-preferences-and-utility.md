@@ -14,7 +14,7 @@ The word "utility" comes from the utilitarian philosophers. Jeremy Bentham, in *
 
 During the late nineteenth and early twentieth centuries, economists such as Vilfredo Pareto, and later John Hicks and Roy Allen (1934), realised that predicting choices does not require measuring pleasure at all. All you need to know is how a person **ranks** the options. This is **ordinal utility**: numbers that preserve the ranking but have no meaning beyond it. Paul Samuelson's **revealed preference** theory (1938) went further, building consumer theory from observed choices alone.
 
-For ethical questions, such as whether a policy makes society better off, the philosophical debate about measuring and comparing well-being still matters, and is taken up in [[social-choice-and-arrows-theorem|social choice and Arrow's theorem]]. For predicting behaviour, ordinal utility is enough.
+For ethical questions, such as whether a policy makes society better off, the philosophical debate about measuring and comparing well-being still matters, and is taken up in [social choice and Arrow's theorem](../08-welfare-economics/05-social-choice-and-arrows-theorem.md). For predicting behaviour, ordinal utility is enough.
 
 ## Bundles and preferences
 
@@ -56,7 +56,7 @@ Because utility is ordinal, any transformation that preserves the ranking repres
 
 ## Do people really have such preferences?
 
-Experiments show that real preferences sometimes violate the assumptions. People can reverse their choices depending on how options are described (**framing**), and their rankings can depend on irrelevant options added to the choice set. Behavioural economists document these patterns in [[heuristics-and-biases|heuristics and biases]]. Defenders of the standard model reply that it remains a good approximation in many market settings, especially where people make repeated choices with feedback. The course presents both views.
+Experiments show that real preferences sometimes violate the assumptions. People can reverse their choices depending on how options are described (**framing**), and their rankings can depend on irrelevant options added to the choice set. Behavioural economists document these patterns in [heuristics and biases](../09-behavioural-economics/03-heuristics-and-biases.md). Defenders of the standard model reply that it remains a good approximation in many market settings, especially where people make repeated choices with feedback. The course presents both views.
 
 ## Key ideas
 
@@ -70,4 +70,4 @@ Experiments show that real preferences sometimes violate the assumptions. People
 
 - Next: [marginal utility](02-marginal-utility.md).
 - Related branch: philosophy's [eudaimonia](../../../philosophy/concepts/ethics/eudaimonia.md) offers an older, different account of well-being.
-- Glossary: [[g:utility|utility]], [[g:ordinal-utility|ordinal utility]], [[g:cardinal-utility|cardinal utility]], [[g:revealed-preference|revealed preference]], [[g:utilitarianism|utilitarianism]].
+- Glossary: [utility](../glossary/utility.md), [ordinal utility](../glossary/ordinal-utility.md), [cardinal utility](../glossary/cardinal-utility.md), [revealed preference](../glossary/revealed-preference.md), [utilitarianism](../glossary/utilitarianism.md).

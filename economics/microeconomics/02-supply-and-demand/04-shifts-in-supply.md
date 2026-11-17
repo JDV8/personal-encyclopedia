@@ -65,4 +65,4 @@ From the late 2000s, the combination of horizontal drilling and hydraulic fractu
 
 - Next: [market equilibrium](05-market-equilibrium.md).
 - Later: [comparative statics](06-comparative-statics.md) and [tax incidence](13-taxes-and-tax-incidence.md).
-- Glossary: [[g:supply|supply]], [[g:subsidy|subsidy]], [[g:technology|technology]].
+- Glossary: [supply](../glossary/supply.md), [subsidy](../glossary/subsidy.md), [technology](../glossary/technology.md).

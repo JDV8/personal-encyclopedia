@@ -94,5 +94,5 @@ Surveys from the 1930s onward found that many managers say they set prices by ad
 
 ## Where this leads
 
-- Next section: [[perfect-competition|market structures]], starting with perfect competition.
-- Glossary: [[g:marginal-revenue|marginal revenue]], [[g:profit-maximization|profit maximization]], [[g:lerner-index|Lerner index]], [[g:markup|markup]].
+- Next section: [market structures](../05-market-structures/01-perfect-competition.md), starting with perfect competition.
+- Glossary: [marginal revenue](../glossary/marginal-revenue.md), [profit maximization](../glossary/profit-maximization.md), [Lerner index](../glossary/lerner-index.md), [markup](../glossary/markup.md).

@@ -78,4 +78,4 @@ Because each point on the market demand curve represents the marginal buyer's wi
 ## Where this leads
 
 - Next: [choice under uncertainty](11-choice-under-uncertainty.md).
-- Glossary: [[g:demand-curve|demand curve]], [[g:network-effect|network effect]], [[g:representative-agent|representative agent]].
+- Glossary: [demand curve](../glossary/demand-curve.md), [network effect](../glossary/network-effect.md), [representative agent](../glossary/representative-agent.md).

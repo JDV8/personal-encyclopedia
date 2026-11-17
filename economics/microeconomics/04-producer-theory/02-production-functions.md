@@ -81,4 +81,4 @@ An improvement in technology shifts the production function up: the same inputs 
 ## Where this leads
 
 - Next: [diminishing marginal returns](03-diminishing-marginal-returns.md).
-- Glossary: [[g:production-function|production function]], [[g:marginal-product|marginal product]], [[g:average-product|average product]], [[g:cobb-douglas|Cobb-Douglas function]].
+- Glossary: [production function](../glossary/production-function.md), [marginal product](../glossary/marginal-product.md), [average product](../glossary/average-product.md), [Cobb-Douglas function](../glossary/cobb-douglas.md).

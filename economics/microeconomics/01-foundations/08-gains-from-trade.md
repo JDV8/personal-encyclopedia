@@ -51,7 +51,7 @@ The tools of trade restriction, tariffs and quotas, are analysed in [subsidies, 
 
 ## Mercantilism: the older view
 
-Before Smith and Ricardo, the dominant economic doctrine in Europe was **mercantilism**: the idea that a nation grows rich by exporting more than it imports and accumulating gold and silver. Smith attacked this in *The Wealth of Nations*, arguing that a nation's wealth is the goods and services its people can consume, not its stock of precious metals. The debate about whether trade surpluses signal strength has never fully gone away. See [[before-adam-smith|economic thought before Adam Smith]].
+Before Smith and Ricardo, the dominant economic doctrine in Europe was **mercantilism**: the idea that a nation grows rich by exporting more than it imports and accumulating gold and silver. Smith attacked this in *The Wealth of Nations*, arguing that a nation's wealth is the goods and services its people can consume, not its stock of precious metals. The debate about whether trade surpluses signal strength has never fully gone away. See [economic thought before Adam Smith](../10-history-of-thought/01-before-adam-smith.md).
 
 ## Key ideas
 
@@ -65,4 +65,4 @@ Before Smith and Ricardo, the dominant economic doctrine in Europe was **mercant
 
 - Next: [the production possibilities frontier](09-production-possibilities-frontier.md).
 - Related: [subsidies, quotas and tariffs](../02-supply-and-demand/15-subsidies-quotas-and-tariffs.md), [consumer surplus](../02-supply-and-demand/09-consumer-surplus.md).
-- Glossary: [[g:gains-from-trade|gains from trade]], [[g:terms-of-trade|terms of trade]], [[g:mercantilism|mercantilism]].
+- Glossary: [gains from trade](../glossary/gains-from-trade.md), [terms of trade](../glossary/terms-of-trade.md), [mercantilism](../glossary/mercantilism.md).

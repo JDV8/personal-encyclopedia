@@ -1,6 +1,6 @@
 # Prospect theory in economics
 
-**Prerequisites:** [[heuristics-and-biases|Heuristics and biases]], [[choice-under-uncertainty|Choice under uncertainty]] (expected utility).
+**Prerequisites:** [Heuristics and biases](03-heuristics-and-biases.md), [Choice under uncertainty](../03-consumer-theory/11-choice-under-uncertainty.md) (expected utility).
 
 ![The prospect theory value function computed with the Tversky–Kahneman (1992) parameters: concave for gains, convex and steeper for losses](images/04-prospect-theory-in-economics.jpg)
 
@@ -58,12 +58,12 @@ Combining the value function and probability weighting produces a characteristic
 
 ## Applications in economics
 
-- **The disposition effect.** Investors sell winning stocks too early and hold losers too long (Hersh Shefrin and Meir Statman, 1985; Terrance Odean, 1998), consistent with risk-seeking in the loss domain and reluctance to "realise" a loss. See [[path:economics/finance/07-behavioural-finance/02-prospect-theory-and-loss-aversion.md|prospect theory and loss aversion in finance]].
+- **The disposition effect.** Investors sell winning stocks too early and hold losers too long (Hersh Shefrin and Meir Statman, 1985; Terrance Odean, 1998), consistent with risk-seeking in the loss domain and reluctance to "realise" a loss. See [prospect theory and loss aversion in finance](../../finance/07-behavioural-finance/02-prospect-theory-and-loss-aversion.md).
 - **The equity premium puzzle.** Shlomo Benartzi and Richard Thaler (1995) argued that loss-averse investors who check their portfolios frequently ("myopic loss aversion") demand a high premium to hold stocks, helping explain why historical stock returns have been so much higher than bond returns.
 - **Labour supply.** Colin Camerer and co-authors (1997) found that some New York cab drivers seemed to target a daily income, quitting early on good days, consistent with reference dependence. Henry Farber's later studies found weaker evidence.
 - **Housing.** David Genesove and Christopher Mayer (2001) found that Boston condo owners facing a nominal loss set higher asking prices and waited longer to sell.
 - **Tax compliance.** Taxpayers who expect to owe money at filing time (a loss relative to their reference point) appear more willing to take aggressive positions than those expecting a refund.
-- **Endowment effect and status quo bias**, explained by loss aversion (see [[heuristics-and-biases|heuristics and biases]]).
+- **Endowment effect and status quo bias**, explained by loss aversion (see [heuristics and biases](03-heuristics-and-biases.md)).
 - **Insurance.** People choose low deductibles, paying far more than the expected savings (Justin Sydnor, 2010).
 - **Marketing and pricing.** Framing price changes as "discounts" rather than "surcharges" (for example, cash discounts rather than credit-card surcharges).
 
@@ -82,6 +82,6 @@ Combining the value function and probability weighting produces a characteristic
 
 ## Where this leads
 
-- Next: [[time-inconsistency-and-self-control|time inconsistency and self-control]].
-- Related: [[daniel-kahneman|Daniel Kahneman]].
-- Glossary: [[g:prospect-theory|prospect theory]], [[g:loss-aversion|loss aversion]], [[g:reference-point|reference point]], [[g:probability-weighting|probability weighting]], [[g:disposition-effect|disposition effect]].
+- Next: [time inconsistency and self-control](05-time-inconsistency-and-self-control.md).
+- Related: [Daniel Kahneman](../10-history-of-thought/thinkers/16-daniel-kahneman.md).
+- Glossary: [prospect theory](../glossary/prospect-theory.md), [loss aversion](../glossary/loss-aversion.md), [reference point](../glossary/reference-point.md), [probability weighting](../glossary/probability-weighting.md), [disposition effect](../glossary/disposition-effect.md).

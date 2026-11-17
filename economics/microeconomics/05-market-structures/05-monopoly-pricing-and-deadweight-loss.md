@@ -1,6 +1,6 @@
 # Monopoly pricing and deadweight loss
 
-**Prerequisites:** [[monopoly|Monopoly]], [[deadweight-loss|Deadweight loss]].
+**Prerequisites:** [Monopoly](04-monopoly.md), [Deadweight loss](../02-supply-and-demand/14-deadweight-loss.md).
 
 ![An old illustration of the De Beers mine in South Africa; the De Beers company long controlled most of the world's diamond supply](images/05-monopoly-pricing-and-deadweight-loss.jpg)
 
@@ -41,7 +41,7 @@ At the monopoly output of 40, a buyer is willing to pay 60 for one more dose, an
 
 In 1954, Arnold Harberger estimated the deadweight loss from monopoly in US manufacturing at about one-tenth of one percent of national income, a surprisingly small figure that sparked debate. Later economists argued that Harberger's method underestimated the costs, for several reasons:
 
-- **Rent-seeking.** Gordon Tullock (1967) and Richard Posner (1975) argued that firms spend resources competing to obtain or protect monopoly positions: lobbying, litigation, excess capacity. If firms spend up to the value of the monopoly profit to obtain it, part or all of the transfer is also a social cost. See [[government-failure|government failure]].
+- **Rent-seeking.** Gordon Tullock (1967) and Richard Posner (1975) argued that firms spend resources competing to obtain or protect monopoly positions: lobbying, litigation, excess capacity. If firms spend up to the value of the monopoly profit to obtain it, part or all of the transfer is also a social cost. See [government failure](../07-market-failure/15-government-failure.md).
 - **X-inefficiency.** Harvey Leibenstein (1966) argued that firms sheltered from competition become sloppy, with costs above the minimum possible. The British economist John Hicks had earlier quipped that "the best of all monopoly profits is a quiet life".
 - **Rising markups.** Some recent research, notably by Jan De Loecker, Jan Eeckhout and Gabriel Unger (2020), has estimated that average markups of US publicly traded firms rose substantially since 1980. Other economists dispute how to measure markups and interpret the trend. The debate about market power in modern economies is very active.
 
@@ -57,8 +57,8 @@ Not all monopoly effects are negative:
 
 Governments respond to monopoly in several ways, each discussed elsewhere:
 
-- **Competition (antitrust) law** to prevent monopolisation and anti-competitive mergers: [[competition-policy|competition policy]].
-- **Regulation of natural monopolies**, setting prices or rates of return: [[natural-monopoly-and-regulation|natural monopoly and regulation]].
+- **Competition (antitrust) law** to prevent monopolisation and anti-competitive mergers: [competition policy](15-competition-policy.md).
+- **Regulation of natural monopolies**, setting prices or rates of return: [natural monopoly and regulation](07-natural-monopoly-and-regulation.md).
 - **Public ownership** of some natural monopolies, such as many water utilities and some electricity providers.
 - **Limits on patent length and scope**, and compulsory licensing in emergencies.
 
@@ -72,5 +72,5 @@ Governments respond to monopoly in several ways, each discussed elsewhere:
 
 ## Where this leads
 
-- Next: [[price-discrimination|price discrimination]], how monopolists can capture more surplus.
-- Glossary: [[g:deadweight-loss|deadweight loss]], [[g:rent-seeking|rent-seeking]], [[g:x-inefficiency|X-inefficiency]], [[g:contestable-market|contestable market]].
+- Next: [price discrimination](06-price-discrimination.md), how monopolists can capture more surplus.
+- Glossary: [deadweight loss](../glossary/deadweight-loss.md), [rent-seeking](../glossary/rent-seeking.md), [X-inefficiency](../glossary/x-inefficiency.md), [contestable market](../glossary/contestable-market.md).

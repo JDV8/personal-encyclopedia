@@ -1,6 +1,6 @@
 # Labour demand
 
-**Prerequisites:** [[derived-demand|Derived demand and factor markets]], [[diminishing-marginal-returns|Diminishing marginal returns]].
+**Prerequisites:** [Derived demand and factor markets](01-derived-demand.md), [Diminishing marginal returns](../04-producer-theory/03-diminishing-marginal-returns.md).
 
 ![Workers in a boot-making factory in South Brisbane, 1900](images/02-labour-demand.jpg)
 
@@ -70,9 +70,9 @@ The market demand for a type of labour is the sum of firms' demands. But adding 
 
 The theory predicts that in competitive markets, workers are paid their marginal revenue product. Several qualifications apply:
 
-- If employers have wage-setting power (**monopsony**), they pay less than MRPL. See [[monopsony-and-unions|monopsony and unions]].
+- If employers have wage-setting power (**monopsony**), they pay less than MRPL. See [monopsony and unions](06-monopsony-and-unions.md).
 - Individual marginal products are hard to measure in teams, which is why firms use other pay systems, such as salaries, bonuses and promotions.
-- Pay can differ for reasons unrelated to productivity, such as discrimination, discussed in [[wage-determination|wage determination]].
+- Pay can differ for reasons unrelated to productivity, such as discrimination, discussed in [wage determination](04-wage-determination.md).
 
 ## Key ideas
 
@@ -84,5 +84,5 @@ The theory predicts that in competitive markets, workers are paid their marginal
 
 ## Where this leads
 
-- Next: [[labour-supply|labour supply]].
-- Glossary: [[g:marginal-revenue-product|marginal revenue product]], [[g:labour-demand|labour demand]], [[g:job-polarisation|job polarisation]].
+- Next: [labour supply](03-labour-supply.md).
+- Glossary: [marginal revenue product](../glossary/marginal-revenue-product.md), [labour demand](../glossary/labour-demand.md), [job polarisation](../glossary/job-polarisation.md).

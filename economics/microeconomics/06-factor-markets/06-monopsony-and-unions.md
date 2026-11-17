@@ -1,6 +1,6 @@
 # Monopsony and unions
 
-**Prerequisites:** [[wage-determination|Wage determination]], [[monopoly|Monopoly]].
+**Prerequisites:** [Wage determination](04-wage-determination.md), [Monopoly](../05-market-structures/04-monopoly.md).
 
 ![Russellton, Pennsylvania, a town inhabited by employees of the Republic Collieries Company: in a company town, one employer dominates the labour market](images/06-monopsony-and-unions.jpg)
 
@@ -37,7 +37,7 @@ flowchart LR
 
 Monopsony overturns the standard prediction about minimum wages. Suppose a minimum wage of 25 is imposed on the mill. Now the marginal cost of labour is flat at 25 for every worker up to the 150th (who would supply labour at 25 anyway). The mill hires until MRPL = 25: 40 − 0.1L = 25, L = **150**. **Both wages and employment rise.** Any minimum wage between 20 and 25 raises both. Too high a minimum (above 25 here) would start to reduce employment again.
 
-This is one explanation for why some studies find that moderate minimum wage increases have small or no negative employment effects (see [[price-floors|price floors]]).
+This is one explanation for why some studies find that moderate minimum wage increases have small or no negative employment effects (see [price floors](../02-supply-and-demand/12-price-floors.md)).
 
 ## How common is monopsony?
 
@@ -70,5 +70,5 @@ A **labour union** is an organisation of workers that bargains collectively with
 
 ## Where this leads
 
-- Next: [[capital-and-interest|capital and interest]].
-- Glossary: [[g:monopsony|monopsony]], [[g:labour-union|labour union]], [[g:bilateral-monopoly|bilateral monopoly]].
+- Next: [capital and interest](07-capital-and-interest.md).
+- Glossary: [monopsony](../glossary/monopsony.md), [labour union](../glossary/labour-union.md), [bilateral monopoly](../glossary/bilateral-monopoly.md).

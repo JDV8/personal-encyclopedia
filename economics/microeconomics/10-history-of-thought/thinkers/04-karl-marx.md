@@ -1,6 +1,6 @@
 # Karl Marx (1818–1883)
 
-**Prerequisites:** [[classical-economics|Classical economics]], [[schools-of-thought|Schools of thought]].
+**Prerequisites:** [Classical economics](../02-classical-economics.md), [Schools of thought](../05-schools-of-thought.md).
 
 ![Karl Marx, photographed by John Jabez Edwin Mayall in 1875](images/04-karl-marx.jpg)
 
@@ -68,6 +68,6 @@ Marx's influence extends well beyond economics, to sociology, history, philosoph
 
 ## Where this leads
 
-- Next thinker: [[william-stanley-jevons|William Stanley Jevons]].
-- Related: [[schools-of-thought|schools of thought]], [[income-inequality|income inequality]].
-- Glossary: [[g:surplus-value|surplus value]], [[g:labour-theory-of-value|labour theory of value]], [[g:marxian-economics|Marxian economics]].
+- Next thinker: [William Stanley Jevons](05-william-stanley-jevons.md).
+- Related: [schools of thought](../05-schools-of-thought.md), [income inequality](../../06-factor-markets/09-income-inequality.md).
+- Glossary: [surplus value](../../glossary/surplus-value.md), [labour theory of value](../../glossary/labour-theory-of-value.md), [Marxian economics](../../glossary/marxian-economics.md).

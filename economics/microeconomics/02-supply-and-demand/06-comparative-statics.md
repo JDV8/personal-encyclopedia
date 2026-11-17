@@ -78,4 +78,4 @@ flowchart TB
 ## Where this leads
 
 - Next: [price elasticity of demand](07-price-elasticity-of-demand.md), which governs how big the price and quantity changes are.
-- Glossary: [[g:comparative-statics|comparative statics]], [[g:equilibrium|equilibrium]].
+- Glossary: [comparative statics](../glossary/comparative-statics.md), [equilibrium](../glossary/equilibrium.md).

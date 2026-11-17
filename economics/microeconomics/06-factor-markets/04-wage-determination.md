@@ -1,6 +1,6 @@
 # Wage determination
 
-**Prerequisites:** [[labour-demand|Labour demand]], [[labour-supply|Labour supply]].
+**Prerequisites:** [Labour demand](02-labour-demand.md), [Labour supply](03-labour-supply.md).
 
 ![Two coal miners in Germany, about 1900; dangerous jobs such as mining tend to pay a compensating wage premium](images/04-wage-determination.jpg)
 
@@ -25,7 +25,7 @@ If a new distribution centre opens and demand rises to L = 12,400 − 200w, then
 
 If all workers and jobs were identical, competition would equalise wages. They are not. Economists explain wage differences through several channels.
 
-**1. Human capital.** Education, training and experience raise productivity, and so marginal revenue product. Workers who invest in skills earn more, partly as a return on that investment. See [[human-capital|human capital]].
+**1. Human capital.** Education, training and experience raise productivity, and so marginal revenue product. Workers who invest in skills earn more, partly as a return on that investment. See [human capital](05-human-capital.md).
 
 **2. Compensating differentials.** Jobs differ in their non-wage characteristics. Adam Smith observed in *The Wealth of Nations* that wages vary with "the ease or hardship, the cleanliness or dirtiness, the honourableness or dishonourableness of the employment". Dangerous, unpleasant, stressful or inconveniently timed jobs must pay more to attract workers. Night-shift workers, offshore oil workers and deep-sea fishers earn wage premiums. Conversely, pleasant or prestigious jobs may pay less than their skill requirements would suggest.
 
@@ -33,7 +33,7 @@ If all workers and jobs were identical, competition would equalise wages. They a
 
 **4. Superstar effects.** In some markets, a small difference in talent produces a huge difference in earnings. Sherwin Rosen (1981) explained this: when technology lets the best performers reach huge audiences at little extra cost (recordings, broadcasts, online platforms), consumers flock to the very best, and the top earners capture a disproportionate share.
 
-**5. Market power and institutions.** Unions, monopsony, minimum wages and occupational licensing affect wages. See [[monopsony-and-unions|monopsony and unions]].
+**5. Market power and institutions.** Unions, monopsony, minimum wages and occupational licensing affect wages. See [monopsony and unions](06-monopsony-and-unions.md).
 
 **6. Discrimination.** Paying people differently for the same productivity because of gender, race or other characteristics.
 
@@ -61,7 +61,7 @@ On gender, Claudia Goldin, who received the 2023 Nobel memorial prize, showed ho
 
 ## The minimum wage, revisited
 
-In the competitive model, a minimum wage above equilibrium reduces employment (see [[price-floors|price floors]]). Using the warehouse example, a minimum wage of 22 gives demand of 5,600 and supply of 6,800: employment falls to 5,600, and 1,200 more people want jobs than can find them. Whether real minimum wages have such effects depends on how competitive local labour markets are, as the next lessons discuss.
+In the competitive model, a minimum wage above equilibrium reduces employment (see [price floors](../02-supply-and-demand/12-price-floors.md)). Using the warehouse example, a minimum wage of 22 gives demand of 5,600 and supply of 6,800: employment falls to 5,600, and 1,200 more people want jobs than can find them. Whether real minimum wages have such effects depends on how competitive local labour markets are, as the next lessons discuss.
 
 ## Key ideas
 
@@ -73,5 +73,5 @@ In the competitive model, a minimum wage above equilibrium reduces employment (s
 
 ## Where this leads
 
-- Next: [[human-capital|human capital]].
-- Glossary: [[g:compensating-differential|compensating differential]], [[g:statistical-discrimination|statistical discrimination]], [[g:superstar-effect|superstar effect]].
+- Next: [human capital](05-human-capital.md).
+- Glossary: [compensating differential](../glossary/compensating-differential.md), [statistical discrimination](../glossary/statistical-discrimination.md), [superstar effect](../glossary/superstar-effect.md).

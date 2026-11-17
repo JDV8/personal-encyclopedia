@@ -1,6 +1,6 @@
 # Asymmetric information
 
-**Prerequisites:** [[what-is-market-failure|What is market failure?]], [[choice-under-uncertainty|Choice under uncertainty]].
+**Prerequisites:** [What is market failure?](01-what-is-market-failure.md), [Choice under uncertainty](../03-consumer-theory/11-choice-under-uncertainty.md).
 
 ![George Akerlof at Berkeley; his 1970 lemons paper launched the economics of asymmetric information](images/10-asymmetric-information.jpg)
 
@@ -17,9 +17,9 @@ The economics of information became a major field in the 1970s. The 2001 Nobel p
 | What is hidden | A characteristic: quality, risk type, ability | Behaviour: effort, care, honesty |
 | Resulting problem | **Adverse selection** | **Moral hazard** |
 | Example | Sick people are more eager to buy health insurance | Insured drivers take less care |
-| Lesson | [[adverse-selection|Adverse selection]] | [[moral-hazard|Moral hazard]] |
+| Lesson | [Adverse selection](11-adverse-selection.md) | [Moral hazard](12-moral-hazard.md) |
 
-Closely related is the [[principal-agent-problem|principal–agent problem]], where one party (the agent) acts on behalf of another (the principal) whose interests differ and who cannot fully observe the agent's actions.
+Closely related is the [principal–agent problem](13-principal-agent-problem.md), where one party (the agent) acts on behalf of another (the principal) whose interests differ and who cannot fully observe the agent's actions.
 
 ```mermaid
 flowchart TB
@@ -33,7 +33,7 @@ flowchart TB
 
 ## Why it causes market failure
 
-Information asymmetries can destroy mutually beneficial trades. If buyers cannot tell good products from bad, they will pay only for average quality, which drives good products out, as Akerlof showed (see [[adverse-selection|adverse selection]]). If insurers cannot observe care, insurance encourages carelessness, so insurers ration cover. In both cases, trades that would benefit both sides under full information do not happen, a deadweight loss.
+Information asymmetries can destroy mutually beneficial trades. If buyers cannot tell good products from bad, they will pay only for average quality, which drives good products out, as Akerlof showed (see [adverse selection](11-adverse-selection.md)). If insurers cannot observe care, insurance encourages carelessness, so insurers ration cover. In both cases, trades that would benefit both sides under full information do not happen, a deadweight loss.
 
 ## Examples across the economy
 
@@ -42,7 +42,7 @@ Information asymmetries can destroy mutually beneficial trades. If buyers cannot
 - **Credit.** Borrowers know more about their projects and intentions than lenders. Stiglitz and Andrew Weiss (1981) showed that banks may ration credit rather than raise interest rates, because higher rates attract riskier borrowers.
 - **Labour markets.** Workers know their ability and effort; employers see only credentials and output.
 - **Medical care.** Doctors know more than patients about what treatment is needed, which creates possible "supplier-induced demand".
-- **Financial markets.** Corporate insiders know more than outside investors, which is one reason for disclosure rules and insider trading laws (see [[path:economics/finance/05-regulation/01-why-markets-are-regulated.md|why markets are regulated]]).
+- **Financial markets.** Corporate insiders know more than outside investors, which is one reason for disclosure rules and insider trading laws (see [why markets are regulated](../../finance/05-regulation/01-why-markets-are-regulated.md)).
 
 ## How markets and governments respond
 
@@ -50,7 +50,7 @@ Markets develop many institutions to bridge information gaps:
 
 - **Reputation and brands.** A firm that sells shoddy goods loses repeat customers. Online ratings extend reputation to strangers.
 - **Warranties and guarantees.** A seller confident in quality can promise to fix defects.
-- **Signalling.** The informed side takes a costly action that low-quality types would find too costly, such as earning a degree (see [[signalling-and-screening|signalling and screening]]).
+- **Signalling.** The informed side takes a costly action that low-quality types would find too costly, such as earning a degree (see [signalling and screening](14-signalling-and-screening.md)).
 - **Screening.** The uninformed side offers a menu of contracts that sorts people by type, such as insurance with different deductibles.
 - **Third-party certification.** Inspections, credit ratings, professional licences, organic labels.
 - **Intermediaries.** Dealers, who stake their reputation on quality.
@@ -66,7 +66,7 @@ Each response has costs: licensing can restrict entry and raise prices; disclosu
 
 ## Information and the price system
 
-A different tradition, associated with [[friedrich-hayek|Friedrich Hayek]], emphasises that knowledge is dispersed and that markets are a way of using information no single person has. In "The Use of Knowledge in Society" (1945), Hayek argued that prices summarise local knowledge about scarcity and coordinate behaviour without anyone needing to know the whole picture. Asymmetric information theory and Hayek's view are complementary: one studies when markets fail to transmit information, the other why they transmit it so well in many cases.
+A different tradition, associated with [Friedrich Hayek](../10-history-of-thought/thinkers/11-friedrich-hayek.md), emphasises that knowledge is dispersed and that markets are a way of using information no single person has. In "The Use of Knowledge in Society" (1945), Hayek argued that prices summarise local knowledge about scarcity and coordinate behaviour without anyone needing to know the whole picture. Asymmetric information theory and Hayek's view are complementary: one studies when markets fail to transmit information, the other why they transmit it so well in many cases.
 
 ## Key ideas
 
@@ -77,6 +77,6 @@ A different tradition, associated with [[friedrich-hayek|Friedrich Hayek]], emph
 
 ## Where this leads
 
-- Next: [[adverse-selection|adverse selection]].
-- Related: [[path:philosophy/concepts/epistemology/knowledge-and-opinion.md|knowledge and opinion]].
-- Glossary: [[g:asymmetric-information|asymmetric information]], [[g:adverse-selection|adverse selection]], [[g:moral-hazard|moral hazard]].
+- Next: [adverse selection](11-adverse-selection.md).
+- Related: [knowledge and opinion](../../../philosophy/concepts/epistemology/knowledge-and-opinion.md).
+- Glossary: [asymmetric information](../glossary/asymmetric-information.md), [adverse selection](../glossary/adverse-selection.md), [moral hazard](../glossary/moral-hazard.md).

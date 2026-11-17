@@ -1,6 +1,6 @@
 # Vilfredo Pareto (1848–1923)
 
-**Prerequisites:** [[efficiency-and-pareto-optimality|Efficiency and Pareto optimality]], [[indifference-curves|Indifference curves]].
+**Prerequisites:** [Efficiency and Pareto optimality](../../08-welfare-economics/01-efficiency-and-pareto-optimality.md), [Indifference curves](../../03-consumer-theory/03-indifference-curves.md).
 
 ![Vilfredo Pareto in the 1870s, when he was working as a railway engineer](images/09-vilfredo-pareto.jpg)
 
@@ -18,11 +18,11 @@ An ardent liberal and free-trader, he campaigned against protectionism and gover
 
 ### Pareto efficiency
 
-In the *Manual of Political Economy* (*Manuale di economia politica*, 1906), Pareto defined a position of maximum "ophelimity" (his word for economic satisfaction) for a collectivity as one from which it is impossible to move without making at least one person worse off. This is now called **Pareto efficiency** or **Pareto optimality** (see [[efficiency-and-pareto-optimality|efficiency and Pareto optimality]]). It allows welfare comparisons without adding up or comparing utilities across people, and it is the efficiency standard in the [[the-welfare-theorems|welfare theorems]].
+In the *Manual of Political Economy* (*Manuale di economia politica*, 1906), Pareto defined a position of maximum "ophelimity" (his word for economic satisfaction) for a collectivity as one from which it is impossible to move without making at least one person worse off. This is now called **Pareto efficiency** or **Pareto optimality** (see [efficiency and Pareto optimality](../../08-welfare-economics/01-efficiency-and-pareto-optimality.md)). It allows welfare comparisons without adding up or comparing utilities across people, and it is the efficiency standard in the [welfare theorems](../../08-welfare-economics/03-the-welfare-theorems.md).
 
 ### Ordinal utility
 
-Pareto argued that economics does not need to measure utility. All that matters is that people can rank bundles; indifference curves, which Edgeworth had introduced in 1881, can be derived from observed choices without assuming utility is a measurable quantity. This "ordinalist" view was developed by Eugen Slutsky (1915) and by Hicks and Allen (1934), and became standard (see [[preferences-and-utility|preferences and utility]]). Pareto also drew the Edgeworth box in the form now used.
+Pareto argued that economics does not need to measure utility. All that matters is that people can rank bundles; indifference curves, which Edgeworth had introduced in 1881, can be derived from observed choices without assuming utility is a measurable quantity. This "ordinalist" view was developed by Eugen Slutsky (1915) and by Hicks and Allen (1934), and became standard (see [preferences and utility](../../03-consumer-theory/01-preferences-and-utility.md)). Pareto also drew the Edgeworth box in the form now used.
 
 ### Pareto's law of income distribution
 
@@ -57,6 +57,6 @@ Pareto's efficiency criterion is perhaps the most widely used concept in welfare
 
 ## Where this leads
 
-- Next thinker: [[arthur-cecil-pigou|Arthur Cecil Pigou]].
-- Related: [[income-inequality|income inequality]], [[general-equilibrium|general equilibrium]].
-- Glossary: [[g:pareto-efficiency|Pareto efficiency]], [[g:pareto-distribution|Pareto distribution]], [[g:ordinal-utility|ordinal utility]].
+- Next thinker: [Arthur Cecil Pigou](10-arthur-cecil-pigou.md).
+- Related: [income inequality](../../06-factor-markets/09-income-inequality.md), [general equilibrium](../../08-welfare-economics/02-general-equilibrium.md).
+- Glossary: [Pareto efficiency](../../glossary/pareto-efficiency.md), [Pareto distribution](../../glossary/pareto-distribution.md), [ordinal utility](../../glossary/ordinal-utility.md).
