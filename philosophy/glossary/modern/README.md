@@ -6,11 +6,11 @@ Vocabulary from the medieval, early-modern, nineteenth-century and twentieth-cen
 
 ## Suggested reading order
 
-Use this list as a lookup while reading the history lessons. A good first handful, roughly in historical order: ontological argument, nominalism, cogito, problem of induction, social contract, categorical imperative, Geist, will to live, nihilism, Dasein, existence precedes essence, the absurd, paradigm, mimetic desire.
+Use this list as a lookup while reading the history lessons. A good first handful, roughly in historical order: ontological argument, nominalism, cogito, problem of induction, social contract, categorical imperative, Geist, will to live, will to power, nihilism, Dasein, existence precedes essence, the absurd, paradigm, mimetic desire.
 
 ## Contents
 
-This folder has 100 entries.
+This folder has 101 entries.
 
 - [Alienation](alienation.md)
 - [Amor fati](amor-fati.md)
@@ -91,6 +91,7 @@ This folder has 100 entries.
 - [Repression](repression.md)
 - [Ressentiment](ressentiment.md)
 - [Scapegoat mechanism](scapegoat-mechanism.md)
+- [Self-overcoming](self-overcoming.md)
 - [Shadow](shadow.md)
 - [Social contract](social-contract.md)
 - [State of nature](state-of-nature.md)

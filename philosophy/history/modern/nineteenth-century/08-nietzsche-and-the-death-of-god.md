@@ -55,6 +55,7 @@ After Nietzsche's collapse in 1889, his sister Elisabeth Förster-Nietzsche cont
 
 ## Where this leads
 
+- Next: [The will to power](09-will-to-power.md)
 - Next era: [The twentieth century](../twentieth-century/README.md)
 - Thinker: [Friedrich Nietzsche](thinkers/friedrich-nietzsche.md)
 - Texts: [*Zarathustra*](texts/thus-spoke-zarathustra.md), [*Beyond Good and Evil*](texts/beyond-good-and-evil.md), [*Genealogy*](texts/on-the-genealogy-of-morality.md)

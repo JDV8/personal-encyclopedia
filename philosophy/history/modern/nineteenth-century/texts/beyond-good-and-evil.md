@@ -42,6 +42,7 @@ The book is one of the best entry points to Nietzsche's mature thought. Its aris
 
 ## Where this leads
 
+- Lesson: [The will to power](../09-will-to-power.md)
 - Next text: [*On the Genealogy of Morality*](on-the-genealogy-of-morality.md)
 - Back: [Descartes's *Meditations*](../../early-modern/texts/meditations-on-first-philosophy.md), criticized in §16
 - Glossary: [perspectivism](../../../../glossary/modern/perspectivism.md), [master and slave morality](../../../../glossary/modern/master-and-slave-morality.md)

@@ -1,0 +1,5 @@
+# Self-overcoming
+
+Nietzsche's idea, especially in the *Zarathustra* speech "On Self-Overcoming", that a living being — and a strong human life — is one that goes beyond its present form, disciplines its own drives, and creates new values rather than merely preserving itself. It is the practical and ethical face of the [will to power](will-to-power.md): power here is not first domination of others, but the capacity to shape and surpass oneself. Walter Kaufmann made self-overcoming (*Selbstüberwindung*) central to his psychological reading of Nietzsche. It is closely related to the [Übermensch](ubermensch.md) as a figure of continual self-surpassing, and stands opposed to [Schopenhauer](../../history/modern/nineteenth-century/thinkers/arthur-schopenhauer.md)'s denial of the [will to live](will-to-live.md).
+
+**See also:** [will to power](will-to-power.md), [Übermensch](ubermensch.md), [Nietzsche](../../history/modern/nineteenth-century/thinkers/friedrich-nietzsche.md), [The will to power (lesson)](../../history/modern/nineteenth-century/09-will-to-power.md)

@@ -15,7 +15,7 @@ There is no single path through a glossary. Read the four folder overviews, then
 
 ## Contents
 
-This glossary has 293 entries in four folders.
+This glossary has 294 entries in four folders.
 
 - [general/](general/README.md) — English and later Latin terms (90 entries)
   - [A posteriori](general/a-posteriori.md)
@@ -216,7 +216,7 @@ This glossary has 293 entries in four folders.
   - [*Zhongyong*](chinese/zhong-yong.md)
   - [*Ziran*](chinese/ziran.md)
 
-- [modern/](modern/README.md) — medieval and modern terms, from Anselm to Girard (100 entries)
+- [modern/](modern/README.md) — medieval and modern terms, from Anselm to Girard (101 entries)
   - [Alienation](modern/alienation.md)
   - [Amor fati](modern/amor-fati.md)
   - [Amour-propre](modern/amour-propre.md)
@@ -296,6 +296,7 @@ This glossary has 293 entries in four folders.
   - [Repression](modern/repression.md)
   - [Ressentiment](modern/ressentiment.md)
   - [Scapegoat mechanism](modern/scapegoat-mechanism.md)
+  - [Self-overcoming](modern/self-overcoming.md)
   - [Shadow](modern/shadow.md)
   - [Social contract](modern/social-contract.md)
   - [State of nature](modern/state-of-nature.md)

@@ -22,7 +22,7 @@ Friedrich Wilhelm Nietzsche (1844–1900) was born in Röcken, Prussian Saxony, 
 - **Death of God** and the coming of nihilism (see [lesson](../08-nietzsche-and-the-death-of-god.md)).
 - **Revaluation of all values.** Values must be examined for what they express about the life that holds them: do they come from strength and abundance or from weakness and resentment?
 - **Master and slave morality**, **ressentiment**, the **ascetic ideal**.
-- **Will to power**: life as self-overcoming, not mere self-preservation.
+- **[Will to power](../09-will-to-power.md)**: life as self-overcoming, not mere self-preservation.
 - **Übermensch**, **eternal recurrence**, **amor fati**.
 - **Perspectivism**: there are no facts, only interpretations (a notebook line); every philosophy is the confession of its author.
 - **Style.** Aphorism, parable, polemic and poetry: Nietzsche wanted readers to think, not to agree.
@@ -53,8 +53,9 @@ Fame came only after his collapse. Elisabeth assembled the posthumous *Will to P
 
 ## Where this leads
 
+- Lesson: [The will to power](../09-will-to-power.md)
 - Texts: [*Zarathustra*](../texts/thus-spoke-zarathustra.md), [*Beyond Good and Evil*](../texts/beyond-good-and-evil.md), [*Genealogy*](../texts/on-the-genealogy-of-morality.md)
 - Next era: [The twentieth century](../../twentieth-century/README.md)
 - Forward: [Heidegger](../../twentieth-century/thinkers/martin-heidegger.md), [Foucault](../../twentieth-century/thinkers/michel-foucault.md), [Girard](../../twentieth-century/thinkers/rene-girard.md)
 - Back: [Heraclitus](../../../ancient/greek/thinkers/heraclitus.md), [Socrates](../../../ancient/greek/thinkers/socrates.md) (whom he attacked)
-- Glossary: [will to power](../../../../glossary/modern/will-to-power.md), [Übermensch](../../../../glossary/modern/ubermensch.md), [eternal recurrence](../../../../glossary/modern/eternal-recurrence.md)
+- Glossary: [will to power](../../../../glossary/modern/will-to-power.md), [self-overcoming](../../../../glossary/modern/self-overcoming.md), [Übermensch](../../../../glossary/modern/ubermensch.md), [eternal recurrence](../../../../glossary/modern/eternal-recurrence.md)

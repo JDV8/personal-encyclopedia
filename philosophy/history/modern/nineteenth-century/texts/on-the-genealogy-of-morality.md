@@ -36,6 +36,7 @@ The *Genealogy* is the most systematic of Nietzsche's books and the most widely 
 
 ## Where this leads
 
+- Lesson: [The will to power](../09-will-to-power.md)
 - Next era: [The twentieth century](../../twentieth-century/README.md)
 - Forward: [*Discipline and Punish*](../../twentieth-century/texts/discipline-and-punish.md), [*I See Satan Fall Like Lightning*](../../twentieth-century/texts/i-see-satan-fall-like-lightning.md), [*Civilization and Its Discontents*](../../twentieth-century/texts/civilization-and-its-discontents.md)
 - Glossary: [ressentiment](../../../../glossary/modern/ressentiment.md), [genealogy](../../../../glossary/modern/genealogy.md)

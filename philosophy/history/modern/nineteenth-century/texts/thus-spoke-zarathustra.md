@@ -39,6 +39,7 @@ Nietzsche considered it his most important book. Richard Strauss composed a tone
 
 ## Where this leads
 
+- Lesson: [The will to power](../09-will-to-power.md)
 - Next text: [*Beyond Good and Evil*](beyond-good-and-evil.md)
 - Glossary: [Übermensch](../../../../glossary/modern/ubermensch.md), [eternal recurrence](../../../../glossary/modern/eternal-recurrence.md), [will to power](../../../../glossary/modern/will-to-power.md)
 - Back: ["Self-Reliance"](self-reliance.md); [the Sermon on the Mount](../../../../../religion/abrahamic/christianity/bible/new-testament/stories/03-sermon-on-the-mount.md), which it parodies in places
