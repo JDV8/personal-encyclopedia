@@ -1,12 +1,12 @@
 # Twentieth-century texts
 
-Overviews of twenty twentieth-century books: dating and form, outline, key ideas, reception and recommended editions or commentaries.
+Overviews of twenty-seven twentieth-century books: dating and form, outline, key ideas, reception and recommended editions or commentaries.
 
 **Prerequisites:** [Twentieth-century thinkers](../thinkers/README.md)
 
 ## Suggested reading order
 
-Accessible first: Russell's *Problems of Philosophy*, *Existentialism Is a Humanism*, *The Myth of Sisyphus*, *Civilization and Its Discontents*, *The Structure of Scientific Revolutions*, *Eichmann in Jerusalem* and *I See Satan Fall Like Lightning*. Harder: *Being and Time*, *Being and Nothingness*, the *Tractatus*, *The Second Sex*, *A Theory of Justice*.
+Accessible first: Russell's *Problems of Philosophy*, *Existentialism Is a Humanism*, *The Myth of Sisyphus*, *Civilization and Its Discontents*, *The Structure of Scientific Revolutions*, *Eichmann in Jerusalem*, *I See Satan Fall Like Lightning*, Lewis's *Mere Christianity* and *The Abolition of Man*, and Scruton's *How to Be a Conservative* and *Beauty*. Harder: *Being and Time*, *Being and Nothingness*, the *Tractatus*, *The Second Sex*, *A Theory of Justice*, and Scruton's *The Aesthetics of Music*.
 
 ## Contents
 
@@ -30,6 +30,13 @@ Accessible first: Russell's *Problems of Philosophy*, *Existentialism Is a Human
 - [Girard, *Violence and the Sacred*](violence-and-the-sacred.md)
 - [Foucault, *Discipline and Punish*](discipline-and-punish.md)
 - [Girard, *I See Satan Fall Like Lightning*](i-see-satan-fall-like-lightning.md)
+- [Lewis, *Mere Christianity*](mere-christianity.md)
+- [Lewis, *The Abolition of Man*](the-abolition-of-man.md)
+- [Lewis, *The Screwtape Letters*](the-screwtape-letters.md)
+- [Lewis, *The Four Loves*](the-four-loves.md)
+- [Scruton, *How to Be a Conservative*](how-to-be-a-conservative.md)
+- [Scruton, *Beauty*](beauty.md)
+- [Scruton, *The Aesthetics of Music*](the-aesthetics-of-music.md)
 
 ## References & further reading
 
@@ -38,3 +45,5 @@ Accessible first: Russell's *Problems of Philosophy*, *Existentialism Is a Human
 - Sebastian Gardner, *Sartre's Being and Nothingness: A Reader's Guide* (Advanced).
 - Samuel Freeman, *Rawls* (Routledge Philosophers) (Intermediate).
 - Gary Gutting, *Foucault: A Very Short Introduction* (Beginner).
+- C. S. Lewis, *Mere Christianity* and *The Abolition of Man* (Beginner). The popular apologetic and the short philosophical book, best read as a pair.
+- Roger Scruton, *The Aesthetics of Music* (Advanced). His major technical work; start with *Beauty* if you are new to the subject.

@@ -38,7 +38,7 @@ Both traditions descend from [Kant](../early-modern/thinkers/immanuel-kant.md). 
 
 ## Bridges and borderlands
 
-The divide was never total. Late Wittgenstein's attention to forms of life is often read alongside Heidegger. Some analytic philosophers took up Hegel (Robert Brandom, John McDowell) and phenomenology (Hubert Dreyfus, Dan Zahavi). Habermas engaged with analytic speech-act theory; Paul Ricœur wrote on analytic philosophy of action. [Rawls](thinkers/john-rawls.md) and Habermas debated political liberalism. Some thinkers in this branch fit neither camp well: [Arendt](thinkers/hannah-arendt.md), [Weil](thinkers/simone-weil.md), [Girard](thinkers/rene-girard.md) and [Kuhn](thinkers/thomas-kuhn.md).
+The divide was never total. Late Wittgenstein's attention to forms of life is often read alongside Heidegger. Some analytic philosophers took up Hegel (Robert Brandom, John McDowell) and phenomenology (Hubert Dreyfus, Dan Zahavi). Habermas engaged with analytic speech-act theory; Paul Ricœur wrote on analytic philosophy of action. [Rawls](thinkers/john-rawls.md) and Habermas debated political liberalism. Some thinkers in this branch fit neither camp well: [Arendt](thinkers/hannah-arendt.md), [Weil](thinkers/simone-weil.md), [Girard](thinkers/rene-girard.md), [Kuhn](thinkers/thomas-kuhn.md), [C. S. Lewis](thinkers/c-s-lewis.md) and [Roger Scruton](thinkers/roger-scruton.md).
 
 ## Is the divide still useful?
 
@@ -53,6 +53,7 @@ Many philosophers now treat the labels as historical. Some argue the real differ
 
 ## Where this leads
 
+- Next: [Conservatism, tradition and beauty](11-conservatism-and-beauty.md)
 - Back to the start of this era: [Phenomenology](01-phenomenology.md)
 - The branch overview: [Modern philosophy](../README.md)
 - Back to the ancient roots: [Ancient philosophy](../../ancient/README.md)

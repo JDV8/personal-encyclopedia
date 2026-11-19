@@ -1,0 +1,5 @@
+# The Tao (Lewis)
+
+In *The Abolition of Man*, C. S. Lewis uses the Chinese word *Tao* (see [*dao*](../chinese/dao.md)) for the traditional, objective moral order he thought was recognised, under many names, across civilisations: a way of right feeling and right action that is not invented by us and not reducible to private feeling or to a social convention. He treats it as the same territory as [natural law](natural-law.md). The appendix to the book, "Illustrations of the Tao", collects maxims from Greek, Jewish, Christian, Chinese and other sources. Lewis is not claiming to do sinology; he is borrowing a word for a transcultural moral path, against educational subjectivism. The usage should not be confused with the richer, and different, meanings of *dao* in early Chinese philosophy.
+
+**See also:** [C. S. Lewis](../../history/modern/twentieth-century/thinkers/c-s-lewis.md), [*The Abolition of Man*](../../history/modern/twentieth-century/texts/the-abolition-of-man.md), [men without chests](men-without-chests.md), [*dao*](../chinese/dao.md), [natural law](natural-law.md)

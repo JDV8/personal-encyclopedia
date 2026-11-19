@@ -1,6 +1,6 @@
 # Twentieth-century philosophy
 
-The twentieth century inherited Nietzsche's crisis of values and Kant's question about the limits of knowledge, and lived through two world wars, totalitarianism and the Holocaust. Philosophy split into two broad styles. On the Continent, phenomenology (Husserl, Heidegger) led to existentialism (Sartre, de Beauvoir) and the absurd (Camus), then to structuralism and Foucault. In Britain and America, Russell and Wittgenstein turned philosophy toward logic and language, while Popper and Kuhn argued about how science works and Rawls revived political philosophy. Arendt and Weil thought through the catastrophe of the century. Freud and Jung, psychologists rather than philosophers, changed how everyone thought about the mind, and René Girard, a literary critic and anthropologist, proposed a bold theory of desire, violence and religion.
+The twentieth century inherited Nietzsche's crisis of values and Kant's question about the limits of knowledge, and lived through two world wars, totalitarianism and the Holocaust. Philosophy split into two broad styles. On the Continent, phenomenology (Husserl, Heidegger) led to existentialism (Sartre, de Beauvoir) and the absurd (Camus), then to structuralism and Foucault. In Britain and America, Russell and Wittgenstein turned philosophy toward logic and language, while Popper and Kuhn argued about how science works and Rawls revived political philosophy. Arendt and Weil thought through the catastrophe of the century. Freud and Jung, psychologists rather than philosophers, changed how everyone thought about the mind, and René Girard, a literary critic and anthropologist, proposed a bold theory of desire, violence and religion. The path also includes two writers who were not professional academic philosophers but belong in it: C. S. Lewis, the literary scholar and Christian apologist, and Roger Scruton, on conservatism, beauty and the philosophy of music.
 
 **Prerequisites:** [Nineteenth-century philosophy](../nineteenth-century/README.md), especially [Nietzsche and the death of God](../nineteenth-century/08-nietzsche-and-the-death-of-god.md)
 
@@ -16,6 +16,7 @@ The twentieth century inherited Nietzsche's crisis of values and Kant's question
 8. [Structuralism and after](08-structuralism-and-after.md): Foucault
 9. [Mimetic theory](09-mimetic-theory.md): Girard
 10. [Analytic and continental](10-analytic-and-continental.md): the divide, and where philosophy went next
+11. [Conservatism, tradition and beauty](11-conservatism-and-beauty.md): Scruton, Lewis, and objective value
 
 ## Contents
 
@@ -29,6 +30,7 @@ The twentieth century inherited Nietzsche's crisis of values and Kant's question
 - [Structuralism and after: Foucault, power and knowledge](08-structuralism-and-after.md)
 - [Mimetic theory: René Girard on desire, violence and the scapegoat](09-mimetic-theory.md)
 - [Analytic and continental: a map of the divide](10-analytic-and-continental.md)
+- [Conservatism, tradition and beauty](11-conservatism-and-beauty.md)
 - [thinkers/](thinkers/README.md)
 - [texts/](texts/README.md)
 
@@ -39,3 +41,6 @@ The twentieth century inherited Nietzsche's crisis of values and Kant's question
 - Simon Critchley, *Continental Philosophy: A Very Short Introduction* (Beginner).
 - Scott Soames, *Philosophical Analysis in the Twentieth Century* (Advanced). A detailed history of the analytic tradition.
 - Wolfram Eilenberger, *Time of the Magicians* and *The Visionaries* (Beginner). Narrative histories of Wittgenstein, Heidegger, Benjamin and Cassirer, then of Arendt, Weil, de Beauvoir and Rand.
+- C. S. Lewis, *The Abolition of Man* (Beginner). A short defence of objective value, the Tao, and moral education.
+- Roger Scruton, *How to Be a Conservative* (Beginner) and *Beauty* (Beginner). Accessible statements of his political thought and his aesthetics.
+- Alister McGrath, *C. S. Lewis — A Life: Eccentric Genius, Reluctant Prophet* (Beginner). A careful recent biography.

@@ -14,7 +14,7 @@ When you read historically, keep the [branches](../README.md) in mind. Ask: is t
 2. From there, take [Greek](ancient/greek/README.md), [Chinese](ancient/chinese/README.md), or both, then the [comparison](ancient/greek-and-chinese-compared.md)
 3. Then the later bridges in [imperial](imperial/README.md)
 4. [Medieval philosophy](medieval/README.md): Augustine to Ockham, with the Islamic and Jewish Aristotelians
-5. [Modern philosophy](modern/README.md): [early modern](modern/early-modern/README.md) (Machiavelli to Kant), [nineteenth century](modern/nineteenth-century/README.md) (Hegel to Nietzsche, with Dostoevsky and Tolstoy), [twentieth century](modern/twentieth-century/README.md) (Husserl to Girard, with Freud and Jung)
+5. [Modern philosophy](modern/README.md): [early modern](modern/early-modern/README.md) (Machiavelli to Kant), [nineteenth century](modern/nineteenth-century/README.md) (Hegel to Nietzsche, with Dostoevsky and Tolstoy), [twentieth century](modern/twentieth-century/README.md) (Husserl to Scruton, with Freud, Jung, Lewis and Girard)
 
 ## Contents
 
@@ -27,7 +27,7 @@ When you read historically, keep the [branches](../README.md) in mind. Ask: is t
 - [medieval/](medieval/README.md) — 4 lessons, 8 thinkers, 6 texts (Augustine to Ockham)
   - [thinkers/](medieval/thinkers/README.md)
   - [texts/](medieval/texts/README.md)
-- [modern/](modern/README.md) — 25 lessons, 41 thinkers, 51 texts (Machiavelli to Girard)
+- [modern/](modern/README.md) — 27 lessons, 43 thinkers, 58 texts (Machiavelli to Scruton)
   - [early-modern/](modern/early-modern/README.md)
   - [nineteenth-century/](modern/nineteenth-century/README.md)
   - [twentieth-century/](modern/twentieth-century/README.md)

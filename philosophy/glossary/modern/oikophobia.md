@@ -1,0 +1,5 @@
+# Oikophobia
+
+A term used by Roger Scruton (from Greek *oikos*, "home") for the educated impulse to denigrate one's own home, country and cultural inheritance — the opposite of [oikophilia](oikophilia.md). He presented it as a characteristic modern pose: the wish to stand above one's own settlement, to treat belonging as a moral mistake, and to lavish on other cultures a sympathy withheld from one's own. The Greek compound has older, including psychiatric, uses for a fear of the house; Scruton's political sense is his own and runs through *England: An Elegy*, *A Political Philosophy* and *How to Be a Conservative*. Critics reply that the word is too easily used to dismiss justified criticism of one's country as a mere pathology.
+
+**See also:** [oikophilia](oikophilia.md), [Roger Scruton](../../history/modern/twentieth-century/thinkers/roger-scruton.md), [*How to Be a Conservative*](../../history/modern/twentieth-century/texts/how-to-be-a-conservative.md), [conservatism](conservatism.md)

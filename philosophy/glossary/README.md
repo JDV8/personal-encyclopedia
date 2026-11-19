@@ -15,7 +15,7 @@ There is no single path through a glossary. Read the four folder overviews, then
 
 ## Contents
 
-This glossary has 294 entries in four folders.
+This glossary has 300 entries in four folders.
 
 - [general/](general/README.md) — English and later Latin terms (90 entries)
   - [A posteriori](general/a-posteriori.md)
@@ -216,7 +216,7 @@ This glossary has 294 entries in four folders.
   - [*Zhongyong*](chinese/zhong-yong.md)
   - [*Ziran*](chinese/ziran.md)
 
-- [modern/](modern/README.md) — medieval and modern terms, from Anselm to Girard (101 entries)
+- [modern/](modern/README.md) — medieval and modern terms, from Anselm to Scruton (107 entries)
   - [Alienation](modern/alienation.md)
   - [Amor fati](modern/amor-fati.md)
   - [Amour-propre](modern/amour-propre.md)
@@ -232,11 +232,13 @@ This glossary has 294 entries in four folders.
   - [Banality of evil](modern/banality-of-evil.md)
   - [Being-in-the-world](modern/being-in-the-world.md)
   - [Bundle theory](modern/bundle-theory.md)
+  - [Bulverism](modern/bulverism.md)
   - [Categorical imperative](modern/categorical-imperative.md)
   - [Civil disobedience](modern/civil-disobedience.md)
   - [Cogito](modern/cogito.md)
   - [Collective unconscious](modern/collective-unconscious.md)
   - [Conatus](modern/conatus.md)
+  - [Conservatism](modern/conservatism.md)
   - [Continental philosophy](modern/continental-philosophy.md)
   - [Cosmological argument](modern/cosmological-argument.md)
   - [Dasein](modern/dasein.md)
@@ -266,6 +268,7 @@ This glossary has 294 entries in four folders.
   - [Logical positivism](modern/logical-positivism.md)
   - [Master and slave morality](modern/master-and-slave-morality.md)
   - [Master–slave dialectic](modern/master-slave-dialectic.md)
+  - [Men without chests](modern/men-without-chests.md)
   - [Methodic doubt](modern/methodic-doubt.md)
   - [Mimetic desire](modern/mimetic-desire.md)
   - [Mind–body problem](modern/mind-body-problem.md)
@@ -277,6 +280,8 @@ This glossary has 294 entries in four folders.
   - [Nominalism](modern/nominalism.md)
   - [Non-resistance](modern/non-resistance.md)
   - [Ockham's razor](modern/ockhams-razor.md)
+  - [Oikophilia](modern/oikophilia.md)
+  - [Oikophobia](modern/oikophobia.md)
   - [Ontological argument](modern/ontological-argument.md)
   - [Panopticism](modern/panopticism.md)
   - [Pantheism](modern/pantheism.md)
@@ -306,6 +311,7 @@ This glossary has 294 entries in four folders.
   - [Teleological suspension of the ethical](modern/teleological-suspension-of-the-ethical.md)
   - [The absurd](modern/the-absurd.md)
   - [The Other](modern/the-other.md)
+  - [The Tao (Lewis)](modern/the-tao.md)
   - [Theodicy](modern/theodicy.md)
   - [Thing in itself](modern/thing-in-itself.md)
   - [Thrownness](modern/thrownness.md)

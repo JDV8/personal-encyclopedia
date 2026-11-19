@@ -1,12 +1,12 @@
 # Twentieth-century thinkers
 
-One overview page per thinker, from Husserl to Girard. Freud and Jung were psychologists and Girard a literary critic and anthropologist; their pages explain why they belong in a philosophy path anyway.
+One overview page per thinker, from Husserl to Scruton. Freud and Jung were psychologists, Girard a literary critic and anthropologist, and Lewis a literary scholar and Christian apologist; their pages explain why they belong in a philosophy path anyway.
 
 **Prerequisites:** [Twentieth-century philosophy](../README.md)
 
 ## Suggested reading order
 
-Follow the lesson order: Husserl, Heidegger; Russell, Wittgenstein; Sartre, de Beauvoir, Camus; Freud, Jung; Popper, Kuhn; Arendt, Weil, Rawls; Foucault; Girard.
+Follow the lesson order: Husserl, Heidegger; Russell, Wittgenstein; Sartre, de Beauvoir, Camus; Freud, Jung; Popper, Kuhn; Arendt, Weil, Rawls; Foucault; Girard; then Lewis and Scruton.
 
 ## Contents
 
@@ -26,6 +26,8 @@ Follow the lesson order: Husserl, Heidegger; Russell, Wittgenstein; Sartre, de B
 - [John Rawls](john-rawls.md)
 - [Michel Foucault](michel-foucault.md)
 - [René Girard](rene-girard.md)
+- [C. S. Lewis](c-s-lewis.md)
+- [Roger Scruton](roger-scruton.md)
 
 ## References & further reading
 
@@ -35,3 +37,7 @@ Follow the lesson order: Husserl, Heidegger; Russell, Wittgenstein; Sartre, de B
 - Elisabeth Young-Bruehl, *Hannah Arendt: For Love of the World* (Intermediate).
 - Wolfgang Palaver, *René Girard's Mimetic Theory* (Intermediate). The most complete introduction to Girard.
 - Robert Zaretsky, *A Life Worth Living: Albert Camus and the Quest for Meaning* (Beginner).
+- Alister McGrath, *C. S. Lewis — A Life: Eccentric Genius, Reluctant Prophet* (Beginner). The most reliable recent life.
+- George Sayer, *Jack: A Life of C. S. Lewis* (Intermediate). A portrait by a former pupil and friend.
+- Roger Scruton, *Gentle Regrets* (Beginner). A memoir, the best first approach to the life behind the books.
+- Mark Dooley, *Conversations with Roger Scruton* (Beginner). Long interviews covering aesthetics, conservatism and faith.

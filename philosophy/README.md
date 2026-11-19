@@ -27,7 +27,7 @@ These branches overlap. A claim about human nature is metaphysical and ethical a
 2. [Ancient philosophy](history/ancient/README.md): take the [Greek](history/ancient/greek/README.md) or [Chinese](history/ancient/chinese/README.md) path, or both, then the [comparison](history/ancient/greek-and-chinese-compared.md).
 3. Use [concepts](concepts/README.md) to go deeper on a single idea, [thinkers](history/ancient/greek/thinkers/README.md) and [texts](history/ancient/greek/texts/README.md) (or the [Chinese](history/ancient/chinese/thinkers/README.md) equivalents) for a person or a book.
 4. Then the later bridges in [imperial Chinese thought](history/imperial/chinese/README.md).
-5. [Medieval philosophy](history/medieval/README.md), then [modern philosophy](history/modern/README.md): Descartes, Spinoza, Hume, Kant, Hegel, Schopenhauer, Kierkegaard, Nietzsche, Wittgenstein, Heidegger, Sartre, Camus, Arendt and more, with novelists (Dostoevsky, Tolstoy), psychologists (Freud, Jung) and René Girard where they changed philosophy.
+5. [Medieval philosophy](history/medieval/README.md), then [modern philosophy](history/modern/README.md): Descartes, Spinoza, Hume, Kant, Hegel, Schopenhauer, Kierkegaard, Nietzsche, Wittgenstein, Heidegger, Sartre, Camus, Arendt and more, with novelists (Dostoevsky, Tolstoy), psychologists (Freud, Jung), René Girard, C. S. Lewis and Roger Scruton where they belong in the path.
 
 ## Contents
 
@@ -37,7 +37,7 @@ These branches overlap. A claim about human nature is metaphysical and ethical a
   - [ethics/](concepts/ethics/README.md)
   - [logic/](concepts/logic/README.md)
   - [political/](concepts/political/README.md)
-- [glossary/](glossary/README.md) — 293 short entries
+- [glossary/](glossary/README.md) — 300 short entries
   - [general/](glossary/general/README.md)
   - [greek/](glossary/greek/README.md)
   - [chinese/](glossary/chinese/README.md)

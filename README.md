@@ -31,7 +31,7 @@ personal-encyclopedia/
   SKILL.md             How a topic is added or expanded
   philosophy/
     concepts/          Granular lessons by branch
-    glossary/          293 short entries (general, Greek, Chinese, medieval and modern)
+    glossary/          300 short entries (general, Greek, Chinese, medieval and modern)
     history/
       ancient/
         greek/         Lessons, plus thinkers/ and texts/
@@ -41,8 +41,8 @@ personal-encyclopedia/
       medieval/        Augustine to Ockham: lessons, thinkers/, texts/
       modern/
         early-modern/        Machiavelli to Kant: lessons, thinkers/, texts/
-        nineteenth-century/  Hegel, Schopenhauer, Kierkegaard, Marx, Dostoevsky, Tolstoy, Nietzsche
-        twentieth-century/   Husserl to Girard, with Freud and Jung
+        nineteenth-century/  Hegel, Schopenhauer, Kierkegaard, Marx, Dostoevsky, Tolstoy, Nietzsche, the will to power
+        twentieth-century/   Husserl to Scruton, with Freud, Jung, Lewis and Girard
   economics/
     microeconomics/    105 lessons in 10 sections, 16 thinkers, a 345-entry glossary
       01-foundations/  Scarcity, opportunity cost, marginal thinking, trade
@@ -81,7 +81,7 @@ personal-encyclopedia/
 Start here:
 
 1. [Philosophy](philosophy/README.md) — what the discipline is, and the five branches that structure later questions.
-2. [Ancient philosophy](philosophy/history/ancient/README.md) — then either the [Greek](philosophy/history/ancient/greek/README.md) or [Chinese](philosophy/history/ancient/chinese/README.md) path, and the [comparison](philosophy/history/ancient/greek-and-chinese-compared.md) after both. Then [medieval](philosophy/history/medieval/README.md) and [modern philosophy](philosophy/history/modern/README.md), from Descartes and Kant to Nietzsche, Jung and Girard.
+2. [Ancient philosophy](philosophy/history/ancient/README.md) — then either the [Greek](philosophy/history/ancient/greek/README.md) or [Chinese](philosophy/history/ancient/chinese/README.md) path, and the [comparison](philosophy/history/ancient/greek-and-chinese-compared.md) after both. Then [medieval](philosophy/history/medieval/README.md) and [modern philosophy](philosophy/history/modern/README.md), from Descartes and Kant to Nietzsche, Jung, Girard, C. S. Lewis and Roger Scruton.
 3. [Economics](economics/README.md) — the [microeconomics course](economics/microeconomics/README.md) (scarcity, supply and demand, consumer and producer theory, market structures and game theory, market failure, welfare, behavioural economics, history of thought) and its [glossary](economics/microeconomics/glossary/README.md), then the [finance course](economics/finance/README.md) (time value, stocks, bonds, funds, derivatives, markets, regulation, portfolios, behaviour, history, investing in Canada) and its [glossary](economics/finance/glossary/README.md).
 4. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), its [book overviews](religion/abrahamic/christianity/bible/old-testament/books/README.md), and the [glossary](religion/abrahamic/christianity/bible/glossary/README.md).
 

@@ -6,11 +6,11 @@ Vocabulary from the medieval, early-modern, nineteenth-century and twentieth-cen
 
 ## Suggested reading order
 
-Use this list as a lookup while reading the history lessons. A good first handful, roughly in historical order: ontological argument, nominalism, cogito, problem of induction, social contract, categorical imperative, Geist, will to live, will to power, nihilism, Dasein, existence precedes essence, the absurd, paradigm, mimetic desire.
+Use this list as a lookup while reading the history lessons. A good first handful, roughly in historical order: ontological argument, nominalism, cogito, problem of induction, social contract, categorical imperative, Geist, will to live, will to power, nihilism, Dasein, existence precedes essence, the absurd, paradigm, mimetic desire, the Tao (Lewis), oikophilia.
 
 ## Contents
 
-This folder has 101 entries.
+This folder has 107 entries.
 
 - [Alienation](alienation.md)
 - [Amor fati](amor-fati.md)
@@ -27,11 +27,13 @@ This folder has 101 entries.
 - [Banality of evil](banality-of-evil.md)
 - [Being-in-the-world](being-in-the-world.md)
 - [Bundle theory](bundle-theory.md)
+- [Bulverism](bulverism.md)
 - [Categorical imperative](categorical-imperative.md)
 - [Civil disobedience](civil-disobedience.md)
 - [Cogito](cogito.md)
 - [Collective unconscious](collective-unconscious.md)
 - [Conatus](conatus.md)
+- [Conservatism](conservatism.md)
 - [Continental philosophy](continental-philosophy.md)
 - [Cosmological argument](cosmological-argument.md)
 - [Dasein](dasein.md)
@@ -61,6 +63,7 @@ This folder has 101 entries.
 - [Logical positivism](logical-positivism.md)
 - [Master and slave morality](master-and-slave-morality.md)
 - [Master–slave dialectic](master-slave-dialectic.md)
+- [Men without chests](men-without-chests.md)
 - [Methodic doubt](methodic-doubt.md)
 - [Mimetic desire](mimetic-desire.md)
 - [Mind–body problem](mind-body-problem.md)
@@ -72,6 +75,8 @@ This folder has 101 entries.
 - [Nominalism](nominalism.md)
 - [Non-resistance](non-resistance.md)
 - [Ockham's razor](ockhams-razor.md)
+- [Oikophilia](oikophilia.md)
+- [Oikophobia](oikophobia.md)
 - [Ontological argument](ontological-argument.md)
 - [Panopticism](panopticism.md)
 - [Pantheism](pantheism.md)
@@ -101,6 +106,7 @@ This folder has 101 entries.
 - [Teleological suspension of the ethical](teleological-suspension-of-the-ethical.md)
 - [The absurd](the-absurd.md)
 - [The Other](the-other.md)
+- [The Tao (Lewis)](the-tao.md)
 - [Theodicy](theodicy.md)
 - [Thing in itself](thing-in-itself.md)
 - [Thrownness](thrownness.md)
