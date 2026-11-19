@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Karl Marx](../thinkers/karl-marx.md); [Marx and historical materialism](../04-marx-and-historical-materialism.md)
 
-@@IMG@@
+![Cover of the first edition of the Manifest der Kommunistischen Partei (London, 1848)](images/communist-manifesto.jpg)
+
+*Cover of the first edition of the *Manifest der Kommunistischen Partei* (London, 1848). Credit: Friedrich Engels, Karl Marx. License: Public domain. Source: [File:Communist-manifesto.png](https://commons.wikimedia.org/wiki/File:Communist-manifesto.png).*
 
 ## Dating and occasion
 

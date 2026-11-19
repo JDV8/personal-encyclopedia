@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Scholasticism](../../medieval/02-scholasticism.md), [Universals and nominalism](../../medieval/04-universals-and-nominalism.md)
 
-@@IMG@@
+![Leonardo da Vinci, Vitruvian Man (c. 1490)](images/01-renaissance-and-humanism.jpg)
+
+*Leonardo da Vinci, *Vitruvian Man* (c. 1490). Credit: Leonardo da Vinci. License: Public domain. Source: [File:Da Vinci Vitruve Luc Viatour.jpg](https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg).*
 
 ## What changed, from first principles
 

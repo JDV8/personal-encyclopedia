@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Boethius](../thinkers/boethius.md); helpful: [Seneca](../../ancient/greek/thinkers/seneca.md), [Plato's *Republic*](../../ancient/greek/texts/republic.md)
 
-@@IMG@@
+![Boethius and Lady Philosophy, from a French manuscript of The Consolation of Philosophy](images/consolation-of-philosophy.jpg)
+
+*Boethius and Lady Philosophy, from a French manuscript of *The Consolation of Philosophy*. Credit: Boethius. License: Public domain. Source: [File:Boethius, Consolatio philosophiae (French).jpg](https://commons.wikimedia.org/wiki/File:Boethius,_Consolatio_philosophiae_(French).jpg).*
 
 ## Dating and form
 

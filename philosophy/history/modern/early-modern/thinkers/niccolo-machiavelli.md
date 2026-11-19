@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Renaissance and humanism](../01-renaissance-and-humanism.md); helpful: [government by virtue](../../../../concepts/political/government-by-virtue.md), [the Legalist fa, shi, shu](../../../../concepts/political/fa-shi-shu.md)
 
-@@IMG@@
+![Santi di Tito, portrait of Niccolò Machiavelli (late 16th century)](images/niccolo-machiavelli.jpg)
+
+*Santi di Tito, portrait of Niccolò Machiavelli (late 16th century). Credit: Santi di Tito. License: Public domain. Source: [File:Portrait of Niccolò Machiavelli by Santi di Tito.jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_Niccolò_Machiavelli_by_Santi_di_Tito.jpg).*
 
 ## Life and context
 

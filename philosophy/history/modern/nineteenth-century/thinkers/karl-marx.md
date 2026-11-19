@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Marx and historical materialism](../04-marx-and-historical-materialism.md); the economics-side profile is [Karl Marx in the history of economic thought](../../../../../economics/microeconomics/10-history-of-thought/thinkers/04-karl-marx.md)
 
-@@IMG@@
+![Karl Marx, photographed by John Jabez Edwin Mayall (1875)](images/karl-marx.jpg)
+
+*Karl Marx, photographed by John Jabez Edwin Mayall (1875). Credit: John Jabez Edwin Mayall. License: Public domain. Source: [File:Karl Marx by John Jabez Edwin Mayall 1875 - Restored.png](https://commons.wikimedia.org/wiki/File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png).*
 
 ## Life and context
 

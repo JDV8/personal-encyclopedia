@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kant's Copernican revolution](../early-modern/07-kants-copernican-revolution.md), [German idealism](01-german-idealism.md); helpful: [will](../../../glossary/general/will.md)
 
-@@IMG@@
+![Domenico Fetti, Melancholy (Meditation) (c. 1618), Gallerie dell'Accademia, Venice](images/02-pessimism-and-the-will.jpg)
+
+*Domenico Fetti, *Melancholy* (*Meditation*) (c. 1618), Gallerie dell'Accademia, Venice. Credit: Didier Descouens. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Accademia - La Meditazione by Domenico Fetti 1618.jpg](https://commons.wikimedia.org/wiki/File:Accademia_-_La_Meditazione_by_Domenico_Fetti_1618.jpg).*
 
 ## Starting from Kant, ending somewhere else
 

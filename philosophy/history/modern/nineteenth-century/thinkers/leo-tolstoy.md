@@ -4,7 +4,9 @@
 
 *Tolstoy was primarily a novelist. He appears here because of his philosophy of history, his crisis of meaning and his religious-ethical writings, which shaped non-violent resistance.*
 
-@@IMG@@
+![Leo Tolstoy at Yasnaya Polyana, colour photograph by Sergei Prokudin-Gorsky (1908)](images/leo-tolstoy.jpg)
+
+*Leo Tolstoy at Yasnaya Polyana, colour photograph by Sergei Prokudin-Gorsky (1908). Credit: Sergei Prokudin-Gorskii. License: Public domain. Source: [File:Leo Tolstoy 1908 Portrait (3x4 cropped).jpg](https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg).*
 
 ## Life and context
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [*Tractatus Logico-Philosophicus*](tractatus-logico-philosophicus.md)
 
-@@IMG@@
+![The duck–rabbit, from the German humour magazine Fliegende Blätter (1892); Wittgenstein discusses it under 'seeing-as'](images/philosophical-investigations.jpg)
+
+*The duck–rabbit, from the German humour magazine *Fliegende Blätter* (1892); Wittgenstein discusses it under 'seeing-as'. Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:Duck-Rabbit illusion.jpg](https://commons.wikimedia.org/wiki/File:Duck-Rabbit_illusion.jpg).*
 
 ## Dating and form
 

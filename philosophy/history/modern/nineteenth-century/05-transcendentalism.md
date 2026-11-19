@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kant's Copernican revolution](../early-modern/07-kants-copernican-revolution.md) (for the word "transcendental"); helpful: [German idealism](01-german-idealism.md)
 
-@@IMG@@
+![Walden Pond, Concord, Massachusetts (2010)](images/05-transcendentalism.jpg)
+
+*Walden Pond, Concord, Massachusetts (2010). Credit: ptwo from Allahabad, India. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Walden Pond, 2010.jpg](https://commons.wikimedia.org/wiki/File:Walden_Pond,_2010.jpg).*
 
 ## Where the name comes from
 

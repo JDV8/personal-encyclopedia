@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Anselm](../thinkers/anselm.md); helpful: [Faith and reason](../01-faith-and-reason.md)
 
-@@IMG@@
+![An illuminated initial from a manuscript of Anselm's Monologion, the companion work to the Proslogion](images/proslogion.jpg)
+
+*An illuminated initial from a manuscript of Anselm's *Monologion*, the companion work to the *Proslogion*. Credit: Hugo Pictor. License: Public domain. Source: [File:Illuminated initial from Anselm's Monologion.jpg](https://commons.wikimedia.org/wiki/File:Illuminated_initial_from_Anselm's_Monologion.jpg).*
 
 ## Dating and purpose
 

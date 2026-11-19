@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Simone de Beauvoir](../thinkers/simone-de-beauvoir.md); helpful: [*Being and Nothingness*](being-and-nothingness.md)
 
-@@IMG@@
+![Simone de Beauvoir in Beijing in 1955 (cropped from a photograph with Sartre)](images/the-second-sex.jpg)
+
+*Simone de Beauvoir in Beijing in 1955 (cropped from a photograph with Sartre). Credit: 刘东鳌(Liu Dong'ao). License: Public domain. Source: [File:Simone de Beauvoir 1955.jpg](https://commons.wikimedia.org/wiki/File:Simone_de_Beauvoir_1955.jpg).*
 
 ## Dating and form
 

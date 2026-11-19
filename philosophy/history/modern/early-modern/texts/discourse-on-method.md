@@ -2,7 +2,9 @@
 
 **Prerequisites:** [René Descartes](../thinkers/rene-descartes.md)
 
-@@IMG@@
+![Title page of the first edition of Descartes's Discours de la méthode (Leiden, 1637)](images/discourse-on-method.jpg)
+
+*Title page of the first edition of Descartes's *Discours de la méthode* (Leiden, 1637). Credit: Ian Maire. License: Public domain. Source: [File:Descartes Discours de la Methode.jpg](https://commons.wikimedia.org/wiki/File:Descartes_Discours_de_la_Methode.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Hannah Arendt](../thinkers/hannah-arendt.md)
 
-@@IMG@@
+![Hannah Arendt in 1933, the year she fled Germany](images/the-origins-of-totalitarianism.jpg)
+
+*Hannah Arendt in 1933, the year she fled Germany. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Hannah Arendt 1933.jpg](https://commons.wikimedia.org/wiki/File:Hannah_Arendt_1933.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Gottfried Wilhelm Leibniz](../thinkers/gottfried-wilhelm-leibniz.md); [Rationalism](../03-rationalism.md)
 
-@@IMG@@
+![A page of Leibniz's manuscript of the Monadology](images/monadology.jpg)
+
+*A page of Leibniz's manuscript of the *Monadology*. Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:Leibniz Monadology 1.jpg](https://commons.wikimedia.org/wiki/File:Leibniz_Monadology_1.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [David Hume](../thinkers/david-hume.md); [Empiricism](../04-empiricism.md)
 
-@@IMG@@
+![Title page of Hume's A Treatise of Human Nature (1739)](images/treatise-of-human-nature.jpg)
+
+*Title page of Hume's *A Treatise of Human Nature* (1739). Credit: David Hume. License: Public domain. Source: [File:A Treatise of Human Nature by David Hume.jpg](https://commons.wikimedia.org/wiki/File:A_Treatise_of_Human_Nature_by_David_Hume.jpg).*
 
 ## Dating and versions
 

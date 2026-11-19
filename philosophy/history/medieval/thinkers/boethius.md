@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Faith and reason](../01-faith-and-reason.md); helpful: [Aristotle](../../ancient/greek/thinkers/aristotle.md), [Seneca](../../ancient/greek/thinkers/seneca.md)
 
-@@IMG@@
+![Boethius as imagined in a medieval manuscript illumination](images/boethius.jpg)
+
+*Boethius as imagined in a medieval manuscript illumination. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Boethius.jpeg](https://commons.wikimedia.org/wiki/File:Boethius.jpeg).*
 
 ## Life and context
 

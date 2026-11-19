@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Friedrich Nietzsche](../thinkers/friedrich-nietzsche.md); [Nietzsche and the death of God](../08-nietzsche-and-the-death-of-god.md)
 
-@@IMG@@
+![Title page of Also sprach Zarathustra: Ein Buch für Alle und Keinen](images/thus-spoke-zarathustra.jpg)
+
+*Title page of *Also sprach Zarathustra: Ein Buch für Alle und Keinen*. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Also sprach Zarathustra. Ein Buch für Alle und Keinen. In drei Theilen.jpg](https://commons.wikimedia.org/wiki/File:Also_sprach_Zarathustra._Ein_Buch_für_Alle_und_Keinen._In_drei_Theilen.jpg).*
 
 ## Dating and form
 

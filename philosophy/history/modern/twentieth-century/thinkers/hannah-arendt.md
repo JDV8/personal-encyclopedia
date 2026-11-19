@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Political philosophy after catastrophe](../07-political-philosophy-after-catastrophe.md)
 
-@@IMG@@
+![Hannah Arendt at the first Kulturkritikerkongress, Munich (1958), photographed by Barbara Niggl Radloff](images/hannah-arendt.jpg)
+
+*Hannah Arendt at the first Kulturkritikerkongress, Munich (1958), photographed by Barbara Niggl Radloff. Credit: Barbara Niggl Radloff. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Hannah Arendt auf dem 1. Kulturkritikerkongress, Barbara Niggl Radloff, FM-2019-1-5-9-16 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Hannah_Arendt_auf_dem_1._Kulturkritikerkongress,_Barbara_Niggl_Radloff,_FM-2019-1-5-9-16_(cropped).jpg).*
 
 ## Life and context
 

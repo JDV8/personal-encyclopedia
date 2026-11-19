@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Rationalism](03-rationalism.md); [empiricism](../../../glossary/general/empiricism.md), [a posteriori](../../../glossary/general/a-posteriori.md)
 
-@@IMG@@
+![Herman Verelst, portrait of John Locke (1689)](images/04-empiricism.jpg)
+
+*Herman Verelst, portrait of John Locke (1689). Credit: Herman Verelst. License: Public domain. Source: [File:John Locke by Herman Verelst.jpg](https://commons.wikimedia.org/wiki/File:John_Locke_by_Herman_Verelst.jpg).*
 
 ## The opposite starting point
 

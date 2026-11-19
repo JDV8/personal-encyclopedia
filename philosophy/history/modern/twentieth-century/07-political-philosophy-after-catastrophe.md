@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The social contract](../early-modern/05-social-contract-and-the-state.md), [Utilitarianism and liberalism](../nineteenth-century/03-utilitarianism-and-liberalism.md), [Marx](../nineteenth-century/04-marx-and-historical-materialism.md)
 
-@@IMG@@
+![Defendants in the dock at the Nuremberg trials (1945–46)](images/07-political-philosophy-after-catastrophe.jpg)
+
+*Defendants in the dock at the Nuremberg trials (1945–46). Credit: Raymond D’Addario. License: Public domain. Source: [File:Defendants in the dock at nuremberg trials.jpg](https://commons.wikimedia.org/wiki/File:Defendants_in_the_dock_at_nuremberg_trials.jpg).*
 
 ## Why the twentieth century forced new questions
 

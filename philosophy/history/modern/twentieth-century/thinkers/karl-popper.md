@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Philosophy of science](../06-philosophy-of-science.md)
 
-@@IMG@@
+![Karl Popper](images/karl-popper.jpg)
+
+*Karl Popper. Credit: DorianKBandy. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Photo of Karl Popper.jpg](https://commons.wikimedia.org/wiki/File:Photo_of_Karl_Popper.jpg).*
 
 ## Life and context
 

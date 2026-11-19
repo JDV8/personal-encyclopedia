@@ -2,7 +2,9 @@
 
 **Prerequisites:** [John Rawls](../thinkers/john-rawls.md); [Rousseau's *Social Contract*](../../early-modern/texts/the-social-contract.md)
 
-@@IMG@@
+![Cover of the first edition of A Theory of Justice (Harvard, 1971)](images/a-theory-of-justice.jpg)
+
+*Cover of the first edition of *A Theory of Justice* (Harvard, 1971). Credit: No individually credited designer. Published by the Belknap Press of Harvard University Press.. License: Public domain. Source: [File:A Theory of Justice - first American hardcover edition.jpg](https://commons.wikimedia.org/wiki/File:A_Theory_of_Justice_-_first_American_hardcover_edition.jpg).*
 
 ## Dating and form
 

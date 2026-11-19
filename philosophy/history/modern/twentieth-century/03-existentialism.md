@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existential beginnings](../nineteenth-century/06-existential-beginnings.md), [Phenomenology](01-phenomenology.md), [Nietzsche and the death of God](../nineteenth-century/08-nietzsche-and-the-death-of-god.md)
 
-@@IMG@@
+![The Café de Flore on the boulevard Saint-Germain, Paris, where Sartre and de Beauvoir often wrote](images/03-existentialism.jpg)
+
+*The Café de Flore on the boulevard Saint-Germain, Paris, where Sartre and de Beauvoir often wrote. Credit: Celette. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Café de Flore, 172 boulevard Saint-Germain, Paris 6e.jpg](https://commons.wikimedia.org/wiki/File:Café_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg).*
 
 ## From first principles: what is a person "for"?
 

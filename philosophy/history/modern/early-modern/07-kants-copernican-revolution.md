@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Rationalism](03-rationalism.md), [Empiricism](04-empiricism.md); [a priori](../../../glossary/general/a-priori.md)
 
-@@IMG@@
+![Portrait of Immanuel Kant, c. 1790](images/07-kants-copernican-revolution.jpg)
+
+*Portrait of Immanuel Kant, c. 1790. Credit: Unknown, possibly Elisabeth von Stägemann (Anton Graff school). License: Public domain. Source: [File:Immanuel Kant portrait c1790.jpg](https://commons.wikimedia.org/wiki/File:Immanuel_Kant_portrait_c1790.jpg).*
 
 ## The impasse Kant inherited
 

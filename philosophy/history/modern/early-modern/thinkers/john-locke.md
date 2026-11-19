@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Empiricism](../04-empiricism.md), [The social contract](../05-social-contract-and-the-state.md)
 
-@@IMG@@
+![Godfrey Kneller, portrait of John Locke (1697), Hermitage Museum](images/john-locke.jpg)
+
+*Godfrey Kneller, portrait of John Locke (1697), Hermitage Museum. Credit: Godfrey Kneller. License: Public domain. Source: [File:Godfrey Kneller - Portrait of John Locke (Hermitage).jpg](https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg).*
 
 ## Life and context
 

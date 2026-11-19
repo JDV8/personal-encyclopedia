@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Immanuel Kant](../thinkers/immanuel-kant.md); helpful: [virtue and arete](../../../../concepts/ethics/virtue-and-arete.md) for contrast
 
-@@IMG@@
+![Title page of Kant's Grundlegung zur Metaphysik der Sitten (1785)](images/groundwork-of-the-metaphysics-of-morals.jpg)
+
+*Title page of Kant's *Grundlegung zur Metaphysik der Sitten* (1785). Credit: Immanuel Kant. License: Public domain. Source: [File:Kant Groundwork Title.jpg](https://commons.wikimedia.org/wiki/File:Kant_Groundwork_Title.jpg).*
 
 ## Dating and purpose
 

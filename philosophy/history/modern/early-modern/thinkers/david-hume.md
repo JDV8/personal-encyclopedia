@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Empiricism](../04-empiricism.md), [Locke](john-locke.md), [Berkeley](george-berkeley.md)
 
-@@IMG@@
+![Allan Ramsay, portrait of David Hume (1766)](images/david-hume.jpg)
+
+*Allan Ramsay, portrait of David Hume (1766). Credit: Allan Ramsay. License: Public domain. Source: [File:David Hume Ramsay.jpg](https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg).*
 
 ## Life and context
 

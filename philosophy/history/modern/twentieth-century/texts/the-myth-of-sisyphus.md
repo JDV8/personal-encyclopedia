@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Albert Camus](../thinkers/albert-camus.md); [The absurd](../04-the-absurd.md)
 
-@@IMG@@
+![Titian, Sisyphus (1548–49), Museo del Prado, Madrid](images/the-myth-of-sisyphus.jpg)
+
+*Titian, *Sisyphus* (1548–49), Museo del Prado, Madrid. Credit: Titian. License: Public domain. Source: [File:Titian - Sisyphus - Madrid - Prado.jpg](https://commons.wikimedia.org/wiki/File:Titian_-_Sisyphus_-_Madrid_-_Prado.jpg).*
 
 ## Dating and form
 

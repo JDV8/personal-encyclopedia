@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The social contract](../05-social-contract-and-the-state.md), [The Enlightenment](../06-enlightenment.md)
 
-@@IMG@@
+![Maurice Quentin de La Tour, portrait of Jean-Jacques Rousseau (1753)](images/jean-jacques-rousseau.jpg)
+
+*Maurice Quentin de La Tour, portrait of Jean-Jacques Rousseau (1753). Credit: Maurice Quentin de La Tour (Life time: 1788). License: Public domain. Source: [File:Maurice Quentin de La Tour - Portrait of Jean-Jacques Rousseau - adjusted.jpg](https://commons.wikimedia.org/wiki/File:Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg).*
 
 ## Life and context
 

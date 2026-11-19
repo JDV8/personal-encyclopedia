@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Faith and reason](01-faith-and-reason.md); helpful: [the syllogism and the Organon](../../concepts/logic/syllogism-and-the-organon.md)
 
-@@IMG@@
+![Laurentius de Voltolina, a lecture at the University of Bologna (miniature, second half of the 14th century)](images/02-scholasticism.jpg)
+
+*Laurentius de Voltolina, a lecture at the University of Bologna (miniature, second half of the 14th century). Credit: Laurentius de Voltolina. License: PDM-owner. Source: [File:Laurentius de Voltolina Vorlesung vor Studenten - Min 1233 - Kupferstichkabinett Berlin.jpg](https://commons.wikimedia.org/wiki/File:Laurentius_de_Voltolina_Vorlesung_vor_Studenten_-_Min_1233_-_Kupferstichkabinett_Berlin.jpg).*
 
 ## What problem a method solves
 

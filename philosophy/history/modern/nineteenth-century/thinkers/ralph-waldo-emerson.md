@@ -2,7 +2,9 @@
 
 **Prerequisites:** [American transcendentalism](../05-transcendentalism.md)
 
-@@IMG@@
+![Ralph Waldo Emerson, photographed by Josiah Johnson Hawes (1857)](images/ralph-waldo-emerson.jpg)
+
+*Ralph Waldo Emerson, photographed by Josiah Johnson Hawes (1857). Credit: Josiah Johnson Hawes. License: Public domain. Source: [File:Ralph Waldo Emerson by Josiah Johnson Hawes 1857.jpg](https://commons.wikimedia.org/wiki/File:Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg).*
 
 ## Life and context
 

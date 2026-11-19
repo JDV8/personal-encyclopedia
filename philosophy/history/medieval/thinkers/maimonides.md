@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md); helpful: [Genesis](../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md)
 
-@@IMG@@
+![An imagined portrait of Moses Maimonides from Blasius Ugolinus's Thesaurus antiquitatum sacrarum (18th century)](images/maimonides.jpg)
+
+*An imagined portrait of Moses Maimonides from Blasius Ugolinus's *Thesaurus antiquitatum sacrarum* (18th century). Credit: Blaisio Ugolino. License: Public domain. Source: [File:Portrait of Moses Maimonides in Thesaurus antiquitatum sacrarum.tif](https://commons.wikimedia.org/wiki/File:Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif).*
 
 ## Life and context
 

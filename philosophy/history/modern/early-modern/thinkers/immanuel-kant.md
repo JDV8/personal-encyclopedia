@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kant's Copernican revolution](../07-kants-copernican-revolution.md)
 
-@@IMG@@
+![Portrait of Immanuel Kant (18th century)](images/immanuel-kant.jpg)
+
+*Portrait of Immanuel Kant (18th century). Credit: Johann Gottlieb Becker (1720-1782). License: Public domain. Source: [File:Immanuel Kant - Gemaelde 1.jpg](https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg).*
 
 ## Life and context
 

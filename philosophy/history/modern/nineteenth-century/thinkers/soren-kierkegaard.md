@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existential beginnings](../06-existential-beginnings.md)
 
-@@IMG@@
+![Unfinished sketch of Søren Kierkegaard by his cousin Niels Christian Kierkegaard (c. 1840)](images/soren-kierkegaard.jpg)
+
+*Unfinished sketch of Søren Kierkegaard by his cousin Niels Christian Kierkegaard (c. 1840). Credit: La Biblioteca Real de Dinamarca. License: Public domain. Source: [File:Søren Kierkegaard (1813-1855) - (cropped).jpg](https://commons.wikimedia.org/wiki/File:Søren_Kierkegaard_(1813-1855)_-_(cropped).jpg).*
 
 ## Life and context
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [René Descartes](../thinkers/rene-descartes.md), [*Discourse on the Method*](discourse-on-method.md)
 
-@@IMG@@
+![Title page of the first edition of Descartes's Meditationes de prima philosophia (1641)](images/meditations-on-first-philosophy.jpg)
+
+*Title page of the first edition of Descartes's *Meditationes de prima philosophia* (1641). Credit: Bibliothèque Nationale de France. License: Public domain. Source: [File:Meditationes de prima philosophia 1641.jpg](https://commons.wikimedia.org/wiki/File:Meditationes_de_prima_philosophia_1641.jpg).*
 
 ## Dating and form
 

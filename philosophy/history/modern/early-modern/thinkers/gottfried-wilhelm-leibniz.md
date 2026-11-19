@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Rationalism](../03-rationalism.md), [Spinoza](baruch-spinoza.md)
 
-@@IMG@@
+![Christoph Bernhard Francke, portrait of Gottfried Wilhelm Leibniz (c. 1695)](images/gottfried-wilhelm-leibniz.jpg)
+
+*Christoph Bernhard Francke, portrait of Gottfried Wilhelm Leibniz (c. 1695). Credit: Christoph Bernhard Francke. License: Public domain. Source: [File:Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695).jpg](https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg).*
 
 ## Life and context
 

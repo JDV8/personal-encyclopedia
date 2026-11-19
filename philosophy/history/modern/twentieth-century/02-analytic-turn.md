@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Empiricism](../early-modern/04-empiricism.md), [Kant](../early-modern/07-kants-copernican-revolution.md); [logic](../../../glossary/general/logic.md), [the syllogism](../../../concepts/logic/syllogism-and-the-organon.md)
 
-@@IMG@@
+![Gottlob Frege as a young man (c. 1879)](images/02-analytic-turn.jpg)
+
+*Gottlob Frege as a young man (c. 1879). Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Young frege.jpg](https://commons.wikimedia.org/wiki/File:Young_frege.jpg).*
 
 ## A new tool
 

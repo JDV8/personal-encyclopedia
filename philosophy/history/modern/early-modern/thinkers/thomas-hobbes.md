@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The social contract](../05-social-contract-and-the-state.md); helpful: [Machiavelli](niccolo-machiavelli.md)
 
-@@IMG@@
+![John Michael Wright, portrait of Thomas Hobbes (c. 1669–70)](images/thomas-hobbes.jpg)
+
+*John Michael Wright, portrait of Thomas Hobbes (c. 1669–70). Credit: John Michael Wright. License: Public domain. Source: [File:Thomas Hobbes by John Michael Wright (colour) (3x4 cropped).jpg](https://commons.wikimedia.org/wiki/File:Thomas_Hobbes_by_John_Michael_Wright_(colour)_(3x4_cropped).jpg).*
 
 ## Life and context
 

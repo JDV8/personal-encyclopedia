@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Ralph Waldo Emerson](../thinkers/ralph-waldo-emerson.md); [American transcendentalism](../05-transcendentalism.md)
 
-@@IMG@@
+![Eastman Johnson, portrait drawing of Ralph Waldo Emerson (1846)](images/self-reliance.jpg)
+
+*Eastman Johnson, portrait drawing of Ralph Waldo Emerson (1846). Credit: Artist: Eastman Johnson. License: Public domain. Source: [File:Emerson by Johnson 1846.png](https://commons.wikimedia.org/wiki/File:Emerson_by_Johnson_1846.png).*
 
 ## Dating and form
 

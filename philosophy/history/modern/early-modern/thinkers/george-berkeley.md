@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Empiricism](../04-empiricism.md), [Locke](john-locke.md)
 
-@@IMG@@
+![John Smibert, portrait of Bishop George Berkeley (c. 1727)](images/george-berkeley.jpg)
+
+*John Smibert, portrait of Bishop George Berkeley (c. 1727). Credit: John Smibert. License: Public domain. Source: [File:John Smibert - Bishop George Berkeley - Google Art Project (cropped).jpg](https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project_(cropped).jpg).*
 
 ## Life and context
 

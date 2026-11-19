@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Leo Tolstoy](../thinkers/leo-tolstoy.md); [The Sermon on the Mount](../../../../../religion/abrahamic/christianity/bible/new-testament/stories/03-sermon-on-the-mount.md)
 
-@@IMG@@
+![An early English edition of Tolstoy's The Kingdom of God Is Within You](images/the-kingdom-of-god-is-within-you.jpg)
+
+*An early English edition of Tolstoy's *The Kingdom of God Is Within You*. Credit: Credit as given on Wikimedia Commons. License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Source: [File:Tolstoi1st.jpg](https://commons.wikimedia.org/wiki/File:Tolstoi1st.jpg).*
 
 ## Dating and publication
 

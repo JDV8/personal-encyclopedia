@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Pessimism and the will](../02-pessimism-and-the-will.md)
 
-@@IMG@@
+![Arthur Schopenhauer, photographed by Johann Schäfer (1859)](images/arthur-schopenhauer.jpg)
+
+*Arthur Schopenhauer, photographed by Johann Schäfer (1859). Credit: Johann Schäfer. License: Public domain. Source: [File:Arthur Schopenhauer by J Schäfer, 1859b.jpg](https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Schäfer,_1859b.jpg).*
 
 ## Life and context
 

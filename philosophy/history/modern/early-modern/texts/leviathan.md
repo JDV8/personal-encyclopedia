@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Thomas Hobbes](../thinkers/thomas-hobbes.md); [The social contract](../05-social-contract-and-the-state.md)
 
-@@IMG@@
+![Detail of the Leviathan frontispiece (1651): the sovereign's body made of his subjects](images/leviathan.jpg)
+
+*Detail of the *Leviathan* frontispiece (1651): the sovereign's body made of his subjects. Credit: Abraham Bosse. License: Public domain. Source: [File:Leviathan frontispiece cropped British Museum.jpg](https://commons.wikimedia.org/wiki/File:Leviathan_frontispiece_cropped_British_Museum.jpg).*
 
 ## Dating and context
 

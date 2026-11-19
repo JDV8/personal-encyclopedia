@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Hannah Arendt](../thinkers/hannah-arendt.md); [*The Origins of Totalitarianism*](the-origins-of-totalitarianism.md)
 
-@@IMG@@
+![Adolf Eichmann is sentenced to death at the conclusion of his trial in Jerusalem (December 1961), US Holocaust Memorial Museum](images/eichmann-in-jerusalem.jpg)
+
+*Adolf Eichmann is sentenced to death at the conclusion of his trial in Jerusalem (December 1961), US Holocaust Memorial Museum. Credit: Israeli GPO photographer. License: Public domain. Source: [File:Adolf Eichmann is sentenced to death at the conclusion of the Eichmann Trial USHMM 65289.jpg](https://commons.wikimedia.org/wiki/File:Adolf_Eichmann_is_sentenced_to_death_at_the_conclusion_of_the_Eichmann_Trial_USHMM_65289.jpg).*
 
 ## Dating and form
 

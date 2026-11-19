@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The analytic turn](../02-analytic-turn.md)
 
-@@IMG@@
+![Bertrand Russell in 1936](images/bertrand-russell.jpg)
+
+*Bertrand Russell in 1936. Credit: Bassano Ltd. License: Public domain. Source: [File:Bertrand Russell in 1936.jpg](https://commons.wikimedia.org/wiki/File:Bertrand_Russell_in_1936.jpg).*
 
 ## Life and context
 

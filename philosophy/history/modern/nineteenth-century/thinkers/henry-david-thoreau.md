@@ -2,7 +2,9 @@
 
 **Prerequisites:** [American transcendentalism](../05-transcendentalism.md), [Ralph Waldo Emerson](ralph-waldo-emerson.md)
 
-@@IMG@@
+![Henry David Thoreau, daguerreotype by Benjamin D. Maxham (1856)](images/henry-david-thoreau.jpg)
+
+*Henry David Thoreau, daguerreotype by Benjamin D. Maxham (1856). Credit: Benjamin D. Maxham active 1848 - 1858. License: Public domain. Source: [File:Benjamin D. Maxham - Henry David Thoreau - Restored.jpg](https://commons.wikimedia.org/wiki/File:Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg).*
 
 ## Life and context
 

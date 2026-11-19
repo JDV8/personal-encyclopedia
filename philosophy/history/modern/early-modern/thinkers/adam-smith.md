@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The Enlightenment](../06-enlightenment.md), [David Hume](david-hume.md); the economics-side profile is [Adam Smith in the history of economic thought](../../../../../economics/microeconomics/10-history-of-thought/thinkers/01-adam-smith.md)
 
-@@IMG@@
+![Title page of the first edition of Adam Smith's The Theory of Moral Sentiments (1759)](images/adam-smith.jpg)
+
+*Title page of the first edition of Adam Smith's *The Theory of Moral Sentiments* (1759). Credit: Adam Smith. License: Public domain. Source: [File:Adam Smith Moral Sentiments 1759.jpg](https://commons.wikimedia.org/wiki/File:Adam_Smith_Moral_Sentiments_1759.jpg).*
 
 ## Why Smith belongs here too
 

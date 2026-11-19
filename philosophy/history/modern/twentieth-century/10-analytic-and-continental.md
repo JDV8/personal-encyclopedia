@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The analytic turn](02-analytic-turn.md), [Phenomenology](01-phenomenology.md), [Existentialism](03-existentialism.md)
 
-@@IMG@@
+![Entrance to the Mathematical Institute in Boltzmanngasse, Vienna, where the Vienna Circle met](images/10-analytic-and-continental.jpg)
+
+*Entrance to the Mathematical Institute in Boltzmanngasse, Vienna, where the Vienna Circle met. Credit: Institute Vienna Circle. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Eingang Mathematisches Kolloquium.TIF](https://commons.wikimedia.org/wiki/File:Eingang_Mathematisches_Kolloquium.TIF).*
 
 ## The puzzle of two philosophies
 

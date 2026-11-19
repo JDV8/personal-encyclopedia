@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The Enlightenment](../early-modern/06-enlightenment.md), [Kant's *Groundwork*](../early-modern/texts/groundwork-of-the-metaphysics-of-morals.md) for contrast; [pleasure](../../../glossary/general/pleasure.md)
 
-@@IMG@@
+![Henry William Pickersgill, portrait of Jeremy Bentham (1829)](images/03-utilitarianism-and-liberalism.jpg)
+
+*Henry William Pickersgill, portrait of Jeremy Bentham (1829). Credit: Henry William Pickersgill. License: Public domain. Source: [File:Jeremy Bentham by Henry William Pickersgill.jpg](https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill.jpg).*
 
 ## A test for laws and actions
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The polis and the political animal](../../../concepts/political/the-polis-and-political-animal.md); helpful: [*The Prince*](texts/the-prince.md)
 
-@@IMG@@
+![The frontispiece of Hobbes's Leviathan (1651), engraved by Abraham Bosse](images/05-social-contract-and-the-state.jpg)
+
+*The frontispiece of Hobbes's *Leviathan* (1651), engraved by Abraham Bosse. Credit: Abraham Bosse. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Leviathan frontispiece cropped British Library.jpg](https://commons.wikimedia.org/wiki/File:Leviathan_frontispiece_cropped_British_Library.jpg).*
 
 ## The question beneath politics
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Scholasticism](02-scholasticism.md); [The Forms](../../concepts/metaphysics/the-forms.md); helpful: [universal](../../glossary/general/universal.md), [particular](../../glossary/general/particular.md)
 
-@@IMG@@
+![Boethius teaching, an illuminated initial from a medieval manuscript of The Consolation of Philosophy](images/04-universals-and-nominalism.jpg)
+
+*Boethius teaching, an illuminated initial from a medieval manuscript of *The Consolation of Philosophy*. Credit: http://special.lib.gla.ac.uk/exhibns/treasures/boethius.html. License: Public domain. Source: [File:Boethius initial consolation philosophy.jpg](https://commons.wikimedia.org/wiki/File:Boethius_initial_consolation_philosophy.jpg).*
 
 ## The problem from scratch
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Structuralism and after](../08-structuralism-and-after.md)
 
-@@IMG@@
+![Michel Foucault, from the dust jacket of the 1970 English edition of The Order of Things](images/michel-foucault.jpg)
+
+*Michel Foucault, from the dust jacket of the 1970 English edition of *The Order of Things*. Credit: Jerry Bauer. License: Public domain. Source: [File:Photo of Michel Foucault on 1970 dustjacket of The Order of Things.jpg](https://commons.wikimedia.org/wiki/File:Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg).*
 
 ## Life and context
 

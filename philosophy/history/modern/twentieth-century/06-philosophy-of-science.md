@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The scientific revolution](../early-modern/02-scientific-revolution-and-method.md), [Empiricism](../early-modern/04-empiricism.md) (Hume on induction), [The analytic turn](02-analytic-turn.md)
 
-@@IMG@@
+![A photographic plate of the total solar eclipse of 29 May 1919, the eclipse used to test general relativity, which Popper took as a model of a risky prediction](images/06-philosophy-of-science.jpg)
+
+*A photographic plate of the total solar eclipse of 29 May 1919, the eclipse used to test general relativity, which Popper took as a model of a risky prediction. Credit: ESO/Landessternwarte Heidelberg-Königstuhl/F. W. Dyson, A. S. Eddington, &amp; C. Davidson. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Highest resolution image of the 1919 solar eclipse.tif](https://commons.wikimedia.org/wiki/File:Highest_resolution_image_of_the_1919_solar_eclipse.tif).*
 
 ## What makes science science?
 

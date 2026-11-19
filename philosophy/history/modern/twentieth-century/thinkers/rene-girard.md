@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Mimetic theory](../09-mimetic-theory.md)
 
-@@IMG@@
+![René Girard](images/rene-girard.jpg)
+
+*René Girard. Credit: Vicq. License: Public domain. Source: [File:René Girard.jpg](https://commons.wikimedia.org/wiki/File:René_Girard.jpg).*
 
 *Girard was a literary critic, historian and anthropologist rather than a professional philosopher; he is included here because his mimetic theory has become a major reference point in philosophy, theology and social thought.*
 

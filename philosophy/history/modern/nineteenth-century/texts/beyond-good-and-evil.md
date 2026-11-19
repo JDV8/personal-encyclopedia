@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Friedrich Nietzsche](../thinkers/friedrich-nietzsche.md); helpful: [*Thus Spoke Zarathustra*](thus-spoke-zarathustra.md)
 
-@@IMG@@
+![Title page of the first edition of Jenseits von Gut und Böse (1886)](images/beyond-good-and-evil.jpg)
+
+*Title page of the first edition of *Jenseits von Gut und Böse* (1886). Credit: C. G. Naumann, publisher. License: Public domain. Source: [File:Jenseits von Gut und Böse - 1886.jpg](https://commons.wikimedia.org/wiki/File:Jenseits_von_Gut_und_Böse_-_1886.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Thomas Aquinas](../thinkers/thomas-aquinas.md), [Scholasticism](../02-scholasticism.md)
 
-@@IMG@@
+![A page from an early printed edition of the Summa Theologiae](images/summa-theologiae.jpg)
+
+*A page from an early printed edition of the *Summa Theologiae*. Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:SummaTheologiae.jpg](https://commons.wikimedia.org/wiki/File:SummaTheologiae.jpg).*
 
 ## Dating and purpose
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [German idealism](01-german-idealism.md); helpful: [Marx in the history of economic thought](../../../../economics/microeconomics/10-history-of-thought/thinkers/04-karl-marx.md)
 
-@@IMG@@
+![Diagram of base and superstructure in historical materialism](images/04-marx-and-historical-materialism.jpg)
+
+*Diagram of base and superstructure in historical materialism. Credit: Goszei. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Historical Materialism.svg](https://commons.wikimedia.org/wiki/File:Historical_Materialism.svg).*
 
 ## Turning Hegel right side up
 

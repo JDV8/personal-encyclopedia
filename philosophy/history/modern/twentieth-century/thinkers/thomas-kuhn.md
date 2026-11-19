@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Philosophy of science](../06-philosophy-of-science.md)
 
-@@IMG@@
+![Thomas Kuhn](images/thomas-kuhn.jpg)
+
+*Thomas Kuhn. Credit: Bob Bielk. License: Public domain. Source: [File:Thomas Kuhn (1977) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Thomas_Kuhn_(1977)_(cropped).jpg).*
 
 ## Life and context
 

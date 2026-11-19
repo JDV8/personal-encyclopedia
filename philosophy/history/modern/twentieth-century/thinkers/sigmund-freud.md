@@ -4,7 +4,9 @@
 
 *Freud was a physician and the founder of psychoanalysis, not a philosopher. He is included because his theory of the unconscious reshaped philosophy, ethics, religion and cultural criticism.*
 
-@@IMG@@
+![Sigmund Freud, photographed by Max Halberstadt (c. 1921)](images/sigmund-freud.jpg)
+
+*Sigmund Freud, photographed by Max Halberstadt (c. 1921). Credit: Max Halberstadt. License: Public domain. Source: [File:Sigmund Freud, by Max Halberstadt (cropped).jpg](https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg).*
 
 ## Life and context
 

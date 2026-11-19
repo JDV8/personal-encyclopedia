@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The analytic turn](../02-analytic-turn.md)
 
-@@IMG@@
+![Ludwig Wittgenstein in 1929, the year he returned to Cambridge](images/ludwig-wittgenstein.jpg)
+
+*Ludwig Wittgenstein in 1929, the year he returned to Cambridge. Credit: Moritz Nähr. License: Public domain. Source: [File:Ludwig Wittgenstein 1929.jpg](https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_1929.jpg).*
 
 ## Life and context
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [German idealism](../01-german-idealism.md); [contradiction and dialectic](../../../../concepts/logic/contradiction-and-dialectic.md)
 
-@@IMG@@
+![Jakob Schlesinger, portrait of G. W. F. Hegel (1831)](images/georg-wilhelm-friedrich-hegel.jpg)
+
+*Jakob Schlesinger, portrait of G. W. F. Hegel (1831). Credit: Jakob Schlesinger. License: Public domain. Source: [File:Jakob Schlesinger - Hegel 1831.jpg](https://commons.wikimedia.org/wiki/File:Jakob_Schlesinger_-_Hegel_1831.jpg).*
 
 ## Life and context
 

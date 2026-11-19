@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md); helpful: [Aristotle](../../ancient/greek/thinkers/aristotle.md), [potentiality and actuality](../../../concepts/metaphysics/potentiality-and-actuality.md)
 
-@@IMG@@
+![Avicenna (Ibn Sina) as depicted in a later miniature](images/avicenna.jpg)
+
+*Avicenna (Ibn Sina) as depicted in a later miniature. Credit: Unknown authorUnknown author. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Avicenna-miniatur.png](https://commons.wikimedia.org/wiki/File:Avicenna-miniatur.png).*
 
 ## Life and context
 

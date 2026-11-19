@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The scientific revolution](../02-scientific-revolution-and-method.md), [Rationalism](../03-rationalism.md)
 
-@@IMG@@
+![Portrait of René Descartes after Frans Hals](images/rene-descartes.jpg)
+
+*Portrait of René Descartes after Frans Hals. Credit: After Frans Hals. License: Public domain. Source: [File:Frans Hals - Portret van René Descartes.jpg](https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_René_Descartes.jpg).*
 
 ## Life and context
 

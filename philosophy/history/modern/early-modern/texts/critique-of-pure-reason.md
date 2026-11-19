@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kant's Copernican revolution](../07-kants-copernican-revolution.md), [Immanuel Kant](../thinkers/immanuel-kant.md)
 
-@@IMG@@
+![Title page of the first edition of Kant's Critik der reinen Vernunft (Riga, 1781)](images/critique-of-pure-reason.jpg)
+
+*Title page of the first edition of Kant's *Critik der reinen Vernunft* (Riga, 1781). Credit: From English Wikipedia: en:Image:Kant-KdrV-1781.png. License: Public domain. Source: [File:Kant-KdrV-1781.png](https://commons.wikimedia.org/wiki/File:Kant-KdrV-1781.png).*
 
 ## Dating and editions
 

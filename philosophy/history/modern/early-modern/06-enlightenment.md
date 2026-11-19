@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The scientific revolution](02-scientific-revolution-and-method.md), [The social contract](05-social-contract-and-the-state.md)
 
-@@IMG@@
+![Anicet Charles Gabriel Lemonnier, A Reading of Voltaire's Tragedy L'Orphelin de la Chine in the Salon of Madame Geoffrin (1812)](images/06-enlightenment.jpg)
+
+*Anicet Charles Gabriel Lemonnier, *A Reading of Voltaire's Tragedy L'Orphelin de la Chine in the Salon of Madame Geoffrin* (1812). Credit: Anicet Charles Gabriel Lemonnier. License: Public domain. Source: [File:Les salons au XVIIIe siècle - Histoire Image.jpg](https://commons.wikimedia.org/wiki/File:Les_salons_au_XVIIIe_siècle_-_Histoire_Image.jpg).*
 
 ## What the word claims
 

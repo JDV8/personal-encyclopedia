@@ -4,7 +4,9 @@
 
 *A novel, included for its philosophical chapters ("Rebellion", "The Grand Inquisitor", Zosima's teaching), which are among the most discussed passages in philosophy of religion.*
 
-@@IMG@@
+![First page of the first edition of The Brothers Karamazov](images/the-brothers-karamazov.jpg)
+
+*First page of the first edition of *The Brothers Karamazov*. Credit: Russkii Vestnik. License: Public domain. Source: [File:Dostoevsky-Brothers Karamazov.jpg](https://commons.wikimedia.org/wiki/File:Dostoevsky-Brothers_Karamazov.jpg).*
 
 ## Dating and context
 

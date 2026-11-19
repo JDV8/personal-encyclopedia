@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Universals and nominalism](../04-universals-and-nominalism.md), [Thomas Aquinas](thomas-aquinas.md)
 
-@@IMG@@
+![William of Ockham as imagined in a modern stained-glass window in a church in Surrey, England](images/william-of-ockham.jpg)
+
+*William of Ockham as imagined in a modern stained-glass window in a church in Surrey, England. Credit: self-created (Moscarlop). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:William of Ockham.png](https://commons.wikimedia.org/wiki/File:William_of_Ockham.png).*
 
 ## Life and context
 

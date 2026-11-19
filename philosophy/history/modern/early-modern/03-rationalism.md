@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The scientific revolution](02-scientific-revolution-and-method.md); [a priori](../../../glossary/general/a-priori.md), [rationalism](../../../glossary/general/rationalism.md)
 
-@@IMG@@
+![Nils Forsberg, painting of René Descartes in discussion with Queen Christina of Sweden at her court in Stockholm](images/03-rationalism.jpg)
+
+*Nils Forsberg, painting of René Descartes in discussion with Queen Christina of Sweden at her court in Stockholm. Credit: Nils Forsberg. License: Public domain. Source: [File:Dispute of Queen Cristina Vasa and Rene Descartes.png](https://commons.wikimedia.org/wiki/File:Dispute_of_Queen_Cristina_Vasa_and_Rene_Descartes.png).*
 
 ## The question
 

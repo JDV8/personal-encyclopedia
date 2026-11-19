@@ -4,7 +4,9 @@
 
 *A novella, not a treatise. It is included because its narrator's arguments against rational egoism are a landmark of existential thought.*
 
-@@IMG@@
+![Cover of an 1866 edition of Dostoevsky's Notes from Underground](images/notes-from-underground.jpg)
+
+*Cover of an 1866 edition of Dostoevsky's *Notes from Underground*. Credit: Fyodor Dostoyevsky. License: Public domain. Source: [File:Записки из подполья. Повесть Ф.М. Достоевского (1866) обложка.jpg](https://commons.wikimedia.org/wiki/File:Записки_из_подполья._Повесть_Ф.М._Достоевского_(1866)_обложка.jpg).*
 
 ## Dating and context
 

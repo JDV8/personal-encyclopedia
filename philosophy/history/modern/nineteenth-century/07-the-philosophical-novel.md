@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existential beginnings](06-existential-beginnings.md); helpful: [the Sermon on the Mount](../../../../religion/abrahamic/christianity/bible/new-testament/stories/03-sermon-on-the-mount.md)
 
-@@IMG@@
+![Ilya Repin, Ploughman: Leo Tolstoy Ploughing (1887)](images/07-the-philosophical-novel.jpg)
+
+*Ilya Repin, *Ploughman: Leo Tolstoy Ploughing* (1887). Credit: Ilya Repin. License: Public domain. Source: [File:Tolstoy ploughing.jpg](https://commons.wikimedia.org/wiki/File:Tolstoy_ploughing.jpg).*
 
 ## Why novelists belong in a philosophy course
 

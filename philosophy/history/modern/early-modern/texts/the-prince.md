@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Machiavelli](../thinkers/niccolo-machiavelli.md); [Renaissance and humanism](../01-renaissance-and-humanism.md)
 
-@@IMG@@
+![Title page of a 1550 edition of Machiavelli's Il Principe](images/the-prince.jpg)
+
+*Title page of a 1550 edition of Machiavelli's *Il Principe*. Credit: Niccolò Machiavelli. License: Public domain. Source: [File:Nicolo Machiavelli, Il Principe, 1550, title page.jpg](https://commons.wikimedia.org/wiki/File:Nicolo_Machiavelli,_Il_Principe,_1550,_title_page.jpg).*
 
 ## Dating and context
 

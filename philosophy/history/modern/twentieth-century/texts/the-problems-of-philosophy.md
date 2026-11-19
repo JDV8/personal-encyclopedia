@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Bertrand Russell](../thinkers/bertrand-russell.md)
 
-@@IMG@@
+![Bertrand Russell in 1907, a few years before he wrote The Problems of Philosophy](images/the-problems-of-philosophy.jpg)
+
+*Bertrand Russell in 1907, a few years before he wrote *The Problems of Philosophy*. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Bertrand Russell in 1907.jpg](https://commons.wikimedia.org/wiki/File:Bertrand_Russell_in_1907.jpg).*
 
 ## Dating and form
 

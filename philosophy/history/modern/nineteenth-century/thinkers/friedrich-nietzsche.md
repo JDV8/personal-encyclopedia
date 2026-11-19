@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Nietzsche and the death of God](../08-nietzsche-and-the-death-of-god.md); [Arthur Schopenhauer](arthur-schopenhauer.md)
 
-@@IMG@@
+![Friedrich Nietzsche, photographed by Friedrich Hartmann (c. 1875)](images/friedrich-nietzsche.jpg)
+
+*Friedrich Nietzsche, photographed by Friedrich Hartmann (c. 1875). Credit: Friedrich Hermann Hartmann. License: Public domain. Source: [File:Nietzsche187a.jpg](https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg).*
 
 ## Life and context
 

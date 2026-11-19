@@ -2,7 +2,9 @@
 
 **Prerequisites:** [German idealism](01-german-idealism.md); helpful: [Pascal's *Pensées*](../early-modern/texts/pensees.md), [the binding of Isaac](../../../../religion/abrahamic/christianity/bible/old-testament/stories/01-the-binding-of-isaac.md)
 
-@@IMG@@
+![Rembrandt, The Sacrifice of Isaac (1635), Hermitage Museum, the scene at the heart of Kierkegaard's Fear and Trembling](images/06-existential-beginnings.jpg)
+
+*Rembrandt, *The Sacrifice of Isaac* (1635), Hermitage Museum, the scene at the heart of Kierkegaard's *Fear and Trembling*. Credit: Rembrandt. License: Public domain. Source: [File:Rembrandt Abraham's Sacrifice (Hermitage).jpg](https://commons.wikimedia.org/wiki/File:Rembrandt_Abraham's_Sacrifice_(Hermitage).jpg).*
 
 ## The problem a system cannot solve
 

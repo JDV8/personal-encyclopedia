@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The scientific revolution](../02-scientific-revolution-and-method.md); [induction](../../../../glossary/general/induction.md)
 
-@@IMG@@
+![Portrait of Francis Bacon after Paul van Somer (c. 1617)](images/francis-bacon.jpg)
+
+*Portrait of Francis Bacon after Paul van Somer (c. 1617). Credit: Paul van Somer I / Formerly attributed to Frans Pourbus the Younger. License: Public domain. Source: [File:Somer Francis Bacon.jpg](https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg).*
 
 ## Life and context
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Ancient Greek philosophy](../ancient/greek/README.md), especially [Plato](../ancient/greek/thinkers/plato.md), [Aristotle](../ancient/greek/thinkers/aristotle.md) and [Plotinus](../ancient/greek/thinkers/plotinus.md); helpful: [the Bible branch](../../../religion/abrahamic/christianity/bible/README.md)
 
-@@IMG@@
+![Sandro Botticelli, Saint Augustine in His Study (c. 1480), Ognissanti, Florence](images/01-faith-and-reason.jpg)
+
+*Sandro Botticelli, *Saint Augustine in His Study* (c. 1480), Ognissanti, Florence. Credit: Sandro Botticelli. License: Public domain. Source: [File:Sandro Botticelli - St Augustine - WGA02709.jpg](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_St_Augustine_-_WGA02709.jpg).*
 
 ## Start from two sources of authority
 

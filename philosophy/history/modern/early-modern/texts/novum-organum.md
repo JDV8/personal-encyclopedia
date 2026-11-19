@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Francis Bacon](../thinkers/francis-bacon.md); [The scientific revolution](../02-scientific-revolution-and-method.md)
 
-@@IMG@@
+![Title page of a 1645 edition of Bacon's Novum Organum](images/novum-organum.jpg)
+
+*Title page of a 1645 edition of Bacon's *Novum Organum*. Credit: Francis Bacon. License: Public domain. Source: [File:Houghton EC.B1328.620ib - Novum organum scientiarum.jpg](https://commons.wikimedia.org/wiki/File:Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg).*
 
 ## Dating and purpose
 
@@ -27,6 +29,8 @@ flowchart TB
 ## Reception
 
 The book inspired the Royal Society and later the Encyclopédistes. John Stuart Mill's methods of experimental inquiry in *A System of Logic* (1843) develop Bacon's tables. Critics, from William Whewell to [Popper](../../twentieth-century/thinkers/karl-popper.md), argued that real science depends on bold hypotheses, often mathematical, that Bacon's method underrated. His insight into cognitive biases (the idols) looks remarkably modern. The edition by Lisa Jardine and Michael Silverthorne (Cambridge Texts in the History of Philosophy) is the standard student translation.
+
+Historians now stress that Bacon himself contributed little to the science of his day and was out of touch with the mathematical physics of Galileo and Kepler. His lasting achievement was a programme: knowledge as a collective, cumulative, publicly checked enterprise aimed at "the relief of man's estate". That programme, more than any single rule of method, made him a patron saint of modern research institutions.
 
 ## Key ideas
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Faith and reason](01-faith-and-reason.md); helpful: [Aristotle](../ancient/greek/thinkers/aristotle.md), [Plotinus](../ancient/greek/thinkers/plotinus.md)
 
-@@IMG@@
+![Benozzo Gozzoli, The Triumph of Saint Thomas Aquinas (15th century), with Averroes lying at Thomas's feet](images/03-islamic-and-jewish-philosophy.jpg)
+
+*Benozzo Gozzoli, *The Triumph of Saint Thomas Aquinas* (15th century), with Averroes lying at Thomas's feet. Credit: Benozzo Gozzoli. License: Public domain. Source: [File:Benozzo Gozzoli - Triumph of St Thomas Aquinas - WGA10334.jpg](https://commons.wikimedia.org/wiki/File:Benozzo_Gozzoli_-_Triumph_of_St_Thomas_Aquinas_-_WGA10334.jpg).*
 
 ## Why a translation movement is a philosophical event
 

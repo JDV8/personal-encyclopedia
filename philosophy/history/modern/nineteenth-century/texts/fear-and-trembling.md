@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Søren Kierkegaard](../thinkers/soren-kierkegaard.md); [The binding of Isaac](../../../../../religion/abrahamic/christianity/bible/old-testament/stories/01-the-binding-of-isaac.md) (Genesis 22)
 
-@@IMG@@
+![Caravaggio, The Sacrifice of Isaac (c. 1603), Uffizi Gallery, Florence](images/fear-and-trembling.jpg)
+
+*Caravaggio, *The Sacrifice of Isaac* (c. 1603), Uffizi Gallery, Florence. Credit: Caravaggio. License: Public domain. Source: [File:Sacrifice of Isaac-Caravaggio (Uffizi).jpg](https://commons.wikimedia.org/wiki/File:Sacrifice_of_Isaac-Caravaggio_(Uffizi).jpg).*
 
 ## Dating and pseudonym
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Sigmund Freud](../thinkers/sigmund-freud.md); [Psychoanalysis and depth psychology](../05-psychoanalysis-and-depth-psychology.md)
 
-@@IMG@@
+![Title page of the first edition of Die Traumdeutung, dated 1900](images/the-interpretation-of-dreams.jpg)
+
+*Title page of the first edition of *Die Traumdeutung*, dated 1900. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Die Traumdeutung (Congress scan).jpg](https://commons.wikimedia.org/wiki/File:Die_Traumdeutung_(Congress_scan).jpg).*
 
 *Freud was a physician and the founder of psychoanalysis, not a philosopher; this book belongs here because it changed how philosophers think about the mind.*
 

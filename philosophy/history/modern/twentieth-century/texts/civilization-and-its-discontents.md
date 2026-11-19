@@ -2,7 +2,9 @@
 
 **Prerequisites:** [*The Interpretation of Dreams*](the-interpretation-of-dreams.md)
 
-@@IMG@@
+![Title page of the first edition of Das Unbehagen in der Kultur (1930)](images/civilization-and-its-discontents.jpg)
+
+*Title page of the first edition of *Das Unbehagen in der Kultur* (1930). Credit: © Foto H.-P.Haack.. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Freud Unbehagen Kultur 1930.jpg](https://commons.wikimedia.org/wiki/File:Freud_Unbehagen_Kultur_1930.jpg).*
 
 *Freud was a psychologist, not a philosopher; this late essay is his most philosophical work, a reflection on happiness, aggression and society.*
 

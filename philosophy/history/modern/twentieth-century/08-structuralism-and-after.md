@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existentialism](03-existentialism.md), [Nietzsche](../nineteenth-century/08-nietzsche-and-the-death-of-god.md) (genealogy), [Marx](../nineteenth-century/04-marx-and-historical-materialism.md)
 
-@@IMG@@
+![Ferdinand de Saussure, founder of structural linguistics](images/08-structuralism-and-after.jpg)
+
+*Ferdinand de Saussure, founder of structural linguistics. Credit: "F. Jullien Genève", maybe Frank-Henri Jullien (1882–1938). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Ferdinand de Saussure by Jullien Restored.png](https://commons.wikimedia.org/wiki/File:Ferdinand_de_Saussure_by_Jullien_Restored.png).*
 
 ## A reaction against the subject
 

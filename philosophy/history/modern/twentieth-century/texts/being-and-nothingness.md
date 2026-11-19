@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Jean-Paul Sartre](../thinkers/jean-paul-sartre.md); [*Being and Time*](being-and-time.md)
 
-@@IMG@@
+![Jean-Paul Sartre in 1965](images/being-and-nothingness.jpg)
+
+*Jean-Paul Sartre in 1965. Credit: https://finna.fi/Record/museovirasto.fca18402-801e-43bc-879b-5abce0a77093. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:The French Philosopher Jean-Paul Sartre 1965 (JOKAHBL3E F08-3).tif](https://commons.wikimedia.org/wiki/File:The_French_Philosopher_Jean-Paul_Sartre_1965_(JOKAHBL3E_F08-3).tif).*
 
 ## Dating and form
 

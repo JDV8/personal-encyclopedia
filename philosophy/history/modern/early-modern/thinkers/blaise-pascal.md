@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Rationalism](../03-rationalism.md), [Montaigne](michel-de-montaigne.md)
 
-@@IMG@@
+![Portrait of Blaise Pascal, c. 1690, Palace of Versailles](images/blaise-pascal.jpg)
+
+*Portrait of Blaise Pascal, c. 1690, Palace of Versailles. Credit: unknown; a copy of the painting of François II Quesnel, which was made for Gérard Edelinck en 1691[réf. nécessaire].. License: Public domain. Source: [File:Blaise Pascal Versailles, circa 1690.JPG](https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles,_circa_1690.JPG).*
 
 ## Life and context
 

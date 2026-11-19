@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Maimonides](../thinkers/maimonides.md); [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md)
 
-@@IMG@@
+![A manuscript page in Maimonides' hand, Arabic written in Hebrew letters](images/guide-for-the-perplexed.jpg)
+
+*A manuscript page in Maimonides' hand, Arabic written in Hebrew letters. Credit: Cambridge University Library. License: Public domain. Source: [File:Manuscript page by Maimonides Arabic in Hebrew letters.jpg](https://commons.wikimedia.org/wiki/File:Manuscript_page_by_Maimonides_Arabic_in_Hebrew_letters.jpg).*
 
 ## Dating and language
 
@@ -34,6 +36,8 @@ flowchart TB
 ## Reception
 
 The *Guide* provoked the "Maimonidean controversies" in thirteenth-century Jewish communities. It shaped [Aquinas](../thinkers/thomas-aquinas.md) and Meister Eckhart, later Jewish thought, and [Spinoza](../../modern/early-modern/thinkers/baruch-spinoza.md), who criticized its way of reconciling scripture and reason. Shlomo Pines's two-volume English translation (University of Chicago Press, 1963) is the scholarly standard; M. Friedländer's older translation is freely available.
+
+Modern readers divide over how to read the book. Leo Strauss, in his introduction to the Pines translation and in *Persecution and the Art of Writing* (1952), argued that Maimonides deliberately concealed his most radical views behind contradictions meant for careful readers only; others, such as Herbert Davidson and Kenneth Seeskin, read him as a sincere synthesizer of Aristotle and Torah. Either way, the *Guide* remains the central text for anyone asking how a scriptural religion can absorb philosophy without being dissolved by it.
 
 ## Where this leads
 

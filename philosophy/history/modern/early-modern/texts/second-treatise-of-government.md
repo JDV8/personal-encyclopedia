@@ -2,7 +2,9 @@
 
 **Prerequisites:** [John Locke](../thinkers/john-locke.md); [The social contract](../05-social-contract-and-the-state.md)
 
-@@IMG@@
+![Title page of Locke's Two Treatises of Government (1690)](images/second-treatise-of-government.jpg)
+
+*Title page of Locke's *Two Treatises of Government* (1690). Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:Locke treatises of government page.jpg](https://commons.wikimedia.org/wiki/File:Locke_treatises_of_government_page.jpg).*
 
 ## Dating and context
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existentialism](03-existentialism.md); helpful: [Tolstoy's *A Confession*](../nineteenth-century/texts/a-confession.md), [Ecclesiastes](../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/ecclesiastes.md)
 
-@@IMG@@
+![Sisyphus pushing his rock in the underworld, Attic black-figure amphora (c. 530 BCE), Staatliche Antikensammlungen, Munich](images/04-the-absurd.jpg)
+
+*Sisyphus pushing his rock in the underworld, Attic black-figure amphora (c. 530 BCE), Staatliche Antikensammlungen, Munich. Credit: Swing Painter. License: Public domain. Source: [File:Nekyia Staatliche Antikensammlungen 1494 n2.jpg](https://commons.wikimedia.org/wiki/File:Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg).*
 
 ## The first question
 

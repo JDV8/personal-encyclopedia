@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Ludwig Wittgenstein](../thinkers/ludwig-wittgenstein.md); [The analytic turn](../02-analytic-turn.md)
 
-@@IMG@@
+![Title page of the 1922 English–German edition of the Tractatus Logico-Philosophicus](images/tractatus-logico-philosophicus.jpg)
+
+*Title page of the 1922 English–German edition of the *Tractatus Logico-Philosophicus*. Credit: Title etc. uncopyrightable; layout by Harcourt Brace.. License: Public domain. Source: [File:Tractatus title page 1922 Harcourt.png](https://commons.wikimedia.org/wiki/File:Tractatus_title_page_1922_Harcourt.png).*
 
 ## Dating and form
 

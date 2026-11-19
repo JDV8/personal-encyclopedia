@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Schopenhauer: pessimism and the will](02-pessimism-and-the-will.md); helpful: [Existential beginnings](06-existential-beginnings.md)
 
-@@IMG@@
+![Edvard Munch, Friedrich Nietzsche (1905–06), Munch Museum](images/08-nietzsche-and-the-death-of-god.jpg)
+
+*Edvard Munch, *Friedrich Nietzsche* (1905–06), Munch Museum. Credit: Edvard Munch. License: Public domain. Source: [File:Munch - Friedrich Nietzsche, 1905–1906, MM.M.00254.jpg](https://commons.wikimedia.org/wiki/File:Munch_-_Friedrich_Nietzsche,_1905–1906,_MM.M.00254.jpg).*
 
 ## The madman's announcement
 

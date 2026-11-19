@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Faith and reason](../01-faith-and-reason.md), [Augustine](augustine.md)
 
-@@IMG@@
+![The seal of Anselm as Archbishop of Canterbury](images/anselm.jpg)
+
+*The seal of Anselm as Archbishop of Canterbury. Credit: The original uploader was Srnec at English Wikipedia.. License: Public domain. Source: [File:Anselm of Canterbury, seal.jpg](https://commons.wikimedia.org/wiki/File:Anselm_of_Canterbury,_seal.jpg).*
 
 ## Life and context
 

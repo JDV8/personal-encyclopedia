@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Voltaire](../thinkers/voltaire.md); helpful: [Leibniz](../thinkers/gottfried-wilhelm-leibniz.md)
 
-@@IMG@@
+![Title page of an early edition of Candide, or Optimism, presented as 'translated from the German of Doctor Ralph'](images/candide.jpg)
+
+*Title page of an early edition of *Candide, or Optimism*, presented as 'translated from the German of Doctor Ralph'. Credit: Voltaire. License: Public domain. Source: [File:Candide1759.jpg](https://commons.wikimedia.org/wiki/File:Candide1759.jpg).*
 
 ## Dating and form
 

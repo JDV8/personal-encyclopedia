@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existentialism](../03-existentialism.md); helpful: [Hegel's master–slave dialectic](../../nineteenth-century/texts/phenomenology-of-spirit.md)
 
-@@IMG@@
+![Simone de Beauvoir arriving in Israel with Jean-Paul Sartre (1967), photographed by Moshe Milner](images/simone-de-beauvoir.jpg)
+
+*Simone de Beauvoir arriving in Israel with Jean-Paul Sartre (1967), photographed by Moshe Milner. Credit: Moshe Milner. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Simone De Beauvoir (cropped).jpg](https://commons.wikimedia.org/wiki/File:Simone_De_Beauvoir_(cropped).jpg).*
 
 ## Life and context
 

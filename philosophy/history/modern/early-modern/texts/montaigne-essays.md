@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Montaigne](../thinkers/michel-de-montaigne.md)
 
-@@IMG@@
+![Title page of the 1588 edition of Montaigne's Essais, from the 'Bordeaux copy' that Montaigne annotated by hand](images/montaigne-essays.jpg)
+
+*Title page of the 1588 edition of Montaigne's *Essais*, from the 'Bordeaux copy' that Montaigne annotated by hand. Credit: Michel de Montaigne († 1592). License: Public domain. Source: [File:Essais Titelblatt (1588).png](https://commons.wikimedia.org/wiki/File:Essais_Titelblatt_(1588).png).*
 
 ## Dating and editions
 

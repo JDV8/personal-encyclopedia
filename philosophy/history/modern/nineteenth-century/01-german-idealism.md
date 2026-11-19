@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kant's Copernican revolution](../early-modern/07-kants-copernican-revolution.md); [contradiction and dialectic](../../../concepts/logic/contradiction-and-dialectic.md)
 
-@@IMG@@
+![Portrait of Johann Gottlieb Fichte](images/01-german-idealism.jpg)
+
+*Portrait of Johann Gottlieb Fichte. Credit: User Sent on nl.wikipedia. License: Public domain. Source: [File:Johann Gottlieb Fichte portrait.jpg](https://commons.wikimedia.org/wiki/File:Johann_Gottlieb_Fichte_portrait.jpg).*
 
 ## The problem Kant left
 

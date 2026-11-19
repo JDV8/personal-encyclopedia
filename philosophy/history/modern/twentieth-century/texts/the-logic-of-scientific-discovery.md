@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Karl Popper](../thinkers/karl-popper.md); [Philosophy of science](../06-philosophy-of-science.md)
 
-@@IMG@@
+![Bronze bust of Karl Popper in the Arkadenhof of the University of Vienna](images/the-logic-of-scientific-discovery.jpg)
+
+*Bronze bust of Karl Popper in the Arkadenhof of the University of Vienna. Credit: Hubertl. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Karl Popper (1902-1994), Nr. 104 bust (bronze) in the Arkadenhof of the University of Vienna-2485.jpg](https://commons.wikimedia.org/wiki/File:Karl_Popper_(1902-1994),_Nr._104_bust_(bronze)_in_the_Arkadenhof_of_the_University_of_Vienna-2485.jpg).*
 
 ## Dating and form
 

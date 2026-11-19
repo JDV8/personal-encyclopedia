@@ -4,7 +4,9 @@
 
 *Jung was a psychiatrist and the founder of analytical psychology, not a philosopher. He is included because his theories of archetypes and individuation have shaped religious studies, the study of myth and philosophical ideas of the self.*
 
-@@IMG@@
+![Carl Gustav Jung, portrait from the ETH Library, Zurich](images/carl-jung.jpg)
+
+*Carl Gustav Jung, portrait from the ETH Library, Zurich. Credit: Unbekannt. License: PDM-owner. Source: [File:ETH-BIB-Jung, Carl Gustav (1875-1961)-Portrait-Portr 14163 (cropped).tif](https://commons.wikimedia.org/wiki/File:ETH-BIB-Jung,_Carl_Gustav_(1875-1961)-Portrait-Portr_14163_(cropped).tif).*
 
 ## Life and context
 

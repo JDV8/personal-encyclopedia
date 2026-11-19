@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Baruch Spinoza](../thinkers/baruch-spinoza.md); [Rationalism](../03-rationalism.md)
 
-@@IMG@@
+![The opening of Spinoza's Ethica in the Opera posthuma (1677)](images/spinoza-ethics.jpg)
+
+*The opening of Spinoza's *Ethica* in the *Opera posthuma* (1677). Credit: http://www1.odn.ne.jp/gakuju/kyokai/spkLocator-e.html[dead link]. License: Public domain. Source: [File:Spinoza Ethica.jpg](https://commons.wikimedia.org/wiki/File:Spinoza_Ethica.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The Enlightenment](../06-enlightenment.md)
 
-@@IMG@@
+![Workshop of Nicolas de Largillière, portrait of Voltaire at about 24 (c. 1718), Musée Carnavalet](images/voltaire.jpg)
+
+*Workshop of Nicolas de Largillière, portrait of Voltaire at about 24 (c. 1718), Musée Carnavalet. Credit: Nicolas de Largillière. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Nicolas de Largillière - Portrait de Voltaire (1694-1778) en 1718 - P208 - musée Carnavalet - 5 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Nicolas_de_Largillière_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_musée_Carnavalet_-_5_(cropped).jpg).*
 
 ## Life and context
 

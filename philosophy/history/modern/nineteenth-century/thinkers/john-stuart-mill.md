@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Utilitarianism and liberalism](../03-utilitarianism-and-liberalism.md); the economics-side profile is [Mill in the history of economic thought](../../../../../economics/microeconomics/10-history-of-thought/thinkers/03-john-stuart-mill.md)
 
-@@IMG@@
+![John Stuart Mill, photographed by the London Stereoscopic Company (c. 1870)](images/john-stuart-mill.jpg)
+
+*John Stuart Mill, photographed by the London Stereoscopic Company (c. 1870). Credit: London Stereoscopic Company. License: Public domain. Source: [File:John Stuart Mill by London Stereoscopic Company, c1870.jpg](https://commons.wikimedia.org/wiki/File:John_Stuart_Mill_by_London_Stereoscopic_Company,_c1870.jpg).*
 
 ## Life and context
 

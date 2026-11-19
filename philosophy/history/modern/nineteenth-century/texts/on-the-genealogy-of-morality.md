@@ -2,7 +2,9 @@
 
 **Prerequisites:** [*Beyond Good and Evil*](beyond-good-and-evil.md); [Nietzsche and the death of God](../08-nietzsche-and-the-death-of-god.md)
 
-@@IMG@@
+![Title page of the first edition of Zur Genealogie der Moral (1887)](images/on-the-genealogy-of-morality.jpg)
+
+*Title page of the first edition of *Zur Genealogie der Moral* (1887). Credit: C. G. Naumann, publisher. License: Public domain. Source: [File:Genealogie der Moral cover.gif](https://commons.wikimedia.org/wiki/File:Genealogie_der_Moral_cover.gif).*
 
 ## Dating and form
 

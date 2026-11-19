@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Michel Foucault](../thinkers/michel-foucault.md)
 
-@@IMG@@
+![Jeremy Bentham's plan of the Panopticon (1791), drawn by Willey Reveley](images/discipline-and-punish.jpg)
+
+*Jeremy Bentham's plan of the Panopticon (1791), drawn by Willey Reveley. Credit: Jeremy Bentham. License: Public domain. Source: [File:Panopticon.jpg](https://commons.wikimedia.org/wiki/File:Panopticon.jpg).*
 
 ## Dating and form
 

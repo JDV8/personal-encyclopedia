@@ -4,7 +4,9 @@
 
 *Dostoevsky was a novelist, not a philosopher by profession. He appears here because his fiction dramatizes philosophical questions with lasting influence on existentialism, ethics and philosophy of religion.*
 
-@@IMG@@
+![Vasily Perov, portrait of Fyodor Dostoevsky (1872), Tretyakov Gallery](images/fyodor-dostoevsky.jpg)
+
+*Vasily Perov, portrait of Fyodor Dostoevsky (1872), Tretyakov Gallery. Credit: Vasily Perov. License: Public domain. Source: [File:Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Vasily_Perov_-_Портрет_Ф.М.Достоевского_-_Google_Art_Project.jpg).*
 
 ## Life and context
 

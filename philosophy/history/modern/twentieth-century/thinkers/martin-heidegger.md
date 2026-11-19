@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Phenomenology](../01-phenomenology.md), [Husserl](edmund-husserl.md)
 
-@@IMG@@
+![Martin Heidegger giving a lecture in Freiburg-Zähringen (1960)](images/martin-heidegger.jpg)
+
+*Martin Heidegger giving a lecture in Freiburg-Zähringen (1960). Credit: Willy Pragher. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Freiburg, Zähringen- Jahnhalle, Prof. Martin Heidegger während eines Vortrags - LABW - Staatsarchiv Freiburg W 134 Nr. 023740f (cropped).jpeg](https://commons.wikimedia.org/wiki/File:Freiburg,_Zähringen-_Jahnhalle,_Prof._Martin_Heidegger_während_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_(cropped).jpeg).*
 
 ## Life and context
 

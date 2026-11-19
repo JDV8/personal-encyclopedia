@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md), [Avicenna](avicenna.md)
 
-@@IMG@@
+![Averroes, detail from Andrea di Bonaiuto's Triumph of Saint Thomas Aquinas (1365–68), Santa Maria Novella, Florence](images/averroes.jpg)
+
+*Averroes, detail from Andrea di Bonaiuto's *Triumph of Saint Thomas Aquinas* (1365–68), Santa Maria Novella, Florence. Credit: Sailko. License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Source: [File:Andrea di bonaiuto, apoteosi di san tommaso d'aquino, 11 averroè.jpg](https://commons.wikimedia.org/wiki/File:Andrea_di_bonaiuto,_apoteosi_di_san_tommaso_d'aquino,_11_averroè.jpg).*
 
 ## Life and context
 

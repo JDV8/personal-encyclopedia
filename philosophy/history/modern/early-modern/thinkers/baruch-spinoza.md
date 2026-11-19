@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Rationalism](../03-rationalism.md), [Descartes](rene-descartes.md)
 
-@@IMG@@
+![Portrait of Baruch Spinoza (c. 1665)](images/baruch-spinoza.jpg)
+
+*Portrait of Baruch Spinoza (c. 1665). Credit: anonymous. License: Public domain. Source: [File:Spinoza.jpg](https://commons.wikimedia.org/wiki/File:Spinoza.jpg).*
 
 ## Life and context
 

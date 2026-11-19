@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The philosophical novel](../nineteenth-century/07-the-philosophical-novel.md), [Psychoanalysis](05-psychoanalysis-and-depth-psychology.md); helpful: [mimesis](../../../glossary/greek/mimesis.md), [Genesis](../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md), [Passion week](../../../../religion/abrahamic/christianity/bible/new-testament/stories/06-passion-week.md)
 
-@@IMG@@
+![William Holman Hunt, The Scapegoat (1854–56), after Leviticus 16](images/09-mimetic-theory.jpg)
+
+*William Holman Hunt, *The Scapegoat* (1854–56), after Leviticus 16. Credit: William Holman Hunt. License: Public domain. Source: [File:William Holman Hunt - The Scapegoat.jpg](https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_The_Scapegoat.jpg).*
 
 ## Start with a nursery
 

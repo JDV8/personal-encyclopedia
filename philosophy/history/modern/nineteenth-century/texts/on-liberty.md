@@ -2,7 +2,9 @@
 
 **Prerequisites:** [John Stuart Mill](../thinkers/john-stuart-mill.md); [Utilitarianism and liberalism](../03-utilitarianism-and-liberalism.md)
 
-@@IMG@@
+![Title page of the first edition of Mill's On Liberty (1859)](images/on-liberty.jpg)
+
+*Title page of the first edition of Mill's *On Liberty* (1859). Credit: John Stuart Mill (author), John W. Parker and Son (publisher). License: Public domain. Source: [File:On Liberty (first edition title page via facsimile).jpg](https://commons.wikimedia.org/wiki/File:On_Liberty_(first_edition_title_page_via_facsimile).jpg).*
 
 ## Dating and authorship
 

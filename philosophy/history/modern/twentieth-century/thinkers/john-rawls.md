@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The social contract and the state](../../early-modern/05-social-contract-and-the-state.md); [Utilitarianism and liberalism](../../nineteenth-century/03-utilitarianism-and-liberalism.md)
 
-@@IMG@@
+![John Rawls in 1971, the year A Theory of Justice appeared](images/john-rawls.jpg)
+
+*John Rawls in 1971, the year *A Theory of Justice* appeared. Credit: Published by the Belknap Press of Harvard University Press. Photograph taken by Alec Rawls, John's son. The portrait was uncredited on the o. License: Public domain. Source: [File:John Rawls (1971 photo portrait).jpg](https://commons.wikimedia.org/wiki/File:John_Rawls_(1971_photo_portrait).jpg).*
 
 ## Life and context
 

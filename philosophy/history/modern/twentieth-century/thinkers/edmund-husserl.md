@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Phenomenology](../01-phenomenology.md)
 
-@@IMG@@
+![Edmund Husserl in the 1910s](images/edmund-husserl.jpg)
+
+*Edmund Husserl in the 1910s. Credit: Unknown (Mondadori Publishers). License: Public domain. Source: [File:Edmund Husserl 1910s.jpg](https://commons.wikimedia.org/wiki/File:Edmund_Husserl_1910s.jpg).*
 
 ## Life and context
 

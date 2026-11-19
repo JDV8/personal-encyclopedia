@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The absurd](../04-the-absurd.md)
 
-@@IMG@@
+![Albert Camus in 1957, the year of his Nobel Prize](images/albert-camus.jpg)
+
+*Albert Camus in 1957, the year of his Nobel Prize. Credit: Photograph by United Press International. License: Public domain. Source: [File:Albert Camus, gagnant de prix Nobel, portrait en buste, posé au bureau, faisant face à gauche, cigarette de tabagisme.jpg](https://commons.wikimedia.org/wiki/File:Albert_Camus,_gagnant_de_prix_Nobel,_portrait_en_buste,_posé_au_bureau,_faisant_face_à_gauche,_cigarette_de_tabagisme.jpg).*
 
 ## Life and context
 

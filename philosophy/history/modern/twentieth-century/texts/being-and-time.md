@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Martin Heidegger](../thinkers/martin-heidegger.md); [Phenomenology](../01-phenomenology.md)
 
-@@IMG@@
+![Title page of Sein und Zeit (Max Niemeyer Verlag, Tübingen), a later German edition](images/being-and-time.jpg)
+
+*Title page of *Sein und Zeit* (Max Niemeyer Verlag, Tübingen), a later German edition. Credit: unknown. License: Public domain. Source: [File:Being and Time (German edition).jpg](https://commons.wikimedia.org/wiki/File:Being_and_Time_(German_edition).jpg).*
 
 ## Dating and form
 

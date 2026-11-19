@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Existentialism](../03-existentialism.md), [Phenomenology](../01-phenomenology.md)
 
-@@IMG@@
+![Jean-Paul Sartre in 1965](images/jean-paul-sartre.jpg)
+
+*Jean-Paul Sartre in 1965. Credit: Unknown authorUnknown author. License: [CC BY-SA 3.0 nl](https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en). Source: [File:Jean Paul Sartre 1965.jpg](https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1965.jpg).*
 
 ## Life and context
 

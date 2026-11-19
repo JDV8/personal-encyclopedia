@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Renaissance and humanism](01-renaissance-and-humanism.md); helpful: [Aristotle's four causes](../../../concepts/metaphysics/the-four-causes.md)
 
-@@IMG@@
+![Godfrey Kneller, portrait of Isaac Newton (1689), detail](images/02-scientific-revolution-and-method.jpg)
+
+*Godfrey Kneller, portrait of Isaac Newton (1689), detail. Credit: Godfrey Kneller. License: Public domain. Source: [File:Portrait of Sir Isaac Newton, 1689 (head shot crop).jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(head_shot_crop).jpg).*
 
 ## The old picture
 

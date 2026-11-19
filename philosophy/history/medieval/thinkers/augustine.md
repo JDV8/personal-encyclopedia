@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Faith and reason](../01-faith-and-reason.md); helpful: [Plotinus](../../ancient/greek/thinkers/plotinus.md), [Paul's letter to the Romans](../../../../religion/abrahamic/christianity/bible/new-testament/books/pauline-epistles/romans.md)
 
-@@IMG@@
+![Philippe de Champaigne, Saint Augustine (c. 1645–50)](images/augustine.jpg)
+
+*Philippe de Champaigne, *Saint Augustine* (c. 1645–50). Credit: Philippe de Champaigne. License: Public domain. Source: [File:Saint Augustine by Philippe de Champaigne.jpg](https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg).*
 
 ## Life and context
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [*Violence and the Sacred*](violence-and-the-sacred.md)
 
-@@IMG@@
+![The Devil in the Codex Gigas (early 13th century), National Library of Sweden](images/i-see-satan-fall-like-lightning.jpg)
+
+*The Devil in the *Codex Gigas* (early 13th century), National Library of Sweden. Credit: Herman the Recluse of the Benedictine monastery of Podlažice. License: Public domain. Source: [File:Codex Gigas fol 290r Devil.jpg](https://commons.wikimedia.org/wiki/File:Codex_Gigas_fol_290r_Devil.jpg).*
 
 ## Dating and form
 

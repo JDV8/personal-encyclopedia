@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Simone Weil](../thinkers/simone-weil.md)
 
-@@IMG@@
+![The Benedictine Abbey of Saint-Pierre at Solesmes, where Weil heard the Holy Week liturgy in 1938](images/gravity-and-grace.jpg)
+
+*The Benedictine Abbey of Saint-Pierre at Solesmes, where Weil heard the Holy Week liturgy in 1938. Credit: Cliatop. License: Public domain. Source: [File:Abbaye Solesmes.jpg](https://commons.wikimedia.org/wiki/File:Abbaye_Solesmes.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Blaise Pascal](../thinkers/blaise-pascal.md)
 
-@@IMG@@
+![An early edition of Pascal's Pensées (Guillaume Desprez, 1670)](images/pensees.jpg)
+
+*An early edition of Pascal's *Pensées* (Guillaume Desprez, 1670). Credit: Blaise Pascal. License: Public domain. Source: [File:Pascal - Pensées, 2e édition G. Desprez, 1670.djvu](https://commons.wikimedia.org/wiki/File:Pascal_-_Pensées,_2e_édition_G._Desprez,_1670.djvu).*
 
 ## Dating and form
 

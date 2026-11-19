@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kant's Copernican revolution](../early-modern/07-kants-copernican-revolution.md), [Descartes](../early-modern/thinkers/rene-descartes.md); helpful: [skepticism and epoché](../../../concepts/epistemology/skepticism-and-epoche.md)
 
-@@IMG@@
+![Franz Brentano, Husserl's teacher, who revived the concept of intentionality](images/01-phenomenology.jpg)
+
+*Franz Brentano, Husserl's teacher, who revived the concept of intentionality. Credit: M. Wacker. License: Public domain. Source: [File:Franz Brentano portrait.jpg](https://commons.wikimedia.org/wiki/File:Franz_Brentano_portrait.jpg).*
 
 ## The problem
 

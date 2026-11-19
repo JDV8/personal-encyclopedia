@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Scholasticism](../02-scholasticism.md), [Aristotle](../../ancient/greek/thinkers/aristotle.md), [potentiality and actuality](../../../concepts/metaphysics/potentiality-and-actuality.md)
 
-@@IMG@@
+![Carlo Crivelli, Saint Thomas Aquinas (1476), detail of the Demidoff Altarpiece](images/thomas-aquinas.jpg)
+
+*Carlo Crivelli, *Saint Thomas Aquinas* (1476), detail of the Demidoff Altarpiece. Credit: Carlo Crivelli. License: Public domain. Source: [File:St-thomas-aquinasFXD.jpg](https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg).*
 
 ## Life and context
 

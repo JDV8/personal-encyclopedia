@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Arthur Schopenhauer](../thinkers/arthur-schopenhauer.md); [Pessimism and the will](../02-pessimism-and-the-will.md)
 
-@@IMG@@
+![Title page of the second edition of Schopenhauer's Die Welt als Wille und Vorstellung (1844)](images/world-as-will-and-representation.jpg)
+
+*Title page of the second edition of Schopenhauer's *Die Welt als Wille und Vorstellung* (1844). Credit: Originally uploaded by User: (Transferred by Esculapio). License: Public domain. Source: [File:Schop welt 2ed.jpg](https://commons.wikimedia.org/wiki/File:Schop_welt_2ed.jpg).*
 
 ## Dating and editions
 

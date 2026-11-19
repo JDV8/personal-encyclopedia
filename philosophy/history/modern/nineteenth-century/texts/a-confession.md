@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Leo Tolstoy](../thinkers/leo-tolstoy.md); [The philosophical novel](../07-the-philosophical-novel.md)
 
-@@IMG@@
+![Ivan Kramskoi, portrait of Leo Tolstoy (1873), painted in the years leading up to his crisis](images/a-confession.jpg)
+
+*Ivan Kramskoi, portrait of Leo Tolstoy (1873), painted in the years leading up to his crisis. Credit: Ivan Kramskoi. License: Public domain. Source: [File:Ivan Nikolayevich Kramskoi - Portrait of Leo Tolstoy (1873).jpg](https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramskoi_-_Portrait_of_Leo_Tolstoy_(1873).jpg).*
 
 ## Dating and publication
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Augustine](../thinkers/augustine.md); helpful: [Faith and reason](../01-faith-and-reason.md)
 
-@@IMG@@
+![A manuscript page of Augustine's Confessions](images/augustine-confessions.jpg)
+
+*A manuscript page of Augustine's *Confessions*. Credit: Confessiones VII, 2, 3, E.B. Pusey. License: Public domain. Source: [File:Augustine Confessiones.jpg](https://commons.wikimedia.org/wiki/File:Augustine_Confessiones.jpg).*
 
 ## Dating and authorship
 

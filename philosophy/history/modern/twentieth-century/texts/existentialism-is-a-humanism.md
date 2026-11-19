@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Jean-Paul Sartre](../thinkers/jean-paul-sartre.md); [Existentialism](../03-existentialism.md)
 
-@@IMG@@
+![Jean-Paul Sartre in 1967](images/existentialism-is-a-humanism.jpg)
+
+*Jean-Paul Sartre in 1967. Credit: User:T1980. License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Source: [File:Jean Paul Sartre 1967.jpg](https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1967.jpg).*
 
 ## Dating and form
 

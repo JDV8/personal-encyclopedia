@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Augustine](../thinkers/augustine.md), [*Confessions*](augustine-confessions.md)
 
-@@IMG@@
+![A page from a medieval manuscript of Augustine's De civitate Dei, Bibliothèque nationale de France](images/city-of-god.jpg)
+
+*A page from a medieval manuscript of Augustine's *De civitate Dei*, Bibliothèque nationale de France. Credit: Augustin (saint ; 0354-0430). Auteur du texte. License: Public domain. Source: [File:Augustinus Hipponensis, De civitate Dei - btv1b9077859s (008 of 294).jpg](https://commons.wikimedia.org/wiki/File:Augustinus_Hipponensis,_De_civitate_Dei_-_btv1b9077859s_(008_of_294).jpg).*
 
 ## Dating and occasion
 

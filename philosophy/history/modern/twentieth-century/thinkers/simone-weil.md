@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Political philosophy after catastrophe](../07-political-philosophy-after-catastrophe.md); helpful: [Plato](../../../ancient/greek/thinkers/plato.md)
 
-@@IMG@@
+![Simone Weil, from an identity photograph](images/simone-weil.jpg)
+
+*Simone Weil, from an identity photograph. Credit: Unknown. License: Public domain. Source: [File:Simone Weil 1943.jpg](https://commons.wikimedia.org/wiki/File:Simone_Weil_1943.jpg).*
 
 ## Life and context
 

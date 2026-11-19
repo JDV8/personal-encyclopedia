@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Renaissance and humanism](../01-renaissance-and-humanism.md); [skepticism and epoché](../../../../concepts/epistemology/skepticism-and-epoche.md)
 
-@@IMG@@
+![Portrait of Michel de Montaigne](images/michel-de-montaigne.jpg)
+
+*Portrait of Michel de Montaigne. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Portrait of Michel de Montaigne, circa unknown.jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_Michel_de_Montaigne,_circa_unknown.jpg).*
 
 ## Life and context
 

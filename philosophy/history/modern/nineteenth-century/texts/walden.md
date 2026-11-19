@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Henry David Thoreau](../thinkers/henry-david-thoreau.md); [American transcendentalism](../05-transcendentalism.md)
 
-@@IMG@@
+![Title page of the first edition of Walden (1854), with a drawing of Thoreau's cabin by his sister Sophia](images/walden.jpg)
+
+*Title page of the first edition of *Walden* (1854), with a drawing of Thoreau's cabin by his sister Sophia. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Walden Thoreau.jpg](https://commons.wikimedia.org/wiki/File:Walden_Thoreau.jpg).*
 
 ## Dating and form
 

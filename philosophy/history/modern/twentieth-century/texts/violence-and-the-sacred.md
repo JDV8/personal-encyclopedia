@@ -2,7 +2,9 @@
 
 **Prerequisites:** [René Girard](../thinkers/rene-girard.md); [Mimetic theory](../09-mimetic-theory.md)
 
-@@IMG@@
+![The death of Pentheus, torn apart by the Bacchants: Roman fresco in the House of the Vettii, Pompeii](images/violence-and-the-sacred.jpg)
+
+*The death of Pentheus, torn apart by the Bacchants: Roman fresco in the House of the Vettii, Pompeii. Credit: WolfgangRieger. License: Public domain. Source: [File:Pompeii - Casa dei Vettii - Pentheus.jpg](https://commons.wikimedia.org/wiki/File:Pompeii_-_Casa_dei_Vettii_-_Pentheus.jpg).*
 
 ## Dating and form
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Jean-Jacques Rousseau](../thinkers/jean-jacques-rousseau.md); [The social contract](../05-social-contract-and-the-state.md)
 
-@@IMG@@
+![Title page of Rousseau's Du contrat social (1762)](images/the-social-contract.jpg)
+
+*Title page of Rousseau's *Du contrat social* (1762). Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:Social contract rousseau page.jpg](https://commons.wikimedia.org/wiki/File:Social_contract_rousseau_page.jpg).*
 
 ## Dating and context
 

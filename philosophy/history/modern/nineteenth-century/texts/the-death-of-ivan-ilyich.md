@@ -4,7 +4,9 @@
 
 *A novella, included because it is one of the most widely taught literary reflections on death and the meaning of a life.*
 
-@@IMG@@
+![Title page of an early edition of The Death of Ivan Ilyich](images/the-death-of-ivan-ilyich.jpg)
+
+*Title page of an early edition of *The Death of Ivan Ilyich*. Credit: Leo Tolstoy. License: Public domain. Source: [File:The Death of Ivan Ilyich.jpg](https://commons.wikimedia.org/wiki/File:The_Death_of_Ivan_Ilyich.jpg).*
 
 ## Dating
 

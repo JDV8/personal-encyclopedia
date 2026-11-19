@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Thomas Kuhn](../thinkers/thomas-kuhn.md); [*The Logic of Scientific Discovery*](the-logic-of-scientific-discovery.md)
 
-@@IMG@@
+![Copernicus's heliocentric system from De revolutionibus (1543), the subject of Kuhn's first book and a model revolution](images/the-structure-of-scientific-revolutions.jpg)
+
+*Copernicus's heliocentric system from *De revolutionibus* (1543), the subject of Kuhn's first book and a model revolution. Credit: Copernican_heliocentrism_diagram.jpg: Own work from Copernicus 1543 derivative work: Professor marginalia. License: Public domain. Source: [File:Copernican heliocentrism diagram-2.jpg](https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg).*
 
 ## Dating and form
 

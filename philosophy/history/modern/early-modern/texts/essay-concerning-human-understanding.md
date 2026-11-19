@@ -2,7 +2,9 @@
 
 **Prerequisites:** [John Locke](../thinkers/john-locke.md); [Empiricism](../04-empiricism.md)
 
-@@IMG@@
+![Title page of the first edition of Locke's An Essay Concerning Humane Understanding (1690)](images/essay-concerning-human-understanding.jpg)
+
+*Title page of the first edition of Locke's *An Essay Concerning Humane Understanding* (1690). Credit: The original uploader was Olaf Simons at German Wikipedia.. License: Public domain. Source: [File:Locke Essay 1690.jpg](https://commons.wikimedia.org/wiki/File:Locke_Essay_1690.jpg).*
 
 ## Dating and origin
 

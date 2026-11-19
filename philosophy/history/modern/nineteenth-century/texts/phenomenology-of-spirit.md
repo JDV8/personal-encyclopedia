@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Hegel](../thinkers/georg-wilhelm-friedrich-hegel.md); [German idealism](../01-german-idealism.md)
 
-@@IMG@@
+![Title page of the first edition of Hegel's System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes (1807)](images/phenomenology-of-spirit.jpg)
+
+*Title page of the first edition of Hegel's *System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes* (1807). Credit: The original uploader was Nihil Kainer at German Wikipedia.. License: Public domain. Source: [File:Phänomenologie des Geistes.jpg](https://commons.wikimedia.org/wiki/File:Phänomenologie_des_Geistes.jpg).*
 
 ## Dating and form
 

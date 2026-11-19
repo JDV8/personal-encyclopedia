@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Carl Jung](../thinkers/carl-jung.md)
 
-@@IMG@@
+![Four mandalas of the Vajravali series, Ngor Monastery, Tibet (c. 1430): the kind of circular image Jung read as a symbol of the Self](images/archetypes-and-the-collective-unconscious.jpg)
+
+*Four mandalas of the Vajravali series, Ngor Monastery, Tibet (c. 1430): the kind of circular image Jung read as a symbol of the Self. Credit: Tibetan, Central Tibet, Tsang (Ngor Monastery), Sakya order Details on Google Art Project. License: Public domain. Source: [File:Tibetan, Central Tibet, Tsang (Ngor Monastery), Sakya order - Four Mandalas of the Vajravali Series - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Tibetan,_Central_Tibet,_Tsang_(Ngor_Monastery),_Sakya_order_-_Four_Mandalas_of_the_Vajravali_Series_-_Google_Art_Project.jpg).*
 
 *Jung was a psychiatrist and psychologist, not a philosopher; this volume gathers his main essays on the theory that most shaped philosophical and cultural discussion of his work.*
 
@@ -37,6 +39,8 @@ flowchart TB
 - Individuation integrates unconscious contents into a whole Self.
 
 ## Reception
+
+Readers new to Jung often find the volume easier after a shorter introduction such as *Man and His Symbols* (1964), the illustrated book he planned for general readers shortly before his death, or Anthony Stevens's *Jung: A Very Short Introduction*. Within the volume, the essays on the trickster and on the child archetype are among the most readable; the case study of individuation through a patient's paintings shows the theory applied.
 
 The theory influenced comparative mythology (Joseph Campbell's *The Hero with a Thousand Faces*), literary criticism (Northrop Frye), religious studies and popular psychology. Scientists and many psychologists consider the inheritance of archetypes untestable; anthropologists criticize the use of cross-cultural parallels without context. Defenders such as Anthony Stevens have tried to connect archetypes to evolutionary psychology.
 

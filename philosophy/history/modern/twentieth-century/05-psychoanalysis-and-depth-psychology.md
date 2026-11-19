@@ -4,7 +4,9 @@
 
 *Freud and Jung were physicians and psychologists, not philosophers by training. They appear in this branch because their theories of the unconscious changed how philosophers, theologians and critics think about the self, morality, religion and culture.*
 
-@@IMG@@
+![Freud, G. Stanley Hall and Jung (front row) with Brill, Jones and Ferenczi at Clark University, Worcester, Massachusetts (1909)](images/05-psychoanalysis-and-depth-psychology.jpg)
+
+*Freud, G. Stanley Hall and Jung (front row) with Brill, Jones and Ferenczi at Clark University, Worcester, Massachusetts (1909). Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Hall Freud Jung in front of Clark 1909.jpg](https://commons.wikimedia.org/wiki/File:Hall_Freud_Jung_in_front_of_Clark_1909.jpg).*
 
 ## The assumption they challenged
 
