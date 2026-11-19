@@ -1,6 +1,6 @@
 # Kant, *Critique of Pure Reason*
 
-**Prerequisites:** [[kants-copernican-revolution|Kant's Copernican revolution]], [[immanuel-kant|Immanuel Kant]]
+**Prerequisites:** [Kant's Copernican revolution](../07-kants-copernican-revolution.md), [Immanuel Kant](../thinkers/immanuel-kant.md)
 
 @@IMG@@
 
@@ -34,10 +34,10 @@ flowchart TB
 
 ## Reception
 
-The book divided the history of philosophy into before and after. Reinhold, Fichte, Schelling and Hegel responded; neo-Kantians made it the foundation of epistemology and philosophy of science; [[edmund-husserl|Husserl]] and [[martin-heidegger|Heidegger]] reinterpreted it; P. F. Strawson's *The Bounds of Sense* (1966) brought it back into analytic philosophy. Translations: Norman Kemp Smith (classic), Paul Guyer and Allen Wood (Cambridge Edition), Werner Pluhar (Hackett). Sebastian Gardner's *Routledge Philosophy Guidebook to Kant and the Critique of Pure Reason* is a good companion.
+The book divided the history of philosophy into before and after. Reinhold, Fichte, Schelling and Hegel responded; neo-Kantians made it the foundation of epistemology and philosophy of science; [Husserl](../../twentieth-century/thinkers/edmund-husserl.md) and [Heidegger](../../twentieth-century/thinkers/martin-heidegger.md) reinterpreted it; P. F. Strawson's *The Bounds of Sense* (1966) brought it back into analytic philosophy. Translations: Norman Kemp Smith (classic), Paul Guyer and Allen Wood (Cambridge Edition), Werner Pluhar (Hackett). Sebastian Gardner's *Routledge Philosophy Guidebook to Kant and the Critique of Pure Reason* is a good companion.
 
 ## Where this leads
 
-- Next text: [[groundwork-of-the-metaphysics-of-morals|*Groundwork of the Metaphysics of Morals*]]
-- Forward: [[phenomenology-of-spirit|Hegel's *Phenomenology of Spirit*]], [[world-as-will-and-representation|Schopenhauer's *World as Will and Representation*]]
-- Glossary: [[g:synthetic-a-priori|synthetic a priori]], [[g:transcendental-idealism|transcendental idealism]]
+- Next text: [*Groundwork of the Metaphysics of Morals*](groundwork-of-the-metaphysics-of-morals.md)
+- Forward: [Hegel's *Phenomenology of Spirit*](../../nineteenth-century/texts/phenomenology-of-spirit.md), [Schopenhauer's *World as Will and Representation*](../../nineteenth-century/texts/world-as-will-and-representation.md)
+- Glossary: [synthetic a priori](../../../../glossary/modern/synthetic-a-priori.md), [transcendental idealism](../../../../glossary/modern/transcendental-idealism.md)

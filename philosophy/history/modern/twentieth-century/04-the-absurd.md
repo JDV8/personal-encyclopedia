@@ -1,12 +1,12 @@
 # The absurd: Camus and the question of suicide
 
-**Prerequisites:** [[existentialism|Existentialism]]; helpful: [[a-confession|Tolstoy's *A Confession*]], [[bib:old-testament/books/wisdom-poetry/ecclesiastes.md|Ecclesiastes]]
+**Prerequisites:** [Existentialism](03-existentialism.md); helpful: [Tolstoy's *A Confession*](../nineteenth-century/texts/a-confession.md), [Ecclesiastes](../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/ecclesiastes.md)
 
 @@IMG@@
 
 ## The first question
 
-[[the-myth-of-sisyphus|*The Myth of Sisyphus*]] (1942) begins: "There is but one truly serious philosophical problem, and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy." Everything else, whether the world has three dimensions or the mind nine or twelve categories, comes afterwards. [[albert-camus|Albert Camus]] (1913–1960) asks whether, if life has no ultimate meaning, it is still worth living, and answers yes.
+[*The Myth of Sisyphus*](texts/the-myth-of-sisyphus.md) (1942) begins: "There is but one truly serious philosophical problem, and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy." Everything else, whether the world has three dimensions or the mind nine or twelve categories, comes afterwards. [Albert Camus](thinkers/albert-camus.md) (1913–1960) asks whether, if life has no ultimate meaning, it is still worth living, and answers yes.
 
 ## What "absurd" means
 
@@ -27,7 +27,7 @@ flowchart LR
 
 **Physical suicide** settles the absurd by eliminating one of its terms, the human. It is a confession that life is too much. Camus rejects it.
 
-**Philosophical suicide** settles the absurd by eliminating the other term, by leaping to a meaning beyond reason. Camus examines existential thinkers (Jaspers, Shestov, [[soren-kierkegaard|Kierkegaard]], Husserl) and argues that at the decisive moment each makes a leap: Kierkegaard's faith "by virtue of the absurd" turns the absurd into a sign of God. For Camus this is an evasion; one must keep the absurd alive, not resolve it.
+**Philosophical suicide** settles the absurd by eliminating the other term, by leaping to a meaning beyond reason. Camus examines existential thinkers (Jaspers, Shestov, [Kierkegaard](../nineteenth-century/thinkers/soren-kierkegaard.md), Husserl) and argues that at the decisive moment each makes a leap: Kierkegaard's faith "by virtue of the absurd" turns the absurd into a sign of God. For Camus this is an evasion; one must keep the absurd alive, not resolve it.
 
 ## Living with the absurd
 
@@ -37,7 +37,7 @@ The final image is Sisyphus, condemned by the gods to roll a rock up a mountain 
 
 ## From revolt to limits
 
-During the war, Camus edited the Resistance newspaper *Combat*. His later work moved from the individual to the collective. *The Plague* (1947) depicts solidarity against an absurd evil. *The Rebel* (1951) argued that genuine revolt affirms a shared human dignity ("I rebel, therefore we exist") and therefore sets limits; revolutions that justify murder in the name of history betray revolt. This led to his public break with [[jean-paul-sartre|Sartre]].
+During the war, Camus edited the Resistance newspaper *Combat*. His later work moved from the individual to the collective. *The Plague* (1947) depicts solidarity against an absurd evil. *The Rebel* (1951) argued that genuine revolt affirms a shared human dignity ("I rebel, therefore we exist") and therefore sets limits; revolutions that justify murder in the name of history betray revolt. This led to his public break with [Sartre](thinkers/jean-paul-sartre.md).
 
 ## Camus and existentialism
 
@@ -56,7 +56,7 @@ Philosophers have objected that the "absurd" depends on a demand for meaning tha
 
 ## Where this leads
 
-- Next: [[psychoanalysis-and-depth-psychology|Psychoanalysis and depth psychology]]
-- Thinker: [[albert-camus|Albert Camus]]; text: [[the-myth-of-sisyphus|*The Myth of Sisyphus*]]
-- Back: [[the-brothers-karamazov|*The Brothers Karamazov*]] (Ivan, Kirillov)
-- Glossary: [[g:the-absurd|the absurd]]
+- Next: [Psychoanalysis and depth psychology](05-psychoanalysis-and-depth-psychology.md)
+- Thinker: [Albert Camus](thinkers/albert-camus.md); text: [*The Myth of Sisyphus*](texts/the-myth-of-sisyphus.md)
+- Back: [*The Brothers Karamazov*](../nineteenth-century/texts/the-brothers-karamazov.md) (Ivan, Kirillov)
+- Glossary: [the absurd](../../../glossary/modern/the-absurd.md)

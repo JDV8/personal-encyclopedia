@@ -1,12 +1,12 @@
 # Blaise Pascal
 
-**Prerequisites:** [[rationalism|Rationalism]], [[michel-de-montaigne|Montaigne]]
+**Prerequisites:** [Rationalism](../03-rationalism.md), [Montaigne](michel-de-montaigne.md)
 
 @@IMG@@
 
 ## Life and context
 
-Blaise Pascal (1623–1662) was born in Clermont (now Clermont-Ferrand) and educated at home by his father, a tax official with scientific interests. A prodigy, he wrote a treatise on conic sections at sixteen and built a calculating machine (the Pascaline) to help with his father's tax arithmetic. He carried out experiments on the vacuum and air pressure (his brother-in-law measured the drop in a mercury column climbing the Puy de Dôme in 1648) and, in correspondence with Pierre de Fermat in 1654, laid foundations of probability theory. His family came under the influence of Jansenism, an Augustinian movement in French Catholicism centred on the convent of Port-Royal. On the night of 23 November 1654 he had an intense religious experience, recorded on a parchment (the "Memorial") sewn into his coat and found after his death: "Fire. God of Abraham, God of Isaac, God of Jacob, not of the philosophers and scholars." He defended the Jansenists against the Jesuits in the *Provincial Letters* (1656–57) and worked on an apology for Christianity that he did not live to finish. He died at 39. The notes were published as the [[pensees|*Pensées*]].
+Blaise Pascal (1623–1662) was born in Clermont (now Clermont-Ferrand) and educated at home by his father, a tax official with scientific interests. A prodigy, he wrote a treatise on conic sections at sixteen and built a calculating machine (the Pascaline) to help with his father's tax arithmetic. He carried out experiments on the vacuum and air pressure (his brother-in-law measured the drop in a mercury column climbing the Puy de Dôme in 1648) and, in correspondence with Pierre de Fermat in 1654, laid foundations of probability theory. His family came under the influence of Jansenism, an Augustinian movement in French Catholicism centred on the convent of Port-Royal. On the night of 23 November 1654 he had an intense religious experience, recorded on a parchment (the "Memorial") sewn into his coat and found after his death: "Fire. God of Abraham, God of Isaac, God of Jacob, not of the philosophers and scholars." He defended the Jansenists against the Jesuits in the *Provincial Letters* (1656–57) and worked on an apology for Christianity that he did not live to finish. He died at 39. The notes were published as the [*Pensées*](../texts/pensees.md).
 
 ## Core ideas
 
@@ -32,7 +32,7 @@ flowchart TB
 
 ## Influence and criticism
 
-The wager is a founding example of decision theory, reasoning about expected value under uncertainty, and it remains heavily debated. Critics object that it applies equally to many gods (the "many gods" objection), that a God would not reward belief adopted for gain, and that one cannot believe at will (Pascal himself addressed the last point with his advice to act as if). [[voltaire|Voltaire]] attacked the *Pensées* as a gloomy misanthropy. [[soren-kierkegaard|Kierkegaard]], [[fyodor-dostoevsky|Dostoevsky]] and the existentialists recognized in him a precursor. T. S. Eliot admired him as a master of French prose.
+The wager is a founding example of decision theory, reasoning about expected value under uncertainty, and it remains heavily debated. Critics object that it applies equally to many gods (the "many gods" objection), that a God would not reward belief adopted for gain, and that one cannot believe at will (Pascal himself addressed the last point with his advice to act as if). [Voltaire](voltaire.md) attacked the *Pensées* as a gloomy misanthropy. [Kierkegaard](../../nineteenth-century/thinkers/soren-kierkegaard.md), [Dostoevsky](../../nineteenth-century/thinkers/fyodor-dostoevsky.md) and the existentialists recognized in him a precursor. T. S. Eliot admired him as a master of French prose.
 
 ## Key ideas
 
@@ -43,8 +43,8 @@ The wager is a founding example of decision theory, reasoning about expected val
 
 ## Where this leads
 
-- Text: [[pensees|*Pensées*]]
-- Next thinker: [[baruch-spinoza|Baruch Spinoza]]
-- Forward: [[soren-kierkegaard|Kierkegaard]], [[existential-beginnings|the existential beginnings]]
-- Glossary: [[g:pascals-wager|Pascal's wager]]
-- Related: [[fin:01-foundations|finance foundations]], where expected value reappears
+- Text: [*Pensées*](../texts/pensees.md)
+- Next thinker: [Baruch Spinoza](baruch-spinoza.md)
+- Forward: [Kierkegaard](../../nineteenth-century/thinkers/soren-kierkegaard.md), [the existential beginnings](../../nineteenth-century/06-existential-beginnings.md)
+- Glossary: [Pascal's wager](../../../../glossary/modern/pascals-wager.md)
+- Related: [finance foundations](../../../../../economics/finance/01-foundations/README.md), where expected value reappears

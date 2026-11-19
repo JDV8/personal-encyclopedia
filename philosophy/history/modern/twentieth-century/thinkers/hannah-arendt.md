@@ -1,12 +1,12 @@
 # Hannah Arendt
 
-**Prerequisites:** [[political-philosophy-after-catastrophe|Political philosophy after catastrophe]]
+**Prerequisites:** [Political philosophy after catastrophe](../07-political-philosophy-after-catastrophe.md)
 
 @@IMG@@
 
 ## Life and context
 
-Hannah Arendt (1906–1975) was born near Hanover and grew up in Königsberg, Kant's city, in a secular Jewish family. At Marburg in 1924 she studied with [[martin-heidegger|Heidegger]], with whom she had a secret love affair, then with Husserl in Freiburg and Karl Jaspers in Heidelberg, where she wrote her dissertation on love in [[augustine|Augustine]] (1929). In 1933 she was arrested by the Gestapo for researching antisemitic propaganda for a Zionist organization, was released after eight days, and fled to Paris, where she worked helping Jewish refugee children emigrate to Palestine. In 1940 she was interned in the Gurs camp in southern France, escaped in the confusion of the French collapse, and reached New York in 1941 with her husband Heinrich Blücher. Stateless until she became an American citizen in 1951, she worked as a journalist and editor and for Jewish Cultural Reconstruction. [[the-origins-of-totalitarianism|*The Origins of Totalitarianism*]] (1951) established her reputation. She taught at Chicago, the New School and elsewhere. Her reports on the Eichmann trial for *The New Yorker*, published as [[eichmann-in-jerusalem|*Eichmann in Jerusalem*]] (1963), caused a storm. She died in New York in 1975, while writing *The Life of the Mind*.
+Hannah Arendt (1906–1975) was born near Hanover and grew up in Königsberg, Kant's city, in a secular Jewish family. At Marburg in 1924 she studied with [Heidegger](martin-heidegger.md), with whom she had a secret love affair, then with Husserl in Freiburg and Karl Jaspers in Heidelberg, where she wrote her dissertation on love in [Augustine](../../../medieval/thinkers/augustine.md) (1929). In 1933 she was arrested by the Gestapo for researching antisemitic propaganda for a Zionist organization, was released after eight days, and fled to Paris, where she worked helping Jewish refugee children emigrate to Palestine. In 1940 she was interned in the Gurs camp in southern France, escaped in the confusion of the French collapse, and reached New York in 1941 with her husband Heinrich Blücher. Stateless until she became an American citizen in 1951, she worked as a journalist and editor and for Jewish Cultural Reconstruction. [*The Origins of Totalitarianism*](../texts/the-origins-of-totalitarianism.md) (1951) established her reputation. She taught at Chicago, the New School and elsewhere. Her reports on the Eichmann trial for *The New Yorker*, published as [*Eichmann in Jerusalem*](../texts/eichmann-in-jerusalem.md) (1963), caused a storm. She died in New York in 1975, while writing *The Life of the Mind*.
 
 ## Core ideas
 
@@ -47,7 +47,7 @@ Arendt is among the most read political thinkers of the twentieth century, cited
 
 ## Where this leads
 
-- Texts: [[the-origins-of-totalitarianism|*The Origins of Totalitarianism*]], [[eichmann-in-jerusalem|*Eichmann in Jerusalem*]]
-- Next thinker: [[simone-weil|Simone Weil]]
-- Back: [[augustine|Augustine]], [[immanuel-kant|Kant]], [[gk:socrates.md|Socrates]]
-- Glossary: [[g:banality-of-evil|banality of evil]], [[g:totalitarianism|totalitarianism]], [[g:natality|natality]]
+- Texts: [*The Origins of Totalitarianism*](../texts/the-origins-of-totalitarianism.md), [*Eichmann in Jerusalem*](../texts/eichmann-in-jerusalem.md)
+- Next thinker: [Simone Weil](simone-weil.md)
+- Back: [Augustine](../../../medieval/thinkers/augustine.md), [Kant](../../early-modern/thinkers/immanuel-kant.md), [Socrates](../../../ancient/greek/thinkers/socrates.md)
+- Glossary: [banality of evil](../../../../glossary/modern/banality-of-evil.md), [totalitarianism](../../../../glossary/modern/totalitarianism.md), [natality](../../../../glossary/modern/natality.md)

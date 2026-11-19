@@ -1,6 +1,6 @@
 # Tolstoy, *The Death of Ivan Ilyich*
 
-**Prerequisites:** [[leo-tolstoy|Leo Tolstoy]]; helpful: [[a-confession|*A Confession*]]
+**Prerequisites:** [Leo Tolstoy](../thinkers/leo-tolstoy.md); helpful: [*A Confession*](a-confession.md)
 
 *A novella, included because it is one of the most widely taught literary reflections on death and the meaning of a life.*
 
@@ -8,7 +8,7 @@
 
 ## Dating
 
-Published in 1886, the first major fiction [[leo-tolstoy|Tolstoy]] completed after the crisis described in [[a-confession|*A Confession*]]. It is short, twelve chapters, readable in an evening.
+Published in 1886, the first major fiction [Tolstoy](../thinkers/leo-tolstoy.md) completed after the crisis described in [*A Confession*](a-confession.md). It is short, twelve chapters, readable in an evening.
 
 ## Story
 
@@ -35,10 +35,10 @@ flowchart LR
 
 ## Reception
 
-The novella is a classic in medical ethics and palliative-care education, and in philosophy of death. [[martin-heidegger|Heidegger]] cites it in a footnote in [[being-and-time|*Being and Time*]] on "the 'they'" and being-toward-death. Translations: Louise and Aylmer Maude; Richard Pevear and Larissa Volokhonsky (in *The Death of Ivan Ilyich and Other Stories*); Lynn Solotaroff (Bantam).
+The novella is a classic in medical ethics and palliative-care education, and in philosophy of death. [Heidegger](../../twentieth-century/thinkers/martin-heidegger.md) cites it in a footnote in [*Being and Time*](../../twentieth-century/texts/being-and-time.md) on "the 'they'" and being-toward-death. Translations: Louise and Aylmer Maude; Richard Pevear and Larissa Volokhonsky (in *The Death of Ivan Ilyich and Other Stories*); Lynn Solotaroff (Bantam).
 
 ## Where this leads
 
-- Next text: [[thus-spoke-zarathustra|*Thus Spoke Zarathustra*]]
-- Forward: [[being-and-time|*Being and Time*]], being-toward-death
-- Back: [[c:logic/syllogism-and-the-organon.md|the syllogism]], which Ivan cannot apply to himself
+- Next text: [*Thus Spoke Zarathustra*](thus-spoke-zarathustra.md)
+- Forward: [*Being and Time*](../../twentieth-century/texts/being-and-time.md), being-toward-death
+- Back: [the syllogism](../../../../concepts/logic/syllogism-and-the-organon.md), which Ivan cannot apply to himself

@@ -1,14 +1,14 @@
 # Rationalism: reason as the source of knowledge
 
-**Prerequisites:** [[scientific-revolution-and-method|The scientific revolution]]; [[g:a-priori|a priori]], [[g:rationalism|rationalism]]
+**Prerequisites:** [The scientific revolution](02-scientific-revolution-and-method.md); [a priori](../../../glossary/general/a-priori.md), [rationalism](../../../glossary/general/rationalism.md)
 
 @@IMG@@
 
 ## The question
 
-Where does knowledge come from? Two plain answers suggest themselves. Either from the senses, by observing, or from the mind itself, by thinking. Consider "7 + 5 = 12", "every triangle has angles summing to two right angles", or "every event has a cause". We seem to know these without counting every collection of objects or measuring every triangle. Their truth seems necessary and universal, and no finite number of observations could show that. That suggests some knowledge comes from reason alone, **[[g:a-priori|a priori]]**.
+Where does knowledge come from? Two plain answers suggest themselves. Either from the senses, by observing, or from the mind itself, by thinking. Consider "7 + 5 = 12", "every triangle has angles summing to two right angles", or "every event has a cause". We seem to know these without counting every collection of objects or measuring every triangle. Their truth seems necessary and universal, and no finite number of observations could show that. That suggests some knowledge comes from reason alone, **[a priori](../../../glossary/general/a-priori.md)**.
 
-**Rationalism** is the family of views that give reason this leading role. The "continental rationalists" of the seventeenth century, [[rene-descartes|Descartes]], [[baruch-spinoza|Spinoza]] and [[gottfried-wilhelm-leibniz|Leibniz]], shared three tendencies:
+**Rationalism** is the family of views that give reason this leading role. The "continental rationalists" of the seventeenth century, [Descartes](thinkers/rene-descartes.md), [Spinoza](thinkers/baruch-spinoza.md) and [Leibniz](thinkers/gottfried-wilhelm-leibniz.md), shared three tendencies:
 
 1. **Innate ideas.** Some concepts (God, substance, number, self) are not derived from experience but are found in the mind.
 2. **Deductive system.** Knowledge should be built like geometry, from self-evident principles by valid steps.
@@ -18,15 +18,15 @@ The labels "rationalist" and "empiricist" were applied later and simplify a grea
 
 ## Descartes: doubt and foundations
 
-[[rene-descartes|Descartes]] decided to doubt everything he could, to see if anything survived. The senses sometimes deceive; I might be dreaming; an evil demon might deceive me even about mathematics. But in doubting I am thinking, and if I think I exist: *I think, therefore I am*. From this foundation he argues for a God who is no deceiver, and so for the general reliability of clear and distinct ideas. He concluded that the world contains two kinds of substance: thinking substance (mind) and extended substance (matter). See [[meditations-on-first-philosophy|*Meditations*]].
+[Descartes](thinkers/rene-descartes.md) decided to doubt everything he could, to see if anything survived. The senses sometimes deceive; I might be dreaming; an evil demon might deceive me even about mathematics. But in doubting I am thinking, and if I think I exist: *I think, therefore I am*. From this foundation he argues for a God who is no deceiver, and so for the general reliability of clear and distinct ideas. He concluded that the world contains two kinds of substance: thinking substance (mind) and extended substance (matter). See [*Meditations*](texts/meditations-on-first-philosophy.md).
 
 ## Spinoza: one substance
 
-[[baruch-spinoza|Spinoza]] took Descartes' definition of substance (that which exists in itself and is conceived through itself) and drew a radical conclusion: there can be only one substance, which he called "God or Nature" (*Deus sive Natura*). Mind and body are two attributes of this one substance, two ways of expressing the same reality. Everything follows necessarily from God's nature; there is no free will in the sense of uncaused choice. Freedom is understanding the necessity of things. He wrote his [[spinoza-ethics|*Ethics*]] in geometrical form with definitions, axioms and propositions.
+[Spinoza](thinkers/baruch-spinoza.md) took Descartes' definition of substance (that which exists in itself and is conceived through itself) and drew a radical conclusion: there can be only one substance, which he called "God or Nature" (*Deus sive Natura*). Mind and body are two attributes of this one substance, two ways of expressing the same reality. Everything follows necessarily from God's nature; there is no free will in the sense of uncaused choice. Freedom is understanding the necessity of things. He wrote his [*Ethics*](texts/spinoza-ethics.md) in geometrical form with definitions, axioms and propositions.
 
 ## Leibniz: many simple substances
 
-[[gottfried-wilhelm-leibniz|Leibniz]] went the other way: infinitely many simple substances, **monads**, each a centre of perception reflecting the whole universe from its own point of view. They do not interact; their harmony is pre-established by God. Two principles govern his system: the **principle of contradiction** (what implies a contradiction is false) and the **[[g:principle-of-sufficient-reason|principle of sufficient reason]]** (nothing happens without a reason why it is so and not otherwise). God chose to create the best of all possible worlds. See [[monadology|*Monadology*]].
+[Leibniz](thinkers/gottfried-wilhelm-leibniz.md) went the other way: infinitely many simple substances, **monads**, each a centre of perception reflecting the whole universe from its own point of view. They do not interact; their harmony is pre-established by God. Two principles govern his system: the **principle of contradiction** (what implies a contradiction is false) and the **[principle of sufficient reason](../../../glossary/modern/principle-of-sufficient-reason.md)** (nothing happens without a reason why it is so and not otherwise). God chose to create the best of all possible worlds. See [*Monadology*](texts/monadology.md).
 
 ```mermaid
 flowchart TB
@@ -42,7 +42,7 @@ All three faced the same question: how do mind and matter relate? Descartes said
 
 ## Criticism
 
-[[empiricism|Empiricists]] objected that there are no innate ideas (Locke), and that reason alone cannot tell us what exists (Hume). [[voltaire|Voltaire]] mocked Leibnizian optimism in [[candide|*Candide*]]. [[immanuel-kant|Kant]] argued that rationalists overreached: pure reason, used beyond possible experience, produces contradictions.
+[Empiricists](04-empiricism.md) objected that there are no innate ideas (Locke), and that reason alone cannot tell us what exists (Hume). [Voltaire](thinkers/voltaire.md) mocked Leibnizian optimism in [*Candide*](texts/candide.md). [Kant](thinkers/immanuel-kant.md) argued that rationalists overreached: pure reason, used beyond possible experience, produces contradictions.
 
 ## Key ideas
 
@@ -53,7 +53,7 @@ All three faced the same question: how do mind and matter relate? Descartes said
 
 ## Where this leads
 
-- Next: [[empiricism|Empiricism]]
-- Texts: [[meditations-on-first-philosophy|*Meditations*]], [[spinoza-ethics|*Ethics*]], [[monadology|*Monadology*]]
-- Back: [[c:metaphysics/substance.md|substance]], [[anselm|Anselm's argument]]
-- Forward: [[kants-copernican-revolution|Kant's Copernican revolution]]
+- Next: [Empiricism](04-empiricism.md)
+- Texts: [*Meditations*](texts/meditations-on-first-philosophy.md), [*Ethics*](texts/spinoza-ethics.md), [*Monadology*](texts/monadology.md)
+- Back: [substance](../../../concepts/metaphysics/substance.md), [Anselm's argument](../../medieval/thinkers/anselm.md)
+- Forward: [Kant's Copernican revolution](07-kants-copernican-revolution.md)

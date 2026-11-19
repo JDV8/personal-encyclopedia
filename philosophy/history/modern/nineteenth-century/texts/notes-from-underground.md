@@ -1,6 +1,6 @@
 # Dostoevsky, *Notes from Underground*
 
-**Prerequisites:** [[fyodor-dostoevsky|Fyodor Dostoevsky]]; [[existential-beginnings|Existential beginnings]]
+**Prerequisites:** [Fyodor Dostoevsky](../thinkers/fyodor-dostoevsky.md); [Existential beginnings](../06-existential-beginnings.md)
 
 *A novella, not a treatise. It is included because its narrator's arguments against rational egoism are a landmark of existential thought.*
 
@@ -8,7 +8,7 @@
 
 ## Dating and context
 
-Published in 1864 in *Epoch*, the journal [[fyodor-dostoevsky|Dostoevsky]] ran with his brother, during the months his first wife was dying and shortly before his brother's death. It responds to Nikolai Chernyshevsky's novel *What Is to Be Done?* (1863), which presented "rational egoism": if people understood their true interests, they would act rationally and a harmonious society, symbolized by a "Crystal Palace" (after the glass exhibition hall built in London in 1851), would follow. Censors cut a passage in Part I in which, Dostoevsky complained, he had derived the need for faith in Christ.
+Published in 1864 in *Epoch*, the journal [Dostoevsky](../thinkers/fyodor-dostoevsky.md) ran with his brother, during the months his first wife was dying and shortly before his brother's death. It responds to Nikolai Chernyshevsky's novel *What Is to Be Done?* (1863), which presented "rational egoism": if people understood their true interests, they would act rationally and a harmonious society, symbolized by a "Crystal Palace" (after the glass exhibition hall built in London in 1851), would follow. Censors cut a passage in Part I in which, Dostoevsky complained, he had derived the need for faith in Christ.
 
 ## Structure
 
@@ -35,6 +35,6 @@ Often called the first existentialist novel; Walter Kaufmann placed it at the st
 
 ## Where this leads
 
-- Next text: [[the-brothers-karamazov|*The Brothers Karamazov*]]
-- Back: [[utilitarianism-and-liberalism|utilitarianism]], one of its targets
-- Forward: [[being-and-nothingness|*Being and Nothingness*]]
+- Next text: [*The Brothers Karamazov*](the-brothers-karamazov.md)
+- Back: [utilitarianism](../03-utilitarianism-and-liberalism.md), one of its targets
+- Forward: [*Being and Nothingness*](../../twentieth-century/texts/being-and-nothingness.md)

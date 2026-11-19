@@ -1,6 +1,6 @@
 # Francis Bacon
 
-**Prerequisites:** [[scientific-revolution-and-method|The scientific revolution]]; [[g:induction|induction]]
+**Prerequisites:** [The scientific revolution](../02-scientific-revolution-and-method.md); [induction](../../../../glossary/general/induction.md)
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ Francis Bacon (1561–1626) was born in London, son of Sir Nicholas Bacon, Lord 
 
 ## The Great Instauration
 
-Bacon planned a vast work, the *Great Instauration* ("great renewal"), to rebuild human knowledge. Only parts were completed: *The Advancement of Learning* (1605), the [[novum-organum|*Novum Organum*]] (1620), and natural histories. *New Atlantis* (published 1627) describes an imagined island ruled by a research institution, Salomon's House.
+Bacon planned a vast work, the *Great Instauration* ("great renewal"), to rebuild human knowledge. Only parts were completed: *The Advancement of Learning* (1605), the [*Novum Organum*](../texts/novum-organum.md) (1620), and natural histories. *New Atlantis* (published 1627) describes an imagined island ruled by a research institution, Salomon's House.
 
 ## Core ideas
 
@@ -35,7 +35,7 @@ flowchart TB
 
 ## Influence and criticism
 
-The founders of the Royal Society (1660) treated Bacon as their patron saint, and the Enlightenment *Encyclopédie* honoured him as a founder of modern knowledge. Critics point out that his method underrated mathematics and the role of bold hypotheses, which were central to Galileo, Kepler and Newton; [[karl-popper|Karl Popper]] in particular argued that science advances by conjecture and refutation, not by collecting instances. Twentieth-century critics such as Horkheimer and Adorno, and some environmental thinkers, saw in his language of commanding nature the roots of a domineering attitude to the natural world; others think those readings exaggerate.
+The founders of the Royal Society (1660) treated Bacon as their patron saint, and the Enlightenment *Encyclopédie* honoured him as a founder of modern knowledge. Critics point out that his method underrated mathematics and the role of bold hypotheses, which were central to Galileo, Kepler and Newton; [Karl Popper](../../twentieth-century/thinkers/karl-popper.md) in particular argued that science advances by conjecture and refutation, not by collecting instances. Twentieth-century critics such as Horkheimer and Adorno, and some environmental thinkers, saw in his language of commanding nature the roots of a domineering attitude to the natural world; others think those readings exaggerate.
 
 ## Key ideas
 
@@ -46,7 +46,7 @@ The founders of the Royal Society (1660) treated Bacon as their patron saint, an
 
 ## Where this leads
 
-- Text: [[novum-organum|*Novum Organum*]]
-- Next thinker: [[rene-descartes|René Descartes]]
-- Forward: [[empiricism|Empiricism]]; [[philosophy-of-science|Popper and Kuhn]]
-- Related: [[micro:09-behavioural-economics/03-heuristics-and-biases.md|heuristics and biases]], a modern study of the idols of the tribe
+- Text: [*Novum Organum*](../texts/novum-organum.md)
+- Next thinker: [René Descartes](rene-descartes.md)
+- Forward: [Empiricism](../04-empiricism.md); [Popper and Kuhn](../../twentieth-century/06-philosophy-of-science.md)
+- Related: [heuristics and biases](../../../../../economics/microeconomics/09-behavioural-economics/03-heuristics-and-biases.md), a modern study of the idols of the tribe

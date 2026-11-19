@@ -1,12 +1,12 @@
 # Descartes, *Meditations on First Philosophy*
 
-**Prerequisites:** [[rene-descartes|René Descartes]], [[discourse-on-method|*Discourse on the Method*]]
+**Prerequisites:** [René Descartes](../thinkers/rene-descartes.md), [*Discourse on the Method*](discourse-on-method.md)
 
 @@IMG@@
 
 ## Dating and form
 
-Published in Latin in Paris in 1641 (second edition Amsterdam 1642), with a French translation approved by Descartes in 1647. Before publication, Marin Mersenne circulated the manuscript to leading thinkers; their objections and Descartes' replies were printed with it. The objectors included [[thomas-hobbes|Hobbes]] (third set), Antoine Arnauld (fourth set), Pierre Gassendi (fifth set) and others. The six meditations are written as six days of first-person reflection, a form that echoes religious spiritual exercises.
+Published in Latin in Paris in 1641 (second edition Amsterdam 1642), with a French translation approved by Descartes in 1647. Before publication, Marin Mersenne circulated the manuscript to leading thinkers; their objections and Descartes' replies were printed with it. The objectors included [Hobbes](../thinkers/thomas-hobbes.md) (third set), Antoine Arnauld (fourth set), Pierre Gassendi (fifth set) and others. The six meditations are written as six days of first-person reflection, a form that echoes religious spiritual exercises.
 
 ## Outline
 
@@ -45,7 +45,7 @@ The *Meditations* is perhaps the most taught text in modern philosophy courses, 
 
 ## Where this leads
 
-- Next text: [[leviathan|*Leviathan*]]
-- Back: [[proslogion|Anselm's *Proslogion*]]; [[augustine|Augustine]]
-- Forward: [[being-and-time|Heidegger's *Being and Time*]], which attacks the Cartesian starting point
-- Glossary: [[g:methodic-doubt|methodic doubt]], [[g:mind-body-problem|mind–body problem]]
+- Next text: [*Leviathan*](leviathan.md)
+- Back: [Anselm's *Proslogion*](../../../medieval/texts/proslogion.md); [Augustine](../../../medieval/thinkers/augustine.md)
+- Forward: [Heidegger's *Being and Time*](../../twentieth-century/texts/being-and-time.md), which attacks the Cartesian starting point
+- Glossary: [methodic doubt](../../../../glossary/modern/methodic-doubt.md), [mind–body problem](../../../../glossary/modern/mind-body-problem.md)

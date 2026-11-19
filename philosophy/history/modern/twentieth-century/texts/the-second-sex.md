@@ -1,12 +1,12 @@
 # de Beauvoir, *The Second Sex*
 
-**Prerequisites:** [[simone-de-beauvoir|Simone de Beauvoir]]; helpful: [[being-and-nothingness|*Being and Nothingness*]]
+**Prerequisites:** [Simone de Beauvoir](../thinkers/simone-de-beauvoir.md); helpful: [*Being and Nothingness*](being-and-nothingness.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*Le Deuxième Sexe* was published by Gallimard in 1949 in two volumes, after parts had appeared in the journal *Les Temps modernes*. [[simone-de-beauvoir|De Beauvoir]] began it after asking herself what being a woman had meant for her and finding that the question opened onto the history and situation of women in general. The book was a scandal: the novelist François Mauriac publicly attacked it, and the Vatican placed it on the Index of Forbidden Books. The first English translation, by the zoologist H. M. Parshley (1953), was abridged and philosophically unreliable; a complete translation by Constance Borde and Sheila Malovany-Chevallier appeared in 2009.
+*Le Deuxième Sexe* was published by Gallimard in 1949 in two volumes, after parts had appeared in the journal *Les Temps modernes*. [De Beauvoir](../thinkers/simone-de-beauvoir.md) began it after asking herself what being a woman had meant for her and finding that the question opened onto the history and situation of women in general. The book was a scandal: the novelist François Mauriac publicly attacked it, and the Vatican placed it on the Index of Forbidden Books. The first English translation, by the zoologist H. M. Parshley (1953), was abridged and philosophically unreliable; a complete translation by Constance Borde and Sheila Malovany-Chevallier appeared in 2009.
 
 ## Outline
 
@@ -34,6 +34,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next text: [[the-origins-of-totalitarianism|*The Origins of Totalitarianism*]]
-- Back: [[phenomenology-of-spirit|Hegel's master–slave dialectic]]
-- Glossary: [[g:the-other|the Other]]
+- Next text: [*The Origins of Totalitarianism*](the-origins-of-totalitarianism.md)
+- Back: [Hegel's master–slave dialectic](../../nineteenth-century/texts/phenomenology-of-spirit.md)
+- Glossary: [the Other](../../../../glossary/modern/the-other.md)

@@ -1,12 +1,12 @@
 # Simone de Beauvoir
 
-**Prerequisites:** [[existentialism|Existentialism]]; helpful: [[phenomenology-of-spirit|Hegel's master–slave dialectic]]
+**Prerequisites:** [Existentialism](../03-existentialism.md); helpful: [Hegel's master–slave dialectic](../../nineteenth-century/texts/phenomenology-of-spirit.md)
 
 @@IMG@@
 
 ## Life and context
 
-Simone de Beauvoir (1908–1986) was born in Paris into a bourgeois Catholic family whose fortunes declined after the First World War. A devout child, she lost her faith as a teenager. She studied philosophy at the Sorbonne and in 1929 placed second in the national *agrégation* examination, behind [[jean-paul-sartre|Sartre]] (some examiners reportedly debated giving her first place); at 21 she was the youngest person to pass it. She and Sartre formed a lifelong intellectual and personal partnership without marriage or exclusivity. She taught in lycées until 1943 and published her first novel, *She Came to Stay*, that year. Her philosophical essays *Pyrrhus and Cineas* (1944) and *The Ethics of Ambiguity* (1947) developed an existentialist ethics. [[the-second-sex|*The Second Sex*]] (1949) became a foundational text of modern feminism; the Vatican placed it on the Index of Forbidden Books. Her novel *The Mandarins* (1954) won the Prix Goncourt. She wrote a multi-volume autobiography, travel books on America and China, *A Very Easy Death* (1964) on her mother's death, and *Old Age* (1970). She signed the 1971 "Manifesto of the 343" women who declared they had had abortions, and was active in the French women's movement. She died in Paris in 1986 and is buried beside Sartre in Montparnasse cemetery.
+Simone de Beauvoir (1908–1986) was born in Paris into a bourgeois Catholic family whose fortunes declined after the First World War. A devout child, she lost her faith as a teenager. She studied philosophy at the Sorbonne and in 1929 placed second in the national *agrégation* examination, behind [Sartre](jean-paul-sartre.md) (some examiners reportedly debated giving her first place); at 21 she was the youngest person to pass it. She and Sartre formed a lifelong intellectual and personal partnership without marriage or exclusivity. She taught in lycées until 1943 and published her first novel, *She Came to Stay*, that year. Her philosophical essays *Pyrrhus and Cineas* (1944) and *The Ethics of Ambiguity* (1947) developed an existentialist ethics. [*The Second Sex*](../texts/the-second-sex.md) (1949) became a foundational text of modern feminism; the Vatican placed it on the Index of Forbidden Books. Her novel *The Mandarins* (1954) won the Prix Goncourt. She wrote a multi-volume autobiography, travel books on America and China, *A Very Easy Death* (1964) on her mother's death, and *Old Age* (1970). She signed the 1971 "Manifesto of the 343" women who declared they had had abortions, and was active in the French women's movement. She died in Paris in 1986 and is buried beside Sartre in Montparnasse cemetery.
 
 ## Core ideas
 
@@ -43,6 +43,6 @@ flowchart LR
 
 ## Where this leads
 
-- Text: [[the-second-sex|*The Second Sex*]]
-- Next thinker: [[hannah-arendt|Hannah Arendt]]
-- Glossary: [[g:the-other|the Other]]
+- Text: [*The Second Sex*](../texts/the-second-sex.md)
+- Next thinker: [Hannah Arendt](hannah-arendt.md)
+- Glossary: [the Other](../../../../glossary/modern/the-other.md)

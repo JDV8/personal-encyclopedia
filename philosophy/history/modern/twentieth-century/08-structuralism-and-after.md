@@ -1,12 +1,12 @@
 # Structuralism and after: Foucault, power and knowledge
 
-**Prerequisites:** [[existentialism|Existentialism]], [[nietzsche-and-the-death-of-god|Nietzsche]] (genealogy), [[marx-and-historical-materialism|Marx]]
+**Prerequisites:** [Existentialism](03-existentialism.md), [Nietzsche](../nineteenth-century/08-nietzsche-and-the-death-of-god.md) (genealogy), [Marx](../nineteenth-century/04-marx-and-historical-materialism.md)
 
 @@IMG@@
 
 ## A reaction against the subject
 
-Existentialism put the free, choosing individual at the centre. In the 1950s and 1960s many French thinkers turned against that picture. They argued that what we take to be free individual choices are largely shaped by systems that operate behind our backs: language, kinship rules, economic relations, unconscious structures, institutions. This broad movement is called **[[g:structuralism|structuralism]]**, and the thinkers who extended and criticized it are often grouped (loosely and to their annoyance) as **post-structuralists**.
+Existentialism put the free, choosing individual at the centre. In the 1950s and 1960s many French thinkers turned against that picture. They argued that what we take to be free individual choices are largely shaped by systems that operate behind our backs: language, kinship rules, economic relations, unconscious structures, institutions. This broad movement is called **[structuralism](../../../glossary/modern/structuralism.md)**, and the thinkers who extended and criticized it are often grouped (loosely and to their annoyance) as **post-structuralists**.
 
 ## Structuralism from first principles
 
@@ -26,14 +26,14 @@ flowchart LR
 
 ## Foucault: histories of the present
 
-[[michel-foucault|Michel Foucault]] (1926–1984) refused the structuralist label but shared its suspicion of the sovereign subject. He wrote historical studies of madness, medicine, the human sciences, prisons and sexuality. His method combined two approaches:
+[Michel Foucault](thinkers/michel-foucault.md) (1926–1984) refused the structuralist label but shared its suspicion of the sovereign subject. He wrote historical studies of madness, medicine, the human sciences, prisons and sexuality. His method combined two approaches:
 
 - **Archaeology** (*The Order of Things*, 1966): uncovering the deep rules, which he called an *episteme*, that determine what counts as knowledge in an era. He ended that book predicting that "man", as an object of knowledge invented around 1800, might be erased "like a face drawn in sand at the edge of the sea".
-- **[[g:genealogy|Genealogy]]** (after Nietzsche): tracing how present practices and identities emerged from contingent struggles, not from reason or necessity, so that what seems natural can be seen as historical and changeable.
+- **[Genealogy](../../../glossary/modern/genealogy.md)** (after Nietzsche): tracing how present practices and identities emerged from contingent struggles, not from reason or necessity, so that what seems natural can be seen as historical and changeable.
 
-His key concept is **power/knowledge**. Power is not only the sovereign's right to punish or the state's repression; modern power is "productive": it operates through institutions (schools, hospitals, barracks, prisons), through norms and examinations, producing knowledge about individuals and shaping them into certain kinds of subjects. In [[discipline-and-punish|*Discipline and Punish*]] (1975) he traced the shift from spectacular public torture to the disciplined, observed prison, symbolized by Bentham's design for a **Panopticon**, a prison where inmates can be watched at any time without knowing when. "Discourses" (systematic ways of speaking about madness, crime, sexuality) do not merely describe their objects; they help constitute them.
+His key concept is **power/knowledge**. Power is not only the sovereign's right to punish or the state's repression; modern power is "productive": it operates through institutions (schools, hospitals, barracks, prisons), through norms and examinations, producing knowledge about individuals and shaping them into certain kinds of subjects. In [*Discipline and Punish*](texts/discipline-and-punish.md) (1975) he traced the shift from spectacular public torture to the disciplined, observed prison, symbolized by Bentham's design for a **Panopticon**, a prison where inmates can be watched at any time without knowing when. "Discourses" (systematic ways of speaking about madness, crime, sexuality) do not merely describe their objects; they help constitute them.
 
-In his last works (*The History of Sexuality*, vols. 2–3, 1984) Foucault turned to ancient ethics as "care of the self", taking up Greek and Roman practices that recall [[c:ethics/ataraxia-and-apatheia.md|Stoic and Epicurean exercises]].
+In his last works (*The History of Sexuality*, vols. 2–3, 1984) Foucault turned to ancient ethics as "care of the self", taking up Greek and Roman practices that recall [Stoic and Epicurean exercises](../../../concepts/ethics/ataraxia-and-apatheia.md).
 
 ## Others
 
@@ -52,7 +52,7 @@ Critics such as Jürgen Habermas argued that Foucault's account of power undermi
 
 ## Where this leads
 
-- Next: [[mimetic-theory|Mimetic theory: René Girard]]
-- Thinker: [[michel-foucault|Michel Foucault]]; text: [[discipline-and-punish|*Discipline and Punish*]]
-- Back: [[on-the-genealogy-of-morality|Nietzsche's *Genealogy*]]
-- Glossary: [[g:power-knowledge|power/knowledge]], [[g:panopticism|panopticism]], [[g:discourse|discourse]]
+- Next: [Mimetic theory: René Girard](09-mimetic-theory.md)
+- Thinker: [Michel Foucault](thinkers/michel-foucault.md); text: [*Discipline and Punish*](texts/discipline-and-punish.md)
+- Back: [Nietzsche's *Genealogy*](../nineteenth-century/texts/on-the-genealogy-of-morality.md)
+- Glossary: [power/knowledge](../../../glossary/modern/power-knowledge.md), [panopticism](../../../glossary/modern/panopticism.md), [discourse](../../../glossary/modern/discourse.md)

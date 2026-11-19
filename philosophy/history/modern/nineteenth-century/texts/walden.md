@@ -1,12 +1,12 @@
 # Thoreau, *Walden*
 
-**Prerequisites:** [[henry-david-thoreau|Henry David Thoreau]]; [[transcendentalism|American transcendentalism]]
+**Prerequisites:** [Henry David Thoreau](../thinkers/henry-david-thoreau.md); [American transcendentalism](../05-transcendentalism.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*Walden; or, Life in the Woods* was published in Boston in 1854, seven years after [[henry-david-thoreau|Thoreau]] left the cabin at Walden Pond, near Concord, Massachusetts, where he lived from 4 July 1845 to 6 September 1847. He revised it through at least seven drafts. The two years are compressed into a single cycle of seasons, from summer to spring, so the book's structure is itself a symbol of renewal.
+*Walden; or, Life in the Woods* was published in Boston in 1854, seven years after [Thoreau](../thinkers/henry-david-thoreau.md) left the cabin at Walden Pond, near Concord, Massachusetts, where he lived from 4 July 1845 to 6 September 1847. He revised it through at least seven drafts. The two years are compressed into a single cycle of seasons, from summer to spring, so the book's structure is itself a symbol of renewal.
 
 ## Outline (18 chapters)
 
@@ -37,6 +37,6 @@ flowchart LR
 
 ## Where this leads
 
-- Next text: [[notes-from-underground|*Notes from Underground*]]
-- Back: [[self-reliance|"Self-Reliance"]]
-- Related: [[gk:epicurus.md|Epicurus]] on simple pleasures
+- Next text: [*Notes from Underground*](notes-from-underground.md)
+- Back: ["Self-Reliance"](self-reliance.md)
+- Related: [Epicurus](../../../ancient/greek/thinkers/epicurus.md) on simple pleasures

@@ -1,6 +1,6 @@
 # Maimonides (Moses ben Maimon)
 
-**Prerequisites:** [[islamic-and-jewish-philosophy|Islamic and Jewish philosophy]]; helpful: [[bib:old-testament/books/law-torah/genesis.md|Genesis]]
+**Prerequisites:** [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md); helpful: [Genesis](../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md)
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ Moses ben Maimon (1138–1204), known in Hebrew by the acronym Rambam and in Lat
 
 ## Two great works
 
-His **legal** masterpiece, the *Mishneh Torah* (completed around 1180), written in clear Hebrew, organized the whole of Jewish law into fourteen books. Its first book opens with philosophical principles about God and the world. His **philosophical** masterpiece is [[guide-for-the-perplexed|*The Guide for the Perplexed*]] (around 1190), written in Judeo-Arabic (Arabic in Hebrew letters) for a student trained in philosophy who was troubled by the apparent conflict between the Torah's literal sense and reason. In his commentary on the Mishnah he also formulated thirteen principles of faith, later widely used in Jewish liturgy.
+His **legal** masterpiece, the *Mishneh Torah* (completed around 1180), written in clear Hebrew, organized the whole of Jewish law into fourteen books. Its first book opens with philosophical principles about God and the world. His **philosophical** masterpiece is [*The Guide for the Perplexed*](../texts/guide-for-the-perplexed.md) (around 1190), written in Judeo-Arabic (Arabic in Hebrew letters) for a student trained in philosophy who was troubled by the apparent conflict between the Torah's literal sense and reason. In his commentary on the Mishnah he also formulated thirteen principles of faith, later widely used in Jewish liturgy.
 
 ## Core ideas
 
@@ -18,7 +18,7 @@ His **legal** masterpiece, the *Mishneh Torah* (completed around 1180), written 
 
 **Negative theology.** We cannot say positively what God is, because God is utterly simple and unlike anything else. Saying "God is wise" should be understood as denying a lack ("God is not ignorant"). Each negation brings us closer to God by ruling out a false idea. Many statements are best read as describing God's actions, not God's essence.
 
-**Creation.** Aristotle held the world to be eternal. Maimonides argues that neither eternity nor creation can be demonstrated. Since the arguments are inconclusive, and creation fits the Torah and makes miracles and prophecy intelligible, it is reasonable to accept creation. This careful middle path deeply impressed [[thomas-aquinas|Aquinas]], who took a similar line.
+**Creation.** Aristotle held the world to be eternal. Maimonides argues that neither eternity nor creation can be demonstrated. Since the arguments are inconclusive, and creation fits the Torah and makes miracles and prophecy intelligible, it is reasonable to accept creation. This careful middle path deeply impressed [Aquinas](thomas-aquinas.md), who took a similar line.
 
 **Prophecy and politics.** Prophecy is a natural perfection of intellect and imagination, granted by God's will. The Law aims at the welfare of the body (a just society) and of the soul (true beliefs). Like al-Farabi, Maimonides treats the lawgiver as one who communicates truth through laws and images.
 
@@ -32,7 +32,7 @@ flowchart LR
 
 ## Influence and criticism
 
-The *Guide* provoked fierce controversy among Jews in Provence and Spain in the thirteenth century; at one point his philosophical works were banned in some communities, and there are reports of copies being burned. Over time his authority became immense. Translated into Hebrew and then Latin, the *Guide* was read by Aquinas, Meister Eckhart and later [[baruch-spinoza|Spinoza]], who criticized his method of reading scripture in the *Theological-Political Treatise*. Twentieth-century scholars, notably Leo Strauss, argued that the *Guide* is written esoterically, hiding its most radical views; others reject that reading.
+The *Guide* provoked fierce controversy among Jews in Provence and Spain in the thirteenth century; at one point his philosophical works were banned in some communities, and there are reports of copies being burned. Over time his authority became immense. Translated into Hebrew and then Latin, the *Guide* was read by Aquinas, Meister Eckhart and later [Spinoza](../../modern/early-modern/thinkers/baruch-spinoza.md), who criticized his method of reading scripture in the *Theological-Political Treatise*. Twentieth-century scholars, notably Leo Strauss, argued that the *Guide* is written esoterically, hiding its most radical views; others reject that reading.
 
 ## Key ideas
 
@@ -43,7 +43,7 @@ The *Guide* provoked fierce controversy among Jews in Provence and Spain in the 
 
 ## Where this leads
 
-- Text: [[guide-for-the-perplexed|*The Guide for the Perplexed*]]
-- Next thinker: [[thomas-aquinas|Thomas Aquinas]]
-- Forward: [[baruch-spinoza|Spinoza]]
-- Related: [[bib:old-testament/books/law-torah/genesis.md|Genesis]], whose creation account is at stake
+- Text: [*The Guide for the Perplexed*](../texts/guide-for-the-perplexed.md)
+- Next thinker: [Thomas Aquinas](thomas-aquinas.md)
+- Forward: [Spinoza](../../modern/early-modern/thinkers/baruch-spinoza.md)
+- Related: [Genesis](../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md), whose creation account is at stake

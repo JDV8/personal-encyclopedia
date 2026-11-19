@@ -1,6 +1,6 @@
 # René Descartes
 
-**Prerequisites:** [[scientific-revolution-and-method|The scientific revolution]], [[rationalism|Rationalism]]
+**Prerequisites:** [The scientific revolution](../02-scientific-revolution-and-method.md), [Rationalism](../03-rationalism.md)
 
 @@IMG@@
 
@@ -10,13 +10,13 @@ René Descartes (1596–1650) was born in La Haye, Touraine (the town is now nam
 
 ## Mathematics and science
 
-Descartes invented analytic geometry, uniting algebra and geometry by coordinates (hence "Cartesian" coordinates), published as an appendix to the [[discourse-on-method|*Discourse on the Method*]] (1637), alongside essays on optics and meteorology. He held that the physical world is extension, matter is geometrical space, and all physical change is mechanical motion. Animals, on his view, are complex machines.
+Descartes invented analytic geometry, uniting algebra and geometry by coordinates (hence "Cartesian" coordinates), published as an appendix to the [*Discourse on the Method*](../texts/discourse-on-method.md) (1637), alongside essays on optics and meteorology. He held that the physical world is extension, matter is geometrical space, and all physical change is mechanical motion. Animals, on his view, are complex machines.
 
 ## Core ideas
 
 **Methodic doubt.** To find a foundation for the sciences, he resolves to treat as false anything that admits the slightest doubt. The senses sometimes deceive; there are no sure signs to distinguish waking from dreaming; an all-powerful evil demon might deceive him even about arithmetic.
 
-**The cogito.** One thing survives: if I am doubting, I am thinking, and if I am thinking I exist. In the *Discourse* this is "I think, therefore I am" (*je pense, donc je suis*); in the [[meditations-on-first-philosophy|*Meditations*]] it is "I am, I exist" is necessarily true whenever I conceive it.
+**The cogito.** One thing survives: if I am doubting, I am thinking, and if I am thinking I exist. In the *Discourse* this is "I think, therefore I am" (*je pense, donc je suis*); in the [*Meditations*](../texts/meditations-on-first-philosophy.md) it is "I am, I exist" is necessarily true whenever I conceive it.
 
 **God as guarantor.** He finds in himself the idea of an infinite, perfect being, which he argues could only be caused by such a being. A perfect God would not deceive, so what I perceive clearly and distinctly is true. Critics, starting with Antoine Arnauld, objected that this is circular: clear and distinct perception proves God, and God guarantees clear and distinct perception (the "Cartesian circle").
 
@@ -34,11 +34,11 @@ flowchart TB
 
 ## Key works
 
-*Rules for the Direction of the Mind* (unfinished, published posthumously); [[discourse-on-method|*Discourse on the Method*]] (1637); [[meditations-on-first-philosophy|*Meditations on First Philosophy*]] (1641), with *Objections and Replies*; *Principles of Philosophy* (1644); *The Passions of the Soul* (1649).
+*Rules for the Direction of the Mind* (unfinished, published posthumously); [*Discourse on the Method*](../texts/discourse-on-method.md) (1637); [*Meditations on First Philosophy*](../texts/meditations-on-first-philosophy.md) (1641), with *Objections and Replies*; *Principles of Philosophy* (1644); *The Passions of the Soul* (1649).
 
 ## Influence and criticism
 
-Descartes is often called the father of modern philosophy because he made the question "what can I know with certainty?" the starting point and the thinking subject its foundation. [[baruch-spinoza|Spinoza]] and [[gottfried-wilhelm-leibniz|Leibniz]] built on and against him. Empiricists rejected innate ideas. In the twentieth century, Gilbert Ryle mocked dualism as "the dogma of the ghost in the machine"; [[martin-heidegger|Heidegger]] and the phenomenologists argued that his split between subject and world misdescribes how we exist; [[ludwig-wittgenstein|Wittgenstein]] attacked the idea of a private inner realm. Neuroscientists such as Antonio Damasio wrote of "Descartes' error". The mind–body problem he sharpened remains open.
+Descartes is often called the father of modern philosophy because he made the question "what can I know with certainty?" the starting point and the thinking subject its foundation. [Spinoza](baruch-spinoza.md) and [Leibniz](gottfried-wilhelm-leibniz.md) built on and against him. Empiricists rejected innate ideas. In the twentieth century, Gilbert Ryle mocked dualism as "the dogma of the ghost in the machine"; [Heidegger](../../twentieth-century/thinkers/martin-heidegger.md) and the phenomenologists argued that his split between subject and world misdescribes how we exist; [Wittgenstein](../../twentieth-century/thinkers/ludwig-wittgenstein.md) attacked the idea of a private inner realm. Neuroscientists such as Antonio Damasio wrote of "Descartes' error". The mind–body problem he sharpened remains open.
 
 ## Key ideas
 
@@ -49,7 +49,7 @@ Descartes is often called the father of modern philosophy because he made the qu
 
 ## Where this leads
 
-- Texts: [[discourse-on-method|*Discourse on the Method*]], [[meditations-on-first-philosophy|*Meditations*]]
-- Next thinker: [[thomas-hobbes|Thomas Hobbes]]
-- Glossary: [[g:cogito|cogito]], [[g:mind-body-problem|mind–body problem]], [[g:methodic-doubt|methodic doubt]]
-- Back: [[augustine|Augustine]]'s "if I am mistaken, I am"; [[avicenna|Avicenna]]'s floating man
+- Texts: [*Discourse on the Method*](../texts/discourse-on-method.md), [*Meditations*](../texts/meditations-on-first-philosophy.md)
+- Next thinker: [Thomas Hobbes](thomas-hobbes.md)
+- Glossary: [cogito](../../../../glossary/modern/cogito.md), [mind–body problem](../../../../glossary/modern/mind-body-problem.md), [methodic doubt](../../../../glossary/modern/methodic-doubt.md)
+- Back: [Augustine](../../../medieval/thinkers/augustine.md)'s "if I am mistaken, I am"; [Avicenna](../../../medieval/thinkers/avicenna.md)'s floating man

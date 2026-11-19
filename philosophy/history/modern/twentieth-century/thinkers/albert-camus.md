@@ -1,12 +1,12 @@
 # Albert Camus
 
-**Prerequisites:** [[the-absurd|The absurd]]
+**Prerequisites:** [The absurd](../04-the-absurd.md)
 
 @@IMG@@
 
 ## Life and context
 
-Albert Camus (1913–1960) was born in Mondovi (now Dréan), in French Algeria, into a poor *pied-noir* family. His father was killed in the Battle of the Marne in 1914; he grew up in a working-class district of Algiers with his nearly deaf, illiterate mother. A schoolteacher, Louis Germain, secured him a scholarship to the lycée; Camus dedicated his Nobel lecture to him. He studied philosophy at the University of Algiers (his thesis was on Plotinus and Augustine), played goalkeeper until tuberculosis struck at seventeen, worked as a journalist exposing the misery of the Berber population of Kabylie, and founded a theatre troupe. In 1942 he published the novel *The Stranger* and the essay [[the-myth-of-sisyphus|*The Myth of Sisyphus*]]. During the occupation he joined the Resistance and edited its clandestine newspaper *Combat*. *The Plague* (1947) and *The Rebel* (1951) followed; the latter caused his public break with [[jean-paul-sartre|Sartre]]. During the Algerian War he condemned both French torture and FLN terrorism and called for a civilian truce, a position that satisfied neither side. He received the Nobel Prize in Literature in 1957, aged 44. He died in a car crash near Villeblevin in January 1960; an unfinished autobiographical novel, *The First Man*, was found in the wreck.
+Albert Camus (1913–1960) was born in Mondovi (now Dréan), in French Algeria, into a poor *pied-noir* family. His father was killed in the Battle of the Marne in 1914; he grew up in a working-class district of Algiers with his nearly deaf, illiterate mother. A schoolteacher, Louis Germain, secured him a scholarship to the lycée; Camus dedicated his Nobel lecture to him. He studied philosophy at the University of Algiers (his thesis was on Plotinus and Augustine), played goalkeeper until tuberculosis struck at seventeen, worked as a journalist exposing the misery of the Berber population of Kabylie, and founded a theatre troupe. In 1942 he published the novel *The Stranger* and the essay [*The Myth of Sisyphus*](../texts/the-myth-of-sisyphus.md). During the occupation he joined the Resistance and edited its clandestine newspaper *Combat*. *The Plague* (1947) and *The Rebel* (1951) followed; the latter caused his public break with [Sartre](jean-paul-sartre.md). During the Algerian War he condemned both French torture and FLN terrorism and called for a civilian truce, a position that satisfied neither side. He received the Nobel Prize in Literature in 1957, aged 44. He died in a car crash near Villeblevin in January 1960; an unfinished autobiographical novel, *The First Man*, was found in the wreck.
 
 ## Core ideas
 
@@ -28,7 +28,7 @@ flowchart LR
 
 ## Camus and his contemporaries
 
-Camus rejected the label "existentialist" and did not consider himself a philosopher. He drew on [[blaise-pascal|Pascal]], [[fyodor-dostoevsky|Dostoevsky]], [[friedrich-nietzsche|Nietzsche]] and the Greeks. He admired [[simone-weil|Simone Weil]], whose *The Need for Roots* he published in Gallimard's "Espoir" series. The break with Sartre turned on whether revolutionary violence could be justified by history.
+Camus rejected the label "existentialist" and did not consider himself a philosopher. He drew on [Pascal](../../early-modern/thinkers/blaise-pascal.md), [Dostoevsky](../../nineteenth-century/thinkers/fyodor-dostoevsky.md), [Nietzsche](../../nineteenth-century/thinkers/friedrich-nietzsche.md) and the Greeks. He admired [Simone Weil](simone-weil.md), whose *The Need for Roots* he published in Gallimard's "Espoir" series. The break with Sartre turned on whether revolutionary violence could be justified by history.
 
 ## Influence and criticism
 
@@ -43,7 +43,7 @@ Camus remains one of the most widely read French writers. Critics such as Sartre
 
 ## Where this leads
 
-- Text: [[the-myth-of-sisyphus|*The Myth of Sisyphus*]]
-- Next thinker: [[simone-de-beauvoir|Simone de Beauvoir]]
-- Back: [[augustine|Augustine]] and [[gk:plotinus.md|Plotinus]], the subjects of his thesis; [[the-brothers-karamazov|*The Brothers Karamazov*]]
-- Glossary: [[g:the-absurd|the absurd]]
+- Text: [*The Myth of Sisyphus*](../texts/the-myth-of-sisyphus.md)
+- Next thinker: [Simone de Beauvoir](simone-de-beauvoir.md)
+- Back: [Augustine](../../../medieval/thinkers/augustine.md) and [Plotinus](../../../ancient/greek/thinkers/plotinus.md), the subjects of his thesis; [*The Brothers Karamazov*](../../nineteenth-century/texts/the-brothers-karamazov.md)
+- Glossary: [the absurd](../../../../glossary/modern/the-absurd.md)

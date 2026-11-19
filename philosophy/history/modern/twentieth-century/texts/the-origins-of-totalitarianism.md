@@ -1,12 +1,12 @@
 # Arendt, *The Origins of Totalitarianism*
 
-**Prerequisites:** [[hannah-arendt|Hannah Arendt]]
+**Prerequisites:** [Hannah Arendt](../thinkers/hannah-arendt.md)
 
 @@IMG@@
 
 ## Dating and form
 
-[[hannah-arendt|Arendt]] wrote the book in New York in the late 1940s, and it was published in 1951 (in Britain under the title *The Burden of Our Time*). A second edition (1958) added the chapter "Ideology and Terror" and an epilogue on the Hungarian Revolution; later editions dropped the epilogue and added prefaces to each part. It is long (over 500 pages), dense with historical detail, and in three parts.
+[Arendt](../thinkers/hannah-arendt.md) wrote the book in New York in the late 1940s, and it was published in 1951 (in Britain under the title *The Burden of Our Time*). A second edition (1958) added the chapter "Ideology and Terror" and an epilogue on the Hungarian Revolution; later editions dropped the epilogue and added prefaces to each part. It is long (over 500 pages), dense with historical detail, and in three parts.
 
 ## Outline
 
@@ -36,5 +36,5 @@ The book helped define the Cold War concept of totalitarianism, though Arendt's 
 
 ## Where this leads
 
-- Next text: [[eichmann-in-jerusalem|*Eichmann in Jerusalem*]]
-- Glossary: [[g:totalitarianism|totalitarianism]], [[g:natality|natality]]
+- Next text: [*Eichmann in Jerusalem*](eichmann-in-jerusalem.md)
+- Glossary: [totalitarianism](../../../../glossary/modern/totalitarianism.md), [natality](../../../../glossary/modern/natality.md)

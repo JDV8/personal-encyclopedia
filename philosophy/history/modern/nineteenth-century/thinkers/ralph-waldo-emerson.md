@@ -1,12 +1,12 @@
 # Ralph Waldo Emerson
 
-**Prerequisites:** [[transcendentalism|American transcendentalism]]
+**Prerequisites:** [American transcendentalism](../05-transcendentalism.md)
 
 @@IMG@@
 
 ## Life and context
 
-Ralph Waldo Emerson (1803–1882) was born in Boston, son of a Unitarian minister who died when Ralph was eight. He studied at Harvard, taught school, and in 1829 became junior pastor of Boston's Second Church. That year he married Ellen Tucker, who died of tuberculosis in 1831, aged nineteen. In 1832 he resigned his pulpit, saying he could no longer administer the Lord's Supper in good conscience. He travelled to Europe, met Coleridge, Wordsworth and Thomas Carlyle (who became a lifelong correspondent), and visited the Jardin des Plantes in Paris, where the classification of natural specimens moved him deeply. He settled in Concord, Massachusetts, remarried, and published *Nature* (1836), the founding document of transcendentalism. His "American Scholar" address (1837), which Oliver Wendell Holmes called America's intellectual Declaration of Independence, and his "Divinity School Address" (1838), which scandalized Harvard, followed. He earned his living as a lecturer, travelling widely in the United States and Britain. His essays were collected in *Essays: First Series* (1841), including [[self-reliance|"Self-Reliance"]] and "The Over-Soul", and *Second Series* (1844). His son Waldo died at five in 1842, the occasion of the essay "Experience". He supported Thoreau, encouraged Whitman, and became a public opponent of slavery. His memory failed in his last decade.
+Ralph Waldo Emerson (1803–1882) was born in Boston, son of a Unitarian minister who died when Ralph was eight. He studied at Harvard, taught school, and in 1829 became junior pastor of Boston's Second Church. That year he married Ellen Tucker, who died of tuberculosis in 1831, aged nineteen. In 1832 he resigned his pulpit, saying he could no longer administer the Lord's Supper in good conscience. He travelled to Europe, met Coleridge, Wordsworth and Thomas Carlyle (who became a lifelong correspondent), and visited the Jardin des Plantes in Paris, where the classification of natural specimens moved him deeply. He settled in Concord, Massachusetts, remarried, and published *Nature* (1836), the founding document of transcendentalism. His "American Scholar" address (1837), which Oliver Wendell Holmes called America's intellectual Declaration of Independence, and his "Divinity School Address" (1838), which scandalized Harvard, followed. He earned his living as a lecturer, travelling widely in the United States and Britain. His essays were collected in *Essays: First Series* (1841), including ["Self-Reliance"](../texts/self-reliance.md) and "The Over-Soul", and *Second Series* (1844). His son Waldo died at five in 1842, the occasion of the essay "Experience". He supported Thoreau, encouraged Whitman, and became a public opponent of slavery. His memory failed in his last decade.
 
 ## Core ideas
 
@@ -34,7 +34,7 @@ flowchart LR
 
 ## Influence and criticism
 
-Emerson shaped American literature and thought: Thoreau, Whitman, Emily Dickinson, William James and the pragmatists. [[friedrich-nietzsche|Nietzsche]] read him repeatedly and annotated his essays. Stanley Cavell revived him as a serious philosopher of "moral perfectionism". Critics fault his optimism as blind to evil and suffering, his individualism as antisocial, and his style as aphoristic rather than argued. Melville and Hawthorne were sceptical; later historians debate his early views on race and his eventual abolitionism.
+Emerson shaped American literature and thought: Thoreau, Whitman, Emily Dickinson, William James and the pragmatists. [Nietzsche](friedrich-nietzsche.md) read him repeatedly and annotated his essays. Stanley Cavell revived him as a serious philosopher of "moral perfectionism". Critics fault his optimism as blind to evil and suffering, his individualism as antisocial, and his style as aphoristic rather than argued. Melville and Hawthorne were sceptical; later historians debate his early views on race and his eventual abolitionism.
 
 ## Key ideas
 
@@ -45,8 +45,8 @@ Emerson shaped American literature and thought: Thoreau, Whitman, Emily Dickinso
 
 ## Where this leads
 
-- Text: [[self-reliance|"Self-Reliance"]]
-- Next thinker: [[henry-david-thoreau|Henry David Thoreau]]
-- Forward: [[friedrich-nietzsche|Nietzsche]]
-- Back: [[michel-de-montaigne|Montaigne]], [[gk:plotinus.md|Plotinus]]
-- Glossary: [[g:transcendentalism|transcendentalism]]
+- Text: ["Self-Reliance"](../texts/self-reliance.md)
+- Next thinker: [Henry David Thoreau](henry-david-thoreau.md)
+- Forward: [Nietzsche](friedrich-nietzsche.md)
+- Back: [Montaigne](../../early-modern/thinkers/michel-de-montaigne.md), [Plotinus](../../../ancient/greek/thinkers/plotinus.md)
+- Glossary: [transcendentalism](../../../../glossary/modern/transcendentalism.md)

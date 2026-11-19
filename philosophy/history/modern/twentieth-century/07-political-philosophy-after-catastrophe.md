@@ -1,6 +1,6 @@
 # Political philosophy after catastrophe: Arendt, Weil and Rawls
 
-**Prerequisites:** [[social-contract-and-the-state|The social contract]], [[utilitarianism-and-liberalism|Utilitarianism and liberalism]], [[marx-and-historical-materialism|Marx]]
+**Prerequisites:** [The social contract](../early-modern/05-social-contract-and-the-state.md), [Utilitarianism and liberalism](../nineteenth-century/03-utilitarianism-and-liberalism.md), [Marx](../nineteenth-century/04-marx-and-historical-materialism.md)
 
 @@IMG@@
 
@@ -8,25 +8,25 @@
 
 Between 1914 and 1945 Europe passed through two world wars, the Russian Revolution, Stalin's terror and famines, the rise of Fascism and Nazism, and the Holocaust. The Enlightenment confidence that reason and progress would make politics humane seemed shattered. Political philosophers had to ask: How was this possible? What is new about these regimes? What, if anything, can ground justice and freedom now?
 
-This lesson follows three answers: [[hannah-arendt|Hannah Arendt]] on totalitarianism and action, [[simone-weil|Simone Weil]] on force, roots and obligation, and [[john-rawls|John Rawls]] on justice as fairness. A fourth thread, [[karl-popper|Popper]]'s defence of the "open society", appears in the [[philosophy-of-science|previous lesson]].
+This lesson follows three answers: [Hannah Arendt](thinkers/hannah-arendt.md) on totalitarianism and action, [Simone Weil](thinkers/simone-weil.md) on force, roots and obligation, and [John Rawls](thinkers/john-rawls.md) on justice as fairness. A fourth thread, [Popper](thinkers/karl-popper.md)'s defence of the "open society", appears in the [previous lesson](06-philosophy-of-science.md).
 
 ## Arendt: totalitarianism and the human condition
 
-[[hannah-arendt|Arendt]] (1906–1975), a German-Jewish student of Heidegger and Jaspers who fled Nazi Germany, argued in [[the-origins-of-totalitarianism|*The Origins of Totalitarianism*]] (1951) that Nazism and Stalinism were a genuinely new form of government, not just extreme tyranny. Totalitarianism aims at **total domination**: it uses ideology (a single idea, of race or of history, from which everything is deduced) and terror to make human beings superfluous, and its laboratory is the concentration camp. Its preconditions included modern antisemitism, imperialism, the collapse of the class system into "masses", and the plight of stateless people who had lost "the right to have rights".
+[Arendt](thinkers/hannah-arendt.md) (1906–1975), a German-Jewish student of Heidegger and Jaspers who fled Nazi Germany, argued in [*The Origins of Totalitarianism*](texts/the-origins-of-totalitarianism.md) (1951) that Nazism and Stalinism were a genuinely new form of government, not just extreme tyranny. Totalitarianism aims at **total domination**: it uses ideology (a single idea, of race or of history, from which everything is deduced) and terror to make human beings superfluous, and its laboratory is the concentration camp. Its preconditions included modern antisemitism, imperialism, the collapse of the class system into "masses", and the plight of stateless people who had lost "the right to have rights".
 
 In *The Human Condition* (1958) she distinguished **labour** (meeting biological necessity), **work** (making a durable world of things) and **action** (appearing among others in speech and deed, beginning something new). Politics is the realm of action and plurality; its root is **natality**, the human capacity to begin. Modernity, she argued, had elevated labour and consumption and lost the public realm.
 
-Reporting on the 1961 trial of Adolf Eichmann, she described "the [[g:banality-of-evil|banality of evil]]": Eichmann was not a demonic monster but a thoughtless careerist who spoke in clichés. Evil on a vast scale could come from the failure to think. See [[eichmann-in-jerusalem|*Eichmann in Jerusalem*]] (1963), which caused bitter controversy.
+Reporting on the 1961 trial of Adolf Eichmann, she described "the [banality of evil](../../../glossary/modern/banality-of-evil.md)": Eichmann was not a demonic monster but a thoughtless careerist who spoke in clichés. Evil on a vast scale could come from the failure to think. See [*Eichmann in Jerusalem*](texts/eichmann-in-jerusalem.md) (1963), which caused bitter controversy.
 
 ## Weil: force, attention and roots
 
-[[simone-weil|Simone Weil]] (1909–1943), a French philosopher who worked in factories and fought briefly in the Spanish Civil War, wrote "The Iliad, or the Poem of Force" (1940): force turns anyone subjected to it into a thing, and it intoxicates those who wield it. In *The Need for Roots* (written 1943 for the Free French), she argued that obligations come before rights, and that uprootedness (from land, work, tradition and community) is the most dangerous disease of modern societies, a breeding ground for totalitarianism. Her religious writings, gathered in [[gravity-and-grace|*Gravity and Grace*]], centre on attention and the renunciation of self.
+[Simone Weil](thinkers/simone-weil.md) (1909–1943), a French philosopher who worked in factories and fought briefly in the Spanish Civil War, wrote "The Iliad, or the Poem of Force" (1940): force turns anyone subjected to it into a thing, and it intoxicates those who wield it. In *The Need for Roots* (written 1943 for the Free French), she argued that obligations come before rights, and that uprootedness (from land, work, tradition and community) is the most dangerous disease of modern societies, a breeding ground for totalitarianism. Her religious writings, gathered in [*Gravity and Grace*](texts/gravity-and-grace.md), centre on attention and the renunciation of self.
 
 ## Rawls: justice as fairness
 
-In the Anglo-American world, utilitarianism had dominated political thinking. [[john-rawls|John Rawls]] (1921–2002) argued in [[a-theory-of-justice|*A Theory of Justice*]] (1971) that utilitarianism "does not take seriously the distinction between persons": it could sacrifice some for the greater total. He revived the [[social-contract-and-the-state|social contract]] in a new form.
+In the Anglo-American world, utilitarianism had dominated political thinking. [John Rawls](thinkers/john-rawls.md) (1921–2002) argued in [*A Theory of Justice*](texts/a-theory-of-justice.md) (1971) that utilitarianism "does not take seriously the distinction between persons": it could sacrifice some for the greater total. He revived the [social contract](../early-modern/05-social-contract-and-the-state.md) in a new form.
 
-Imagine choosing principles of justice in an **original position**, behind a **[[g:veil-of-ignorance|veil of ignorance]]**: you do not know your sex, race, class, talents or conception of the good life. What principles would you choose? Rawls argued for two:
+Imagine choosing principles of justice in an **original position**, behind a **[veil of ignorance](../../../glossary/modern/veil-of-ignorance.md)**: you do not know your sex, race, class, talents or conception of the good life. What principles would you choose? Rawls argued for two:
 
 1. Each person has an equal right to the most extensive scheme of equal basic liberties compatible with a similar scheme for all.
 2. Social and economic inequalities are permissible only if (a) attached to positions open to all under fair equality of opportunity, and (b) to the greatest benefit of the least advantaged (the **difference principle**).
@@ -54,7 +54,7 @@ Robert Nozick's *Anarchy, State, and Utopia* (1974) replied from the libertarian
 
 ## Where this leads
 
-- Next: [[structuralism-and-after|Structuralism and after: Foucault]]
-- Thinkers: [[hannah-arendt|Arendt]], [[simone-weil|Weil]], [[john-rawls|Rawls]]
-- Texts: [[the-origins-of-totalitarianism|*Origins of Totalitarianism*]], [[eichmann-in-jerusalem|*Eichmann in Jerusalem*]], [[a-theory-of-justice|*A Theory of Justice*]], [[gravity-and-grace|*Gravity and Grace*]]
-- Economics: [[micro:08-welfare-economics|welfare economics]]
+- Next: [Structuralism and after: Foucault](08-structuralism-and-after.md)
+- Thinkers: [Arendt](thinkers/hannah-arendt.md), [Weil](thinkers/simone-weil.md), [Rawls](thinkers/john-rawls.md)
+- Texts: [*Origins of Totalitarianism*](texts/the-origins-of-totalitarianism.md), [*Eichmann in Jerusalem*](texts/eichmann-in-jerusalem.md), [*A Theory of Justice*](texts/a-theory-of-justice.md), [*Gravity and Grace*](texts/gravity-and-grace.md)
+- Economics: [welfare economics](../../../../economics/microeconomics/08-welfare-economics/README.md)

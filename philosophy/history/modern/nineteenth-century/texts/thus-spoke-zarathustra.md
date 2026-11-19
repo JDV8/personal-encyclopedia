@@ -1,12 +1,12 @@
 # Nietzsche, *Thus Spoke Zarathustra*
 
-**Prerequisites:** [[friedrich-nietzsche|Friedrich Nietzsche]]; [[nietzsche-and-the-death-of-god|Nietzsche and the death of God]]
+**Prerequisites:** [Friedrich Nietzsche](../thinkers/friedrich-nietzsche.md); [Nietzsche and the death of God](../08-nietzsche-and-the-death-of-god.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*Also sprach Zarathustra: Ein Buch für Alle und Keinen* ("A Book for All and None") appeared in four parts between 1883 and 1885; [[friedrich-nietzsche|Nietzsche]] wrote the first three parts in bursts of about ten days each, in Rapallo, Sils Maria and Nice. The fourth part was privately printed in about forty copies. The idea of eternal recurrence came to him, he said, in August 1881 by a pyramidal rock near Lake Silvaplana, "6,000 feet beyond man and time". The book is a philosophical prose poem in the style of Luther's Bible, with parables, speeches, songs and dreams. Its hero is named after Zarathustra (Zoroaster), the Persian prophet who, Nietzsche says in *Ecce Homo*, first made morality a cosmic force and so must be the first to recognize his error.
+*Also sprach Zarathustra: Ein Buch für Alle und Keinen* ("A Book for All and None") appeared in four parts between 1883 and 1885; [Nietzsche](../thinkers/friedrich-nietzsche.md) wrote the first three parts in bursts of about ten days each, in Rapallo, Sils Maria and Nice. The fourth part was privately printed in about forty copies. The idea of eternal recurrence came to him, he said, in August 1881 by a pyramidal rock near Lake Silvaplana, "6,000 feet beyond man and time". The book is a philosophical prose poem in the style of Luther's Bible, with parables, speeches, songs and dreams. Its hero is named after Zarathustra (Zoroaster), the Persian prophet who, Nietzsche says in *Ecce Homo*, first made morality a cosmic force and so must be the first to recognize his error.
 
 ## Outline
 
@@ -37,6 +37,6 @@ Nietzsche considered it his most important book. Richard Strauss composed a tone
 
 ## Where this leads
 
-- Next text: [[beyond-good-and-evil|*Beyond Good and Evil*]]
-- Glossary: [[g:ubermensch|Übermensch]], [[g:eternal-recurrence|eternal recurrence]], [[g:will-to-power|will to power]]
-- Back: [[self-reliance|"Self-Reliance"]]; [[bib:new-testament/stories/03-sermon-on-the-mount.md|the Sermon on the Mount]], which it parodies in places
+- Next text: [*Beyond Good and Evil*](beyond-good-and-evil.md)
+- Glossary: [Übermensch](../../../../glossary/modern/ubermensch.md), [eternal recurrence](../../../../glossary/modern/eternal-recurrence.md), [will to power](../../../../glossary/modern/will-to-power.md)
+- Back: ["Self-Reliance"](self-reliance.md); [the Sermon on the Mount](../../../../../religion/abrahamic/christianity/bible/new-testament/stories/03-sermon-on-the-mount.md), which it parodies in places

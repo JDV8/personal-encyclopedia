@@ -1,6 +1,6 @@
 # Descartes, *Discourse on the Method*
 
-**Prerequisites:** [[rene-descartes|René Descartes]]
+**Prerequisites:** [René Descartes](../thinkers/rene-descartes.md)
 
 @@IMG@@
 
@@ -13,7 +13,7 @@ Published anonymously in Leiden in 1637, in French rather than Latin so that peo
 1. **Autobiography of a mind.** Good sense is the best distributed thing in the world; the problem is method. His education left him with doubts; he resolved to study "the great book of the world" and himself.
 2. **The four rules.** Accept nothing as true unless clearly and distinctly known; divide each difficulty into parts; proceed in order from simple to complex; make complete enumerations. The image of a city planned by one architect versus an old town built piecemeal.
 3. **Provisional morality.** While rebuilding, live by moderate maxims: obey the laws and customs of one's country; be resolute once decided; change one's desires rather than the world; devote one's life to cultivating reason.
-4. **Metaphysics.** Doubt, and the first appearance of "I think, therefore I am" (*je pense, donc je suis*); the existence of God; the distinction of mind and body. A compressed version of what the [[meditations-on-first-philosophy|*Meditations*]] would develop.
+4. **Metaphysics.** Doubt, and the first appearance of "I think, therefore I am" (*je pense, donc je suis*); the existence of God; the distinction of mind and body. A compressed version of what the [*Meditations*](meditations-on-first-philosophy.md) would develop.
 5. **Physics and physiology.** A summary of *The World*, the circulation of the blood (crediting William Harvey, while disagreeing on the heart's mechanism), animals as machines, and two tests that distinguish humans from machines: language and flexible reason.
 6. **Why publish.** The project of a practical science that would make us "masters and possessors of nature", especially through medicine.
 
@@ -38,6 +38,6 @@ The *Discourse* is one of the founding documents of modern philosophy and of Fre
 
 ## Where this leads
 
-- Next text: [[meditations-on-first-philosophy|*Meditations on First Philosophy*]]
-- Back: [[novum-organum|*Novum Organum*]], the rival method
-- Glossary: [[g:cogito|cogito]]
+- Next text: [*Meditations on First Philosophy*](meditations-on-first-philosophy.md)
+- Back: [*Novum Organum*](novum-organum.md), the rival method
+- Glossary: [cogito](../../../../glossary/modern/cogito.md)

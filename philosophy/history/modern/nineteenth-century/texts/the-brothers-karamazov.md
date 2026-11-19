@@ -1,6 +1,6 @@
 # Dostoevsky, *The Brothers Karamazov*
 
-**Prerequisites:** [[fyodor-dostoevsky|Fyodor Dostoevsky]]; [[the-philosophical-novel|The philosophical novel]]
+**Prerequisites:** [Fyodor Dostoevsky](../thinkers/fyodor-dostoevsky.md); [The philosophical novel](../07-the-philosophical-novel.md)
 
 *A novel, included for its philosophical chapters ("Rebellion", "The Grand Inquisitor", Zosima's teaching), which are among the most discussed passages in philosophy of religion.*
 
@@ -8,7 +8,7 @@
 
 ## Dating and context
 
-Serialized in *The Russian Messenger* in 1879–80 and published as a book in late 1880, a few months before [[fyodor-dostoevsky|Dostoevsky]]'s death. It was planned as the first part of a larger work. Grief over the death of his three-year-old son Alyosha in 1878 shaped the book; Dostoevsky visited the Optina monastery afterwards, and its elder Ambrose is one model for Zosima. The epigraph is John 12:24: "Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
+Serialized in *The Russian Messenger* in 1879–80 and published as a book in late 1880, a few months before [Dostoevsky](../thinkers/fyodor-dostoevsky.md)'s death. It was planned as the first part of a larger work. Grief over the death of his three-year-old son Alyosha in 1878 shaped the book; Dostoevsky visited the Optina monastery afterwards, and its elder Ambrose is one model for Zosima. The epigraph is John 12:24: "Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
 
 ## Story and characters
 
@@ -30,7 +30,7 @@ flowchart TB
 
 ## Reception
 
-Freud called it the most magnificent novel ever written; Einstein and Wittgenstein admired it. The "Rebellion" chapter is a classic statement of the problem of evil; [[albert-camus|Camus]] discussed Ivan in *The Rebel*. Translations: Richard Pevear and Larissa Volokhonsky (Vintage); David McDuff (Penguin); Constance Garnett, revised by Ralph Matlaw (Norton Critical).
+Freud called it the most magnificent novel ever written; Einstein and Wittgenstein admired it. The "Rebellion" chapter is a classic statement of the problem of evil; [Camus](../../twentieth-century/thinkers/albert-camus.md) discussed Ivan in *The Rebel*. Translations: Richard Pevear and Larissa Volokhonsky (Vintage); David McDuff (Penguin); Constance Garnett, revised by Ralph Matlaw (Norton Critical).
 
 ## Key ideas
 
@@ -40,7 +40,7 @@ Freud called it the most magnificent novel ever written; Einstein and Wittgenste
 
 ## Where this leads
 
-- Next text: [[a-confession|Tolstoy, *A Confession*]]
-- Related: [[bib:old-testament/books/wisdom-poetry/job.md|Job]]; [[bib:new-testament/stories/02-baptism-and-temptation.md|the temptation in the wilderness]]
-- Back: [[candide|*Candide*]]
-- Forward: [[the-myth-of-sisyphus|*The Myth of Sisyphus*]], [[i-see-satan-fall-like-lightning|Girard]]
+- Next text: [Tolstoy, *A Confession*](a-confession.md)
+- Related: [Job](../../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/job.md); [the temptation in the wilderness](../../../../../religion/abrahamic/christianity/bible/new-testament/stories/02-baptism-and-temptation.md)
+- Back: [*Candide*](../../early-modern/texts/candide.md)
+- Forward: [*The Myth of Sisyphus*](../../twentieth-century/texts/the-myth-of-sisyphus.md), [Girard](../../twentieth-century/texts/i-see-satan-fall-like-lightning.md)

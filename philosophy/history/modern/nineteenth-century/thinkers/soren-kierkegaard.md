@@ -1,6 +1,6 @@
 # Søren Kierkegaard
 
-**Prerequisites:** [[existential-beginnings|Existential beginnings]]
+**Prerequisites:** [Existential beginnings](../06-existential-beginnings.md)
 
 @@IMG@@
 
@@ -16,7 +16,7 @@ Kierkegaard believed that existential truth cannot be transmitted like informati
 
 **The stages of existence.** Aesthetic (living for the interesting moment), ethical (committing to universal duty) and religious (relation to God as an individual). *Either/Or* (1843) contrasts the first two; *Stages on Life's Way* (1845) all three.
 
-**Faith and the teleological suspension of the ethical.** [[fear-and-trembling|*Fear and Trembling*]] (1843) asks whether Abraham, willing to sacrifice Isaac at God's command, is a murderer or the father of faith. If faith is real, the individual can stand in an absolute relation to God above the universal ethical.
+**Faith and the teleological suspension of the ethical.** [*Fear and Trembling*](../texts/fear-and-trembling.md) (1843) asks whether Abraham, willing to sacrifice Isaac at God's command, is a murderer or the father of faith. If faith is real, the individual can stand in an absolute relation to God above the universal ethical.
 
 **Truth is subjectivity.** In the *Concluding Unscientific Postscript* (1846), Climacus argues that objective approaches to Christianity (historical scholarship, speculative systems) miss the point; what matters is the individual's passionate appropriation.
 
@@ -35,7 +35,7 @@ flowchart LR
 
 ## Influence and criticism
 
-Little read outside Denmark until the early twentieth century, Kierkegaard then shaped dialectical theology (Karl Barth), existentialism ([[martin-heidegger|Heidegger]], Jaspers, [[jean-paul-sartre|Sartre]], [[albert-camus|Camus]], who criticized his leap as "philosophical suicide"), [[ludwig-wittgenstein|Wittgenstein]] (who called him by far the most profound thinker of the nineteenth century) and modern psychology. Critics accuse him of irrationalism and of an individualism that neglects social and political life; others find in *Works of Love* a profound social ethic.
+Little read outside Denmark until the early twentieth century, Kierkegaard then shaped dialectical theology (Karl Barth), existentialism ([Heidegger](../../twentieth-century/thinkers/martin-heidegger.md), Jaspers, [Sartre](../../twentieth-century/thinkers/jean-paul-sartre.md), [Camus](../../twentieth-century/thinkers/albert-camus.md), who criticized his leap as "philosophical suicide"), [Wittgenstein](../../twentieth-century/thinkers/ludwig-wittgenstein.md) (who called him by far the most profound thinker of the nineteenth century) and modern psychology. Critics accuse him of irrationalism and of an individualism that neglects social and political life; others find in *Works of Love* a profound social ethic.
 
 ## Key ideas
 
@@ -46,8 +46,8 @@ Little read outside Denmark until the early twentieth century, Kierkegaard then 
 
 ## Where this leads
 
-- Text: [[fear-and-trembling|*Fear and Trembling*]]
-- Next thinker: [[karl-marx|Karl Marx]]
-- Forward: [[existentialism|Existentialism]], [[albert-camus|Camus]]
-- Glossary: [[g:leap-of-faith|leap of faith]], [[g:anxiety|anxiety]], [[g:teleological-suspension-of-the-ethical|teleological suspension of the ethical]]
-- Related: [[bib:old-testament/stories/01-the-binding-of-isaac.md|The binding of Isaac]]
+- Text: [*Fear and Trembling*](../texts/fear-and-trembling.md)
+- Next thinker: [Karl Marx](karl-marx.md)
+- Forward: [Existentialism](../../twentieth-century/03-existentialism.md), [Camus](../../twentieth-century/thinkers/albert-camus.md)
+- Glossary: [leap of faith](../../../../glossary/modern/leap-of-faith.md), [anxiety](../../../../glossary/modern/anxiety.md), [teleological suspension of the ethical](../../../../glossary/modern/teleological-suspension-of-the-ethical.md)
+- Related: [The binding of Isaac](../../../../../religion/abrahamic/christianity/bible/old-testament/stories/01-the-binding-of-isaac.md)

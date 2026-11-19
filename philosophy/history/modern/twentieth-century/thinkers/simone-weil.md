@@ -1,6 +1,6 @@
 # Simone Weil
 
-**Prerequisites:** [[political-philosophy-after-catastrophe|Political philosophy after catastrophe]]; helpful: [[gk:plato.md|Plato]]
+**Prerequisites:** [Political philosophy after catastrophe](../07-political-philosophy-after-catastrophe.md); helpful: [Plato](../../../ancient/greek/thinkers/plato.md)
 
 @@IMG@@
 
@@ -16,7 +16,7 @@ Simone Weil (1909–1943) was born in Paris into a secular, prosperous Jewish fa
 
 **Attention.** Attention is the rarest and purest form of generosity. Even school exercises, rightly done, train the capacity for attention that prayer and love of neighbour need ("Reflections on the Right Use of School Studies with a View to the Love of God").
 
-**Gravity and grace.** The soul is subject to a moral "gravity" pulling it toward self-interest and force; only grace, which comes from outside, lifts it. See [[gravity-and-grace|*Gravity and Grace*]].
+**Gravity and grace.** The soul is subject to a moral "gravity" pulling it toward self-interest and force; only grace, which comes from outside, lifts it. See [*Gravity and Grace*](../texts/gravity-and-grace.md).
 
 **Decreation.** We must consent to "undo the creature in us", renouncing the self that claims to be the centre of the world, so that God can love through us.
 
@@ -44,7 +44,7 @@ Camus called her "the only great spirit of our times" and edited her works for G
 
 ## Where this leads
 
-- Text: [[gravity-and-grace|*Gravity and Grace*]]
-- Next thinker: [[karl-popper|Karl Popper]]
-- Back: [[gk:plato.md|Plato]]; [[the-kingdom-of-god-is-within-you|Tolstoy on non-violence]]
-- Glossary: [[g:attention|attention]], [[g:decreation|decreation]]
+- Text: [*Gravity and Grace*](../texts/gravity-and-grace.md)
+- Next thinker: [Karl Popper](karl-popper.md)
+- Back: [Plato](../../../ancient/greek/thinkers/plato.md); [Tolstoy on non-violence](../../nineteenth-century/texts/the-kingdom-of-god-is-within-you.md)
+- Glossary: [attention](../../../../glossary/modern/attention.md), [decreation](../../../../glossary/modern/decreation.md)

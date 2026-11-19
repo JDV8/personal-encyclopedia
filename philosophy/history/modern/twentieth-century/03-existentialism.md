@@ -1,16 +1,16 @@
 # Existentialism: existence precedes essence
 
-**Prerequisites:** [[existential-beginnings|Existential beginnings]], [[phenomenology|Phenomenology]], [[nietzsche-and-the-death-of-god|Nietzsche and the death of God]]
+**Prerequisites:** [Existential beginnings](../nineteenth-century/06-existential-beginnings.md), [Phenomenology](01-phenomenology.md), [Nietzsche and the death of God](../nineteenth-century/08-nietzsche-and-the-death-of-god.md)
 
 @@IMG@@
 
 ## From first principles: what is a person "for"?
 
-A paper knife is made by a craftsman who first had an idea of what a paper knife is for. Its essence, its purpose and definition, comes before its existence. For centuries, many people thought of human beings the same way: God, the craftsman, had an idea of human nature, and each of us realizes it. Even atheist philosophers of the Enlightenment, [[jean-paul-sartre|Sartre]] argued, kept the idea of a fixed human nature.
+A paper knife is made by a craftsman who first had an idea of what a paper knife is for. Its essence, its purpose and definition, comes before its existence. For centuries, many people thought of human beings the same way: God, the craftsman, had an idea of human nature, and each of us realizes it. Even atheist philosophers of the Enlightenment, [Sartre](thinkers/jean-paul-sartre.md) argued, kept the idea of a fixed human nature.
 
-Existentialism, in Sartre's formula, reverses this: for human beings, **existence precedes essence**. We first exist, find ourselves in the world, and only afterwards define ourselves by what we do. There is no human nature given in advance, because there is no God to conceive it. "Man is nothing else but what he makes of himself" ([[existentialism-is-a-humanism|*Existentialism Is a Humanism*]], 1945, a popular lecture Sartre later partly regretted).
+Existentialism, in Sartre's formula, reverses this: for human beings, **existence precedes essence**. We first exist, find ourselves in the world, and only afterwards define ourselves by what we do. There is no human nature given in advance, because there is no God to conceive it. "Man is nothing else but what he makes of himself" ([*Existentialism Is a Humanism*](texts/existentialism-is-a-humanism.md), 1945, a popular lecture Sartre later partly regretted).
 
-The word "existentialism" was coined in the 1940s and attached to Sartre, [[simone-de-beauvoir|Simone de Beauvoir]], [[albert-camus|Albert Camus]] (who rejected it), Maurice Merleau-Ponty and others, with Kierkegaard, Dostoevsky, Nietzsche, Jaspers and [[martin-heidegger|Heidegger]] (who also rejected it) named as forerunners. It became a cultural phenomenon in postwar Paris: cafés of Saint-Germain-des-Prés, novels, plays, jazz.
+The word "existentialism" was coined in the 1940s and attached to Sartre, [Simone de Beauvoir](thinkers/simone-de-beauvoir.md), [Albert Camus](thinkers/albert-camus.md) (who rejected it), Maurice Merleau-Ponty and others, with Kierkegaard, Dostoevsky, Nietzsche, Jaspers and [Heidegger](thinkers/martin-heidegger.md) (who also rejected it) named as forerunners. It became a cultural phenomenon in postwar Paris: cafés of Saint-Germain-des-Prés, novels, plays, jazz.
 
 ## Core themes
 
@@ -18,13 +18,13 @@ The word "existentialism" was coined in the 1940s and attached to Sartre, [[simo
 
 **Anguish, abandonment, despair.** Anguish is the feeling of that responsibility; abandonment is the realization that there is no God and no fixed values to lean on; despair is acting without guarantees that things will turn out as we hope.
 
-**[[g:bad-faith|Bad faith]].** We flee freedom by pretending we are things with fixed natures. Sartre's examples in [[being-and-nothingness|*Being and Nothingness*]] (1943): a café waiter who plays at being a waiter with exaggerated precision, as if he were nothing but a waiter; a woman on a date who leaves her hand in a man's hand while pretending not to notice, treating it as a thing.
+**[Bad faith](../../../glossary/modern/bad-faith.md).** We flee freedom by pretending we are things with fixed natures. Sartre's examples in [*Being and Nothingness*](texts/being-and-nothingness.md) (1943): a café waiter who plays at being a waiter with exaggerated precision, as if he were nothing but a waiter; a woman on a date who leaves her hand in a man's hand while pretending not to notice, treating it as a thing.
 
-**[[g:authenticity|Authenticity]].** Living with a lucid acceptance of one's freedom and situation, rather than hiding in roles or the anonymous "they" (Heidegger's *das Man*).
+**[Authenticity](../../../glossary/modern/authenticity.md).** Living with a lucid acceptance of one's freedom and situation, rather than hiding in roles or the anonymous "they" (Heidegger's *das Man*).
 
 **The Other.** Being looked at reveals me as an object for another freedom ("the look"). In Sartre's play *No Exit* (1944) a character says, "Hell is other people", often misread as misanthropy; Sartre said he meant that our relations with others become hellish when we depend entirely on their judgments.
 
-**Situation and embodiment.** De Beauvoir and Merleau-Ponty insisted, more than early Sartre, that freedom is always situated: in a body, a history, a sex, a class. In *The Ethics of Ambiguity* (1947) de Beauvoir argued that my freedom requires willing the freedom of others. In [[the-second-sex|*The Second Sex*]] (1949) she applied existentialist ideas to women: "One is not born, but rather becomes, a woman."
+**Situation and embodiment.** De Beauvoir and Merleau-Ponty insisted, more than early Sartre, that freedom is always situated: in a body, a history, a sex, a class. In *The Ethics of Ambiguity* (1947) de Beauvoir argued that my freedom requires willing the freedom of others. In [*The Second Sex*](texts/the-second-sex.md) (1949) she applied existentialist ideas to women: "One is not born, but rather becomes, a woman."
 
 ```mermaid
 flowchart TB
@@ -43,7 +43,7 @@ Postwar existentialists believed writers must be "engaged". Sartre moved toward 
 
 ## Religious existentialism
 
-Existentialist themes were not confined to atheists. Gabriel Marcel, a Catholic, wrote on presence, fidelity and hope; Karl Jaspers on "limit situations" and transcendence; theologians such as Paul Tillich and Rudolf Bultmann drew on Heidegger. [[soren-kierkegaard|Kierkegaard]], the great forerunner, was a Christian.
+Existentialist themes were not confined to atheists. Gabriel Marcel, a Catholic, wrote on presence, fidelity and hope; Karl Jaspers on "limit situations" and transcendence; theologians such as Paul Tillich and Rudolf Bultmann drew on Heidegger. [Kierkegaard](../nineteenth-century/thinkers/soren-kierkegaard.md), the great forerunner, was a Christian.
 
 ## Criticisms
 
@@ -58,7 +58,7 @@ Critics argued that radical freedom ignores the weight of biology, society and t
 
 ## Where this leads
 
-- Next: [[the-absurd|The absurd: Camus]]
-- Thinkers: [[jean-paul-sartre|Sartre]], [[simone-de-beauvoir|de Beauvoir]]
-- Texts: [[being-and-nothingness|*Being and Nothingness*]], [[existentialism-is-a-humanism|*Existentialism Is a Humanism*]], [[the-second-sex|*The Second Sex*]]
-- Glossary: [[g:existence-precedes-essence|existence precedes essence]], [[g:bad-faith|bad faith]]
+- Next: [The absurd: Camus](04-the-absurd.md)
+- Thinkers: [Sartre](thinkers/jean-paul-sartre.md), [de Beauvoir](thinkers/simone-de-beauvoir.md)
+- Texts: [*Being and Nothingness*](texts/being-and-nothingness.md), [*Existentialism Is a Humanism*](texts/existentialism-is-a-humanism.md), [*The Second Sex*](texts/the-second-sex.md)
+- Glossary: [existence precedes essence](../../../glossary/modern/existence-precedes-essence.md), [bad faith](../../../glossary/modern/bad-faith.md)

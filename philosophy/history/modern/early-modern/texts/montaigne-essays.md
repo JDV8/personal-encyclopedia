@@ -1,12 +1,12 @@
 # Montaigne, *Essays*
 
-**Prerequisites:** [[michel-de-montaigne|Montaigne]]
+**Prerequisites:** [Montaigne](../thinkers/michel-de-montaigne.md)
 
 @@IMG@@
 
 ## Dating and editions
 
-[[michel-de-montaigne|Montaigne]] published the first two books of *Essais* in Bordeaux in 1580, a revised edition in 1582, and a new edition with a third book and hundreds of additions to the first two in Paris in 1588. He kept adding notes in the margins of his own copy (the "Bordeaux Copy") until his death in 1592; his adoptive daughter Marie de Gournay published a posthumous edition in 1595. Modern editions mark the three layers (often A, B, C) so readers can see how his thought grew.
+[Montaigne](../thinkers/michel-de-montaigne.md) published the first two books of *Essais* in Bordeaux in 1580, a revised edition in 1582, and a new edition with a third book and hundreds of additions to the first two in Paris in 1588. He kept adding notes in the margins of his own copy (the "Bordeaux Copy") until his death in 1592; his adoptive daughter Marie de Gournay published a posthumous edition in 1595. Modern editions mark the three layers (often A, B, C) so readers can see how his thought grew.
 
 ## Form
 
@@ -45,6 +45,6 @@ Florio's English translation (1603) shaped Shakespeare and Bacon, who took the t
 
 ## Where this leads
 
-- Next text: [[novum-organum|*Novum Organum*]]
-- Forward: [[pensees|Pascal's *Pensées*]], [[discourse-on-method|*Discourse on the Method*]]
-- Back: [[gk:sextus-empiricus.md|Sextus Empiricus]], [[gt:letters-to-lucilius.md|Seneca's letters]]
+- Next text: [*Novum Organum*](novum-organum.md)
+- Forward: [Pascal's *Pensées*](pensees.md), [*Discourse on the Method*](discourse-on-method.md)
+- Back: [Sextus Empiricus](../../../ancient/greek/thinkers/sextus-empiricus.md), [Seneca's letters](../../../ancient/greek/texts/letters-to-lucilius.md)

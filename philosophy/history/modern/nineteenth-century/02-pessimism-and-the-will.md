@@ -1,12 +1,12 @@
 # Pessimism and the will: Schopenhauer's turn
 
-**Prerequisites:** [[kants-copernican-revolution|Kant's Copernican revolution]], [[german-idealism|German idealism]]; helpful: [[g:will|will]]
+**Prerequisites:** [Kant's Copernican revolution](../early-modern/07-kants-copernican-revolution.md), [German idealism](01-german-idealism.md); helpful: [will](../../../glossary/general/will.md)
 
 @@IMG@@
 
 ## Starting from Kant, ending somewhere else
 
-Take [[immanuel-kant|Kant]]'s division between the world as it appears (structured by space, time and causality) and the world as it is in itself. Kant said the latter is unknowable. [[arthur-schopenhauer|Arthur Schopenhauer]] (1788–1860) agreed that the appearing world is our representation, but claimed there is one place where we meet the thing in itself directly: in our own bodies, from inside. I know my body in two ways. From outside, it is an object among objects. From inside, I know it as willing: striving, desiring, resisting. Schopenhauer's bold step was to say that this inner nature, **will**, is the inner nature of everything.
+Take [Kant](../early-modern/thinkers/immanuel-kant.md)'s division between the world as it appears (structured by space, time and causality) and the world as it is in itself. Kant said the latter is unknowable. [Arthur Schopenhauer](thinkers/arthur-schopenhauer.md) (1788–1860) agreed that the appearing world is our representation, but claimed there is one place where we meet the thing in itself directly: in our own bodies, from inside. I know my body in two ways. From outside, it is an object among objects. From inside, I know it as willing: striving, desiring, resisting. Schopenhauer's bold step was to say that this inner nature, **will**, is the inner nature of everything.
 
 ## The world as will
 
@@ -25,7 +25,7 @@ flowchart TB
 
 ## Why life is suffering
 
-If our essence is endless willing, then life swings like a pendulum between pain and boredom. To want is to lack, and lack is pain. When a desire is satisfied, the satisfaction is brief; either a new desire arises or we fall into boredom. Happiness is merely negative, the temporary absence of pain. Schopenhauer filled his writing with examples: the predator and prey, the sufferings of the poor, the wars of history. This is **philosophical [[g:pessimism|pessimism]]**: not just a mood, but a thesis that existence is, on balance, something that would better not be.
+If our essence is endless willing, then life swings like a pendulum between pain and boredom. To want is to lack, and lack is pain. When a desire is satisfied, the satisfaction is brief; either a new desire arises or we fall into boredom. Happiness is merely negative, the temporary absence of pain. Schopenhauer filled his writing with examples: the predator and prey, the sufferings of the poor, the wars of history. This is **philosophical [pessimism](../../../glossary/modern/pessimism.md)**: not just a mood, but a thesis that existence is, on balance, something that would better not be.
 
 ## Three ways out
 
@@ -35,7 +35,7 @@ If our essence is endless willing, then life swings like a pendulum between pain
 
 ## Influence
 
-Ignored for decades, Schopenhauer became famous after 1851. Wagner built *Tristan und Isolde* partly on his ideas; [[friedrich-nietzsche|Nietzsche]] called him his "educator", then turned against his denial of life; [[leo-tolstoy|Tolstoy]] called him the most brilliant of men for a time; [[sigmund-freud|Freud]] acknowledged that Schopenhauer anticipated aspects of the theory of repression and the unconscious drives; [[ludwig-wittgenstein|Wittgenstein]] read him young. Thomas Mann, Thomas Hardy, Borges and Beckett all bear his marks.
+Ignored for decades, Schopenhauer became famous after 1851. Wagner built *Tristan und Isolde* partly on his ideas; [Nietzsche](thinkers/friedrich-nietzsche.md) called him his "educator", then turned against his denial of life; [Tolstoy](thinkers/leo-tolstoy.md) called him the most brilliant of men for a time; [Freud](../twentieth-century/thinkers/sigmund-freud.md) acknowledged that Schopenhauer anticipated aspects of the theory of repression and the unconscious drives; [Wittgenstein](../twentieth-century/thinkers/ludwig-wittgenstein.md) read him young. Thomas Mann, Thomas Hardy, Borges and Beckett all bear his marks.
 
 ## Criticisms
 
@@ -50,7 +50,7 @@ How can a blind will, as thing in itself, be known by inference from our bodies 
 
 ## Where this leads
 
-- Next: [[utilitarianism-and-liberalism|Utilitarianism and liberalism]]
-- Thinker: [[arthur-schopenhauer|Arthur Schopenhauer]]; text: [[world-as-will-and-representation|*The World as Will and Representation*]]
-- Forward: [[nietzsche-and-the-death-of-god|Nietzsche and the death of God]], [[psychoanalysis-and-depth-psychology|psychoanalysis]]
-- Back: [[c:ethics/ataraxia-and-apatheia.md|ataraxia and apatheia]]; [[bib:old-testament/books/wisdom-poetry/ecclesiastes.md|Ecclesiastes]]
+- Next: [Utilitarianism and liberalism](03-utilitarianism-and-liberalism.md)
+- Thinker: [Arthur Schopenhauer](thinkers/arthur-schopenhauer.md); text: [*The World as Will and Representation*](texts/world-as-will-and-representation.md)
+- Forward: [Nietzsche and the death of God](08-nietzsche-and-the-death-of-god.md), [psychoanalysis](../twentieth-century/05-psychoanalysis-and-depth-psychology.md)
+- Back: [ataraxia and apatheia](../../../concepts/ethics/ataraxia-and-apatheia.md); [Ecclesiastes](../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/ecclesiastes.md)

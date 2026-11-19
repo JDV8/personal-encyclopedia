@@ -1,12 +1,12 @@
 # Locke, *Second Treatise of Government*
 
-**Prerequisites:** [[john-locke|John Locke]]; [[social-contract-and-the-state|The social contract]]
+**Prerequisites:** [John Locke](../thinkers/john-locke.md); [The social contract](../05-social-contract-and-the-state.md)
 
 @@IMG@@
 
 ## Dating and context
 
-The *Two Treatises of Government* were published anonymously in London in late 1689 (dated 1690), presented as a justification of the Glorious Revolution that put William III on the throne. Scholars, notably Peter Laslett, showed that most of the text was written earlier, around 1679–1683, during the Exclusion Crisis, when Locke's patron Shaftesbury tried to exclude the Catholic James from the succession. The *First Treatise* refutes Sir Robert Filmer's *Patriarcha*, which grounded kings' absolute power in Adam's fatherly authority. The *Second Treatise*, "An Essay Concerning the True Original, Extent, and End of Civil Government", gives Locke's positive theory. [[john-locke|Locke]] acknowledged authorship only in his will.
+The *Two Treatises of Government* were published anonymously in London in late 1689 (dated 1690), presented as a justification of the Glorious Revolution that put William III on the throne. Scholars, notably Peter Laslett, showed that most of the text was written earlier, around 1679–1683, during the Exclusion Crisis, when Locke's patron Shaftesbury tried to exclude the Catholic James from the succession. The *First Treatise* refutes Sir Robert Filmer's *Patriarcha*, which grounded kings' absolute power in Adam's fatherly authority. The *Second Treatise*, "An Essay Concerning the True Original, Extent, and End of Civil Government", gives Locke's positive theory. [Locke](../thinkers/john-locke.md) acknowledged authorship only in his will.
 
 ## Outline (19 chapters)
 
@@ -38,7 +38,7 @@ The *Second Treatise* became a classic of liberalism and constitutionalism. Its 
 
 ## Where this leads
 
-- Next text: [[monadology|Leibniz's *Monadology*]]
-- Back: [[leviathan|*Leviathan*]]
-- Forward: [[the-social-contract|*The Social Contract*]], [[a-theory-of-justice|Rawls's *A Theory of Justice*]]
-- Glossary: [[g:natural-rights|natural rights]]
+- Next text: [Leibniz's *Monadology*](monadology.md)
+- Back: [*Leviathan*](leviathan.md)
+- Forward: [*The Social Contract*](the-social-contract.md), [Rawls's *A Theory of Justice*](../../twentieth-century/texts/a-theory-of-justice.md)
+- Glossary: [natural rights](../../../../glossary/modern/natural-rights.md)

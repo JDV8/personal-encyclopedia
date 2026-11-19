@@ -1,6 +1,6 @@
 # Carl Gustav Jung
 
-**Prerequisites:** [[psychoanalysis-and-depth-psychology|Psychoanalysis and depth psychology]], [[sigmund-freud|Sigmund Freud]]
+**Prerequisites:** [Psychoanalysis and depth psychology](../05-psychoanalysis-and-depth-psychology.md), [Sigmund Freud](sigmund-freud.md)
 
 *Jung was a psychiatrist and the founder of analytical psychology, not a philosopher. He is included because his theories of archetypes and individuation have shaped religious studies, the study of myth and philosophical ideas of the self.*
 
@@ -13,10 +13,10 @@ Carl Gustav Jung (1875–1961) was born in Kesswil, Switzerland, son of a Swiss 
 ## Core ideas
 
 - **Personal and collective unconscious.** Beneath repressed personal material lies the collective unconscious, shared by humanity.
-- **[[g:archetype|Archetypes]].** Inherited forms that organize experience and appear in myths, religions and dreams: the mother, the child, the hero, the trickster, the wise old man, the shadow, the anima/animus, the Self. See [[archetypes-and-the-collective-unconscious|*The Archetypes and the Collective Unconscious*]].
-- **Persona and shadow.** The persona is the social mask; the [[g:shadow|shadow]] is what the conscious ego rejects in itself, often projected onto others.
+- **[Archetypes](../../../../glossary/modern/archetype.md).** Inherited forms that organize experience and appear in myths, religions and dreams: the mother, the child, the hero, the trickster, the wise old man, the shadow, the anima/animus, the Self. See [*The Archetypes and the Collective Unconscious*](../texts/archetypes-and-the-collective-unconscious.md).
+- **Persona and shadow.** The persona is the social mask; the [shadow](../../../../glossary/modern/shadow.md) is what the conscious ego rejects in itself, often projected onto others.
 - **Anima and animus.** The contrasexual image within a man or woman, mediating the unconscious.
-- **The Self and [[g:individuation|individuation]].** The Self is the archetype of wholeness; individuation is the process of becoming an integrated person, especially in life's second half, through confronting the shadow and integrating unconscious contents. Symbols of wholeness include mandalas.
+- **The Self and [individuation](../../../../glossary/modern/individuation.md).** The Self is the archetype of wholeness; individuation is the process of becoming an integrated person, especially in life's second half, through confronting the shadow and integrating unconscious contents. Symbols of wholeness include mandalas.
 - **Psychological types** (1921): introversion and extraversion; thinking, feeling, sensation, intuition.
 - **Synchronicity.** Meaningful coincidences not connected causally (an idea developed with the physicist Wolfgang Pauli).
 - **Religion.** Religion expresses archetypal realities and is psychologically necessary; *Answer to Job* (1952) reads the book of Job as a drama in the development of the God-image.
@@ -43,8 +43,8 @@ Jung influenced religious studies (Mircea Eliade), comparative mythology (Joseph
 
 ## Where this leads
 
-- Text: [[archetypes-and-the-collective-unconscious|*The Archetypes and the Collective Unconscious*]]
-- Next thinker: [[jean-paul-sartre|Jean-Paul Sartre]]
-- Related: [[bib:old-testament/books/wisdom-poetry/job.md|Job]] (Jung's *Answer to Job*)
-- Back: [[c:metaphysics/the-forms.md|Plato's Forms]], which Jung cited as an ancestor of archetypes
-- Glossary: [[g:collective-unconscious|collective unconscious]], [[g:archetype|archetype]]
+- Text: [*The Archetypes and the Collective Unconscious*](../texts/archetypes-and-the-collective-unconscious.md)
+- Next thinker: [Jean-Paul Sartre](jean-paul-sartre.md)
+- Related: [Job](../../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/job.md) (Jung's *Answer to Job*)
+- Back: [Plato's Forms](../../../../concepts/metaphysics/the-forms.md), which Jung cited as an ancestor of archetypes
+- Glossary: [collective unconscious](../../../../glossary/modern/collective-unconscious.md), [archetype](../../../../glossary/modern/archetype.md)

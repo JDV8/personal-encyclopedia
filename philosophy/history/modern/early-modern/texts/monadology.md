@@ -1,12 +1,12 @@
 # Leibniz, *Monadology*
 
-**Prerequisites:** [[gottfried-wilhelm-leibniz|Gottfried Wilhelm Leibniz]]; [[rationalism|Rationalism]]
+**Prerequisites:** [Gottfried Wilhelm Leibniz](../thinkers/gottfried-wilhelm-leibniz.md); [Rationalism](../03-rationalism.md)
 
 @@IMG@@
 
 ## Dating and form
 
-Written in French in Vienna in 1714, two years before [[gottfried-wilhelm-leibniz|Leibniz]]'s death, as a compact summary of his metaphysics. It was untitled; the name *Monadologie* comes from a German translation published in 1720. It consists of 90 short numbered paragraphs, many with references to his *Theodicy*. A companion piece of the same year, *Principles of Nature and Grace, Based on Reason*, covers similar ground for Prince Eugene of Savoy.
+Written in French in Vienna in 1714, two years before [Leibniz](../thinkers/gottfried-wilhelm-leibniz.md)'s death, as a compact summary of his metaphysics. It was untitled; the name *Monadologie* comes from a German translation published in 1720. It consists of 90 short numbered paragraphs, many with references to his *Theodicy*. A companion piece of the same year, *Principles of Nature and Grace, Based on Reason*, covers similar ground for Prince Eugene of Savoy.
 
 ## Outline
 
@@ -35,10 +35,10 @@ flowchart TB
 
 ## Reception
 
-The *Monadology* became the standard short statement of Leibniz's system, and through Christian Wolff's textbooks shaped German philosophy until [[immanuel-kant|Kant]]. The mill argument is still cited in debates about consciousness and the "hard problem". Translations: Roger Ariew and Daniel Garber in *Philosophical Essays* (Hackett); Nicholas Rescher's edition with commentary; Lloyd Strickland's *Leibniz's Monadology: A New Translation and Guide*.
+The *Monadology* became the standard short statement of Leibniz's system, and through Christian Wolff's textbooks shaped German philosophy until [Kant](../thinkers/immanuel-kant.md). The mill argument is still cited in debates about consciousness and the "hard problem". Translations: Roger Ariew and Daniel Garber in *Philosophical Essays* (Hackett); Nicholas Rescher's edition with commentary; Lloyd Strickland's *Leibniz's Monadology: A New Translation and Guide*.
 
 ## Where this leads
 
-- Next text: [[treatise-of-human-nature|Hume's *Treatise*]]
-- Forward: [[candide|*Candide*]], the satire
-- Glossary: [[g:monad|monad]], [[g:principle-of-sufficient-reason|principle of sufficient reason]]
+- Next text: [Hume's *Treatise*](treatise-of-human-nature.md)
+- Forward: [*Candide*](candide.md), the satire
+- Glossary: [monad](../../../../glossary/modern/monad.md), [principle of sufficient reason](../../../../glossary/modern/principle-of-sufficient-reason.md)

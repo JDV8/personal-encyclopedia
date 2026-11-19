@@ -1,6 +1,6 @@
 # The Enlightenment: reason in public
 
-**Prerequisites:** [[scientific-revolution-and-method|The scientific revolution]], [[social-contract-and-the-state|The social contract]]
+**Prerequisites:** [The scientific revolution](02-scientific-revolution-and-method.md), [The social contract](05-social-contract-and-the-state.md)
 
 @@IMG@@
 
@@ -27,14 +27,14 @@ flowchart TB
 
 ## Main themes
 
-- **Toleration and critique of religion.** [[voltaire|Voltaire]] campaigned against the persecution of Protestants in France (the Calas affair). Many Enlightenment figures were deists, believing in a creator known by reason but rejecting revelation and miracles; some, like the Baron d'Holbach, were atheists; many others, especially in Scotland, Germany and America, were believers who sought a reasonable faith.
+- **Toleration and critique of religion.** [Voltaire](thinkers/voltaire.md) campaigned against the persecution of Protestants in France (the Calas affair). Many Enlightenment figures were deists, believing in a creator known by reason but rejecting revelation and miracles; some, like the Baron d'Holbach, were atheists; many others, especially in Scotland, Germany and America, were believers who sought a reasonable faith.
 - **Rights and reform.** Montesquieu's *The Spirit of the Laws* (1748) argued for the separation of powers. Cesare Beccaria's *On Crimes and Punishments* (1764) attacked torture and the death penalty. These ideas fed into the American and French revolutions.
-- **Science of human nature.** The Scottish Enlightenment, including [[david-hume|David Hume]], Francis Hutcheson and [[adam-smith|Adam Smith]], studied morals, society and economics as natural phenomena. Smith's *Wealth of Nations* (1776) is one fruit.
+- **Science of human nature.** The Scottish Enlightenment, including [David Hume](thinkers/david-hume.md), Francis Hutcheson and [Adam Smith](thinkers/adam-smith.md), studied morals, society and economics as natural phenomena. Smith's *Wealth of Nations* (1776) is one fruit.
 - **Progress.** Condorcet's *Sketch for a Historical Picture of the Progress of the Human Mind* (published 1795) imagined indefinite improvement through reason.
 
 ## Inner tensions
 
-The Enlightenment criticized itself from the start. [[jean-jacques-rousseau|Rousseau]] argued that the progress of the arts and sciences had corrupted morals. Hume argued that reason is "the slave of the passions". [[immanuel-kant|Kant]] made the critique of reason's own limits the centre of his philosophy.
+The Enlightenment criticized itself from the start. [Rousseau](thinkers/jean-jacques-rousseau.md) argued that the progress of the arts and sciences had corrupted morals. Hume argued that reason is "the slave of the passions". [Kant](thinkers/immanuel-kant.md) made the critique of reason's own limits the centre of his philosophy.
 
 Later critics charged it with more. Romantics accused it of coldness. Conservatives like Edmund Burke defended tradition against abstract rights. In the twentieth century, Max Horkheimer and Theodor Adorno's *Dialectic of Enlightenment* argued that instrumental reason could become a new form of domination; others pointed out that many Enlightenment thinkers defended rights while accepting slavery or colonial hierarchy. Defenders reply that the standards by which these failures are condemned are themselves largely Enlightenment standards.
 
@@ -47,7 +47,7 @@ Later critics charged it with more. Romantics accused it of coldness. Conservati
 
 ## Where this leads
 
-- Next: [[kants-copernican-revolution|Kant's Copernican revolution]]
-- Thinkers: [[voltaire|Voltaire]], [[jean-jacques-rousseau|Rousseau]], [[adam-smith|Adam Smith]]
-- Text: [[candide|*Candide*]]
-- Related branch: [[dir:economics/microeconomics/10-history-of-thought|history of economic thought]]
+- Next: [Kant's Copernican revolution](07-kants-copernican-revolution.md)
+- Thinkers: [Voltaire](thinkers/voltaire.md), [Rousseau](thinkers/jean-jacques-rousseau.md), [Adam Smith](thinkers/adam-smith.md)
+- Text: [*Candide*](texts/candide.md)
+- Related branch: [history of economic thought](../../../../economics/microeconomics/10-history-of-thought/README.md)

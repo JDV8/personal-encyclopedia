@@ -1,12 +1,12 @@
 # Emerson, "Self-Reliance"
 
-**Prerequisites:** [[ralph-waldo-emerson|Ralph Waldo Emerson]]; [[transcendentalism|American transcendentalism]]
+**Prerequisites:** [Ralph Waldo Emerson](../thinkers/ralph-waldo-emerson.md); [American transcendentalism](../05-transcendentalism.md)
 
 @@IMG@@
 
 ## Dating and form
 
-"Self-Reliance" was published in [[ralph-waldo-emerson|Emerson]]'s *Essays: First Series* (1841), drawing on lectures and journal entries from the 1830s. Like most of his essays, it is built from striking sentences rather than a linear argument; many have become proverbs. It is about twenty pages long and can be read in an hour.
+"Self-Reliance" was published in [Emerson](../thinkers/ralph-waldo-emerson.md)'s *Essays: First Series* (1841), drawing on lectures and journal entries from the 1830s. Like most of his essays, it is built from striking sentences rather than a linear argument; many have become proverbs. It is about twenty pages long and can be read in an hour.
 
 ## Movement of the essay
 
@@ -39,6 +39,6 @@ The essay became a founding text of American individualism, quoted by entreprene
 
 ## Where this leads
 
-- Next text: [[walden|*Walden*]]
-- Back: [[montaigne-essays|Montaigne's *Essays*]], a model Emerson admired
-- Forward: [[thus-spoke-zarathustra|*Thus Spoke Zarathustra*]]
+- Next text: [*Walden*](walden.md)
+- Back: [Montaigne's *Essays*](../../early-modern/texts/montaigne-essays.md), a model Emerson admired
+- Forward: [*Thus Spoke Zarathustra*](thus-spoke-zarathustra.md)

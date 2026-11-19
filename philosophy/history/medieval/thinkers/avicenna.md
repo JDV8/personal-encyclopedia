@@ -1,6 +1,6 @@
 # Avicenna (Ibn Sina)
 
-**Prerequisites:** [[islamic-and-jewish-philosophy|Islamic and Jewish philosophy]]; helpful: [[gk:aristotle.md|Aristotle]], [[c:metaphysics/potentiality-and-actuality.md|potentiality and actuality]]
+**Prerequisites:** [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md); helpful: [Aristotle](../../ancient/greek/thinkers/aristotle.md), [potentiality and actuality](../../../concepts/metaphysics/potentiality-and-actuality.md)
 
 @@IMG@@
 
@@ -14,11 +14,11 @@ Abu Ali al-Husayn ibn Abd Allah ibn Sina (980–1037), known in Latin as Avicenn
 
 ## Core ideas
 
-**Essence and existence.** When I understand what a triangle is, I have not yet learned whether any triangle exists. Avicenna made this distinction fundamental. For anything whose essence does not include existence, existence must come from outside: it is *possible in itself* and *necessary through another*. A chain of such beings cannot explain itself, so there must be a being that is **necessary in itself**, whose essence just is to exist. That being is God. This "proof of the truthful" reasons about existence as such rather than from motion, and it influenced [[thomas-aquinas|Aquinas]]'s third way and his own essence–existence distinction.
+**Essence and existence.** When I understand what a triangle is, I have not yet learned whether any triangle exists. Avicenna made this distinction fundamental. For anything whose essence does not include existence, existence must come from outside: it is *possible in itself* and *necessary through another*. A chain of such beings cannot explain itself, so there must be a being that is **necessary in itself**, whose essence just is to exist. That being is God. This "proof of the truthful" reasons about existence as such rather than from motion, and it influenced [Aquinas](thomas-aquinas.md)'s third way and his own essence–existence distinction.
 
-**Emanation.** From the Necessary Existent, which is perfectly one, the world proceeds by necessity through a series of intellects associated with the heavenly spheres, ending with the Active Intellect, which gives forms to our world and illuminates human minds. This is [[c:metaphysics/the-one-and-emanation.md|Neoplatonic emanation]] fused with Aristotelian astronomy. It implied an eternal world, one of the points al-Ghazali condemned.
+**Emanation.** From the Necessary Existent, which is perfectly one, the world proceeds by necessity through a series of intellects associated with the heavenly spheres, ending with the Active Intellect, which gives forms to our world and illuminates human minds. This is [Neoplatonic emanation](../../../concepts/metaphysics/the-one-and-emanation.md) fused with Aristotelian astronomy. It implied an eternal world, one of the points al-Ghazali condemned.
 
-**The floating man.** Imagine a man created all at once, in the air, eyes covered, limbs apart, so that he senses nothing, not even his own body. Avicenna argues that he would still affirm his own existence. Since what is affirmed differs from what is not affirmed, the self is not the body. The thought experiment anticipates [[rene-descartes|Descartes]], though Avicenna's soul remains Aristotelian in other respects.
+**The floating man.** Imagine a man created all at once, in the air, eyes covered, limbs apart, so that he senses nothing, not even his own body. Avicenna argues that he would still affirm his own existence. Since what is affirmed differs from what is not affirmed, the self is not the body. The thought experiment anticipates [Descartes](../../modern/early-modern/thinkers/rene-descartes.md), though Avicenna's soul remains Aristotelian in other respects.
 
 **The soul and immortality.** Each human rational soul is an individual immaterial substance that comes into existence with its body but does not perish with it.
 
@@ -33,7 +33,7 @@ flowchart TB
 
 ## Influence and criticism
 
-In the Islamic world Avicenna became *the* philosopher; later centuries of philosophy and theology, Sunni and Shia, are largely debates with him. Al-Ghazali's *Incoherence of the Philosophers* targets mainly his system. In Latin translation from the twelfth century his metaphysics and psychology shaped Albert the Great, Aquinas and Duns Scotus. [[averroes|Averroes]] criticized him for departing from Aristotle and for conceding too much to the theologians. Modern scholars debate how far his emanation scheme is compatible with a creating God, and whether the floating man proves what he wanted.
+In the Islamic world Avicenna became *the* philosopher; later centuries of philosophy and theology, Sunni and Shia, are largely debates with him. Al-Ghazali's *Incoherence of the Philosophers* targets mainly his system. In Latin translation from the twelfth century his metaphysics and psychology shaped Albert the Great, Aquinas and Duns Scotus. [Averroes](averroes.md) criticized him for departing from Aristotle and for conceding too much to the theologians. Modern scholars debate how far his emanation scheme is compatible with a creating God, and whether the floating man proves what he wanted.
 
 ## Key ideas
 
@@ -44,7 +44,7 @@ In the Islamic world Avicenna became *the* philosopher; later centuries of philo
 
 ## Where this leads
 
-- Next thinkers: [[averroes|Averroes]], [[maimonides|Maimonides]]
-- Forward: [[thomas-aquinas|Aquinas]]; [[rene-descartes|Descartes]]
-- Glossary: [[g:essence-and-existence|essence and existence]]
-- Back: [[gk:plotinus.md|Plotinus]], [[gk:aristotle.md|Aristotle]]
+- Next thinkers: [Averroes](averroes.md), [Maimonides](maimonides.md)
+- Forward: [Aquinas](thomas-aquinas.md); [Descartes](../../modern/early-modern/thinkers/rene-descartes.md)
+- Glossary: [essence and existence](../../../glossary/modern/essence-and-existence.md)
+- Back: [Plotinus](../../ancient/greek/thinkers/plotinus.md), [Aristotle](../../ancient/greek/thinkers/aristotle.md)

@@ -1,6 +1,6 @@
 # Bertrand Russell
 
-**Prerequisites:** [[analytic-turn|The analytic turn]]
+**Prerequisites:** [The analytic turn](../02-analytic-turn.md)
 
 @@IMG@@
 
@@ -16,7 +16,7 @@ Bertrand Arthur William Russell (1872–1970) was born in Wales into a leading a
 
 **Logical atomism.** The world consists of atomic facts; a logically perfect language would mirror their structure. Complex propositions are truth-functions of atomic ones.
 
-**Knowledge by acquaintance and description.** We know some things directly (sense-data, ourselves, universals) and others only through descriptions built from them. See [[the-problems-of-philosophy|*The Problems of Philosophy*]] (1912).
+**Knowledge by acquaintance and description.** We know some things directly (sense-data, ourselves, universals) and others only through descriptions built from them. See [*The Problems of Philosophy*](../texts/the-problems-of-philosophy.md) (1912).
 
 **Neutral monism.** Later he held that mind and matter are both constructed from a neutral stuff, neither mental nor physical.
 
@@ -45,7 +45,7 @@ Russell is one of the founders of analytic philosophy and modern logic. *A Histo
 
 ## Where this leads
 
-- Text: [[the-problems-of-philosophy|*The Problems of Philosophy*]]
-- Next thinker: [[ludwig-wittgenstein|Ludwig Wittgenstein]]
-- Back: [[john-stuart-mill|Mill]], his godfather; [[gottfried-wilhelm-leibniz|Leibniz]], on whom he wrote a book
-- Glossary: [[g:analytic-philosophy|analytic philosophy]], [[g:logical-atomism|logical atomism]]
+- Text: [*The Problems of Philosophy*](../texts/the-problems-of-philosophy.md)
+- Next thinker: [Ludwig Wittgenstein](ludwig-wittgenstein.md)
+- Back: [Mill](../../nineteenth-century/thinkers/john-stuart-mill.md), his godfather; [Leibniz](../../early-modern/thinkers/gottfried-wilhelm-leibniz.md), on whom he wrote a book
+- Glossary: [analytic philosophy](../../../../glossary/modern/analytic-philosophy.md), [logical atomism](../../../../glossary/modern/logical-atomism.md)

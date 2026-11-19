@@ -27,6 +27,7 @@ These branches overlap. A claim about human nature is metaphysical and ethical a
 2. [Ancient philosophy](history/ancient/README.md): take the [Greek](history/ancient/greek/README.md) or [Chinese](history/ancient/chinese/README.md) path, or both, then the [comparison](history/ancient/greek-and-chinese-compared.md).
 3. Use [concepts](concepts/README.md) to go deeper on a single idea, [thinkers](history/ancient/greek/thinkers/README.md) and [texts](history/ancient/greek/texts/README.md) (or the [Chinese](history/ancient/chinese/thinkers/README.md) equivalents) for a person or a book.
 4. Then the later bridges in [imperial Chinese thought](history/imperial/chinese/README.md).
+5. [Medieval philosophy](history/medieval/README.md), then [modern philosophy](history/modern/README.md): Descartes, Spinoza, Hume, Kant, Hegel, Schopenhauer, Kierkegaard, Nietzsche, Wittgenstein, Heidegger, Sartre, Camus, Arendt and more, with novelists (Dostoevsky, Tolstoy), psychologists (Freud, Jung) and René Girard where they changed philosophy.
 
 ## Contents
 
@@ -36,13 +37,16 @@ These branches overlap. A claim about human nature is metaphysical and ethical a
   - [ethics/](concepts/ethics/README.md)
   - [logic/](concepts/logic/README.md)
   - [political/](concepts/political/README.md)
-- [glossary/](glossary/README.md) — 193 short entries
+- [glossary/](glossary/README.md) — 293 short entries
   - [general/](glossary/general/README.md)
   - [greek/](glossary/greek/README.md)
   - [chinese/](glossary/chinese/README.md)
+  - [modern/](glossary/modern/README.md)
 - [history/](history/README.md) — narrative paths
   - [ancient/](history/ancient/README.md)
   - [imperial/](history/imperial/README.md)
+  - [medieval/](history/medieval/README.md)
+  - [modern/](history/modern/README.md)
 
 For the religious texts that often travel with these questions, start at [Religion](../religion/README.md) and [the Bible](../religion/abrahamic/christianity/bible/README.md).
 
@@ -51,5 +55,6 @@ For the religious texts that often travel with these questions, start at [Religi
 - Julia Annas, *Ancient Philosophy: A Very Short Introduction* (Beginner). A short, reliable map of the Greek questions these branches name.
 - Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (Beginner). The matching first map for the Chinese side.
 - Pierre Hadot, *What Is Ancient Philosophy?* (Intermediate). Argues that ancient philosophy was a way of life, not only a set of doctrines.
+- Bertrand Russell, *A History of Western Philosophy* (Beginner). A witty, opinionated tour of the European line through the medieval and modern periods.
 - A. C. Graham, *Disputers of the Tao* (Advanced). The best single English history of early Chinese argument.
 - Aristotle, *Nicomachean Ethics* and *Metaphysics*, standard translations (Intermediate). Still the densest source for several of the branches as later Europe named them.

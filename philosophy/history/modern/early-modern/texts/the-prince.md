@@ -1,12 +1,12 @@
 # Machiavelli, *The Prince*
 
-**Prerequisites:** [[niccolo-machiavelli|Machiavelli]]; [[renaissance-and-humanism|Renaissance and humanism]]
+**Prerequisites:** [Machiavelli](../thinkers/niccolo-machiavelli.md); [Renaissance and humanism](../01-renaissance-and-humanism.md)
 
 @@IMG@@
 
 ## Dating and context
 
-Written in Italian by [[niccolo-machiavelli|Machiavelli]] in 1513, after his dismissal and torture by the restored Medici, and circulated in manuscript; it was printed in 1532, five years after his death. Its Italian title, *De Principatibus* in his letters ("Of Principalities"), became *Il Principe*. It is dedicated to Lorenzo de' Medici, grandson of Lorenzo the Magnificent. In a famous letter of 10 December 1513 to his friend Francesco Vettori, Machiavelli describes his days in exile and his evenings, when he puts on courtly robes and converses with the ancients in his study, and he mentions this little work.
+Written in Italian by [Machiavelli](../thinkers/niccolo-machiavelli.md) in 1513, after his dismissal and torture by the restored Medici, and circulated in manuscript; it was printed in 1532, five years after his death. Its Italian title, *De Principatibus* in his letters ("Of Principalities"), became *Il Principe*. It is dedicated to Lorenzo de' Medici, grandson of Lorenzo the Magnificent. In a famous letter of 10 December 1513 to his friend Francesco Vettori, Machiavelli describes his days in exile and his evenings, when he puts on courtly robes and converses with the ancients in his study, and he mentions this little work.
 
 ## Outline
 
@@ -37,7 +37,7 @@ The book's apparent amoralism shocked readers and earned a place on the Church's
 
 ## Where this leads
 
-- Next text: [[montaigne-essays|Montaigne, *Essays*]]
-- Forward: [[leviathan|*Leviathan*]]
-- Back: [[summa-theologiae|*Summa Theologiae*]]'s natural law, the tradition Machiavelli ignores
-- Comparison: [[cn:han-feizi.md|Han Feizi]]
+- Next text: [Montaigne, *Essays*](montaigne-essays.md)
+- Forward: [*Leviathan*](leviathan.md)
+- Back: [*Summa Theologiae*](../../../medieval/texts/summa-theologiae.md)'s natural law, the tradition Machiavelli ignores
+- Comparison: [Han Feizi](../../../ancient/chinese/thinkers/han-feizi.md)

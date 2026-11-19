@@ -1,12 +1,12 @@
 # Augustine, *The City of God*
 
-**Prerequisites:** [[augustine|Augustine]], [[augustine-confessions|*Confessions*]]
+**Prerequisites:** [Augustine](../thinkers/augustine.md), [*Confessions*](augustine-confessions.md)
 
 @@IMG@@
 
 ## Dating and occasion
 
-*De civitate Dei contra paganos* ("The City of God against the Pagans") was written by [[augustine|Augustine]] in installments between about 413 and 426. The occasion was the sack of Rome by the Visigoths under Alaric in 410, a shock throughout the Roman world. Pagans argued that Rome had fallen because it had abandoned its gods for Christianity; some Christians asked why God had allowed it. The book grew into a twenty-two-book account of history, society and destiny.
+*De civitate Dei contra paganos* ("The City of God against the Pagans") was written by [Augustine](../thinkers/augustine.md) in installments between about 413 and 426. The occasion was the sack of Rome by the Visigoths under Alaric in 410, a shock throughout the Roman world. Pagans argued that Rome had fallen because it had abandoned its gods for Christianity; some Christians asked why God had allowed it. The book grew into a twenty-two-book account of history, society and destiny.
 
 ## Outline
 
@@ -35,7 +35,7 @@ flowchart TB
 
 ## Reception
 
-The book shaped medieval political thought, including theories of the relation between spiritual and temporal power (often called "political Augustinianism", which simplified Augustine's view). Its linear view of history, moving from creation to an end, contrasted with cyclical Greek views and shaped Western philosophies of history, from medieval chronicles to [[georg-wilhelm-friedrich-hegel|Hegel]]. Modern political "realists" such as Reinhold Niebuhr drew on Augustine's view of human pride and power. [[hannah-arendt|Hannah Arendt]] wrote her dissertation on Augustine's concept of love. Henry Bettenson's Penguin translation and R. W. Dyson's Cambridge translation are standard.
+The book shaped medieval political thought, including theories of the relation between spiritual and temporal power (often called "political Augustinianism", which simplified Augustine's view). Its linear view of history, moving from creation to an end, contrasted with cyclical Greek views and shaped Western philosophies of history, from medieval chronicles to [Hegel](../../modern/nineteenth-century/thinkers/georg-wilhelm-friedrich-hegel.md). Modern political "realists" such as Reinhold Niebuhr drew on Augustine's view of human pride and power. [Hannah Arendt](../../modern/twentieth-century/thinkers/hannah-arendt.md) wrote her dissertation on Augustine's concept of love. Henry Bettenson's Penguin translation and R. W. Dyson's Cambridge translation are standard.
 
 ## Key ideas
 
@@ -45,7 +45,7 @@ The book shaped medieval political thought, including theories of the relation b
 
 ## Where this leads
 
-- Next text: [[consolation-of-philosophy|*The Consolation of Philosophy*]]
-- Back: [[augustine-confessions|*Confessions*]]
-- Forward: [[georg-wilhelm-friedrich-hegel|Hegel]]'s philosophy of history; [[social-contract-and-the-state|the social contract]]
-- Related: [[c:political/the-polis-and-political-animal.md|the polis and the political animal]]
+- Next text: [*The Consolation of Philosophy*](consolation-of-philosophy.md)
+- Back: [*Confessions*](augustine-confessions.md)
+- Forward: [Hegel](../../modern/nineteenth-century/thinkers/georg-wilhelm-friedrich-hegel.md)'s philosophy of history; [the social contract](../../modern/early-modern/05-social-contract-and-the-state.md)
+- Related: [the polis and the political animal](../../../concepts/political/the-polis-and-political-animal.md)

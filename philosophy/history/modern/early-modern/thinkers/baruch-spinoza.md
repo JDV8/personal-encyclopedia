@@ -1,12 +1,12 @@
 # Baruch Spinoza
 
-**Prerequisites:** [[rationalism|Rationalism]], [[rene-descartes|Descartes]]
+**Prerequisites:** [Rationalism](../03-rationalism.md), [Descartes](rene-descartes.md)
 
 @@IMG@@
 
 ## Life and context
 
-Baruch (Bento, later Benedictus) de Spinoza (1632–1677) was born in Amsterdam into a community of Portuguese Jews whose families had fled the Inquisition. He was educated in the community's schools and worked in the family import business. In July 1656, aged 23, he was placed under a *herem*, a ban of excommunication, by the synagogue's leaders, in unusually severe terms, for "abominable heresies" and "monstrous deeds" that the document does not specify. He never returned. He lived modestly in and around Leiden and The Hague, earned part of his living grinding lenses for microscopes and telescopes, corresponded with scientists, and declined a professorship at Heidelberg in 1673 to keep his freedom. The *Theological-Political Treatise* (1670), published anonymously, caused a scandal. His masterpiece, the [[spinoza-ethics|*Ethics*]], appeared only after his death from a lung disease, likely worsened by glass dust, at 44.
+Baruch (Bento, later Benedictus) de Spinoza (1632–1677) was born in Amsterdam into a community of Portuguese Jews whose families had fled the Inquisition. He was educated in the community's schools and worked in the family import business. In July 1656, aged 23, he was placed under a *herem*, a ban of excommunication, by the synagogue's leaders, in unusually severe terms, for "abominable heresies" and "monstrous deeds" that the document does not specify. He never returned. He lived modestly in and around Leiden and The Hague, earned part of his living grinding lenses for microscopes and telescopes, corresponded with scientists, and declined a professorship at Heidelberg in 1673 to keep his freedom. The *Theological-Political Treatise* (1670), published anonymously, caused a scandal. His masterpiece, the [*Ethics*](../texts/spinoza-ethics.md), appeared only after his death from a lung disease, likely worsened by glass dust, at 44.
 
 ## Core ideas
 
@@ -32,7 +32,7 @@ flowchart TB
 
 ## Influence and criticism
 
-Spinoza was denounced for a century as an atheist. In the 1780s the "pantheism controversy" in Germany revived him; Goethe, Novalis (who called him a "God-intoxicated man") and the German idealists embraced him. Hegel told his students, in effect, that one must either be a Spinozist or not a philosopher at all. Einstein, asked about God, said he believed in "Spinoza's God". [[friedrich-nietzsche|Nietzsche]] recognized a predecessor. His naturalism appeals to modern scientists and his theory of the passions to psychologists. Critics question whether his God is God in any religious sense, whether his strict necessitarianism leaves room for moral responsibility, and whether the geometrical method can deliver what it claims.
+Spinoza was denounced for a century as an atheist. In the 1780s the "pantheism controversy" in Germany revived him; Goethe, Novalis (who called him a "God-intoxicated man") and the German idealists embraced him. Hegel told his students, in effect, that one must either be a Spinozist or not a philosopher at all. Einstein, asked about God, said he believed in "Spinoza's God". [Nietzsche](../../nineteenth-century/thinkers/friedrich-nietzsche.md) recognized a predecessor. His naturalism appeals to modern scientists and his theory of the passions to psychologists. Critics question whether his God is God in any religious sense, whether his strict necessitarianism leaves room for moral responsibility, and whether the geometrical method can deliver what it claims.
 
 ## Key ideas
 
@@ -43,8 +43,8 @@ Spinoza was denounced for a century as an atheist. In the 1780s the "pantheism c
 
 ## Where this leads
 
-- Text: [[spinoza-ethics|*Ethics*]]
-- Next thinker: [[john-locke|John Locke]]
-- Forward: [[german-idealism|German idealism]], [[friedrich-nietzsche|Nietzsche]]
-- Back: [[maimonides|Maimonides]]; [[c:ethics/living-according-to-nature.md|the Stoic life according to nature]]
-- Glossary: [[g:pantheism|pantheism]], [[g:conatus|conatus]]
+- Text: [*Ethics*](../texts/spinoza-ethics.md)
+- Next thinker: [John Locke](john-locke.md)
+- Forward: [German idealism](../../nineteenth-century/01-german-idealism.md), [Nietzsche](../../nineteenth-century/thinkers/friedrich-nietzsche.md)
+- Back: [Maimonides](../../../medieval/thinkers/maimonides.md); [the Stoic life according to nature](../../../../concepts/ethics/living-according-to-nature.md)
+- Glossary: [pantheism](../../../../glossary/modern/pantheism.md), [conatus](../../../../glossary/modern/conatus.md)

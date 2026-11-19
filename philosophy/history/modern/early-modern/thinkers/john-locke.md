@@ -1,12 +1,12 @@
 # John Locke
 
-**Prerequisites:** [[empiricism|Empiricism]], [[social-contract-and-the-state|The social contract]]
+**Prerequisites:** [Empiricism](../04-empiricism.md), [The social contract](../05-social-contract-and-the-state.md)
 
 @@IMG@@
 
 ## Life and context
 
-John Locke (1632–1704) was born in Wrington, Somerset, the son of a lawyer who fought on the Parliamentary side in the Civil War. He studied at Westminster School and Christ Church, Oxford, where he found scholastic philosophy tedious and turned to medicine and experimental science, working with Robert Boyle. In 1667 he joined the household of Anthony Ashley Cooper, later the first Earl of Shaftesbury, as physician and adviser, and once supervised a risky operation on Shaftesbury's liver. Shaftesbury led the opposition to the Catholic heir James; after his fall Locke went into exile in the Netherlands (1683–1689). He returned after the Glorious Revolution of 1688 and in 1689–90 published the [[essay-concerning-human-understanding|*Essay Concerning Human Understanding*]], the *Two Treatises of Government* (anonymously) and *A Letter Concerning Toleration*. He also wrote on education, money and the reasonableness of Christianity.
+John Locke (1632–1704) was born in Wrington, Somerset, the son of a lawyer who fought on the Parliamentary side in the Civil War. He studied at Westminster School and Christ Church, Oxford, where he found scholastic philosophy tedious and turned to medicine and experimental science, working with Robert Boyle. In 1667 he joined the household of Anthony Ashley Cooper, later the first Earl of Shaftesbury, as physician and adviser, and once supervised a risky operation on Shaftesbury's liver. Shaftesbury led the opposition to the Catholic heir James; after his fall Locke went into exile in the Netherlands (1683–1689). He returned after the Glorious Revolution of 1688 and in 1689–90 published the [*Essay Concerning Human Understanding*](../texts/essay-concerning-human-understanding.md), the *Two Treatises of Government* (anonymously) and *A Letter Concerning Toleration*. He also wrote on education, money and the reasonableness of Christianity.
 
 ## Core ideas: knowledge
 
@@ -41,7 +41,7 @@ flowchart LR
 
 ## Influence and criticism
 
-Locke's *Essay* set the agenda for [[george-berkeley|Berkeley]] and [[david-hume|Hume]] and shaped the French Enlightenment through Voltaire. His political ideas influenced the American founders; the Declaration of Independence echoes "life, liberty" and the right to alter or abolish government. Critics note his investment in the Royal African Company and his involvement in drafting the *Fundamental Constitutions of Carolina*, which entrenched slavery, and they argue that his labour theory of property was used to justify colonial dispossession of Indigenous peoples. Philosophers have objected that memory cannot constitute identity without circularity (Joseph Butler) and that the primary/secondary distinction does not survive Berkeley's critique.
+Locke's *Essay* set the agenda for [Berkeley](george-berkeley.md) and [Hume](david-hume.md) and shaped the French Enlightenment through Voltaire. His political ideas influenced the American founders; the Declaration of Independence echoes "life, liberty" and the right to alter or abolish government. Critics note his investment in the Royal African Company and his involvement in drafting the *Fundamental Constitutions of Carolina*, which entrenched slavery, and they argue that his labour theory of property was used to justify colonial dispossession of Indigenous peoples. Philosophers have objected that memory cannot constitute identity without circularity (Joseph Butler) and that the primary/secondary distinction does not survive Berkeley's critique.
 
 ## Key ideas
 
@@ -52,7 +52,7 @@ Locke's *Essay* set the agenda for [[george-berkeley|Berkeley]] and [[david-hume
 
 ## Where this leads
 
-- Texts: [[essay-concerning-human-understanding|*Essay*]], [[second-treatise-of-government|*Second Treatise*]]
-- Next thinker: [[gottfried-wilhelm-leibniz|Leibniz]]
-- Glossary: [[g:tabula-rasa|tabula rasa]], [[g:natural-rights|natural rights]], [[g:primary-and-secondary-qualities|primary and secondary qualities]]
-- Related: [[micro:06-factor-markets|factor markets]], where land, labour and capital return
+- Texts: [*Essay*](../texts/essay-concerning-human-understanding.md), [*Second Treatise*](../texts/second-treatise-of-government.md)
+- Next thinker: [Leibniz](gottfried-wilhelm-leibniz.md)
+- Glossary: [tabula rasa](../../../../glossary/modern/tabula-rasa.md), [natural rights](../../../../glossary/modern/natural-rights.md), [primary and secondary qualities](../../../../glossary/modern/primary-and-secondary-qualities.md)
+- Related: [factor markets](../../../../../economics/microeconomics/06-factor-markets/README.md), where land, labour and capital return

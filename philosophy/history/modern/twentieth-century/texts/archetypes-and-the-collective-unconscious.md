@@ -1,6 +1,6 @@
 # Jung, *The Archetypes and the Collective Unconscious*
 
-**Prerequisites:** [[carl-jung|Carl Jung]]
+**Prerequisites:** [Carl Jung](../thinkers/carl-jung.md)
 
 @@IMG@@
 
@@ -8,7 +8,7 @@
 
 ## Dating and form
 
-This is volume 9, Part I, of Jung's *Collected Works*, published in English in 1959 (second edition 1968) in the Bollingen Series by Princeton University Press, translated by R. F. C. Hull. It collects essays and lectures written between the 1930s and 1950s, several revised by [[carl-jung|Jung]] for the edition, and is illustrated with mandala drawings by patients. It is not a single treatise; readers often start with the first two essays.
+This is volume 9, Part I, of Jung's *Collected Works*, published in English in 1959 (second edition 1968) in the Bollingen Series by Princeton University Press, translated by R. F. C. Hull. It collects essays and lectures written between the 1930s and 1950s, several revised by [Jung](../thinkers/carl-jung.md) for the edition, and is illustrated with mandala drawings by patients. It is not a single treatise; readers often start with the first two essays.
 
 ## Main essays
 
@@ -42,5 +42,5 @@ The theory influenced comparative mythology (Joseph Campbell's *The Hero with a 
 
 ## Where this leads
 
-- Next text: [[being-and-nothingness|*Being and Nothingness*]]
-- Glossary: [[g:archetype|archetype]], [[g:collective-unconscious|collective unconscious]], [[g:shadow|shadow]], [[g:individuation|individuation]]
+- Next text: [*Being and Nothingness*](being-and-nothingness.md)
+- Glossary: [archetype](../../../../glossary/modern/archetype.md), [collective unconscious](../../../../glossary/modern/collective-unconscious.md), [shadow](../../../../glossary/modern/shadow.md), [individuation](../../../../glossary/modern/individuation.md)

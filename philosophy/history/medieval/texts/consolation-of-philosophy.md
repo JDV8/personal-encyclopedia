@@ -1,12 +1,12 @@
 # Boethius, *The Consolation of Philosophy*
 
-**Prerequisites:** [[boethius|Boethius]]; helpful: [[gk:seneca.md|Seneca]], [[gt:republic.md|Plato's *Republic*]]
+**Prerequisites:** [Boethius](../thinkers/boethius.md); helpful: [Seneca](../../ancient/greek/thinkers/seneca.md), [Plato's *Republic*](../../ancient/greek/texts/republic.md)
 
 @@IMG@@
 
 ## Dating and form
 
-Written in Latin by [[boethius|Boethius]] around 523–524 while he awaited execution near Pavia. It is a *prosimetrum*: thirty-nine poems in varied meters alternate with prose. The genre is ancient consolation literature, and the voice of the author is a prisoner, not a teacher.
+Written in Latin by [Boethius](../thinkers/boethius.md) around 523–524 while he awaited execution near Pavia. It is a *prosimetrum*: thirty-nine poems in varied meters alternate with prose. The genre is ancient consolation literature, and the voice of the author is a prisoner, not a teacher.
 
 ## Outline
 
@@ -26,11 +26,11 @@ flowchart LR
 
 ## Themes
 
-The book is a therapy, moving from gentle remedies to stronger ones, much as Stoic writers prescribed. Its arguments are Platonic, Aristotelian and Stoic. There is no mention of Christ, the Church or scripture, a silence that has puzzled readers for centuries (see [[boethius|Boethius]]). The book ends without resolution of his personal situation: the reader knows he will be executed.
+The book is a therapy, moving from gentle remedies to stronger ones, much as Stoic writers prescribed. Its arguments are Platonic, Aristotelian and Stoic. There is no mention of Christ, the Church or scripture, a silence that has puzzled readers for centuries (see [Boethius](../thinkers/boethius.md)). The book ends without resolution of his personal situation: the reader knows he will be executed.
 
 ## Reception
 
-For a thousand years it was among the most read books in Europe. King Alfred translated it into Old English in the ninth century; Chaucer into Middle English prose, and he drew on it in *Troilus and Criseyde*; Elizabeth I translated it in 1593. Dante's Lady Philosophy, the medieval image of Fortune's wheel and countless later meditations on adversity descend from it. Its account of eternity shaped [[thomas-aquinas|Aquinas]] and later debate on foreknowledge. Good translations include P. G. Walsh (Oxford World's Classics) and Victor Watts (Penguin); Joel Relihan's version renders the poems carefully.
+For a thousand years it was among the most read books in Europe. King Alfred translated it into Old English in the ninth century; Chaucer into Middle English prose, and he drew on it in *Troilus and Criseyde*; Elizabeth I translated it in 1593. Dante's Lady Philosophy, the medieval image of Fortune's wheel and countless later meditations on adversity descend from it. Its account of eternity shaped [Aquinas](../thinkers/thomas-aquinas.md) and later debate on foreknowledge. Good translations include P. G. Walsh (Oxford World's Classics) and Victor Watts (Penguin); Joel Relihan's version renders the poems carefully.
 
 ## Key ideas
 
@@ -40,6 +40,6 @@ For a thousand years it was among the most read books in Europe. King Alfred tra
 
 ## Where this leads
 
-- Next text: [[proslogion|*Proslogion*]]
-- Back: [[gk:epictetus.md|Epictetus]] and [[gt:meditations.md|Marcus Aurelius's *Meditations*]] for the Stoic background
-- Glossary: [[g:providence|providence]], [[g:free-will|free will]]
+- Next text: [*Proslogion*](proslogion.md)
+- Back: [Epictetus](../../ancient/greek/thinkers/epictetus.md) and [Marcus Aurelius's *Meditations*](../../ancient/greek/texts/meditations.md) for the Stoic background
+- Glossary: [providence](../../../glossary/modern/providence.md), [free will](../../../glossary/general/free-will.md)

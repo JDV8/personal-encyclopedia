@@ -1,6 +1,6 @@
 # Gottfried Wilhelm Leibniz
 
-**Prerequisites:** [[rationalism|Rationalism]], [[baruch-spinoza|Spinoza]]
+**Prerequisites:** [Rationalism](../03-rationalism.md), [Spinoza](baruch-spinoza.md)
 
 @@IMG@@
 
@@ -10,9 +10,9 @@ Gottfried Wilhelm Leibniz (1646–1716) was born in Leipzig, the son of a profes
 
 ## Core ideas
 
-**Two great principles.** All reasoning rests on the **principle of contradiction** (whatever implies a contradiction is false) and the **[[g:principle-of-sufficient-reason|principle of sufficient reason]]** (nothing is so without a reason why it is so and not otherwise).
+**Two great principles.** All reasoning rests on the **principle of contradiction** (whatever implies a contradiction is false) and the **[principle of sufficient reason](../../../../glossary/modern/principle-of-sufficient-reason.md)** (nothing is so without a reason why it is so and not otherwise).
 
-**Monads.** Bodies are infinitely divisible, so they cannot be the ultimate realities. Those must be simple, without parts, and so without extension: monads. Each monad is a centre of activity whose states are perceptions and whose tendencies to change are appetitions. Monads have "no windows": nothing enters or leaves them. Each mirrors the entire universe from its own point of view, with varying clarity. See [[monadology|*Monadology*]].
+**Monads.** Bodies are infinitely divisible, so they cannot be the ultimate realities. Those must be simple, without parts, and so without extension: monads. Each monad is a centre of activity whose states are perceptions and whose tendencies to change are appetitions. Monads have "no windows": nothing enters or leaves them. Each mirrors the entire universe from its own point of view, with varying clarity. See [*Monadology*](../texts/monadology.md).
 
 **Pre-established harmony.** If monads do not interact, why do the mind's decisions match the body's movements? Because God set them up from the start like two clocks keeping perfect time. This was his answer to the mind–body problem.
 
@@ -20,7 +20,7 @@ Gottfried Wilhelm Leibniz (1646–1716) was born in Leipzig, the son of a profes
 
 **Truths of reason and of fact.** Truths of reason are necessary; their opposite is impossible (mathematics, logic). Truths of fact are contingent; their opposite is possible, and they rest on sufficient reason, ultimately on God's choice.
 
-**The best of all possible worlds.** God, being perfectly good, wise and powerful, surveyed infinitely many possible worlds and created the best. Evil exists because the best world as a whole contains it, as a painting needs shadows. This is the theodicy that [[voltaire|Voltaire]] parodied in [[candide|*Candide*]].
+**The best of all possible worlds.** God, being perfectly good, wise and powerful, surveyed infinitely many possible worlds and created the best. Evil exists because the best world as a whole contains it, as a painting needs shadows. This is the theodicy that [Voltaire](voltaire.md) parodied in [*Candide*](../texts/candide.md).
 
 ```mermaid
 flowchart TB
@@ -33,7 +33,7 @@ flowchart TB
 
 ## Influence and criticism
 
-Leibniz's notation for calculus (dx, ∫) is the one used today. His dream of a universal symbolic language and a "calculus of reasoning" anticipated modern logic and computing; he also worked out binary arithmetic. His metaphysics, systematized by Christian Wolff, dominated German universities in the eighteenth century and formed the background against which [[immanuel-kant|Kant]] worked. Critics have found monads strange and pre-established harmony ad hoc; Russell, who wrote a book on him, argued that his best philosophy was in his unpublished logical papers. The idea of "possible worlds" returned in twentieth-century modal logic.
+Leibniz's notation for calculus (dx, ∫) is the one used today. His dream of a universal symbolic language and a "calculus of reasoning" anticipated modern logic and computing; he also worked out binary arithmetic. His metaphysics, systematized by Christian Wolff, dominated German universities in the eighteenth century and formed the background against which [Kant](immanuel-kant.md) worked. Critics have found monads strange and pre-established harmony ad hoc; Russell, who wrote a book on him, argued that his best philosophy was in his unpublished logical papers. The idea of "possible worlds" returned in twentieth-century modal logic.
 
 ## Key ideas
 
@@ -44,7 +44,7 @@ Leibniz's notation for calculus (dx, ∫) is the one used today. His dream of a 
 
 ## Where this leads
 
-- Text: [[monadology|*Monadology*]]
-- Next thinker: [[george-berkeley|George Berkeley]]
-- Forward: [[kants-copernican-revolution|Kant]], [[candide|*Candide*]]
-- Glossary: [[g:monad|monad]], [[g:theodicy|theodicy]]
+- Text: [*Monadology*](../texts/monadology.md)
+- Next thinker: [George Berkeley](george-berkeley.md)
+- Forward: [Kant](../07-kants-copernican-revolution.md), [*Candide*](../texts/candide.md)
+- Glossary: [monad](../../../../glossary/modern/monad.md), [theodicy](../../../../glossary/modern/theodicy.md)

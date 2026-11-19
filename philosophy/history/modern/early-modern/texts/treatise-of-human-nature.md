@@ -1,12 +1,12 @@
 # Hume, *A Treatise of Human Nature* and the *Enquiries*
 
-**Prerequisites:** [[david-hume|David Hume]]; [[empiricism|Empiricism]]
+**Prerequisites:** [David Hume](../thinkers/david-hume.md); [Empiricism](../04-empiricism.md)
 
 @@IMG@@
 
 ## Dating and versions
 
-[[david-hume|Hume]] wrote the *Treatise* in France and published it anonymously in London: Books 1 and 2 in 1739, Book 3 in 1740, when he was in his late twenties. It sold poorly. He later recast its material in shorter, more elegant works: *An Enquiry Concerning Human Understanding* (1748, first titled *Philosophical Essays*), *A Dissertation on the Passions* (1757), and *An Enquiry Concerning the Principles of Morals* (1751), which he considered his best work. In an "Advertisement" added late in life he asked that the *Enquiries* alone be regarded as containing his philosophical principles, though most philosophers still treat the *Treatise* as his deepest work.
+[Hume](../thinkers/david-hume.md) wrote the *Treatise* in France and published it anonymously in London: Books 1 and 2 in 1739, Book 3 in 1740, when he was in his late twenties. It sold poorly. He later recast its material in shorter, more elegant works: *An Enquiry Concerning Human Understanding* (1748, first titled *Philosophical Essays*), *A Dissertation on the Passions* (1757), and *An Enquiry Concerning the Principles of Morals* (1751), which he considered his best work. In an "Advertisement" added late in life he asked that the *Enquiries* alone be regarded as containing his philosophical principles, though most philosophers still treat the *Treatise* as his deepest work.
 
 ## Outline of the *Treatise*
 
@@ -27,7 +27,7 @@ flowchart LR
 
 ## Reception
 
-Kant credited Hume with waking him from dogmatic slumber. The logical positivists took "Hume's fork" as a model for their criterion of meaning, and the problem of induction became central to [[philosophy-of-science|philosophy of science]]. Editions: David Fate Norton and Mary Norton (Oxford Philosophical Texts) for the *Treatise*; Peter Millican (Oxford World's Classics) for the first *Enquiry*; Tom Beauchamp for the second.
+Kant credited Hume with waking him from dogmatic slumber. The logical positivists took "Hume's fork" as a model for their criterion of meaning, and the problem of induction became central to [philosophy of science](../../twentieth-century/06-philosophy-of-science.md). Editions: David Fate Norton and Mary Norton (Oxford Philosophical Texts) for the *Treatise*; Peter Millican (Oxford World's Classics) for the first *Enquiry*; Tom Beauchamp for the second.
 
 ## Key ideas
 
@@ -37,6 +37,6 @@ Kant credited Hume with waking him from dogmatic slumber. The logical positivist
 
 ## Where this leads
 
-- Next text: [[candide|*Candide*]]
-- Forward: [[critique-of-pure-reason|*Critique of Pure Reason*]]
-- Glossary: [[g:problem-of-induction|problem of induction]], [[g:is-ought-gap|is–ought gap]]
+- Next text: [*Candide*](candide.md)
+- Forward: [*Critique of Pure Reason*](critique-of-pure-reason.md)
+- Glossary: [problem of induction](../../../../glossary/modern/problem-of-induction.md), [is–ought gap](../../../../glossary/modern/is-ought-gap.md)

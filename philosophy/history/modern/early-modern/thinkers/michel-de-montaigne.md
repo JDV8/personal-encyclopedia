@@ -1,6 +1,6 @@
 # Michel de Montaigne
 
-**Prerequisites:** [[renaissance-and-humanism|Renaissance and humanism]]; [[c:epistemology/skepticism-and-epoche.md|skepticism and epoché]]
+**Prerequisites:** [Renaissance and humanism](../01-renaissance-and-humanism.md); [skepticism and epoché](../../../../concepts/epistemology/skepticism-and-epoche.md)
 
 @@IMG@@
 
@@ -10,11 +10,11 @@ Michel Eyquem de Montaigne (1533–1592) was born at the Château de Montaigne n
 
 ## The essay
 
-Montaigne invented a genre and named it: *essai* means "attempt" or "trial". His essays try out his judgment on any subject: cannibals, thumbs, idleness, friendship, cruelty, experience, coaches, smells. "I am myself the matter of my book," he tells the reader. Self-portrait is his method of inquiry: by studying one changeable human being honestly, he studies the human condition. See [[montaigne-essays|the *Essays*]].
+Montaigne invented a genre and named it: *essai* means "attempt" or "trial". His essays try out his judgment on any subject: cannibals, thumbs, idleness, friendship, cruelty, experience, coaches, smells. "I am myself the matter of my book," he tells the reader. Self-portrait is his method of inquiry: by studying one changeable human being honestly, he studies the human condition. See [the *Essays*](../texts/montaigne-essays.md).
 
 ## Core ideas
 
-**Skepticism.** In the longest essay, the "Apology for Raymond Sebond", Montaigne deploys the arguments of [[gk:pyrrho.md|Pyrrho]] and [[gk:sextus-empiricus.md|Sextus Empiricus]] against human pride in reason. Animals may be wiser than we think; our senses mislead; custom varies; philosophers disagree endlessly. His motto, inscribed on a medal, was "*Que sais-je?*" ("What do I know?"). He drew from this not despair but modesty and a conservative acceptance of custom and religion, a stance later called "fideism".
+**Skepticism.** In the longest essay, the "Apology for Raymond Sebond", Montaigne deploys the arguments of [Pyrrho](../../../ancient/greek/thinkers/pyrrho.md) and [Sextus Empiricus](../../../ancient/greek/thinkers/sextus-empiricus.md) against human pride in reason. Animals may be wiser than we think; our senses mislead; custom varies; philosophers disagree endlessly. His motto, inscribed on a medal, was "*Que sais-je?*" ("What do I know?"). He drew from this not despair but modesty and a conservative acceptance of custom and religion, a stance later called "fideism".
 
 **Custom and cultural relativity.** In "Of Cannibals" he describes Brazilian Tupinambá people (reported to him by a man who had lived there and some he met at Rouen) and concludes that each person calls barbarism whatever is not his own custom. He suggests that roasting enemies after death is less barbarous than the torture Europeans inflicted on living people in the name of religion.
 
@@ -34,7 +34,7 @@ flowchart LR
 
 ## Influence and criticism
 
-The *Essays* were translated into English by John Florio in 1603, and Shakespeare used a passage from "Of Cannibals" in *The Tempest*. [[rene-descartes|Descartes]] set out to defeat the kind of doubt Montaigne entertained; [[blaise-pascal|Pascal]] read him obsessively and criticized his complacency. Emerson and Nietzsche admired his honesty. The Catholic Church placed the *Essays* on the Index in 1676. Critics have called his skepticism a recipe for political quietism; admirers see in it the roots of toleration and humane modesty.
+The *Essays* were translated into English by John Florio in 1603, and Shakespeare used a passage from "Of Cannibals" in *The Tempest*. [Descartes](rene-descartes.md) set out to defeat the kind of doubt Montaigne entertained; [Pascal](blaise-pascal.md) read him obsessively and criticized his complacency. Emerson and Nietzsche admired his honesty. The Catholic Church placed the *Essays* on the Index in 1676. Critics have called his skepticism a recipe for political quietism; admirers see in it the roots of toleration and humane modesty.
 
 ## Key ideas
 
@@ -44,7 +44,7 @@ The *Essays* were translated into English by John Florio in 1603, and Shakespear
 
 ## Where this leads
 
-- Text: [[montaigne-essays|*Essays*]]
-- Next thinker: [[francis-bacon|Francis Bacon]]
-- Forward: [[rene-descartes|Descartes]], [[blaise-pascal|Pascal]]
-- Back: [[gk:pyrrho.md|Pyrrho]], [[gk:seneca.md|Seneca]]
+- Text: [*Essays*](../texts/montaigne-essays.md)
+- Next thinker: [Francis Bacon](francis-bacon.md)
+- Forward: [Descartes](rene-descartes.md), [Pascal](blaise-pascal.md)
+- Back: [Pyrrho](../../../ancient/greek/thinkers/pyrrho.md), [Seneca](../../../ancient/greek/thinkers/seneca.md)

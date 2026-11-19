@@ -1,12 +1,12 @@
 # Karl Popper
 
-**Prerequisites:** [[philosophy-of-science|Philosophy of science]]
+**Prerequisites:** [Philosophy of science](../06-philosophy-of-science.md)
 
 @@IMG@@
 
 ## Life and context
 
-Karl Raimund Popper (1902–1994) was born in Vienna to a family of Jewish origin that had converted to Lutheranism; his father was a lawyer with a large library. As a teenager after the First World War he was briefly attracted to Marxism, then repelled after a demonstration in 1919 in which young socialists were shot, which he came to see as a consequence of a theory that justified sacrifices for a predicted future. He worked as a cabinetmaker's apprentice, a social worker with neglected children, and a schoolteacher, while studying psychology and philosophy (his doctorate was in 1928). He was close to but never a member of the Vienna Circle, and sharply criticized its verificationism in *Logik der Forschung* (1934), published in English as [[the-logic-of-scientific-discovery|*The Logic of Scientific Discovery*]] (1959). Foreseeing the Nazi annexation of Austria, he emigrated in 1937 to New Zealand, where he taught at Canterbury University College and wrote *The Open Society and Its Enemies* (1945) and *The Poverty of Historicism*. From 1946 he taught at the London School of Economics, with Friedrich Hayek's support. He was knighted in 1965 and died in London in 1994.
+Karl Raimund Popper (1902–1994) was born in Vienna to a family of Jewish origin that had converted to Lutheranism; his father was a lawyer with a large library. As a teenager after the First World War he was briefly attracted to Marxism, then repelled after a demonstration in 1919 in which young socialists were shot, which he came to see as a consequence of a theory that justified sacrifices for a predicted future. He worked as a cabinetmaker's apprentice, a social worker with neglected children, and a schoolteacher, while studying psychology and philosophy (his doctorate was in 1928). He was close to but never a member of the Vienna Circle, and sharply criticized its verificationism in *Logik der Forschung* (1934), published in English as [*The Logic of Scientific Discovery*](../texts/the-logic-of-scientific-discovery.md) (1959). Foreseeing the Nazi annexation of Austria, he emigrated in 1937 to New Zealand, where he taught at Canterbury University College and wrote *The Open Society and Its Enemies* (1945) and *The Poverty of Historicism*. From 1946 he taught at the London School of Economics, with Friedrich Hayek's support. He was knighted in 1965 and died in London in 1994.
 
 ## Core ideas
 
@@ -32,7 +32,7 @@ flowchart LR
 
 ## Influence and criticism
 
-Popper's falsificationism became a widespread self-image among scientists; his political philosophy influenced postwar liberals and, through his student George Soros, the Open Society Foundations. [[thomas-kuhn|Kuhn]] argued that real science does not abandon theories at the first refutation; Imre Lakatos refined falsificationism into "sophisticated" form; Quine and Duhem noted that theories are tested only together with auxiliary assumptions, so a refutation can always be deflected. Classicists and Hegel scholars criticized his readings of Plato and Hegel as unfair.
+Popper's falsificationism became a widespread self-image among scientists; his political philosophy influenced postwar liberals and, through his student George Soros, the Open Society Foundations. [Kuhn](thomas-kuhn.md) argued that real science does not abandon theories at the first refutation; Imre Lakatos refined falsificationism into "sophisticated" form; Quine and Duhem noted that theories are tested only together with auxiliary assumptions, so a refutation can always be deflected. Classicists and Hegel scholars criticized his readings of Plato and Hegel as unfair.
 
 ## Key ideas
 
@@ -43,8 +43,8 @@ Popper's falsificationism became a widespread self-image among scientists; his p
 
 ## Where this leads
 
-- Text: [[the-logic-of-scientific-discovery|*The Logic of Scientific Discovery*]]
-- Next thinker: [[thomas-kuhn|Thomas Kuhn]]
-- Back: [[david-hume|Hume]], [[francis-bacon|Bacon]]
-- Economics: [[eco:11-friedrich-hayek.md|Friedrich Hayek]], his ally
-- Glossary: [[g:falsifiability|falsifiability]]
+- Text: [*The Logic of Scientific Discovery*](../texts/the-logic-of-scientific-discovery.md)
+- Next thinker: [Thomas Kuhn](thomas-kuhn.md)
+- Back: [Hume](../../early-modern/thinkers/david-hume.md), [Bacon](../../early-modern/thinkers/francis-bacon.md)
+- Economics: [Friedrich Hayek](../../../../../economics/microeconomics/10-history-of-thought/thinkers/11-friedrich-hayek.md), his ally
+- Glossary: [falsifiability](../../../../glossary/modern/falsifiability.md)

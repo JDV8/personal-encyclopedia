@@ -1,6 +1,6 @@
 # Faith and reason: how the medieval problem was set
 
-**Prerequisites:** [[dir:philosophy/history/ancient/greek|Ancient Greek philosophy]], especially [[gk:plato.md|Plato]], [[gk:aristotle.md|Aristotle]] and [[gk:plotinus.md|Plotinus]]; helpful: [[dir:religion/abrahamic/christianity/bible|the Bible branch]]
+**Prerequisites:** [Ancient Greek philosophy](../ancient/greek/README.md), especially [Plato](../ancient/greek/thinkers/plato.md), [Aristotle](../ancient/greek/thinkers/aristotle.md) and [Plotinus](../ancient/greek/thinkers/plotinus.md); helpful: [the Bible branch](../../../religion/abrahamic/christianity/bible/README.md)
 
 @@IMG@@
 
@@ -12,7 +12,7 @@ Now suppose both sources speak about the same subjects: whether the world had a 
 
 ## The inheritance
 
-By the fourth century CE the Greek schools had left a toolkit: [[c:metaphysics/the-forms.md|Plato's Forms]], [[c:metaphysics/form-and-matter.md|Aristotle's form and matter]], his [[c:logic/syllogism-and-the-organon.md|logic]], Stoic ethics, and above all the late Platonism of [[gk:plotinus.md|Plotinus]], with its single source of reality, [[c:metaphysics/the-one-and-emanation.md|the One]], from which everything flows. Christian, and later Muslim and Jewish, thinkers found in this toolkit language that seemed made for their own claims: an eternal, unchanging, immaterial first principle; a rational soul that is more than the body; a cosmos with order and purpose.
+By the fourth century CE the Greek schools had left a toolkit: [Plato's Forms](../../concepts/metaphysics/the-forms.md), [Aristotle's form and matter](../../concepts/metaphysics/form-and-matter.md), his [logic](../../concepts/logic/syllogism-and-the-organon.md), Stoic ethics, and above all the late Platonism of [Plotinus](../ancient/greek/thinkers/plotinus.md), with its single source of reality, [the One](../../concepts/metaphysics/the-one-and-emanation.md), from which everything flows. Christian, and later Muslim and Jewish, thinkers found in this toolkit language that seemed made for their own claims: an eternal, unchanging, immaterial first principle; a rational soul that is more than the body; a cosmos with order and purpose.
 
 They also found sharp differences. Aristotle's world has no beginning; Genesis says "In the beginning". Plotinus's One produces the world by necessary overflow; the God of the scriptures creates freely. Greek philosophy prizes the self-sufficient sage; the scriptures speak of grace, sin and a God who acts in history. Every medieval synthesis is a negotiation between these.
 
@@ -20,10 +20,10 @@ They also found sharp differences. Aristotle's world has no beginning; Genesis s
 
 Most medieval thinkers can be placed among four broad answers to the question "how do faith and reason relate?" The labels are modern simplifications, and real thinkers mix them.
 
-1. **Faith seeking understanding.** Belief comes first; reason then explores what is believed, tries to see why it is true, and defends it. This is the Augustinian line, and [[anselm|Anselm]] made the phrase *fides quaerens intellectum* ("faith seeking understanding") its motto.
-2. **Two harmonious paths.** Reason, working from the senses, can reach some truths about God by itself (that God exists, that God is one). Revelation adds truths that reason cannot reach (the Trinity, the Incarnation). Because both come from the same God, they cannot truly contradict. This is the position of [[thomas-aquinas|Thomas Aquinas]].
-3. **Philosophy as the highest path for the few.** Demonstrative philosophy gives the clearest grasp of truth; scripture expresses the same truth in images suited to everyone. Where they seem to clash, scripture is to be interpreted. This is roughly [[averroes|Averroes]], and in another key [[maimonides|Maimonides]].
-4. **Reason limited, God free.** Reason cannot prove much about God, and God's absolute power is not bound by the necessities philosophers think they see in nature. This line runs through al-Ghazali's attack on the philosophers and, differently, through [[william-of-ockham|William of Ockham]].
+1. **Faith seeking understanding.** Belief comes first; reason then explores what is believed, tries to see why it is true, and defends it. This is the Augustinian line, and [Anselm](thinkers/anselm.md) made the phrase *fides quaerens intellectum* ("faith seeking understanding") its motto.
+2. **Two harmonious paths.** Reason, working from the senses, can reach some truths about God by itself (that God exists, that God is one). Revelation adds truths that reason cannot reach (the Trinity, the Incarnation). Because both come from the same God, they cannot truly contradict. This is the position of [Thomas Aquinas](thinkers/thomas-aquinas.md).
+3. **Philosophy as the highest path for the few.** Demonstrative philosophy gives the clearest grasp of truth; scripture expresses the same truth in images suited to everyone. Where they seem to clash, scripture is to be interpreted. This is roughly [Averroes](thinkers/averroes.md), and in another key [Maimonides](thinkers/maimonides.md).
+4. **Reason limited, God free.** Reason cannot prove much about God, and God's absolute power is not bound by the necessities philosophers think they see in nature. This line runs through al-Ghazali's attack on the philosophers and, differently, through [William of Ockham](thinkers/william-of-ockham.md).
 
 ```mermaid
 flowchart TB
@@ -37,16 +37,16 @@ flowchart TB
 
 ## Why this was philosophy and not only theology
 
-It is easy to dismiss the period as theology in disguise. That misses what happened. Because the stakes were high, the arguments had to be precise. Questions that look narrowly religious forced general problems into the open. Asking how God can know future free choices produced careful work on time, necessity and freedom (see [[boethius|Boethius]]). Asking how the bread of the Eucharist can change in substance but not in appearance pushed thinkers to define [[c:metaphysics/substance.md|substance]] and accident with new rigour. Asking whether "God is good" means the same as "Socrates is good" led to theories of analogy and meaning. Asking whether God commands things because they are good, or whether they are good because God commands them, restated [[gt:euthyphro.md|the Euthyphro problem]] for a monotheistic world.
+It is easy to dismiss the period as theology in disguise. That misses what happened. Because the stakes were high, the arguments had to be precise. Questions that look narrowly religious forced general problems into the open. Asking how God can know future free choices produced careful work on time, necessity and freedom (see [Boethius](thinkers/boethius.md)). Asking how the bread of the Eucharist can change in substance but not in appearance pushed thinkers to define [substance](../../concepts/metaphysics/substance.md) and accident with new rigour. Asking whether "God is good" means the same as "Socrates is good" led to theories of analogy and meaning. Asking whether God commands things because they are good, or whether they are good because God commands them, restated [the Euthyphro problem](../ancient/greek/texts/euthyphro.md) for a monotheistic world.
 
-The period also produced institutions that philosophy still uses: the university, the commentary, the public disputation, the habit of stating an opponent's best objections before replying. Those are the subject of [[scholasticism|the next lesson]].
+The period also produced institutions that philosophy still uses: the university, the commentary, the public disputation, the habit of stating an opponent's best objections before replying. Those are the subject of [the next lesson](02-scholasticism.md).
 
 ## The arc of the period
 
-- **Late antiquity (c. 350–600):** [[augustine|Augustine]] fuses Platonism with Christian belief; [[boethius|Boethius]] translates Aristotle's logic into Latin and writes [[consolation-of-philosophy|the *Consolation*]].
+- **Late antiquity (c. 350–600):** [Augustine](thinkers/augustine.md) fuses Platonism with Christian belief; [Boethius](thinkers/boethius.md) translates Aristotle's logic into Latin and writes [the *Consolation*](texts/consolation-of-philosophy.md).
 - **Early medieval Latin West (600–1050):** schools are few; monasteries preserve texts.
-- **The Islamic world (800–1200):** a translation movement brings Greek philosophy into Arabic; [[avicenna|Avicenna]] and [[averroes|Averroes]] build vast systems ([[islamic-and-jewish-philosophy|lesson 3]]).
-- **The Latin revival (1050–1350):** [[anselm|Anselm]], then the recovery of the whole of Aristotle through Arabic and Greek sources, the universities, [[thomas-aquinas|Aquinas]], and the late critical turn of [[william-of-ockham|Ockham]].
+- **The Islamic world (800–1200):** a translation movement brings Greek philosophy into Arabic; [Avicenna](thinkers/avicenna.md) and [Averroes](thinkers/averroes.md) build vast systems ([lesson 3](03-islamic-and-jewish-philosophy.md)).
+- **The Latin revival (1050–1350):** [Anselm](thinkers/anselm.md), then the recovery of the whole of Aristotle through Arabic and Greek sources, the universities, [Aquinas](thinkers/thomas-aquinas.md), and the late critical turn of [Ockham](thinkers/william-of-ockham.md).
 
 ## Key ideas
 
@@ -57,7 +57,7 @@ The period also produced institutions that philosophy still uses: the university
 
 ## Where this leads
 
-- Next: [[scholasticism|Scholasticism: the method of the schools]]
-- The first great synthesis: [[augustine|Augustine]] and his [[augustine-confessions|*Confessions*]]
-- Related: [[c:metaphysics/the-one-and-emanation.md|The One and emanation]], [[dir:religion/abrahamic/christianity/bible|the Bible]]
-- Later echo: the rationalists' proofs of God in [[rationalism|early modern rationalism]]
+- Next: [Scholasticism: the method of the schools](02-scholasticism.md)
+- The first great synthesis: [Augustine](thinkers/augustine.md) and his [*Confessions*](texts/augustine-confessions.md)
+- Related: [The One and emanation](../../concepts/metaphysics/the-one-and-emanation.md), [the Bible](../../../religion/abrahamic/christianity/bible/README.md)
+- Later echo: the rationalists' proofs of God in [early modern rationalism](../modern/early-modern/03-rationalism.md)

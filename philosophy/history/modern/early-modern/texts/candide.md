@@ -1,6 +1,6 @@
 # Voltaire, *Candide, or Optimism*
 
-**Prerequisites:** [[voltaire|Voltaire]]; helpful: [[gottfried-wilhelm-leibniz|Leibniz]]
+**Prerequisites:** [Voltaire](../thinkers/voltaire.md); helpful: [Leibniz](../thinkers/gottfried-wilhelm-leibniz.md)
 
 @@IMG@@
 
@@ -22,13 +22,13 @@ flowchart LR
 
 ## Target and themes
 
-The target is philosophical optimism, the thesis that this is the best possible world, associated with [[gottfried-wilhelm-leibniz|Leibniz]] (as popularized by Christian Wolff) and with Alexander Pope's *Essay on Man*. Leibniz's actual view is more sophisticated than Pangloss's slogans: he never denied that evils are real, only that a better whole was possible. Voltaire's real target is the attitude that turns suffering into a proof of order and thereby excuses doing nothing about it. Other targets: religious fanaticism, war, aristocratic pride, colonial slavery, literary vanity.
+The target is philosophical optimism, the thesis that this is the best possible world, associated with [Leibniz](../thinkers/gottfried-wilhelm-leibniz.md) (as popularized by Christian Wolff) and with Alexander Pope's *Essay on Man*. Leibniz's actual view is more sophisticated than Pangloss's slogans: he never denied that evils are real, only that a better whole was possible. Voltaire's real target is the attitude that turns suffering into a proof of order and thereby excuses doing nothing about it. Other targets: religious fanaticism, war, aristocratic pride, colonial slavery, literary vanity.
 
 The ending is much debated. Is "cultivate our garden" a call for practical work over speculation, a retreat into private life, an image of modest Enlightenment reform, or all three?
 
 ## Reception
 
-*Candide* became the best-known work of the French Enlightenment and a model of satire. Leonard Bernstein turned it into an operetta (1956). It remains the liveliest introduction to the [[g:problem-of-evil|problem of evil]]. Translations: Roger Pearson (Oxford World's Classics), Theo Cuffe (Penguin), Burton Raffel (Yale).
+*Candide* became the best-known work of the French Enlightenment and a model of satire. Leonard Bernstein turned it into an operetta (1956). It remains the liveliest introduction to the [problem of evil](../../../../glossary/modern/problem-of-evil.md). Translations: Roger Pearson (Oxford World's Classics), Theo Cuffe (Penguin), Burton Raffel (Yale).
 
 ## Key ideas
 
@@ -38,7 +38,7 @@ The ending is much debated. Is "cultivate our garden" a call for practical work 
 
 ## Where this leads
 
-- Next text: [[the-social-contract|Rousseau's *The Social Contract*]]
-- Back: [[monadology|*Monadology*]]
-- Related: [[bib:old-testament/books/wisdom-poetry/job.md|Job]], an older confrontation with suffering
-- Forward: [[the-brothers-karamazov|*The Brothers Karamazov*]], Ivan's rebellion against theodicy
+- Next text: [Rousseau's *The Social Contract*](the-social-contract.md)
+- Back: [*Monadology*](monadology.md)
+- Related: [Job](../../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/job.md), an older confrontation with suffering
+- Forward: [*The Brothers Karamazov*](../../nineteenth-century/texts/the-brothers-karamazov.md), Ivan's rebellion against theodicy

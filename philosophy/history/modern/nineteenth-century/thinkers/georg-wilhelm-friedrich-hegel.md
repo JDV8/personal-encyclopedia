@@ -1,12 +1,12 @@
 # Georg Wilhelm Friedrich Hegel
 
-**Prerequisites:** [[german-idealism|German idealism]]; [[c:logic/contradiction-and-dialectic.md|contradiction and dialectic]]
+**Prerequisites:** [German idealism](../01-german-idealism.md); [contradiction and dialectic](../../../../concepts/logic/contradiction-and-dialectic.md)
 
 @@IMG@@
 
 ## Life and context
 
-G. W. F. Hegel (1770–1831) was born in Stuttgart, in the Duchy of Württemberg, the son of a revenue official. At the Protestant seminary in Tübingen he shared rooms with the poet Friedrich Hölderlin and the younger prodigy Schelling; the three greeted the French Revolution with enthusiasm (a story, possibly legendary, says they planted a liberty tree). After years as a house tutor in Bern and Frankfurt, he joined Schelling at Jena in 1801. He finished the [[phenomenology-of-spirit|*Phenomenology of Spirit*]] in 1806 as Napoleon's army defeated Prussia at Jena; in a letter he described seeing the emperor, "this world-soul", riding through the town. He then edited a newspaper in Bamberg, was headmaster of a Gymnasium in Nuremberg (where he wrote the *Science of Logic*), and became professor at Heidelberg and, from 1818, Berlin, where he dominated German philosophy. He died in Berlin in 1831, probably of cholera.
+G. W. F. Hegel (1770–1831) was born in Stuttgart, in the Duchy of Württemberg, the son of a revenue official. At the Protestant seminary in Tübingen he shared rooms with the poet Friedrich Hölderlin and the younger prodigy Schelling; the three greeted the French Revolution with enthusiasm (a story, possibly legendary, says they planted a liberty tree). After years as a house tutor in Bern and Frankfurt, he joined Schelling at Jena in 1801. He finished the [*Phenomenology of Spirit*](../texts/phenomenology-of-spirit.md) in 1806 as Napoleon's army defeated Prussia at Jena; in a letter he described seeing the emperor, "this world-soul", riding through the town. He then edited a newspaper in Bamberg, was headmaster of a Gymnasium in Nuremberg (where he wrote the *Science of Logic*), and became professor at Heidelberg and, from 1818, Berlin, where he dominated German philosophy. He died in Berlin in 1831, probably of cholera.
 
 ## Core ideas
 
@@ -32,11 +32,11 @@ flowchart TB
 
 ## Key works
 
-[[phenomenology-of-spirit|*Phenomenology of Spirit*]] (1807); *Science of Logic* (1812–16); *Encyclopedia of the Philosophical Sciences* (1817, revised 1827 and 1830); *Elements of the Philosophy of Right* (1820); lectures on history, aesthetics, religion and the history of philosophy, published posthumously from notes.
+[*Phenomenology of Spirit*](../texts/phenomenology-of-spirit.md) (1807); *Science of Logic* (1812–16); *Encyclopedia of the Philosophical Sciences* (1817, revised 1827 and 1830); *Elements of the Philosophy of Right* (1820); lectures on history, aesthetics, religion and the history of philosophy, published posthumously from notes.
 
 ## Influence and criticism
 
-After his death, Hegelians split into right and left; [[karl-marx|Marx]] came from the left. [[soren-kierkegaard|Kierkegaard]] attacked the system in the name of the existing individual; [[arthur-schopenhauer|Schopenhauer]] called him a charlatan. British idealists (Bradley, McTaggart) revived him in the late nineteenth century, provoking Russell and Moore. [[karl-popper|Popper]] in *The Open Society and Its Enemies* accused him of preparing totalitarianism; scholars such as Walter Kaufmann, Charles Taylor and Robert Pippin have rejected that reading and stressed his account of freedom and recognition. His notorious obscurity remains a barrier and a stimulus.
+After his death, Hegelians split into right and left; [Marx](karl-marx.md) came from the left. [Kierkegaard](soren-kierkegaard.md) attacked the system in the name of the existing individual; [Schopenhauer](arthur-schopenhauer.md) called him a charlatan. British idealists (Bradley, McTaggart) revived him in the late nineteenth century, provoking Russell and Moore. [Popper](../../twentieth-century/thinkers/karl-popper.md) in *The Open Society and Its Enemies* accused him of preparing totalitarianism; scholars such as Walter Kaufmann, Charles Taylor and Robert Pippin have rejected that reading and stressed his account of freedom and recognition. His notorious obscurity remains a barrier and a stimulus.
 
 ## Key ideas
 
@@ -47,7 +47,7 @@ After his death, Hegelians split into right and left; [[karl-marx|Marx]] came fr
 
 ## Where this leads
 
-- Text: [[phenomenology-of-spirit|*Phenomenology of Spirit*]]
-- Next thinker: [[arthur-schopenhauer|Arthur Schopenhauer]]
-- Forward: [[karl-marx|Marx]], [[soren-kierkegaard|Kierkegaard]], [[simone-de-beauvoir|de Beauvoir]]
-- Back: [[gk:heraclitus.md|Heraclitus]], whom Hegel claimed as a forerunner
+- Text: [*Phenomenology of Spirit*](../texts/phenomenology-of-spirit.md)
+- Next thinker: [Arthur Schopenhauer](arthur-schopenhauer.md)
+- Forward: [Marx](karl-marx.md), [Kierkegaard](soren-kierkegaard.md), [de Beauvoir](../../twentieth-century/thinkers/simone-de-beauvoir.md)
+- Back: [Heraclitus](../../../ancient/greek/thinkers/heraclitus.md), whom Hegel claimed as a forerunner

@@ -1,12 +1,12 @@
 # Jean-Paul Sartre
 
-**Prerequisites:** [[existentialism|Existentialism]], [[phenomenology|Phenomenology]]
+**Prerequisites:** [Existentialism](../03-existentialism.md), [Phenomenology](../01-phenomenology.md)
 
 @@IMG@@
 
 ## Life and context
 
-Jean-Paul Sartre (1905–1980) was born in Paris; his father died when he was a baby, and he grew up in the household of his grandfather Charles Schweitzer (a relative of Albert Schweitzer), surrounded by books, as recounted in his memoir *Words* (1964). At the École Normale Supérieure he met [[simone-de-beauvoir|Simone de Beauvoir]] in 1929; they became lifelong partners in an open relationship, never marrying. In 1933–34 he studied Husserl in Berlin. His novel *Nausea* (1938) described the contingency of existence through a character overwhelmed by the sheer thereness of a chestnut tree root. Drafted in 1939, he was captured in 1940 and spent nine months in a German prisoner-of-war camp. Back in Paris, he wrote [[being-and-nothingness|*Being and Nothingness*]] (1943) and plays including *The Flies* (1943) and *No Exit* (1944). After liberation, his lecture [[existentialism-is-a-humanism|"Existentialism Is a Humanism"]] (1945) made him a celebrity; he co-founded the journal *Les Temps modernes*. He moved toward Marxism, defended the French Communist Party for a time, broke with [[albert-camus|Camus]] in 1952, opposed the Algerian War (his apartment was bombed by right-wing militants), and later supported Maoist groups and the students of May 1968. He refused the Nobel Prize in Literature in 1964, saying a writer should not allow himself to be turned into an institution. Some 50,000 people followed his funeral procession in 1980.
+Jean-Paul Sartre (1905–1980) was born in Paris; his father died when he was a baby, and he grew up in the household of his grandfather Charles Schweitzer (a relative of Albert Schweitzer), surrounded by books, as recounted in his memoir *Words* (1964). At the École Normale Supérieure he met [Simone de Beauvoir](simone-de-beauvoir.md) in 1929; they became lifelong partners in an open relationship, never marrying. In 1933–34 he studied Husserl in Berlin. His novel *Nausea* (1938) described the contingency of existence through a character overwhelmed by the sheer thereness of a chestnut tree root. Drafted in 1939, he was captured in 1940 and spent nine months in a German prisoner-of-war camp. Back in Paris, he wrote [*Being and Nothingness*](../texts/being-and-nothingness.md) (1943) and plays including *The Flies* (1943) and *No Exit* (1944). After liberation, his lecture ["Existentialism Is a Humanism"](../texts/existentialism-is-a-humanism.md) (1945) made him a celebrity; he co-founded the journal *Les Temps modernes*. He moved toward Marxism, defended the French Communist Party for a time, broke with [Camus](albert-camus.md) in 1952, opposed the Algerian War (his apartment was bombed by right-wing militants), and later supported Maoist groups and the students of May 1968. He refused the Nobel Prize in Literature in 1964, saying a writer should not allow himself to be turned into an institution. Some 50,000 people followed his funeral procession in 1980.
 
 ## Core ideas
 
@@ -45,6 +45,6 @@ Sartre was the most famous intellectual of postwar France. Critics charged that 
 
 ## Where this leads
 
-- Texts: [[being-and-nothingness|*Being and Nothingness*]], [[existentialism-is-a-humanism|*Existentialism Is a Humanism*]]
-- Next thinker: [[albert-camus|Albert Camus]]
-- Glossary: [[g:bad-faith|bad faith]], [[g:existence-precedes-essence|existence precedes essence]]
+- Texts: [*Being and Nothingness*](../texts/being-and-nothingness.md), [*Existentialism Is a Humanism*](../texts/existentialism-is-a-humanism.md)
+- Next thinker: [Albert Camus](albert-camus.md)
+- Glossary: [bad faith](../../../../glossary/modern/bad-faith.md), [existence precedes essence](../../../../glossary/modern/existence-precedes-essence.md)

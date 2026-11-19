@@ -1,12 +1,12 @@
 # Camus, *The Myth of Sisyphus*
 
-**Prerequisites:** [[albert-camus|Albert Camus]]; [[the-absurd|The absurd]]
+**Prerequisites:** [Albert Camus](../thinkers/albert-camus.md); [The absurd](../04-the-absurd.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*Le Mythe de Sisyphe* was published by Gallimard in 1942, a few months after the novel *The Stranger*; together with the play *Caligula* they form what [[albert-camus|Camus]] called his "cycle of the absurd". It is a philosophical essay of about 150 pages. Under German censorship, a chapter on Franz Kafka (who was Jewish) was removed from the first edition and published separately; it was restored as an appendix in later editions. English translation: Justin O'Brien (1955).
+*Le Mythe de Sisyphe* was published by Gallimard in 1942, a few months after the novel *The Stranger*; together with the play *Caligula* they form what [Camus](../thinkers/albert-camus.md) called his "cycle of the absurd". It is a philosophical essay of about 150 pages. Under German censorship, a chapter on Franz Kafka (who was Jewish) was removed from the first edition and published separately; it was restored as an appendix in later editions. English translation: Justin O'Brien (1955).
 
 ## Outline
 
@@ -36,6 +36,6 @@ The essay became a touchstone of postwar thought and popular culture; its openin
 
 ## Where this leads
 
-- Next text: [[the-second-sex|*The Second Sex*]]
-- Back: [[pensees|Pascal's *Pensées*]], [[fear-and-trembling|*Fear and Trembling*]] (the leap Camus rejects)
-- Glossary: [[g:the-absurd|the absurd]]
+- Next text: [*The Second Sex*](the-second-sex.md)
+- Back: [Pascal's *Pensées*](../../early-modern/texts/pensees.md), [*Fear and Trembling*](../../nineteenth-century/texts/fear-and-trembling.md) (the leap Camus rejects)
+- Glossary: [the absurd](../../../../glossary/modern/the-absurd.md)

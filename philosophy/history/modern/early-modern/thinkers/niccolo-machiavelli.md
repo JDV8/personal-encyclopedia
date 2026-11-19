@@ -1,12 +1,12 @@
 # Niccolò Machiavelli
 
-**Prerequisites:** [[renaissance-and-humanism|Renaissance and humanism]]; helpful: [[c:political/government-by-virtue.md|government by virtue]], [[c:political/fa-shi-shu.md|the Legalist fa, shi, shu]]
+**Prerequisites:** [Renaissance and humanism](../01-renaissance-and-humanism.md); helpful: [government by virtue](../../../../concepts/political/government-by-virtue.md), [the Legalist fa, shi, shu](../../../../concepts/political/fa-shi-shu.md)
 
 @@IMG@@
 
 ## Life and context
 
-Niccolò Machiavelli (1469–1527) was born in Florence and in 1498, after the fall of the preacher Savonarola, became secretary of the Second Chancery of the Florentine republic. For fourteen years he served on diplomatic missions to the French king, the emperor, the papal court and Cesare Borgia, whose ruthless campaign in the Romagna he watched closely. He organized a Florentine citizen militia. When the Medici returned to power in 1512, he lost his post; in 1513 he was arrested on suspicion of conspiracy, tortured, and released. In enforced retirement on his farm near San Casciano he wrote [[the-prince|*The Prince*]] (1513, published 1532) and the *Discourses on Livy*. He later wrote *The Art of War*, *Florentine Histories* and the comedy *Mandragola*.
+Niccolò Machiavelli (1469–1527) was born in Florence and in 1498, after the fall of the preacher Savonarola, became secretary of the Second Chancery of the Florentine republic. For fourteen years he served on diplomatic missions to the French king, the emperor, the papal court and Cesare Borgia, whose ruthless campaign in the Romagna he watched closely. He organized a Florentine citizen militia. When the Medici returned to power in 1512, he lost his post; in 1513 he was arrested on suspicion of conspiracy, tortured, and released. In enforced retirement on his farm near San Casciano he wrote [*The Prince*](../texts/the-prince.md) (1513, published 1532) and the *Discourses on Livy*. He later wrote *The Art of War*, *Florentine Histories* and the comedy *Mandragola*.
 
 ## Core ideas
 
@@ -33,7 +33,7 @@ flowchart LR
 
 ## Connections
 
-Readers of Chinese philosophy will notice a resemblance to the Legalist [[cn:han-feizi.md|Han Feizi]], who also separated statecraft from conventional morality. [[thomas-hobbes|Hobbes]] took up the realist view of human nature in a more systematic form.
+Readers of Chinese philosophy will notice a resemblance to the Legalist [Han Feizi](../../../ancient/chinese/thinkers/han-feizi.md), who also separated statecraft from conventional morality. [Hobbes](thomas-hobbes.md) took up the realist view of human nature in a more systematic form.
 
 ## Key ideas
 
@@ -44,7 +44,7 @@ Readers of Chinese philosophy will notice a resemblance to the Legalist [[cn:han
 
 ## Where this leads
 
-- Text: [[the-prince|*The Prince*]]
-- Next thinker: [[michel-de-montaigne|Montaigne]]
-- Forward: [[thomas-hobbes|Hobbes]], [[social-contract-and-the-state|The social contract]]
-- Comparison: [[cn:han-feizi.md|Han Feizi]]
+- Text: [*The Prince*](../texts/the-prince.md)
+- Next thinker: [Montaigne](michel-de-montaigne.md)
+- Forward: [Hobbes](thomas-hobbes.md), [The social contract](../05-social-contract-and-the-state.md)
+- Comparison: [Han Feizi](../../../ancient/chinese/thinkers/han-feizi.md)

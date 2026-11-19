@@ -1,12 +1,12 @@
 # David Hume
 
-**Prerequisites:** [[empiricism|Empiricism]], [[john-locke|Locke]], [[george-berkeley|Berkeley]]
+**Prerequisites:** [Empiricism](../04-empiricism.md), [Locke](john-locke.md), [Berkeley](george-berkeley.md)
 
 @@IMG@@
 
 ## Life and context
 
-David Hume (1711–1776) was born in Edinburgh and grew up at the family estate of Ninewells in the Scottish Borders. He entered Edinburgh University very young, tried and abandoned law, suffered a period of depression, and went to France, where at La Flèche (Descartes' old school) he wrote [[treatise-of-human-nature|*A Treatise of Human Nature*]] (1739–40). It "fell dead-born from the press", he later wrote. He recast its ideas in more accessible essays and the two *Enquiries* (1748, 1751). His reputation for irreligion cost him professorships at Edinburgh and Glasgow. He worked as a tutor, secretary and diplomat, was librarian of the Advocates' Library in Edinburgh, and wrote a best-selling *History of England*. In Paris in the 1760s he was celebrated in the salons ("le bon David"). He befriended and then quarrelled with Rousseau. His close friend [[adam-smith|Adam Smith]] described his calm death, despite the visitors who expected deathbed terror from an unbeliever. *Dialogues Concerning Natural Religion* appeared posthumously in 1779.
+David Hume (1711–1776) was born in Edinburgh and grew up at the family estate of Ninewells in the Scottish Borders. He entered Edinburgh University very young, tried and abandoned law, suffered a period of depression, and went to France, where at La Flèche (Descartes' old school) he wrote [*A Treatise of Human Nature*](../texts/treatise-of-human-nature.md) (1739–40). It "fell dead-born from the press", he later wrote. He recast its ideas in more accessible essays and the two *Enquiries* (1748, 1751). His reputation for irreligion cost him professorships at Edinburgh and Glasgow. He worked as a tutor, secretary and diplomat, was librarian of the Advocates' Library in Edinburgh, and wrote a best-selling *History of England*. In Paris in the 1760s he was celebrated in the salons ("le bon David"). He befriended and then quarrelled with Rousseau. His close friend [Adam Smith](adam-smith.md) described his calm death, despite the visitors who expected deathbed terror from an unbeliever. *Dialogues Concerning Natural Religion* appeared posthumously in 1779.
 
 ## Core ideas
 
@@ -38,7 +38,7 @@ flowchart TB
 
 ## Influence and criticism
 
-Hume woke [[immanuel-kant|Kant]] from his "dogmatic slumber". His views on causation, induction and the is–ought gap shaped logical positivism and much of analytic philosophy; his sentimentalism is a source for modern moral psychology. His friendship with Smith and his economic essays link him to [[dir:economics/microeconomics/10-history-of-thought|economic thought]]. Thomas Reid, his Scottish critic, defended common sense against his "ideal theory". Hume is also rightly criticized for a racist footnote, added in 1753 to his essay "Of National Characters", which later critics have examined in detail.
+Hume woke [Kant](immanuel-kant.md) from his "dogmatic slumber". His views on causation, induction and the is–ought gap shaped logical positivism and much of analytic philosophy; his sentimentalism is a source for modern moral psychology. His friendship with Smith and his economic essays link him to [economic thought](../../../../../economics/microeconomics/10-history-of-thought/README.md). Thomas Reid, his Scottish critic, defended common sense against his "ideal theory". Hume is also rightly criticized for a racist footnote, added in 1753 to his essay "Of National Characters", which later critics have examined in detail.
 
 ## Key ideas
 
@@ -49,7 +49,7 @@ Hume woke [[immanuel-kant|Kant]] from his "dogmatic slumber". His views on causa
 
 ## Where this leads
 
-- Text: [[treatise-of-human-nature|*A Treatise of Human Nature* and the *Enquiries*]]
-- Next thinker: [[voltaire|Voltaire]]
-- Forward: [[kants-copernican-revolution|Kant's reply]]; [[philosophy-of-science|Popper on induction]]
-- Glossary: [[g:problem-of-induction|problem of induction]], [[g:is-ought-gap|is–ought gap]], [[g:bundle-theory|bundle theory]]
+- Text: [*A Treatise of Human Nature* and the *Enquiries*](../texts/treatise-of-human-nature.md)
+- Next thinker: [Voltaire](voltaire.md)
+- Forward: [Kant's reply](../07-kants-copernican-revolution.md); [Popper on induction](../../twentieth-century/06-philosophy-of-science.md)
+- Glossary: [problem of induction](../../../../glossary/modern/problem-of-induction.md), [is–ought gap](../../../../glossary/modern/is-ought-gap.md), [bundle theory](../../../../glossary/modern/bundle-theory.md)

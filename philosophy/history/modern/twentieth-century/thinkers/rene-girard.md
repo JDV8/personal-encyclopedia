@@ -1,6 +1,6 @@
 # René Girard
 
-**Prerequisites:** [[mimetic-theory|Mimetic theory]]
+**Prerequisites:** [Mimetic theory](../09-mimetic-theory.md)
 
 @@IMG@@
 
@@ -12,7 +12,7 @@ René Noël Théophile Girard (1923–2015) was born in Avignon, France, on Chri
 
 ## Core ideas
 
-**Mimetic desire.** *Deceit, Desire and the Novel* (1961) argued, from Cervantes, Stendhal, Flaubert, Proust and [[fyodor-dostoevsky|Dostoevsky]], that we desire according to others: desire is triangular (subject, model, object). The "romantic lie" is the belief in spontaneous desire; "novelistic truth" exposes its mediation.
+**Mimetic desire.** *Deceit, Desire and the Novel* (1961) argued, from Cervantes, Stendhal, Flaubert, Proust and [Dostoevsky](../../nineteenth-century/thinkers/fyodor-dostoevsky.md), that we desire according to others: desire is triangular (subject, model, object). The "romantic lie" is the belief in spontaneous desire; "novelistic truth" exposes its mediation.
 
 **Mimetic rivalry.** When the model is close (internal mediation), imitation leads to rivalry for the same object, then to escalating doubles who mirror each other's violence.
 
@@ -45,7 +45,7 @@ Girard's ideas influenced theologians (Raymund Schwager, James Alison), literary
 
 ## Where this leads
 
-- Texts: [[violence-and-the-sacred|*Violence and the Sacred*]], [[i-see-satan-fall-like-lightning|*I See Satan Fall Like Lightning*]]
-- Back: [[notes-from-underground|*Notes from Underground*]], [[the-brothers-karamazov|*The Brothers Karamazov*]]
-- Bible: [[bib:glossary/people/satan.md|Satan]]
-- Glossary: [[g:mimetic-desire|mimetic desire]], [[g:scapegoat-mechanism|scapegoat mechanism]], [[g:mimesis|mimesis]]
+- Texts: [*Violence and the Sacred*](../texts/violence-and-the-sacred.md), [*I See Satan Fall Like Lightning*](../texts/i-see-satan-fall-like-lightning.md)
+- Back: [*Notes from Underground*](../../nineteenth-century/texts/notes-from-underground.md), [*The Brothers Karamazov*](../../nineteenth-century/texts/the-brothers-karamazov.md)
+- Bible: [Satan](../../../../../religion/abrahamic/christianity/bible/glossary/people/satan.md)
+- Glossary: [mimetic desire](../../../../glossary/modern/mimetic-desire.md), [scapegoat mechanism](../../../../glossary/modern/scapegoat-mechanism.md), [mimesis](../../../../glossary/greek/mimesis.md)

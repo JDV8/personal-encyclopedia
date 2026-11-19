@@ -1,6 +1,6 @@
 # Utilitarianism and liberalism: happiness, liberty and reform
 
-**Prerequisites:** [[enlightenment|The Enlightenment]], [[groundwork-of-the-metaphysics-of-morals|Kant's *Groundwork*]] for contrast; [[g:pleasure|pleasure]]
+**Prerequisites:** [The Enlightenment](../early-modern/06-enlightenment.md), [Kant's *Groundwork*](../early-modern/texts/groundwork-of-the-metaphysics-of-morals.md) for contrast; [pleasure](../../../glossary/general/pleasure.md)
 
 @@IMG@@
 
@@ -8,7 +8,7 @@
 
 Imagine you are drafting a law. How should you decide whether it is good? Tradition, scripture, natural law and rights talk give answers that conflict and are hard to check. The utilitarians proposed a single, public, measurable test: does it increase or decrease the total happiness of everyone affected?
 
-That test was developed by **Jeremy Bentham** (1748–1832) and refined by **[[john-stuart-mill|John Stuart Mill]]** (1806–1873). It was not an academic hobby. Utilitarians were reformers: of prisons, poor laws, the franchise, legal codes, the status of women and the treatment of animals.
+That test was developed by **Jeremy Bentham** (1748–1832) and refined by **[John Stuart Mill](thinkers/john-stuart-mill.md)** (1806–1873). It was not an academic hobby. Utilitarians were reformers: of prisons, poor laws, the franchise, legal codes, the status of women and the treatment of animals.
 
 ## Bentham's principle
 
@@ -34,7 +34,7 @@ flowchart TB
 
 ## Liberalism: the harm principle
 
-In [[on-liberty|*On Liberty*]] (1859), written with his wife Harriet Taylor Mill (whose contribution he credited generously), Mill argued that the only purpose for which power can rightfully be exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, physical or moral, is not a sufficient warrant. This is the **[[g:harm-principle|harm principle]]**. He defended near-absolute freedom of thought and discussion (even false opinions help us hold truths as living convictions rather than dead dogma) and "experiments in living". He feared not just state tyranny but the "tyranny of the majority" exercised through social conformity, a theme he took from Tocqueville.
+In [*On Liberty*](texts/on-liberty.md) (1859), written with his wife Harriet Taylor Mill (whose contribution he credited generously), Mill argued that the only purpose for which power can rightfully be exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, physical or moral, is not a sufficient warrant. This is the **[harm principle](../../../glossary/modern/harm-principle.md)**. He defended near-absolute freedom of thought and discussion (even false opinions help us hold truths as living convictions rather than dead dogma) and "experiments in living". He feared not just state tyranny but the "tyranny of the majority" exercised through social conformity, a theme he took from Tocqueville.
 
 In *The Subjection of Women* (1869) Mill argued for full legal equality of the sexes. As an MP he proposed in 1867 an amendment to give women the vote.
 
@@ -51,8 +51,8 @@ Utilitarianism faces classic objections. Could it justify punishing an innocent 
 
 ## Where this leads
 
-- Next: [[marx-and-historical-materialism|Marx and historical materialism]]
-- Thinker: [[john-stuart-mill|John Stuart Mill]]; text: [[on-liberty|*On Liberty*]]
-- Economics: [[eco:03-john-stuart-mill.md|Mill in economics]], [[micro:08-welfare-economics|welfare economics]]
-- Forward: [[political-philosophy-after-catastrophe|Rawls's critique]]
-- Back: [[gk:epicurus.md|Epicurus]] on pleasure
+- Next: [Marx and historical materialism](04-marx-and-historical-materialism.md)
+- Thinker: [John Stuart Mill](thinkers/john-stuart-mill.md); text: [*On Liberty*](texts/on-liberty.md)
+- Economics: [Mill in economics](../../../../economics/microeconomics/10-history-of-thought/thinkers/03-john-stuart-mill.md), [welfare economics](../../../../economics/microeconomics/08-welfare-economics/README.md)
+- Forward: [Rawls's critique](../twentieth-century/07-political-philosophy-after-catastrophe.md)
+- Back: [Epicurus](../../ancient/greek/thinkers/epicurus.md) on pleasure

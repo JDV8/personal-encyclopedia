@@ -1,6 +1,6 @@
 # Islamic and Jewish philosophy: falsafa and its heirs
 
-**Prerequisites:** [[faith-and-reason|Faith and reason]]; helpful: [[gk:aristotle.md|Aristotle]], [[gk:plotinus.md|Plotinus]]
+**Prerequisites:** [Faith and reason](01-faith-and-reason.md); helpful: [Aristotle](../ancient/greek/thinkers/aristotle.md), [Plotinus](../ancient/greek/thinkers/plotinus.md)
 
 @@IMG@@
 
@@ -26,19 +26,19 @@ timeline
   1138-1204 : Maimonides
 ```
 
-**Al-Kindi** argued that philosophy and revelation pursue the same truth and that one should accept truth from whatever source. **Al-Farabi** built a political philosophy on Plato's *Republic*: the ideal ruler is a philosopher-prophet who communicates truth to the many through images and laws, a direct descendant of [[c:political/philosopher-rulers.md|Plato's philosopher-rulers]].
+**Al-Kindi** argued that philosophy and revelation pursue the same truth and that one should accept truth from whatever source. **Al-Farabi** built a political philosophy on Plato's *Republic*: the ideal ruler is a philosopher-prophet who communicates truth to the many through images and laws, a direct descendant of [Plato's philosopher-rulers](../../concepts/political/philosopher-rulers.md).
 
-**[[avicenna|Avicenna]]** produced the most influential system. Two of his ideas run through later Western philosophy. First, the distinction between **essence and existence**: knowing what a thing is (a triangle, a phoenix) does not tell you whether it exists. For everything except God, existence is something added to essence; God alone is the being whose essence is to exist, the "necessary existent". Second, the **floating man**: imagine a person created in mid-air, blindfolded, limbs apart, touching nothing. Avicenna argued that such a person would still be aware of his own existence without being aware of any body, which suggests the self is not identical with the body. Readers of [[rene-descartes|Descartes]] will hear an anticipation, though the arguments differ.
+**[Avicenna](thinkers/avicenna.md)** produced the most influential system. Two of his ideas run through later Western philosophy. First, the distinction between **essence and existence**: knowing what a thing is (a triangle, a phoenix) does not tell you whether it exists. For everything except God, existence is something added to essence; God alone is the being whose essence is to exist, the "necessary existent". Second, the **floating man**: imagine a person created in mid-air, blindfolded, limbs apart, touching nothing. Avicenna argued that such a person would still be aware of his own existence without being aware of any body, which suggests the self is not identical with the body. Readers of [Descartes](../modern/early-modern/thinkers/rene-descartes.md) will hear an anticipation, though the arguments differ.
 
-**Al-Ghazali**, a towering theologian, wrote *The Incoherence of the Philosophers*, charging them with errors, three of which he considered beyond the bounds of Islam: the eternity of the world, God's knowing only universals and not particulars, and the denial of bodily resurrection. He also challenged necessary causation: when cotton burns on contact with fire, we observe only that one follows the other; the connection is made by God, not by a power in the fire. Centuries later [[david-hume|Hume]] would argue, on entirely different grounds, that we never observe a necessary connection between cause and effect.
+**Al-Ghazali**, a towering theologian, wrote *The Incoherence of the Philosophers*, charging them with errors, three of which he considered beyond the bounds of Islam: the eternity of the world, God's knowing only universals and not particulars, and the denial of bodily resurrection. He also challenged necessary causation: when cotton burns on contact with fire, we observe only that one follows the other; the connection is made by God, not by a power in the fire. Centuries later [Hume](../modern/early-modern/thinkers/david-hume.md) would argue, on entirely different grounds, that we never observe a necessary connection between cause and effect.
 
-**[[averroes|Averroes]]**, a judge in Córdoba, answered with *The Incoherence of the Incoherence* and wrote line-by-line commentaries on almost all of Aristotle. In the *Decisive Treatise* he argued that Islamic law actually requires those capable of it to study philosophy, and that where demonstration and the literal sense of scripture conflict, the text should be interpreted.
+**[Averroes](thinkers/averroes.md)**, a judge in Córdoba, answered with *The Incoherence of the Incoherence* and wrote line-by-line commentaries on almost all of Aristotle. In the *Decisive Treatise* he argued that Islamic law actually requires those capable of it to study philosophy, and that where demonstration and the literal sense of scripture conflict, the text should be interpreted.
 
-**[[maimonides|Maimonides]]**, born in Córdoba and later a court physician in Egypt, was the leading Jewish legal authority of his age and wrote the [[guide-for-the-perplexed|*Guide for the Perplexed*]] in Arabic for readers torn between the Torah and philosophy. His "negative theology" holds that we can say what God is not, but not positively what God is.
+**[Maimonides](thinkers/maimonides.md)**, born in Córdoba and later a court physician in Egypt, was the leading Jewish legal authority of his age and wrote the [*Guide for the Perplexed*](texts/guide-for-the-perplexed.md) in Arabic for readers torn between the Torah and philosophy. His "negative theology" holds that we can say what God is not, but not positively what God is.
 
 ## Transmission to the Latin West
 
-In the twelfth and thirteenth centuries, translators in Toledo and elsewhere put Avicenna and Averroes into Latin, alongside Aristotle. Latin scholastics read Aristotle through these commentators. [[thomas-aquinas|Aquinas]] cites "Avicenna", "the Commentator" and "Rabbi Moses" (Maimonides) constantly, sometimes in agreement, sometimes in sharp disagreement. A group at Paris who followed Averroes closely, later called "Latin Averroists", provoked the condemnations described in [[scholasticism|the previous lesson]].
+In the twelfth and thirteenth centuries, translators in Toledo and elsewhere put Avicenna and Averroes into Latin, alongside Aristotle. Latin scholastics read Aristotle through these commentators. [Aquinas](thinkers/thomas-aquinas.md) cites "Avicenna", "the Commentator" and "Rabbi Moses" (Maimonides) constantly, sometimes in agreement, sometimes in sharp disagreement. A group at Paris who followed Averroes closely, later called "Latin Averroists", provoked the condemnations described in [the previous lesson](02-scholasticism.md).
 
 The story did not end in 1200. Philosophy continued in the Islamic world, in the illuminationist school of Suhrawardi and in later Persian thinkers such as Mulla Sadra (d. 1640). It is a Western habit, now widely criticized by scholars, to stop the narrative when the Latin West stops reading it.
 
@@ -51,7 +51,7 @@ The story did not end in 1200. Philosophy continued in the Islamic world, in the
 
 ## Where this leads
 
-- Next: [[universals-and-nominalism|Universals and nominalism]]
-- Thinkers: [[avicenna|Avicenna]], [[averroes|Averroes]], [[maimonides|Maimonides]]
-- Text: [[guide-for-the-perplexed|*The Guide for the Perplexed*]]
-- Later echo of the causation debate: [[david-hume|Hume]] and [[empiricism|empiricism]]
+- Next: [Universals and nominalism](04-universals-and-nominalism.md)
+- Thinkers: [Avicenna](thinkers/avicenna.md), [Averroes](thinkers/averroes.md), [Maimonides](thinkers/maimonides.md)
+- Text: [*The Guide for the Perplexed*](texts/guide-for-the-perplexed.md)
+- Later echo of the causation debate: [Hume](../modern/early-modern/thinkers/david-hume.md) and [empiricism](../modern/early-modern/04-empiricism.md)

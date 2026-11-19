@@ -1,6 +1,6 @@
 # Tolstoy, *The Kingdom of God Is Within You*
 
-**Prerequisites:** [[leo-tolstoy|Leo Tolstoy]]; [[bib:new-testament/stories/03-sermon-on-the-mount.md|The Sermon on the Mount]]
+**Prerequisites:** [Leo Tolstoy](../thinkers/leo-tolstoy.md); [The Sermon on the Mount](../../../../../religion/abrahamic/christianity/bible/new-testament/stories/03-sermon-on-the-mount.md)
 
 @@IMG@@
 
@@ -37,8 +37,8 @@ Gandhi read it in South Africa in 1894 and wrote that it "overwhelmed" him; it b
 
 ## Where this leads
 
-- Next text: [[the-death-of-ivan-ilyich|*The Death of Ivan Ilyich*]]
-- Related: [[bib:new-testament/books/gospels/matthew.md|Matthew]], [[bib:new-testament/books/gospels/luke.md|Luke]]
-- Back: [[walden|Thoreau and "Civil Disobedience"]]
-- Forward: [[gravity-and-grace|Simone Weil]]; [[i-see-satan-fall-like-lightning|Girard on non-violence]]
-- Glossary: [[g:non-resistance|non-resistance]]
+- Next text: [*The Death of Ivan Ilyich*](the-death-of-ivan-ilyich.md)
+- Related: [Matthew](../../../../../religion/abrahamic/christianity/bible/new-testament/books/gospels/matthew.md), [Luke](../../../../../religion/abrahamic/christianity/bible/new-testament/books/gospels/luke.md)
+- Back: [Thoreau and "Civil Disobedience"](walden.md)
+- Forward: [Simone Weil](../../twentieth-century/texts/gravity-and-grace.md); [Girard on non-violence](../../twentieth-century/texts/i-see-satan-fall-like-lightning.md)
+- Glossary: [non-resistance](../../../../glossary/modern/non-resistance.md)

@@ -1,12 +1,12 @@
 # Mill, *On Liberty*
 
-**Prerequisites:** [[john-stuart-mill|John Stuart Mill]]; [[utilitarianism-and-liberalism|Utilitarianism and liberalism]]
+**Prerequisites:** [John Stuart Mill](../thinkers/john-stuart-mill.md); [Utilitarianism and liberalism](../03-utilitarianism-and-liberalism.md)
 
 @@IMG@@
 
 ## Dating and authorship
 
-Published in London in 1859, a year after the death of Harriet Taylor Mill, to whose memory [[john-stuart-mill|Mill]] dedicated it as "the inspirer, and in part the author, of all that is best in my writings". It was planned and drafted with her in the 1850s. The essay is short, five chapters.
+Published in London in 1859, a year after the death of Harriet Taylor Mill, to whose memory [Mill](../thinkers/john-stuart-mill.md) dedicated it as "the inspirer, and in part the author, of all that is best in my writings". It was planned and drafted with her in the 1850s. The essay is short, five chapters.
 
 ## Outline
 
@@ -36,7 +36,7 @@ flowchart TB
 
 ## Where this leads
 
-- Next text: [[self-reliance|Emerson, "Self-Reliance"]]
-- Back: [[groundwork-of-the-metaphysics-of-morals|Kant's *Groundwork*]]
-- Forward: [[a-theory-of-justice|*A Theory of Justice*]]
-- Glossary: [[g:harm-principle|harm principle]]
+- Next text: [Emerson, "Self-Reliance"](self-reliance.md)
+- Back: [Kant's *Groundwork*](../../early-modern/texts/groundwork-of-the-metaphysics-of-morals.md)
+- Forward: [*A Theory of Justice*](../../twentieth-century/texts/a-theory-of-justice.md)
+- Glossary: [harm principle](../../../../glossary/modern/harm-principle.md)

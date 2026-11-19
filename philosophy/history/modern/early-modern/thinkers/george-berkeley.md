@@ -1,6 +1,6 @@
 # George Berkeley
 
-**Prerequisites:** [[empiricism|Empiricism]], [[john-locke|Locke]]
+**Prerequisites:** [Empiricism](../04-empiricism.md), [Locke](john-locke.md)
 
 @@IMG@@
 
@@ -41,7 +41,7 @@ Samuel Johnson famously "refuted" Berkeley by kicking a stone, as Boswell record
 
 ## Where this leads
 
-- Next thinker: [[david-hume|David Hume]]
-- Glossary: [[g:immaterialism|immaterialism]], [[g:idealism|idealism]]
-- Back: [[universals-and-nominalism|universals and nominalism]]
-- Forward: [[german-idealism|German idealism]], a very different idealism
+- Next thinker: [David Hume](david-hume.md)
+- Glossary: [immaterialism](../../../../glossary/modern/immaterialism.md), [idealism](../../../../glossary/general/idealism.md)
+- Back: [universals and nominalism](../../../medieval/04-universals-and-nominalism.md)
+- Forward: [German idealism](../../nineteenth-century/01-german-idealism.md), a very different idealism

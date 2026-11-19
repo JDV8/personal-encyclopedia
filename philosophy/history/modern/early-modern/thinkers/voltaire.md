@@ -1,6 +1,6 @@
 # Voltaire
 
-**Prerequisites:** [[enlightenment|The Enlightenment]]
+**Prerequisites:** [The Enlightenment](../06-enlightenment.md)
 
 @@IMG@@
 
@@ -18,7 +18,7 @@ Voltaire was less a systematic philosopher than a public intellectual who used w
 
 **Toleration.** In 1762 the Protestant merchant Jean Calas was tortured and executed in Toulouse for allegedly murdering his son to stop him converting to Catholicism. Voltaire campaigned for three years, wrote the *Treatise on Toleration* (1763), and won Calas's posthumous exoneration in 1765. He took up other cases, including that of the young Chevalier de La Barre, executed in 1766 partly for alleged blasphemy.
 
-**Against optimism.** The Lisbon earthquake of 1755, which killed tens of thousands on All Saints' Day, provoked his "Poem on the Lisbon Disaster", challenging the optimism of Leibniz and Pope ("whatever is, is right"). [[candide|*Candide*]] (1759) carries the satire to its comic extreme and ends with the advice "we must cultivate our garden".
+**Against optimism.** The Lisbon earthquake of 1755, which killed tens of thousands on All Saints' Day, provoked his "Poem on the Lisbon Disaster", challenging the optimism of Leibniz and Pope ("whatever is, is right"). [*Candide*](../texts/candide.md) (1759) carries the satire to its comic extreme and ends with the advice "we must cultivate our garden".
 
 **History.** His *Age of Louis XIV* and *Essay on the Customs and Spirit of Nations* widened history beyond kings and battles to manners, arts and non-European civilizations, including China, which he admired.
 
@@ -33,7 +33,7 @@ flowchart LR
 
 ## Influence and criticism
 
-Voltaire became the symbol of the Enlightenment; his remains were moved to the Panthéon in 1791. The line "I disapprove of what you say, but I will defend to the death your right to say it" is not his: it was written by Evelyn Beatrice Hall in a 1906 biography as a summary of his attitude. Critics note his antisemitic remarks, his flattering of despots such as Frederick and Catherine the Great, and investments that profited from colonial trade. [[jean-jacques-rousseau|Rousseau]], whom he mocked, thought his wit served the rich and corrupt.
+Voltaire became the symbol of the Enlightenment; his remains were moved to the Panthéon in 1791. The line "I disapprove of what you say, but I will defend to the death your right to say it" is not his: it was written by Evelyn Beatrice Hall in a 1906 biography as a summary of his attitude. Critics note his antisemitic remarks, his flattering of despots such as Frederick and Catherine the Great, and investments that profited from colonial trade. [Rousseau](jean-jacques-rousseau.md), whom he mocked, thought his wit served the rich and corrupt.
 
 ## Key ideas
 
@@ -44,7 +44,7 @@ Voltaire became the symbol of the Enlightenment; his remains were moved to the P
 
 ## Where this leads
 
-- Text: [[candide|*Candide*]]
-- Next thinker: [[jean-jacques-rousseau|Jean-Jacques Rousseau]]
-- Back: [[gottfried-wilhelm-leibniz|Leibniz]], the target
-- Glossary: [[g:deism|deism]], [[g:theodicy|theodicy]]
+- Text: [*Candide*](../texts/candide.md)
+- Next thinker: [Jean-Jacques Rousseau](jean-jacques-rousseau.md)
+- Back: [Leibniz](gottfried-wilhelm-leibniz.md), the target
+- Glossary: [deism](../../../../glossary/modern/deism.md), [theodicy](../../../../glossary/modern/theodicy.md)

@@ -1,12 +1,12 @@
 # Jean-Jacques Rousseau
 
-**Prerequisites:** [[social-contract-and-the-state|The social contract]], [[enlightenment|The Enlightenment]]
+**Prerequisites:** [The social contract](../05-social-contract-and-the-state.md), [The Enlightenment](../06-enlightenment.md)
 
 @@IMG@@
 
 ## Life and context
 
-Jean-Jacques Rousseau (1712–1778) was born in Geneva, a Protestant city-republic he always called his own, to a watchmaker; his mother died days after his birth. Apprenticed to an engraver, he ran away at fifteen and was taken in by Madame de Warens in Savoy, who arranged his conversion to Catholicism. He worked as a tutor, music copyist and secretary, devised a new musical notation, and in Paris became friends with Diderot. In 1749, walking to visit Diderot in prison at Vincennes, he read of an essay competition asking whether the restoration of the arts and sciences had improved morals, and, by his account, had a sudden "illumination". His *Discourse on the Sciences and Arts* (1750), answering no, won the prize and made him famous. With his companion Thérèse Levasseur he had five children, all placed in the Paris foundling hospital, a fact his enemies later publicized and he himself confessed. In 1762 both [[the-social-contract|*The Social Contract*]] and *Emile* were condemned in Paris and Geneva; he fled, spent years in exile (including a stay in England arranged by Hume that ended in a famous quarrel) and grew increasingly suspicious of plots against him. His *Confessions* and *Reveries of the Solitary Walker* appeared after his death.
+Jean-Jacques Rousseau (1712–1778) was born in Geneva, a Protestant city-republic he always called his own, to a watchmaker; his mother died days after his birth. Apprenticed to an engraver, he ran away at fifteen and was taken in by Madame de Warens in Savoy, who arranged his conversion to Catholicism. He worked as a tutor, music copyist and secretary, devised a new musical notation, and in Paris became friends with Diderot. In 1749, walking to visit Diderot in prison at Vincennes, he read of an essay competition asking whether the restoration of the arts and sciences had improved morals, and, by his account, had a sudden "illumination". His *Discourse on the Sciences and Arts* (1750), answering no, won the prize and made him famous. With his companion Thérèse Levasseur he had five children, all placed in the Paris foundling hospital, a fact his enemies later publicized and he himself confessed. In 1762 both [*The Social Contract*](../texts/the-social-contract.md) and *Emile* were condemned in Paris and Geneva; he fled, spent years in exile (including a stay in England arranged by Hume that ended in a famous quarrel) and grew increasingly suspicious of plots against him. His *Confessions* and *Reveries of the Solitary Walker* appeared after his death.
 
 ## Core ideas
 
@@ -40,7 +40,7 @@ Rousseau inspired the French revolutionaries (Robespierre revered him), Kant (wh
 
 ## Where this leads
 
-- Text: [[the-social-contract|*The Social Contract*]]
-- Next thinker: [[adam-smith|Adam Smith]]
-- Forward: [[immanuel-kant|Kant]], [[karl-marx|Marx]] on inequality
-- Glossary: [[g:general-will|general will]], [[g:amour-propre|amour-propre]]
+- Text: [*The Social Contract*](../texts/the-social-contract.md)
+- Next thinker: [Adam Smith](adam-smith.md)
+- Forward: [Kant](immanuel-kant.md), [Marx](../../nineteenth-century/thinkers/karl-marx.md) on inequality
+- Glossary: [general will](../../../../glossary/modern/general-will.md), [amour-propre](../../../../glossary/modern/amour-propre.md)

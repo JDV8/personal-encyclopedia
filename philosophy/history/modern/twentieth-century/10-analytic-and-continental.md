@@ -1,6 +1,6 @@
 # Analytic and continental: a map of the divide
 
-**Prerequisites:** [[analytic-turn|The analytic turn]], [[phenomenology|Phenomenology]], [[existentialism|Existentialism]]
+**Prerequisites:** [The analytic turn](02-analytic-turn.md), [Phenomenology](01-phenomenology.md), [Existentialism](03-existentialism.md)
 
 @@IMG@@
 
@@ -21,7 +21,7 @@ flowchart TB
   AP -. "Carnap attacks Heidegger (1932)" .- CP
 ```
 
-Both traditions descend from [[immanuel-kant|Kant]]. One line ran through German idealism, [[friedrich-nietzsche|Nietzsche]], [[edmund-husserl|Husserl]] and [[martin-heidegger|Heidegger]]; the other through Frege, [[bertrand-russell|Russell]], [[ludwig-wittgenstein|Wittgenstein]] and the Vienna Circle. Around 1930 the lines diverged sharply. Rudolf Carnap's 1932 paper "The Elimination of Metaphysics through Logical Analysis of Language" used sentences from Heidegger's lecture "What Is Metaphysics?" as examples of meaningless pseudo-statements. When many logical empiricists fled Nazism to Britain and America, analytic philosophy became dominant in English-speaking universities, while phenomenology, existentialism and their successors flourished in France and Germany.
+Both traditions descend from [Kant](../early-modern/thinkers/immanuel-kant.md). One line ran through German idealism, [Nietzsche](../nineteenth-century/thinkers/friedrich-nietzsche.md), [Husserl](thinkers/edmund-husserl.md) and [Heidegger](thinkers/martin-heidegger.md); the other through Frege, [Russell](thinkers/bertrand-russell.md), [Wittgenstein](thinkers/ludwig-wittgenstein.md) and the Vienna Circle. Around 1930 the lines diverged sharply. Rudolf Carnap's 1932 paper "The Elimination of Metaphysics through Logical Analysis of Language" used sentences from Heidegger's lecture "What Is Metaphysics?" as examples of meaningless pseudo-statements. When many logical empiricists fled Nazism to Britain and America, analytic philosophy became dominant in English-speaking universities, while phenomenology, existentialism and their successors flourished in France and Germany.
 
 ## Characteristic differences (tendencies, not rules)
 
@@ -36,7 +36,7 @@ Both traditions descend from [[immanuel-kant|Kant]]. One line ran through German
 
 ## Bridges and borderlands
 
-The divide was never total. Late Wittgenstein's attention to forms of life is often read alongside Heidegger. Some analytic philosophers took up Hegel (Robert Brandom, John McDowell) and phenomenology (Hubert Dreyfus, Dan Zahavi). Habermas engaged with analytic speech-act theory; Paul Ricœur wrote on analytic philosophy of action. [[john-rawls|Rawls]] and Habermas debated political liberalism. Some thinkers in this branch fit neither camp well: [[hannah-arendt|Arendt]], [[simone-weil|Weil]], [[rene-girard|Girard]] and [[thomas-kuhn|Kuhn]].
+The divide was never total. Late Wittgenstein's attention to forms of life is often read alongside Heidegger. Some analytic philosophers took up Hegel (Robert Brandom, John McDowell) and phenomenology (Hubert Dreyfus, Dan Zahavi). Habermas engaged with analytic speech-act theory; Paul Ricœur wrote on analytic philosophy of action. [Rawls](thinkers/john-rawls.md) and Habermas debated political liberalism. Some thinkers in this branch fit neither camp well: [Arendt](thinkers/hannah-arendt.md), [Weil](thinkers/simone-weil.md), [Girard](thinkers/rene-girard.md) and [Kuhn](thinkers/thomas-kuhn.md).
 
 ## Is the divide still useful?
 
@@ -51,7 +51,7 @@ Many philosophers now treat the labels as historical. Some argue the real differ
 
 ## Where this leads
 
-- Back to the start of this era: [[phenomenology|Phenomenology]]
-- The branch overview: [[dir:philosophy/history/modern|Modern philosophy]]
-- Back to the ancient roots: [[dir:philosophy/history/ancient|Ancient philosophy]]
-- Glossary: [[g:analytic-philosophy|analytic philosophy]], [[g:continental-philosophy|continental philosophy]]
+- Back to the start of this era: [Phenomenology](01-phenomenology.md)
+- The branch overview: [Modern philosophy](../README.md)
+- Back to the ancient roots: [Ancient philosophy](../../ancient/README.md)
+- Glossary: [analytic philosophy](../../../glossary/modern/analytic-philosophy.md), [continental philosophy](../../../glossary/modern/continental-philosophy.md)

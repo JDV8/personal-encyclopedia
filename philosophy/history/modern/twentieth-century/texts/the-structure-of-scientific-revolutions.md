@@ -1,6 +1,6 @@
 # Kuhn, *The Structure of Scientific Revolutions*
 
-**Prerequisites:** [[thomas-kuhn|Thomas Kuhn]]; [[the-logic-of-scientific-discovery|*The Logic of Scientific Discovery*]]
+**Prerequisites:** [Thomas Kuhn](../thinkers/thomas-kuhn.md); [*The Logic of Scientific Discovery*](the-logic-of-scientific-discovery.md)
 
 @@IMG@@
 
@@ -36,10 +36,10 @@ flowchart LR
 
 ## Reception
 
-The book became one of the most cited works in the humanities and social sciences; "paradigm shift" entered everyday language. At the 1965 London colloquium published as *Criticism and the Growth of Knowledge* (1970), [[karl-popper|Popper]], Lakatos and others debated it with Kuhn. Critics charged it with relativism and irrationalism; Kuhn insisted he had been misread. It inspired the sociology of scientific knowledge and science studies.
+The book became one of the most cited works in the humanities and social sciences; "paradigm shift" entered everyday language. At the 1965 London colloquium published as *Criticism and the Growth of Knowledge* (1970), [Popper](../thinkers/karl-popper.md), Lakatos and others debated it with Kuhn. Critics charged it with relativism and irrationalism; Kuhn insisted he had been misread. It inspired the sociology of scientific knowledge and science studies.
 
 ## Where this leads
 
-- Next text: [[a-theory-of-justice|*A Theory of Justice*]]
-- Back: [[scientific-revolution-and-method|The scientific revolution]]
-- Glossary: [[g:paradigm|paradigm]]
+- Next text: [*A Theory of Justice*](a-theory-of-justice.md)
+- Back: [The scientific revolution](../../early-modern/02-scientific-revolution-and-method.md)
+- Glossary: [paradigm](../../../../glossary/modern/paradigm.md)

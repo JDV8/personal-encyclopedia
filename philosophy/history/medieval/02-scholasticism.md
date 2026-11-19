@@ -1,6 +1,6 @@
 # Scholasticism: the method of the schools
 
-**Prerequisites:** [[faith-and-reason|Faith and reason]]; helpful: [[c:logic/syllogism-and-the-organon.md|the syllogism and the Organon]]
+**Prerequisites:** [Faith and reason](01-faith-and-reason.md); helpful: [the syllogism and the Organon](../../concepts/logic/syllogism-and-the-organon.md)
 
 @@IMG@@
 
@@ -20,7 +20,7 @@ Suppose you inherit a large library of authorities: scripture, the Church Father
 
 **4. The disputation.** Masters held public disputations in which a question was argued, objections raised from the floor, and the master gave a determination. Written versions (*quaestiones disputatae*) preserve the shape.
 
-**5. The article form.** The most famous result is the structure of an article in [[summa-theologiae|Aquinas's *Summa Theologiae*]]:
+**5. The article form.** The most famous result is the structure of an article in [Aquinas's *Summa Theologiae*](texts/summa-theologiae.md):
 
 ```mermaid
 flowchart TB
@@ -34,15 +34,15 @@ Notice what this demands. You must begin by stating your opponents' strongest ca
 
 ## The recovery of Aristotle
 
-Until the twelfth century Latin readers had little of Aristotle beyond some logic, mostly through [[boethius|Boethius]]. Between about 1150 and 1270, translators working in Toledo, Sicily and elsewhere rendered his *Physics*, *Metaphysics*, *On the Soul*, *Ethics* and *Politics* into Latin, from Arabic and from Greek, together with the commentaries of [[avicenna|Avicenna]] and [[averroes|Averroes]]. Averroes was so central as an interpreter that Latin writers simply called him "the Commentator".
+Until the twelfth century Latin readers had little of Aristotle beyond some logic, mostly through [Boethius](thinkers/boethius.md). Between about 1150 and 1270, translators working in Toledo, Sicily and elsewhere rendered his *Physics*, *Metaphysics*, *On the Soul*, *Ethics* and *Politics* into Latin, from Arabic and from Greek, together with the commentaries of [Avicenna](thinkers/avicenna.md) and [Averroes](thinkers/averroes.md). Averroes was so central as an interpreter that Latin writers simply called him "the Commentator".
 
 This was intellectually explosive. Here was a complete, systematic account of nature, soul, ethics and politics built without revelation. Some of its claims seemed to conflict with Christian teaching: the eternity of the world, and, on Averroes' reading, a single intellect shared by all humans, which seemed to rule out personal immortality. Church authorities at Paris restricted the teaching of Aristotle's natural philosophy in 1210 and 1215. By the 1250s it was required reading anyway. In 1277 the Bishop of Paris, Étienne Tempier, condemned 219 propositions, some associated with radical Aristotelians in the arts faculty and a few apparently touching positions held by Aquinas.
 
 ## Why it mattered
 
-The 1277 condemnation is often cited, with some debate among historians, as having encouraged thinkers to explore what God *could* have done, such as making other worlds or a vacuum, rather than what Aristotle said must be. That habit of imagining alternatives to Aristotelian necessity is one thread leading to [[william-of-ockham|Ockham]] and, much later, to the [[scientific-revolution-and-method|scientific revolution]].
+The 1277 condemnation is often cited, with some debate among historians, as having encouraged thinkers to explore what God *could* have done, such as making other worlds or a vacuum, rather than what Aristotle said must be. That habit of imagining alternatives to Aristotelian necessity is one thread leading to [Ockham](thinkers/william-of-ockham.md) and, much later, to the [scientific revolution](../modern/early-modern/02-scientific-revolution-and-method.md).
 
-Scholasticism became a byword for hair-splitting in the Renaissance; humanists mocked its Latin and its distinctions (see [[renaissance-and-humanism|Renaissance humanism]]). [[rene-descartes|Descartes]] and [[francis-bacon|Bacon]] defined their projects against it. Yet both were trained in it, and the habit of stating objections and replies survives in Descartes' own [[meditations-on-first-philosophy|*Meditations*]], which were published with sets of objections and his replies.
+Scholasticism became a byword for hair-splitting in the Renaissance; humanists mocked its Latin and its distinctions (see [Renaissance humanism](../modern/early-modern/01-renaissance-and-humanism.md)). [Descartes](../modern/early-modern/thinkers/rene-descartes.md) and [Bacon](../modern/early-modern/thinkers/francis-bacon.md) defined their projects against it. Yet both were trained in it, and the habit of stating objections and replies survives in Descartes' own [*Meditations*](../modern/early-modern/texts/meditations-on-first-philosophy.md), which were published with sets of objections and his replies.
 
 ## Key ideas
 
@@ -53,7 +53,7 @@ Scholasticism became a byword for hair-splitting in the Renaissance; humanists m
 
 ## Where this leads
 
-- Next: [[islamic-and-jewish-philosophy|Islamic and Jewish philosophy]], the source of much of what the schools read
-- The method at full stretch: [[summa-theologiae|*Summa Theologiae*]]
-- The late critical turn: [[universals-and-nominalism|Universals and nominalism]]
-- The revolt against it: [[renaissance-and-humanism|Renaissance and humanism]]
+- Next: [Islamic and Jewish philosophy](03-islamic-and-jewish-philosophy.md), the source of much of what the schools read
+- The method at full stretch: [*Summa Theologiae*](texts/summa-theologiae.md)
+- The late critical turn: [Universals and nominalism](04-universals-and-nominalism.md)
+- The revolt against it: [Renaissance and humanism](../modern/early-modern/01-renaissance-and-humanism.md)

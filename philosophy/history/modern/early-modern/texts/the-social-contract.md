@@ -1,6 +1,6 @@
 # Rousseau, *The Social Contract*
 
-**Prerequisites:** [[jean-jacques-rousseau|Jean-Jacques Rousseau]]; [[social-contract-and-the-state|The social contract]]
+**Prerequisites:** [Jean-Jacques Rousseau](../thinkers/jean-jacques-rousseau.md); [The social contract](../05-social-contract-and-the-state.md)
 
 @@IMG@@
 
@@ -32,11 +32,11 @@ flowchart TB
 
 ## Reception
 
-The book became a canonical text of the French Revolution. Liberal critics from Benjamin Constant to Isaiah Berlin feared its "forced to be free" and civil religion; republican and democratic theorists defend its account of self-government and its insistence on equality. [[immanuel-kant|Kant]] took from Rousseau the idea of freedom as self-legislation. Translations: Victor Gourevitch (Cambridge Texts), Christopher Betts (Oxford World's Classics), Maurice Cranston (Penguin).
+The book became a canonical text of the French Revolution. Liberal critics from Benjamin Constant to Isaiah Berlin feared its "forced to be free" and civil religion; republican and democratic theorists defend its account of self-government and its insistence on equality. [Kant](../thinkers/immanuel-kant.md) took from Rousseau the idea of freedom as self-legislation. Translations: Victor Gourevitch (Cambridge Texts), Christopher Betts (Oxford World's Classics), Maurice Cranston (Penguin).
 
 ## Where this leads
 
-- Next text: [[critique-of-pure-reason|*Critique of Pure Reason*]]
-- Back: [[leviathan|*Leviathan*]], [[second-treatise-of-government|*Second Treatise*]]
-- Forward: [[groundwork-of-the-metaphysics-of-morals|Kant's autonomy]]; [[the-origins-of-totalitarianism|Arendt's *Origins of Totalitarianism*]]
-- Glossary: [[g:general-will|general will]]
+- Next text: [*Critique of Pure Reason*](critique-of-pure-reason.md)
+- Back: [*Leviathan*](leviathan.md), [*Second Treatise*](second-treatise-of-government.md)
+- Forward: [Kant's autonomy](groundwork-of-the-metaphysics-of-morals.md); [Arendt's *Origins of Totalitarianism*](../../twentieth-century/texts/the-origins-of-totalitarianism.md)
+- Glossary: [general will](../../../../glossary/modern/general-will.md)

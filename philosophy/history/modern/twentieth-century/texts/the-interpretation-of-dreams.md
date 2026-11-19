@@ -1,6 +1,6 @@
 # Freud, *The Interpretation of Dreams*
 
-**Prerequisites:** [[sigmund-freud|Sigmund Freud]]; [[psychoanalysis-and-depth-psychology|Psychoanalysis and depth psychology]]
+**Prerequisites:** [Sigmund Freud](../thinkers/sigmund-freud.md); [Psychoanalysis and depth psychology](../05-psychoanalysis-and-depth-psychology.md)
 
 @@IMG@@
 
@@ -8,7 +8,7 @@
 
 ## Dating and form
 
-*Die Traumdeutung* was published in Vienna in November 1899, with the date 1900 on its title page, as if to mark a new century. [[sigmund-freud|Freud]] considered it his most important work. It sold slowly at first but went through eight editions in his lifetime, each revised and expanded. Its epigraph is from Virgil's *Aeneid*: *Flectere si nequeo superos, Acheronta movebo* ("If I cannot bend the higher powers, I will move the infernal regions"). The book draws heavily on Freud's own dreams, analysed as part of his self-analysis after his father's death in 1896. English translations: A. A. Brill (1913), James Strachey (Standard Edition, 1953), Joyce Crick (Oxford, translating the first edition, 1999).
+*Die Traumdeutung* was published in Vienna in November 1899, with the date 1900 on its title page, as if to mark a new century. [Freud](../thinkers/sigmund-freud.md) considered it his most important work. It sold slowly at first but went through eight editions in his lifetime, each revised and expanded. Its epigraph is from Virgil's *Aeneid*: *Flectere si nequeo superos, Acheronta movebo* ("If I cannot bend the higher powers, I will move the infernal regions"). The book draws heavily on Freud's own dreams, analysed as part of his self-analysis after his father's death in 1896. English translations: A. A. Brill (1913), James Strachey (Standard Edition, 1953), Joyce Crick (Oxford, translating the first edition, 1999).
 
 ## Outline (seven chapters)
 
@@ -18,7 +18,7 @@
 - **Chapter 4.** Distortion in dreams: unpleasant dreams are disguised fulfilments of repressed wishes; the censorship between the systems of the mind distorts them.
 - **Chapter 5.** Material and sources: recent impressions ("day residues"), childhood memories, somatic stimuli, typical dreams. Here Freud first published his reading of *Oedipus Rex* and *Hamlet*: the wish to possess one parent and remove the other.
 - **Chapter 6.** The dream-work transforms the hidden "latent content" into the remembered "manifest content", through condensation, displacement, considerations of representability (turning thoughts into images) and secondary revision.
-- **Chapter 7.** A general psychology of mental processes: the primary process of the [[g:unconscious|unconscious]] (seeking immediate discharge) versus the secondary process of conscious thought; the "topographical" model of unconscious, preconscious and conscious. Here occurs the sentence calling dream interpretation "the royal road to a knowledge of the unconscious activities of the mind".
+- **Chapter 7.** A general psychology of mental processes: the primary process of the [unconscious](../../../../glossary/modern/unconscious.md) (seeking immediate discharge) versus the secondary process of conscious thought; the "topographical" model of unconscious, preconscious and conscious. Here occurs the sentence calling dream interpretation "the royal road to a knowledge of the unconscious activities of the mind".
 
 ```mermaid
 flowchart LR
@@ -37,9 +37,9 @@ flowchart LR
 
 ## Reception
 
-The book founded psychoanalysis as a method and influenced literature, surrealism and philosophy (Ricoeur's *Freud and Philosophy*). [[carl-jung|Jung]] rejected the wish-fulfilment theory, reading dreams as compensatory messages from the psyche. Modern sleep research (e.g., Hobson and McCarley's activation-synthesis hypothesis) challenged Freud's theory, though some neuroscientists (Mark Solms) have defended aspects of it. Critics like Adolf Grünbaum argued that free association cannot test its own conclusions.
+The book founded psychoanalysis as a method and influenced literature, surrealism and philosophy (Ricoeur's *Freud and Philosophy*). [Jung](../thinkers/carl-jung.md) rejected the wish-fulfilment theory, reading dreams as compensatory messages from the psyche. Modern sleep research (e.g., Hobson and McCarley's activation-synthesis hypothesis) challenged Freud's theory, though some neuroscientists (Mark Solms) have defended aspects of it. Critics like Adolf Grünbaum argued that free association cannot test its own conclusions.
 
 ## Where this leads
 
-- Next text: [[civilization-and-its-discontents|*Civilization and Its Discontents*]]
-- Glossary: [[g:repression|repression]], [[g:psychoanalysis|psychoanalysis]]
+- Next text: [*Civilization and Its Discontents*](civilization-and-its-discontents.md)
+- Glossary: [repression](../../../../glossary/modern/repression.md), [psychoanalysis](../../../../glossary/modern/psychoanalysis.md)

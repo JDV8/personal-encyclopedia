@@ -1,20 +1,21 @@
 # Philosophy glossary
 
-Short entries for the vocabulary of this branch: general terms, Greek keywords, and Chinese keywords. Each entry is a real paragraph with cross-links, not a one-line dictionary gloss. Use it while reading, and treat the concept lessons as the place where a term is unpacked at length.
+Short entries for the vocabulary of this branch: general terms, Greek keywords, Chinese keywords, and medieval and modern terms. Each entry is a real paragraph with cross-links, not a one-line dictionary gloss. Use it while reading, and treat the concept lessons as the place where a term is unpacked at length.
 
 **Prerequisites:** [Philosophy](../README.md).
 
 ## Suggested reading order
 
-There is no single path through a glossary. Read the three folder overviews, then look up terms as they appear in lessons. If you want a first pass, start with:
+There is no single path through a glossary. Read the four folder overviews, then look up terms as they appear in lessons. If you want a first pass, start with:
 
 1. The five branches in [general](general/README.md): metaphysics, epistemology, ethics, logic, political philosophy
 2. A Greek handful in [greek](greek/README.md): arche, logos, arete, eudaimonia, ousia, telos
 3. A Chinese handful in [chinese](chinese/README.md): dao, de, ren, li (ritual), xing, tian, wu wei
+4. A modern handful in [modern](modern/README.md): cogito, categorical imperative, will to power, Dasein, the absurd, mimetic desire
 
 ## Contents
 
-This glossary has 193 entries in three folders.
+This glossary has 293 entries in four folders.
 
 - [general/](general/README.md) — English and later Latin terms (90 entries)
   - [A posteriori](general/a-posteriori.md)
@@ -215,9 +216,112 @@ This glossary has 193 entries in three folders.
   - [*Zhongyong*](chinese/zhong-yong.md)
   - [*Ziran*](chinese/ziran.md)
 
+- [modern/](modern/README.md) — medieval and modern terms, from Anselm to Girard (100 entries)
+  - [Alienation](modern/alienation.md)
+  - [Amor fati](modern/amor-fati.md)
+  - [Amour-propre](modern/amour-propre.md)
+  - [Analytic and synthetic](modern/analytic-and-synthetic.md)
+  - [Analytic philosophy](modern/analytic-philosophy.md)
+  - [Anxiety (Angst)](modern/anxiety.md)
+  - [Archetype](modern/archetype.md)
+  - [Attention](modern/attention.md)
+  - [Aufhebung](modern/aufhebung.md)
+  - [Authenticity](modern/authenticity.md)
+  - [Autonomy](modern/autonomy.md)
+  - [Bad faith](modern/bad-faith.md)
+  - [Banality of evil](modern/banality-of-evil.md)
+  - [Being-in-the-world](modern/being-in-the-world.md)
+  - [Bundle theory](modern/bundle-theory.md)
+  - [Categorical imperative](modern/categorical-imperative.md)
+  - [Civil disobedience](modern/civil-disobedience.md)
+  - [Cogito](modern/cogito.md)
+  - [Collective unconscious](modern/collective-unconscious.md)
+  - [Conatus](modern/conatus.md)
+  - [Continental philosophy](modern/continental-philosophy.md)
+  - [Cosmological argument](modern/cosmological-argument.md)
+  - [Dasein](modern/dasein.md)
+  - [Decreation](modern/decreation.md)
+  - [Deism](modern/deism.md)
+  - [Discourse](modern/discourse.md)
+  - [Essence and existence](modern/essence-and-existence.md)
+  - [Eternal recurrence](modern/eternal-recurrence.md)
+  - [Existence precedes essence](modern/existence-precedes-essence.md)
+  - [Falsifiability](modern/falsifiability.md)
+  - [Family resemblance](modern/family-resemblance.md)
+  - [Geist](modern/geist.md)
+  - [Genealogy](modern/genealogy.md)
+  - [General will](modern/general-will.md)
+  - [Harm principle](modern/harm-principle.md)
+  - [Historical materialism](modern/historical-materialism.md)
+  - [Humanism](modern/humanism.md)
+  - [Ideology](modern/ideology.md)
+  - [Immaterialism](modern/immaterialism.md)
+  - [Individuation](modern/individuation.md)
+  - [Intentionality](modern/intentionality.md)
+  - [Is–ought gap](modern/is-ought-gap.md)
+  - [Language-game](modern/language-game.md)
+  - [Leap of faith](modern/leap-of-faith.md)
+  - [Lifeworld](modern/lifeworld.md)
+  - [Logical atomism](modern/logical-atomism.md)
+  - [Logical positivism](modern/logical-positivism.md)
+  - [Master and slave morality](modern/master-and-slave-morality.md)
+  - [Master–slave dialectic](modern/master-slave-dialectic.md)
+  - [Methodic doubt](modern/methodic-doubt.md)
+  - [Mimetic desire](modern/mimetic-desire.md)
+  - [Mind–body problem](modern/mind-body-problem.md)
+  - [Monad](modern/monad.md)
+  - [Natality](modern/natality.md)
+  - [Natural law](modern/natural-law.md)
+  - [Natural rights](modern/natural-rights.md)
+  - [Nihilism](modern/nihilism.md)
+  - [Nominalism](modern/nominalism.md)
+  - [Non-resistance](modern/non-resistance.md)
+  - [Ockham's razor](modern/ockhams-razor.md)
+  - [Ontological argument](modern/ontological-argument.md)
+  - [Panopticism](modern/panopticism.md)
+  - [Pantheism](modern/pantheism.md)
+  - [Paradigm](modern/paradigm.md)
+  - [Pascal's wager](modern/pascals-wager.md)
+  - [Perspectivism](modern/perspectivism.md)
+  - [Pessimism](modern/pessimism.md)
+  - [Phenomenology](modern/phenomenology.md)
+  - [Picture theory of meaning](modern/picture-theory-of-meaning.md)
+  - [Power/knowledge](modern/power-knowledge.md)
+  - [Primary and secondary qualities](modern/primary-and-secondary-qualities.md)
+  - [Principle of sufficient reason](modern/principle-of-sufficient-reason.md)
+  - [Problem of evil](modern/problem-of-evil.md)
+  - [Problem of induction](modern/problem-of-induction.md)
+  - [Providence](modern/providence.md)
+  - [Psychoanalysis](modern/psychoanalysis.md)
+  - [Repression](modern/repression.md)
+  - [Ressentiment](modern/ressentiment.md)
+  - [Scapegoat mechanism](modern/scapegoat-mechanism.md)
+  - [Shadow](modern/shadow.md)
+  - [Social contract](modern/social-contract.md)
+  - [State of nature](modern/state-of-nature.md)
+  - [Structuralism](modern/structuralism.md)
+  - [Synthetic a priori](modern/synthetic-a-priori.md)
+  - [Tabula rasa](modern/tabula-rasa.md)
+  - [Teleological suspension of the ethical](modern/teleological-suspension-of-the-ethical.md)
+  - [The absurd](modern/the-absurd.md)
+  - [The Other](modern/the-other.md)
+  - [Theodicy](modern/theodicy.md)
+  - [Thing in itself](modern/thing-in-itself.md)
+  - [Thrownness](modern/thrownness.md)
+  - [Totalitarianism](modern/totalitarianism.md)
+  - [Transcendental idealism](modern/transcendental-idealism.md)
+  - [Transcendentalism](modern/transcendentalism.md)
+  - [Unconscious](modern/unconscious.md)
+  - [Utilitarianism](modern/utilitarianism.md)
+  - [Veil of ignorance](modern/veil-of-ignorance.md)
+  - [Will to live](modern/will-to-live.md)
+  - [Will to power](modern/will-to-power.md)
+  - [Übermensch](modern/ubermensch.md)
+
 ## References & further reading
 
 - F. E. Peters, *Greek Philosophical Terms: A Historical Lexicon* (Intermediate). The best single English lexicon for the Greek folder.
 - Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (Beginner). The clearest first guide to the Chinese terms, including romanization traps.
 - A. C. Graham, *Disputers of the Tao* (Advanced). Deep on early Chinese argument and on words such as dao, ming, and bian.
+- Simon Blackburn, *The Oxford Dictionary of Philosophy* (Beginner). Short, reliable definitions for the modern folder.
 - Aristotle, *Nicomachean Ethics* and *Metaphysics*, any standard translation (Intermediate). Still the source of a large share of the general folder's vocabulary.

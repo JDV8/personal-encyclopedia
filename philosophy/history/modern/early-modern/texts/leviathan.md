@@ -1,12 +1,12 @@
 # Hobbes, *Leviathan*
 
-**Prerequisites:** [[thomas-hobbes|Thomas Hobbes]]; [[social-contract-and-the-state|The social contract]]
+**Prerequisites:** [Thomas Hobbes](../thinkers/thomas-hobbes.md); [The social contract](../05-social-contract-and-the-state.md)
 
 @@IMG@@
 
 ## Dating and context
 
-Published in London in 1651, in English, two years after the execution of Charles I and while [[thomas-hobbes|Hobbes]] was still in Paris; a Latin version appeared in 1668. The full title is *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil*. Leviathan is the sea monster of the book of [[bib:old-testament/books/wisdom-poetry/job.md|Job]] (chapter 41), "king over all the children of pride". The famous frontispiece, designed with the etcher Abraham Bosse, shows a giant crowned figure rising over a landscape, holding a sword and a bishop's crozier, his body composed of hundreds of tiny people.
+Published in London in 1651, in English, two years after the execution of Charles I and while [Hobbes](../thinkers/thomas-hobbes.md) was still in Paris; a Latin version appeared in 1668. The full title is *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil*. Leviathan is the sea monster of the book of [Job](../../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/job.md) (chapter 41), "king over all the children of pride". The famous frontispiece, designed with the etcher Abraham Bosse, shows a giant crowned figure rising over a landscape, holding a sword and a bishop's crozier, his body composed of hundreds of tiny people.
 
 ## Outline
 
@@ -35,6 +35,6 @@ Royalists thought Hobbes justified submission to Cromwell, since authority follo
 
 ## Where this leads
 
-- Next text: [[pensees|*Pensées*]]
-- Forward: [[second-treatise-of-government|Locke's *Second Treatise*]], [[the-social-contract|Rousseau's *Social Contract*]]
-- Related: [[bib:old-testament/books/wisdom-poetry/job.md|Job]], source of the title
+- Next text: [*Pensées*](pensees.md)
+- Forward: [Locke's *Second Treatise*](second-treatise-of-government.md), [Rousseau's *Social Contract*](the-social-contract.md)
+- Related: [Job](../../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/job.md), source of the title

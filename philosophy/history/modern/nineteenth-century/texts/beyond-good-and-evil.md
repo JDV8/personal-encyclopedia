@@ -1,12 +1,12 @@
 # Nietzsche, *Beyond Good and Evil*
 
-**Prerequisites:** [[friedrich-nietzsche|Friedrich Nietzsche]]; helpful: [[thus-spoke-zarathustra|*Thus Spoke Zarathustra*]]
+**Prerequisites:** [Friedrich Nietzsche](../thinkers/friedrich-nietzsche.md); helpful: [*Thus Spoke Zarathustra*](thus-spoke-zarathustra.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*Jenseits von Gut und Böse: Vorspiel einer Philosophie der Zukunft* ("Prelude to a Philosophy of the Future") was published at [[friedrich-nietzsche|Nietzsche]]'s own expense in Leipzig in 1886. He described it as saying the same things as *Zarathustra*, but differently: in prose aphorisms and short essays, with polemical sharpness. It has a preface, nine parts (296 numbered sections) and a closing poem, "From High Mountains".
+*Jenseits von Gut und Böse: Vorspiel einer Philosophie der Zukunft* ("Prelude to a Philosophy of the Future") was published at [Nietzsche](../thinkers/friedrich-nietzsche.md)'s own expense in Leipzig in 1886. He described it as saying the same things as *Zarathustra*, but differently: in prose aphorisms and short essays, with polemical sharpness. It has a preface, nine parts (296 numbered sections) and a closing poem, "From High Mountains".
 
 ## Outline
 
@@ -40,6 +40,6 @@ The book is one of the best entry points to Nietzsche's mature thought. Its aris
 
 ## Where this leads
 
-- Next text: [[on-the-genealogy-of-morality|*On the Genealogy of Morality*]]
-- Back: [[meditations-on-first-philosophy|Descartes's *Meditations*]], criticized in §16
-- Glossary: [[g:perspectivism|perspectivism]], [[g:master-and-slave-morality|master and slave morality]]
+- Next text: [*On the Genealogy of Morality*](on-the-genealogy-of-morality.md)
+- Back: [Descartes's *Meditations*](../../early-modern/texts/meditations-on-first-philosophy.md), criticized in §16
+- Glossary: [perspectivism](../../../../glossary/modern/perspectivism.md), [master and slave morality](../../../../glossary/modern/master-and-slave-morality.md)

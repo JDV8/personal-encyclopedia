@@ -1,12 +1,12 @@
 # Edmund Husserl
 
-**Prerequisites:** [[phenomenology|Phenomenology]]
+**Prerequisites:** [Phenomenology](../01-phenomenology.md)
 
 @@IMG@@
 
 ## Life and context
 
-Edmund Husserl (1859–1938) was born in Prossnitz, Moravia (now Prostějov, Czech Republic), into a Jewish family. He studied mathematics in Leipzig, Berlin (under Weierstrass) and Vienna, where he took his doctorate in 1883. Attending Franz Brentano's lectures in Vienna convinced him to devote himself to philosophy. In 1886 he converted to Lutheran Christianity. He taught at Halle, Göttingen (1901–1916), where a circle of students gathered around his "phenomenological movement", and Freiburg (1916–1928), where [[martin-heidegger|Heidegger]] was his assistant and successor. His younger son died in the First World War. After 1933, as a person of Jewish descent under the Nazi racial laws, he was suspended, later lost his teaching licence, and was increasingly isolated; Heidegger, by then rector, did not stand by him, and the dedication of *Being and Time* to Husserl was dropped from its 1941 edition at the publisher's request. Husserl died in Freiburg in 1938. A young Franciscan, Herman Leo Van Breda, smuggled his roughly 40,000 pages of shorthand manuscripts to Louvain, Belgium, where the Husserl Archives were founded.
+Edmund Husserl (1859–1938) was born in Prossnitz, Moravia (now Prostějov, Czech Republic), into a Jewish family. He studied mathematics in Leipzig, Berlin (under Weierstrass) and Vienna, where he took his doctorate in 1883. Attending Franz Brentano's lectures in Vienna convinced him to devote himself to philosophy. In 1886 he converted to Lutheran Christianity. He taught at Halle, Göttingen (1901–1916), where a circle of students gathered around his "phenomenological movement", and Freiburg (1916–1928), where [Heidegger](martin-heidegger.md) was his assistant and successor. His younger son died in the First World War. After 1933, as a person of Jewish descent under the Nazi racial laws, he was suspended, later lost his teaching licence, and was increasingly isolated; Heidegger, by then rector, did not stand by him, and the dedication of *Being and Time* to Husserl was dropped from its 1941 edition at the publisher's request. Husserl died in Freiburg in 1938. A young Franciscan, Herman Leo Van Breda, smuggled his roughly 40,000 pages of shorthand manuscripts to Louvain, Belgium, where the Husserl Archives were founded.
 
 ## Development
 
@@ -51,6 +51,6 @@ Husserl founded the phenomenological movement, which shaped existentialism, herm
 
 ## Where this leads
 
-- Next thinker: [[martin-heidegger|Martin Heidegger]]
-- Back: [[rene-descartes|Descartes]], [[immanuel-kant|Kant]]
-- Glossary: [[g:intentionality|intentionality]], [[g:lifeworld|lifeworld]], [[g:phenomenology|phenomenology]]
+- Next thinker: [Martin Heidegger](martin-heidegger.md)
+- Back: [Descartes](../../early-modern/thinkers/rene-descartes.md), [Kant](../../early-modern/thinkers/immanuel-kant.md)
+- Glossary: [intentionality](../../../../glossary/modern/intentionality.md), [lifeworld](../../../../glossary/modern/lifeworld.md), [phenomenology](../../../../glossary/modern/phenomenology.md)

@@ -1,6 +1,6 @@
 # Renaissance and humanism: the return to sources
 
-**Prerequisites:** [[scholasticism|Scholasticism]], [[universals-and-nominalism|Universals and nominalism]]
+**Prerequisites:** [Scholasticism](../../medieval/02-scholasticism.md), [Universals and nominalism](../../medieval/04-universals-and-nominalism.md)
 
 @@IMG@@
 
@@ -34,14 +34,14 @@ flowchart LR
 ```
 
 - **Human dignity.** Pico della Mirandola's *Oration* (1486) imagines God telling Adam that he alone has no fixed place in creation and may shape himself into what he chooses. The text became an emblem of Renaissance self-understanding.
-- **Political realism.** [[niccolo-machiavelli|Machiavelli]] studied politics not as it ought to be but as it is, separating the ruler's practical success from traditional virtue. See [[the-prince|*The Prince*]].
+- **Political realism.** [Machiavelli](thinkers/niccolo-machiavelli.md) studied politics not as it ought to be but as it is, separating the ruler's practical success from traditional virtue. See [*The Prince*](texts/the-prince.md).
 - **Utopia.** Thomas More's *Utopia* (1516) used an imagined island to criticize European society.
-- **Skepticism revived.** The printed Sextus Empiricus, together with religious disagreement and travellers' reports of diverse customs, produced a "skeptical crisis". [[michel-de-montaigne|Montaigne]] made doubt into a literary and moral practice. See [[c:epistemology/skepticism-and-epoche.md|ancient skepticism]] for the background.
+- **Skepticism revived.** The printed Sextus Empiricus, together with religious disagreement and travellers' reports of diverse customs, produced a "skeptical crisis". [Montaigne](thinkers/michel-de-montaigne.md) made doubt into a literary and moral practice. See [ancient skepticism](../../../concepts/epistemology/skepticism-and-epoche.md) for the background.
 - **Nature.** Thinkers such as Giordano Bruno, burned in Rome in 1600 for heresy, speculated about an infinite universe.
 
 ## Why it matters for what came next
 
-The Renaissance did not invent a new systematic philosophy to replace scholasticism. It loosened the hold of a single authority, multiplied the ancient options, and put doubt back on the table. The next generation, [[francis-bacon|Bacon]] and [[rene-descartes|Descartes]], tried to rebuild knowledge on a new foundation precisely because the old foundations now seemed uncertain. That is the story of the [[scientific-revolution-and-method|next lesson]].
+The Renaissance did not invent a new systematic philosophy to replace scholasticism. It loosened the hold of a single authority, multiplied the ancient options, and put doubt back on the table. The next generation, [Bacon](thinkers/francis-bacon.md) and [Descartes](thinkers/rene-descartes.md), tried to rebuild knowledge on a new foundation precisely because the old foundations now seemed uncertain. That is the story of the [next lesson](02-scientific-revolution-and-method.md).
 
 ## Key ideas
 
@@ -52,7 +52,7 @@ The Renaissance did not invent a new systematic philosophy to replace scholastic
 
 ## Where this leads
 
-- Next: [[scientific-revolution-and-method|The scientific revolution and the problem of method]]
-- Thinkers: [[niccolo-machiavelli|Machiavelli]], [[michel-de-montaigne|Montaigne]]
-- Back: [[c:epistemology/skepticism-and-epoche.md|skepticism and epoché]]; [[gk:epicurus.md|Epicurus]]
-- Glossary: [[g:humanism|humanism]]
+- Next: [The scientific revolution and the problem of method](02-scientific-revolution-and-method.md)
+- Thinkers: [Machiavelli](thinkers/niccolo-machiavelli.md), [Montaigne](thinkers/michel-de-montaigne.md)
+- Back: [skepticism and epoché](../../../concepts/epistemology/skepticism-and-epoche.md); [Epicurus](../../ancient/greek/thinkers/epicurus.md)
+- Glossary: [humanism](../../../glossary/modern/humanism.md)

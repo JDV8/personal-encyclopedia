@@ -1,12 +1,12 @@
 # Anselm, *Proslogion*
 
-**Prerequisites:** [[anselm|Anselm]]; helpful: [[faith-and-reason|Faith and reason]]
+**Prerequisites:** [Anselm](../thinkers/anselm.md); helpful: [Faith and reason](../01-faith-and-reason.md)
 
 @@IMG@@
 
 ## Dating and purpose
 
-Written in Latin by [[anselm|Anselm]] in 1077–1078 at the abbey of Bec, shortly after the *Monologion*. In the preface he explains that the earlier book had used a long chain of arguments, and he wanted instead to find a single argument that would need nothing but itself to show that God truly exists and is the supreme good. He says the idea came to him after long searching, when he had almost given up. He first titled it *Faith Seeking Understanding*. "Proslogion" means "an address", because it is spoken to God.
+Written in Latin by [Anselm](../thinkers/anselm.md) in 1077–1078 at the abbey of Bec, shortly after the *Monologion*. In the preface he explains that the earlier book had used a long chain of arguments, and he wanted instead to find a single argument that would need nothing but itself to show that God truly exists and is the supreme good. He says the idea came to him after long searching, when he had almost given up. He first titled it *Faith Seeking Understanding*. "Proslogion" means "an address", because it is spoken to God.
 
 ## Outline
 
@@ -29,7 +29,7 @@ Most modern readers meet chapters 2–4 alone, as a puzzle in logic. Read in ful
 
 ## Reception
 
-[[thomas-aquinas|Aquinas]] rejected the argument; [[rene-descartes|Descartes]] offered a version in the Fifth Meditation; [[gottfried-wilhelm-leibniz|Leibniz]] tried to complete it by proving that God's concept is consistent; [[immanuel-kant|Kant]] named and criticized it; [[georg-wilhelm-friedrich-hegel|Hegel]] defended a version. Twentieth-century modal versions by Charles Hartshorne, Norman Malcolm and Alvin Plantinga renewed the debate. The standard English translation is in *Anselm: Basic Writings* (Thomas Williams) or *The Major Works* (Oxford World's Classics, ed. Brian Davies and G. R. Evans).
+[Aquinas](../thinkers/thomas-aquinas.md) rejected the argument; [Descartes](../../modern/early-modern/thinkers/rene-descartes.md) offered a version in the Fifth Meditation; [Leibniz](../../modern/early-modern/thinkers/gottfried-wilhelm-leibniz.md) tried to complete it by proving that God's concept is consistent; [Kant](../../modern/early-modern/thinkers/immanuel-kant.md) named and criticized it; [Hegel](../../modern/nineteenth-century/thinkers/georg-wilhelm-friedrich-hegel.md) defended a version. Twentieth-century modal versions by Charles Hartshorne, Norman Malcolm and Alvin Plantinga renewed the debate. The standard English translation is in *Anselm: Basic Writings* (Thomas Williams) or *The Major Works* (Oxford World's Classics, ed. Brian Davies and G. R. Evans).
 
 ## Key ideas
 
@@ -39,6 +39,6 @@ Most modern readers meet chapters 2–4 alone, as a puzzle in logic. Read in ful
 
 ## Where this leads
 
-- Next text: [[guide-for-the-perplexed|*The Guide for the Perplexed*]]
-- Glossary: [[g:ontological-argument|ontological argument]]
-- Forward: [[meditations-on-first-philosophy|Descartes's *Meditations*]], [[critique-of-pure-reason|Kant's *Critique of Pure Reason*]]
+- Next text: [*The Guide for the Perplexed*](guide-for-the-perplexed.md)
+- Glossary: [ontological argument](../../../glossary/modern/ontological-argument.md)
+- Forward: [Descartes's *Meditations*](../../modern/early-modern/texts/meditations-on-first-philosophy.md), [Kant's *Critique of Pure Reason*](../../modern/early-modern/texts/critique-of-pure-reason.md)

@@ -1,12 +1,12 @@
 # Girard, *Violence and the Sacred*
 
-**Prerequisites:** [[rene-girard|René Girard]]; [[mimetic-theory|Mimetic theory]]
+**Prerequisites:** [René Girard](../thinkers/rene-girard.md); [Mimetic theory](../09-mimetic-theory.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*La Violence et le sacré* was published by Grasset in Paris in 1972; the English translation by Patrick Gregory appeared in 1977 (Johns Hopkins University Press). It extends [[rene-girard|Girard's]] theory of mimetic desire, developed in his earlier literary criticism, into a theory of the origins of religion and culture. It reads ancient Greek tragedy (Sophocles' *Oedipus the King*, Euripides' *Bacchae*), ethnographies of ritual, and earlier theorists of religion (Freud, Lévi-Strauss). Girard deliberately left the Bible aside here, taking it up in later books.
+*La Violence et le sacré* was published by Grasset in Paris in 1972; the English translation by Patrick Gregory appeared in 1977 (Johns Hopkins University Press). It extends [Girard's](../thinkers/rene-girard.md) theory of mimetic desire, developed in his earlier literary criticism, into a theory of the origins of religion and culture. It reads ancient Greek tragedy (Sophocles' *Oedipus the King*, Euripides' *Bacchae*), ethnographies of ritual, and earlier theorists of religion (Freud, Lévi-Strauss). Girard deliberately left the Bible aside here, taking it up in later books.
 
 ## Main arguments
 
@@ -38,6 +38,6 @@ The book made Girard internationally known and shaped work in religious studies,
 
 ## Where this leads
 
-- Next text: [[i-see-satan-fall-like-lightning|*I See Satan Fall Like Lightning*]]
-- Bible: [[bib:glossary/themes/sacrifice-and-atonement.md|sacrifice and atonement]]
-- Glossary: [[g:scapegoat-mechanism|scapegoat mechanism]], [[g:mimetic-desire|mimetic desire]]
+- Next text: [*I See Satan Fall Like Lightning*](i-see-satan-fall-like-lightning.md)
+- Bible: [sacrifice and atonement](../../../../../religion/abrahamic/christianity/bible/glossary/themes/sacrifice-and-atonement.md)
+- Glossary: [scapegoat mechanism](../../../../glossary/modern/scapegoat-mechanism.md), [mimetic desire](../../../../glossary/modern/mimetic-desire.md)

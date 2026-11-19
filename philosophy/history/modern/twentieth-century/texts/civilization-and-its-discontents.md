@@ -1,6 +1,6 @@
 # Freud, *Civilization and Its Discontents*
 
-**Prerequisites:** [[the-interpretation-of-dreams|*The Interpretation of Dreams*]]
+**Prerequisites:** [*The Interpretation of Dreams*](the-interpretation-of-dreams.md)
 
 @@IMG@@
 
@@ -8,7 +8,7 @@
 
 ## Dating and form
 
-*Das Unbehagen in der Kultur* ("the unease in culture") was written in 1929 and published in Vienna in 1930. [[sigmund-freud|Freud]] was 73, ill with the jaw cancer that would kill him, and writing as fascism rose. It is a short book in eight chapters. James Strachey's translation (1961) is standard; David McLintock's (Penguin, 2002) is titled *Civilization and Its Discontents* as well.
+*Das Unbehagen in der Kultur* ("the unease in culture") was written in 1929 and published in Vienna in 1930. [Freud](../thinkers/sigmund-freud.md) was 73, ill with the jaw cancer that would kill him, and writing as fascism rose. It is a short book in eight chapters. James Strachey's translation (1961) is standard; David McLintock's (Penguin, 2002) is titled *Civilization and Its Discontents* as well.
 
 ## Outline
 
@@ -36,10 +36,10 @@ flowchart LR
 
 ## Reception
 
-The book influenced critical theory (Herbert Marcuse's *Eros and Civilization*, 1955, argued that much repression is "surplus" and historically specific), cultural criticism (Philip Rieff, Norman O. Brown) and debates about human nature and violence. It echoes [[thomas-hobbes|Hobbes]] and anticipates later arguments about aggression; critics reject the death drive as speculative.
+The book influenced critical theory (Herbert Marcuse's *Eros and Civilization*, 1955, argued that much repression is "surplus" and historically specific), cultural criticism (Philip Rieff, Norman O. Brown) and debates about human nature and violence. It echoes [Hobbes](../../early-modern/thinkers/thomas-hobbes.md) and anticipates later arguments about aggression; critics reject the death drive as speculative.
 
 ## Where this leads
 
-- Next text: [[archetypes-and-the-collective-unconscious|*The Archetypes and the Collective Unconscious*]]
-- Back: [[leviathan|*Leviathan*]]; [[world-as-will-and-representation|Schopenhauer]], whose pessimism Freud acknowledged
-- Glossary: [[g:repression|repression]], [[g:unconscious|unconscious]]
+- Next text: [*The Archetypes and the Collective Unconscious*](archetypes-and-the-collective-unconscious.md)
+- Back: [*Leviathan*](../../early-modern/texts/leviathan.md); [Schopenhauer](../../nineteenth-century/texts/world-as-will-and-representation.md), whose pessimism Freud acknowledged
+- Glossary: [repression](../../../../glossary/modern/repression.md), [unconscious](../../../../glossary/modern/unconscious.md)

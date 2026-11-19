@@ -1,12 +1,12 @@
 # Kant, *Groundwork of the Metaphysics of Morals*
 
-**Prerequisites:** [[immanuel-kant|Immanuel Kant]]; helpful: [[c:ethics/virtue-and-arete.md|virtue and arete]] for contrast
+**Prerequisites:** [Immanuel Kant](../thinkers/immanuel-kant.md); helpful: [virtue and arete](../../../../concepts/ethics/virtue-and-arete.md) for contrast
 
 @@IMG@@
 
 ## Dating and purpose
 
-Published in Riga in 1785, between the two editions of the [[critique-of-pure-reason|*Critique of Pure Reason*]]. It is short, about 80 pages in most editions, and its aim is narrow: "the search for and establishment of the supreme principle of morality". It is a groundwork (*Grundlegung*) for a fuller *Metaphysics of Morals*, which appeared in 1797.
+Published in Riga in 1785, between the two editions of the [*Critique of Pure Reason*](critique-of-pure-reason.md). It is short, about 80 pages in most editions, and its aim is narrow: "the search for and establishment of the supreme principle of morality". It is a groundwork (*Grundlegung*) for a fuller *Metaphysics of Morals*, which appeared in 1797.
 
 ## Outline
 
@@ -37,10 +37,10 @@ flowchart LR
 
 ## Reception
 
-The *Groundwork* is the founding text of deontological ethics. Hegel criticized the universal-law test as empty formalism; [[john-stuart-mill|Mill]] argued that its applications covertly rely on consequences; Schopenhauer and Nietzsche attacked its notion of duty. Twentieth-century Kantians such as [[john-rawls|Rawls]], Onora O'Neill and Christine Korsgaard revived and reinterpreted it. Translations: Mary Gregor and Jens Timmermann (Cambridge); Allen Wood (Yale); H. J. Paton's *The Moral Law* (classic).
+The *Groundwork* is the founding text of deontological ethics. Hegel criticized the universal-law test as empty formalism; [Mill](../../nineteenth-century/thinkers/john-stuart-mill.md) argued that its applications covertly rely on consequences; Schopenhauer and Nietzsche attacked its notion of duty. Twentieth-century Kantians such as [Rawls](../../twentieth-century/thinkers/john-rawls.md), Onora O'Neill and Christine Korsgaard revived and reinterpreted it. Translations: Mary Gregor and Jens Timmermann (Cambridge); Allen Wood (Yale); H. J. Paton's *The Moral Law* (classic).
 
 ## Where this leads
 
-- Next era: [[dir:philosophy/history/modern/nineteenth-century|The nineteenth century]]
-- Forward: [[on-liberty|Mill's *On Liberty*]] and [[utilitarianism-and-liberalism|utilitarianism]]; [[a-theory-of-justice|Rawls]]
-- Glossary: [[g:categorical-imperative|categorical imperative]], [[g:autonomy|autonomy]]
+- Next era: [The nineteenth century](../../nineteenth-century/README.md)
+- Forward: [Mill's *On Liberty*](../../nineteenth-century/texts/on-liberty.md) and [utilitarianism](../../nineteenth-century/03-utilitarianism-and-liberalism.md); [Rawls](../../twentieth-century/texts/a-theory-of-justice.md)
+- Glossary: [categorical imperative](../../../../glossary/modern/categorical-imperative.md), [autonomy](../../../../glossary/modern/autonomy.md)

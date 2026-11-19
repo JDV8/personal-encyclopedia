@@ -1,6 +1,6 @@
 # William of Ockham
 
-**Prerequisites:** [[universals-and-nominalism|Universals and nominalism]], [[thomas-aquinas|Thomas Aquinas]]
+**Prerequisites:** [Universals and nominalism](../04-universals-and-nominalism.md), [Thomas Aquinas](thomas-aquinas.md)
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ William of Ockham (c. 1287–1347) was probably born in the village of Ockham in
 
 ## Core ideas
 
-**Nominalism.** Only individual things exist. There are no real common natures shared by individuals. A universal is a concept in the mind, a natural sign that signifies many individuals. Most of the [[c:metaphysics/form-and-matter.md|Aristotelian]] categories also lose their status as distinct things: Ockham argued that only substances and qualities are real entities; quantity, relation, motion and the rest are ways of talking about substances and qualities.
+**Nominalism.** Only individual things exist. There are no real common natures shared by individuals. A universal is a concept in the mind, a natural sign that signifies many individuals. Most of the [Aristotelian](../../../concepts/metaphysics/form-and-matter.md) categories also lose their status as distinct things: Ockham argued that only substances and qualities are real entities; quantity, relation, motion and the rest are ways of talking about substances and qualities.
 
 **The razor.** Ockham repeatedly invokes the rule that plurality should not be posited without necessity. Later called **Ockham's razor**, it is a principle of economy: explain with as few kinds of entity as possible. He used it to cut away entities his predecessors had posited, such as intelligible species in perception.
 
@@ -44,7 +44,7 @@ Ockham's followers formed the "modern way" (*via moderna*), contrasted with the 
 
 ## Where this leads
 
-- Forward: [[renaissance-and-humanism|Renaissance and humanism]] opens the early modern period
-- Forward: [[empiricism|Empiricism]], [[david-hume|Hume]]
-- Glossary: [[g:nominalism|nominalism]], [[g:ockhams-razor|Ockham's razor]]
-- Back: [[universals-and-nominalism|Universals and nominalism]]
+- Forward: [Renaissance and humanism](../../modern/early-modern/01-renaissance-and-humanism.md) opens the early modern period
+- Forward: [Empiricism](../../modern/early-modern/04-empiricism.md), [Hume](../../modern/early-modern/thinkers/david-hume.md)
+- Glossary: [nominalism](../../../glossary/modern/nominalism.md), [Ockham's razor](../../../glossary/modern/ockhams-razor.md)
+- Back: [Universals and nominalism](../04-universals-and-nominalism.md)

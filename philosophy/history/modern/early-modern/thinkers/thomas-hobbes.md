@@ -1,12 +1,12 @@
 # Thomas Hobbes
 
-**Prerequisites:** [[social-contract-and-the-state|The social contract]]; helpful: [[niccolo-machiavelli|Machiavelli]]
+**Prerequisites:** [The social contract](../05-social-contract-and-the-state.md); helpful: [Machiavelli](niccolo-machiavelli.md)
 
 @@IMG@@
 
 ## Life and context
 
-Thomas Hobbes (1588–1679) was born in Westport, near Malmesbury in Wiltshire; he later said that his mother, frightened by rumours of the Spanish Armada, gave birth to twins, himself and fear. After Oxford he became tutor and secretary to the Cavendish family, the Earls of Devonshire, an association that lasted most of his life. He translated Thucydides, met Galileo in Florence, and in Paris joined the circle of Marin Mersenne, where he wrote objections to Descartes' *Meditations*. Fearing for his safety as political conflict grew in England, he left for France in 1640 and stayed for eleven years, for a time tutoring the future Charles II in mathematics. [[leviathan|*Leviathan*]] was published in 1651, after the execution of Charles I; it offended royalists and churchmen alike, and Hobbes returned to England. He lived to 91, translating Homer in his eighties.
+Thomas Hobbes (1588–1679) was born in Westport, near Malmesbury in Wiltshire; he later said that his mother, frightened by rumours of the Spanish Armada, gave birth to twins, himself and fear. After Oxford he became tutor and secretary to the Cavendish family, the Earls of Devonshire, an association that lasted most of his life. He translated Thucydides, met Galileo in Florence, and in Paris joined the circle of Marin Mersenne, where he wrote objections to Descartes' *Meditations*. Fearing for his safety as political conflict grew in England, he left for France in 1640 and stayed for eleven years, for a time tutoring the future Charles II in mathematics. [*Leviathan*](../texts/leviathan.md) was published in 1651, after the execution of Charles I; it offended royalists and churchmen alike, and Hobbes returned to England. He lived to 91, translating Homer in his eighties.
 
 ## Core ideas
 
@@ -31,7 +31,7 @@ flowchart LR
 
 ## Influence and criticism
 
-Hobbes was widely denounced as an atheist and a corrupter; after the Great Fire of London (1666) a parliamentary committee considered investigating *Leviathan* for atheism. Yet he founded modern political philosophy in its secular, individualist, contract-based form. [[john-locke|Locke]] answered him (without naming him much); [[jean-jacques-rousseau|Rousseau]] argued that his "natural" man was really social man. Game theorists find in the state of nature a version of the prisoner's dilemma. Critics argue that his psychology is too bleak, that absolute sovereignty is more dangerous than anarchy, and that his materialism cannot account for meaning or obligation.
+Hobbes was widely denounced as an atheist and a corrupter; after the Great Fire of London (1666) a parliamentary committee considered investigating *Leviathan* for atheism. Yet he founded modern political philosophy in its secular, individualist, contract-based form. [Locke](john-locke.md) answered him (without naming him much); [Rousseau](jean-jacques-rousseau.md) argued that his "natural" man was really social man. Game theorists find in the state of nature a version of the prisoner's dilemma. Critics argue that his psychology is too bleak, that absolute sovereignty is more dangerous than anarchy, and that his materialism cannot account for meaning or obligation.
 
 ## Key ideas
 
@@ -42,7 +42,7 @@ Hobbes was widely denounced as an atheist and a corrupter; after the Great Fire 
 
 ## Where this leads
 
-- Text: [[leviathan|*Leviathan*]]
-- Next thinker: [[blaise-pascal|Blaise Pascal]]
-- Glossary: [[g:state-of-nature|state of nature]], [[g:social-contract|social contract]]
-- Related: [[micro:05-market-structures|game theory in market structures]]
+- Text: [*Leviathan*](../texts/leviathan.md)
+- Next thinker: [Blaise Pascal](blaise-pascal.md)
+- Glossary: [state of nature](../../../../glossary/modern/state-of-nature.md), [social contract](../../../../glossary/modern/social-contract.md)
+- Related: [game theory in market structures](../../../../../economics/microeconomics/05-market-structures/README.md)

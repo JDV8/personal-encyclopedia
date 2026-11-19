@@ -1,12 +1,12 @@
 # Kierkegaard, *Fear and Trembling*
 
-**Prerequisites:** [[soren-kierkegaard|Søren Kierkegaard]]; [[bib:old-testament/stories/01-the-binding-of-isaac.md|The binding of Isaac]] (Genesis 22)
+**Prerequisites:** [Søren Kierkegaard](../thinkers/soren-kierkegaard.md); [The binding of Isaac](../../../../../religion/abrahamic/christianity/bible/old-testament/stories/01-the-binding-of-isaac.md) (Genesis 22)
 
 @@IMG@@
 
 ## Dating and pseudonym
 
-Published in Copenhagen on 16 October 1843, the same day as *Repetition*, under the pseudonym **Johannes de Silentio** ("John of Silence"). The title comes from Philippians 2:12, "work out your own salvation with fear and trembling". Johannes describes himself not as a philosopher or a man of faith but as someone who admires faith and cannot understand it. Many readers connect the book to [[soren-kierkegaard|Kierkegaard]]'s broken engagement with Regine Olsen, a sacrifice he could not explain to her.
+Published in Copenhagen on 16 October 1843, the same day as *Repetition*, under the pseudonym **Johannes de Silentio** ("John of Silence"). The title comes from Philippians 2:12, "work out your own salvation with fear and trembling". Johannes describes himself not as a philosopher or a man of faith but as someone who admires faith and cannot understand it. Many readers connect the book to [Kierkegaard](../thinkers/soren-kierkegaard.md)'s broken engagement with Regine Olsen, a sacrifice he could not explain to her.
 
 ## Structure
 
@@ -41,7 +41,7 @@ Readers disagree on whether the book endorses religious violence, critiques Hege
 
 ## Where this leads
 
-- Next text: [[communist-manifesto|*The Communist Manifesto*]]
-- Related: [[bib:old-testament/books/law-torah/genesis.md|Genesis]]; [[bib:glossary/people/paul.md|Paul]] (Philippians)
-- Forward: [[the-myth-of-sisyphus|Camus's critique of the leap]]
-- Glossary: [[g:teleological-suspension-of-the-ethical|teleological suspension of the ethical]]
+- Next text: [*The Communist Manifesto*](communist-manifesto.md)
+- Related: [Genesis](../../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md); [Paul](../../../../../religion/abrahamic/christianity/bible/glossary/people/paul.md) (Philippians)
+- Forward: [Camus's critique of the leap](../../twentieth-century/texts/the-myth-of-sisyphus.md)
+- Glossary: [teleological suspension of the ethical](../../../../glossary/modern/teleological-suspension-of-the-ethical.md)

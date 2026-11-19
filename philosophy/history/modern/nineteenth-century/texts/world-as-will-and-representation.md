@@ -1,12 +1,12 @@
 # Schopenhauer, *The World as Will and Representation*
 
-**Prerequisites:** [[arthur-schopenhauer|Arthur Schopenhauer]]; [[pessimism-and-the-will|Pessimism and the will]]
+**Prerequisites:** [Arthur Schopenhauer](../thinkers/arthur-schopenhauer.md); [Pessimism and the will](../02-pessimism-and-the-will.md)
 
 @@IMG@@
 
 ## Dating and editions
 
-Published in Leipzig in December 1818 (title page 1819), when [[arthur-schopenhauer|Schopenhauer]] was 30. It sold very few copies. A second edition (1844) added a whole second volume of 50 supplementary essays keyed to the first; a third edition appeared in 1859. Schopenhauer insisted that readers first know Kant's main works and his own dissertation on the principle of sufficient reason, and that they read the book twice. The German title *Die Welt als Wille und Vorstellung* has also been translated *The World as Will and Idea* (Haldane and Kemp, 1883–86).
+Published in Leipzig in December 1818 (title page 1819), when [Schopenhauer](../thinkers/arthur-schopenhauer.md) was 30. It sold very few copies. A second edition (1844) added a whole second volume of 50 supplementary essays keyed to the first; a third edition appeared in 1859. Schopenhauer insisted that readers first know Kant's main works and his own dissertation on the principle of sufficient reason, and that they read the book twice. The German title *Die Welt als Wille und Vorstellung* has also been translated *The World as Will and Idea* (Haldane and Kemp, 1883–86).
 
 ## Structure of volume 1 (four books)
 
@@ -34,7 +34,7 @@ The book influenced Wagner, Nietzsche, Tolstoy, Hardy, Mann, Freud, Wittgenstein
 
 ## Where this leads
 
-- Next text: [[fear-and-trembling|*Fear and Trembling*]]
-- Back: [[critique-of-pure-reason|*Critique of Pure Reason*]]
-- Forward: [[thus-spoke-zarathustra|Nietzsche's *Zarathustra*]], [[the-interpretation-of-dreams|Freud's *Interpretation of Dreams*]]
-- Glossary: [[g:will-to-live|will to live]]
+- Next text: [*Fear and Trembling*](fear-and-trembling.md)
+- Back: [*Critique of Pure Reason*](../../early-modern/texts/critique-of-pure-reason.md)
+- Forward: [Nietzsche's *Zarathustra*](thus-spoke-zarathustra.md), [Freud's *Interpretation of Dreams*](../../twentieth-century/texts/the-interpretation-of-dreams.md)
+- Glossary: [will to live](../../../../glossary/modern/will-to-live.md)

@@ -1,6 +1,6 @@
 # Averroes (Ibn Rushd)
 
-**Prerequisites:** [[islamic-and-jewish-philosophy|Islamic and Jewish philosophy]], [[avicenna|Avicenna]]
+**Prerequisites:** [Islamic and Jewish philosophy](../03-islamic-and-jewish-philosophy.md), [Avicenna](avicenna.md)
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ Abu al-Walid Muhammad ibn Ahmad ibn Rushd (1126–1198), Latinized as Averroes, 
 
 ## The Commentator
 
-Averroes wrote commentaries on almost all of Aristotle, often in three sizes: short epitomes, middle commentaries, and long commentaries that quote the text section by section and explain it. His aim was to recover the genuine Aristotle from Neoplatonic additions, including those he found in [[avicenna|Avicenna]]. In Latin translation these commentaries became so authoritative that Latin authors simply called him "the Commentator", as they called Aristotle "the Philosopher".
+Averroes wrote commentaries on almost all of Aristotle, often in three sizes: short epitomes, middle commentaries, and long commentaries that quote the text section by section and explain it. His aim was to recover the genuine Aristotle from Neoplatonic additions, including those he found in [Avicenna](avicenna.md). In Latin translation these commentaries became so authoritative that Latin authors simply called him "the Commentator", as they called Aristotle "the Philosopher".
 
 ## Core ideas
 
@@ -33,7 +33,7 @@ flowchart LR
 
 ## Influence and criticism
 
-His impact in the Islamic world was limited for some time; his reputation there revived in the nineteenth and twentieth centuries, when reformers saw him as a champion of reason. In Jewish philosophy his commentaries were translated into Hebrew and studied widely. In the Latin West he was decisive: Paris masters such as Siger of Brabant read Aristotle his way and were accused of teaching a "double truth", one for philosophy and one for faith. Historians now think no one actually held a double-truth doctrine in that crude form. [[thomas-aquinas|Aquinas]] wrote *On the Unity of the Intellect against the Averroists*. Raphael's *School of Athens* includes a figure traditionally identified as Averroes.
+His impact in the Islamic world was limited for some time; his reputation there revived in the nineteenth and twentieth centuries, when reformers saw him as a champion of reason. In Jewish philosophy his commentaries were translated into Hebrew and studied widely. In the Latin West he was decisive: Paris masters such as Siger of Brabant read Aristotle his way and were accused of teaching a "double truth", one for philosophy and one for faith. Historians now think no one actually held a double-truth doctrine in that crude form. [Aquinas](thomas-aquinas.md) wrote *On the Unity of the Intellect against the Averroists*. Raphael's *School of Athens* includes a figure traditionally identified as Averroes.
 
 ## Key ideas
 
@@ -44,6 +44,6 @@ His impact in the Islamic world was limited for some time; his reputation there 
 
 ## Where this leads
 
-- Next thinker: [[maimonides|Maimonides]]
-- Forward: [[thomas-aquinas|Thomas Aquinas]]; [[scholasticism|Scholasticism]] and the 1277 condemnation
-- Back: [[gk:aristotle.md|Aristotle]], [[c:metaphysics/the-four-causes.md|the four causes]]
+- Next thinker: [Maimonides](maimonides.md)
+- Forward: [Thomas Aquinas](thomas-aquinas.md); [Scholasticism](../02-scholasticism.md) and the 1277 condemnation
+- Back: [Aristotle](../../ancient/greek/thinkers/aristotle.md), [the four causes](../../../concepts/metaphysics/the-four-causes.md)

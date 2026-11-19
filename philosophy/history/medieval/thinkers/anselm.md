@@ -1,6 +1,6 @@
 # Anselm of Canterbury
 
-**Prerequisites:** [[faith-and-reason|Faith and reason]], [[augustine|Augustine]]
+**Prerequisites:** [Faith and reason](../01-faith-and-reason.md), [Augustine](augustine.md)
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ Anselm (1033–1109) was born in Aosta, in the Alps of northern Italy. As a youn
 
 ## Method: faith seeking understanding
 
-Anselm wrote before the universities and before the recovery of Aristotle. His sources were scripture, Augustine, and Boethius's logic. His method was meditation that tries to grasp, by reason alone, what the believer already holds. The original title of the [[proslogion|*Proslogion*]] was *Faith Seeking Understanding* (*Fides quaerens intellectum*), and in that work he says he does not seek to understand in order to believe, but believes in order to understand. Yet he deliberately argues *without* appeal to scripture's authority, so that the reasoning stands on its own.
+Anselm wrote before the universities and before the recovery of Aristotle. His sources were scripture, Augustine, and Boethius's logic. His method was meditation that tries to grasp, by reason alone, what the believer already holds. The original title of the [*Proslogion*](../texts/proslogion.md) was *Faith Seeking Understanding* (*Fides quaerens intellectum*), and in that work he says he does not seek to understand in order to believe, but believes in order to understand. Yet he deliberately argues *without* appeal to scripture's authority, so that the reasoning stands on its own.
 
 ## The ontological argument
 
@@ -36,7 +36,7 @@ flowchart TB
 
 A monk named Gaunilo replied at once, "on behalf of the fool": by the same reasoning one could prove the existence of a perfect lost island. Anselm answered that the argument works only for the one being whose greatness is unlimited.
 
-The argument is called "ontological" (a label from [[immanuel-kant|Kant]]) because it moves from the concept of a being to its existence. [[thomas-aquinas|Aquinas]] rejected it, arguing that we do not know God's essence well enough. [[rene-descartes|Descartes]] and [[gottfried-wilhelm-leibniz|Leibniz]] revived versions; Kant's objection that "being is not a real predicate", that existence adds nothing to a concept, became the standard criticism. In the twentieth century, logicians such as Alvin Plantinga reformulated it with modal logic, and debate continues.
+The argument is called "ontological" (a label from [Kant](../../modern/early-modern/thinkers/immanuel-kant.md)) because it moves from the concept of a being to its existence. [Aquinas](thomas-aquinas.md) rejected it, arguing that we do not know God's essence well enough. [Descartes](../../modern/early-modern/thinkers/rene-descartes.md) and [Leibniz](../../modern/early-modern/thinkers/gottfried-wilhelm-leibniz.md) revived versions; Kant's objection that "being is not a real predicate", that existence adds nothing to a concept, became the standard criticism. In the twentieth century, logicians such as Alvin Plantinga reformulated it with modal logic, and debate continues.
 
 ## Other contributions
 
@@ -51,7 +51,7 @@ In the *Monologion* Anselm gave other arguments from degrees of goodness. *Why G
 
 ## Where this leads
 
-- Text: [[proslogion|*Proslogion*]]
-- Next thinkers: [[avicenna|Avicenna]], [[thomas-aquinas|Thomas Aquinas]]
-- Glossary: [[g:ontological-argument|ontological argument]]
-- Forward: [[rene-descartes|Descartes]]' Fifth Meditation; [[immanuel-kant|Kant]]'s critique
+- Text: [*Proslogion*](../texts/proslogion.md)
+- Next thinkers: [Avicenna](avicenna.md), [Thomas Aquinas](thomas-aquinas.md)
+- Glossary: [ontological argument](../../../glossary/modern/ontological-argument.md)
+- Forward: [Descartes](../../modern/early-modern/thinkers/rene-descartes.md)' Fifth Meditation; [Kant](../../modern/early-modern/thinkers/immanuel-kant.md)'s critique

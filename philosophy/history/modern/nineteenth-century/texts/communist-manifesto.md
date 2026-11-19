@@ -1,12 +1,12 @@
 # Marx and Engels, *The Communist Manifesto*
 
-**Prerequisites:** [[karl-marx|Karl Marx]]; [[marx-and-historical-materialism|Marx and historical materialism]]
+**Prerequisites:** [Karl Marx](../thinkers/karl-marx.md); [Marx and historical materialism](../04-marx-and-historical-materialism.md)
 
 @@IMG@@
 
 ## Dating and occasion
 
-*Manifest der Kommunistischen Partei* was commissioned by the Communist League, a small secret society of German artisans, and written by [[karl-marx|Marx]] with Friedrich Engels in Brussels in late 1847 and January 1848. It was printed in London in February 1848, just as revolution broke out in Paris, though it had little influence on the revolutions of that year. It was published anonymously; later editions carried both names and new prefaces. It is short, about 40 pages.
+*Manifest der Kommunistischen Partei* was commissioned by the Communist League, a small secret society of German artisans, and written by [Marx](../thinkers/karl-marx.md) with Friedrich Engels in Brussels in late 1847 and January 1848. It was printed in London in February 1848, just as revolution broke out in Paris, though it had little influence on the revolutions of that year. It was published anonymously; later editions carried both names and new prefaces. It is short, about 40 pages.
 
 ## Outline
 
@@ -35,7 +35,7 @@ The *Manifesto* became one of the most widely read political documents in histor
 
 ## Where this leads
 
-- Next text: [[on-liberty|*On Liberty*]]
-- Back: [[phenomenology-of-spirit|*Phenomenology of Spirit*]]
-- Economics: [[eco:04-karl-marx.md|Marx (economics)]]
-- Forward: [[karl-popper|Karl Popper]]'s critique in *The Open Society and Its Enemies*
+- Next text: [*On Liberty*](on-liberty.md)
+- Back: [*Phenomenology of Spirit*](phenomenology-of-spirit.md)
+- Economics: [Marx (economics)](../../../../../economics/microeconomics/10-history-of-thought/thinkers/04-karl-marx.md)
+- Forward: [Karl Popper](../../twentieth-century/thinkers/karl-popper.md)'s critique in *The Open Society and Its Enemies*

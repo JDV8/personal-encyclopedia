@@ -1,6 +1,6 @@
 # Existential beginnings: the single individual
 
-**Prerequisites:** [[german-idealism|German idealism]]; helpful: [[pensees|Pascal's *Pensées*]], [[bib:old-testament/stories/01-the-binding-of-isaac.md|the binding of Isaac]]
+**Prerequisites:** [German idealism](01-german-idealism.md); helpful: [Pascal's *Pensées*](../early-modern/texts/pensees.md), [the binding of Isaac](../../../../religion/abrahamic/christianity/bible/old-testament/stories/01-the-binding-of-isaac.md)
 
 @@IMG@@
 
@@ -8,13 +8,13 @@
 
 Suppose a philosopher builds a complete system: logic, nature, history, art, religion, all reconciled in a final account of reality. Now suppose you, a particular person, must decide whether to marry, how to face your death, whether to believe in God. Does the system help? It tells you how Spirit realizes itself in world history. It does not tell you what to do with your one life, or how to become the person you are supposed to be.
 
-That gap is where **existential philosophy** begins. Its central claim is that the most important questions are not answered by objective knowledge but must be lived by an individual who chooses, commits, despairs and believes, and who cannot hand that task to anyone else, not to a system, a crowd or a church. The two great nineteenth-century sources, writing independently, were the Danish philosopher [[soren-kierkegaard|Søren Kierkegaard]] (1813–1855) and the Russian novelist [[fyodor-dostoevsky|Fyodor Dostoevsky]] (1821–1881). Neither used the word "existentialism", which was coined in the 1940s.
+That gap is where **existential philosophy** begins. Its central claim is that the most important questions are not answered by objective knowledge but must be lived by an individual who chooses, commits, despairs and believes, and who cannot hand that task to anyone else, not to a system, a crowd or a church. The two great nineteenth-century sources, writing independently, were the Danish philosopher [Søren Kierkegaard](thinkers/soren-kierkegaard.md) (1813–1855) and the Russian novelist [Fyodor Dostoevsky](thinkers/fyodor-dostoevsky.md) (1821–1881). Neither used the word "existentialism", which was coined in the 1940s.
 
 ## Kierkegaard: truth as subjectivity
 
 Kierkegaard wrote much of his work under pseudonyms, each representing a point of view, so that readers would have to decide for themselves rather than adopt an author's doctrine. Some of his central ideas:
 
-- **Three spheres (or stages) of existence.** The **aesthetic** life seeks pleasure, interest and novelty and avoids commitment; its end is boredom and despair. The **ethical** life commits to universal duties, marriage, vocation; but it cannot deal with guilt and the exception. The **religious** life is a personal relation to God that may go beyond the universal ethical. See [[fear-and-trembling|*Fear and Trembling*]] and *Either/Or*.
+- **Three spheres (or stages) of existence.** The **aesthetic** life seeks pleasure, interest and novelty and avoids commitment; its end is boredom and despair. The **ethical** life commits to universal duties, marriage, vocation; but it cannot deal with guilt and the exception. The **religious** life is a personal relation to God that may go beyond the universal ethical. See [*Fear and Trembling*](texts/fear-and-trembling.md) and *Either/Or*.
 - **Truth is subjectivity.** For questions of existence, what matters is not only *what* is believed but *how*: with passionate inwardness. An "objective" Christian who knows the doctrines but does not live them is further from truth than a pagan who prays passionately to an idol.
 - **The leap.** Faith is not the conclusion of an argument; it is a commitment made in the face of objective uncertainty and even absurdity (that the eternal God became a human being in time). Kierkegaard's word is "leap" (*Spring*); the phrase "leap of faith" is a later summary.
 - **Anxiety and despair.** *The Concept of Anxiety* (1844) describes anxiety as "the dizziness of freedom": the feeling of standing before possibilities. *The Sickness unto Death* (1849) analyses despair as a misrelation of the self to itself, the refusal to be the self one is or the defiant attempt to be a self of one's own making.
@@ -22,7 +22,7 @@ Kierkegaard wrote much of his work under pseudonyms, each representing a point o
 
 ## Dostoevsky: freedom and its abyss
 
-Dostoevsky was not a philosopher by profession, but his novels dramatize existential problems with unmatched force (see [[the-philosophical-novel|the next lesson]]). In [[notes-from-underground|*Notes from Underground*]] (1864), the narrator insists that humans will act against their own rational advantage simply to prove they are free and not "piano keys" played by the laws of nature. In [[the-brothers-karamazov|*The Brothers Karamazov*]] (1880), Ivan returns his "ticket" to a world harmony bought with the suffering of children, and tells the parable of the Grand Inquisitor, who claims that people cannot bear freedom and want bread, miracle and authority instead.
+Dostoevsky was not a philosopher by profession, but his novels dramatize existential problems with unmatched force (see [the next lesson](07-the-philosophical-novel.md)). In [*Notes from Underground*](texts/notes-from-underground.md) (1864), the narrator insists that humans will act against their own rational advantage simply to prove they are free and not "piano keys" played by the laws of nature. In [*The Brothers Karamazov*](texts/the-brothers-karamazov.md) (1880), Ivan returns his "ticket" to a world harmony bought with the suffering of children, and tells the parable of the Grand Inquisitor, who claims that people cannot bear freedom and want bread, miracle and authority instead.
 
 ```mermaid
 flowchart LR
@@ -47,8 +47,8 @@ Both writers place the individual's freedom and responsibility at the centre; bo
 
 ## Where this leads
 
-- Next: [[the-philosophical-novel|The philosophical novel: Dostoevsky and Tolstoy]]
-- Thinkers: [[soren-kierkegaard|Søren Kierkegaard]], [[fyodor-dostoevsky|Fyodor Dostoevsky]]
-- Texts: [[fear-and-trembling|*Fear and Trembling*]], [[notes-from-underground|*Notes from Underground*]]
-- Forward: [[existentialism|Twentieth-century existentialism]]
-- Related: [[bib:old-testament/books/law-torah/genesis.md|Genesis]] (Abraham)
+- Next: [The philosophical novel: Dostoevsky and Tolstoy](07-the-philosophical-novel.md)
+- Thinkers: [Søren Kierkegaard](thinkers/soren-kierkegaard.md), [Fyodor Dostoevsky](thinkers/fyodor-dostoevsky.md)
+- Texts: [*Fear and Trembling*](texts/fear-and-trembling.md), [*Notes from Underground*](texts/notes-from-underground.md)
+- Forward: [Twentieth-century existentialism](../twentieth-century/03-existentialism.md)
+- Related: [Genesis](../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md) (Abraham)

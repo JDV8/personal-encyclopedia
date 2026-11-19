@@ -1,12 +1,12 @@
 # Bacon, *Novum Organum*
 
-**Prerequisites:** [[francis-bacon|Francis Bacon]]; [[scientific-revolution-and-method|The scientific revolution]]
+**Prerequisites:** [Francis Bacon](../thinkers/francis-bacon.md); [The scientific revolution](../02-scientific-revolution-and-method.md)
 
 @@IMG@@
 
 ## Dating and purpose
 
-Published in Latin in 1620 as the second part of [[francis-bacon|Bacon]]'s unfinished *Instauratio Magna*. The title, "New Organon", challenges Aristotle's logical works, collectively called the [[gt:organon.md|*Organon*]] ("instrument"). Bacon offers a new instrument for the mind. The engraved title page shows a ship sailing out past the Pillars of Hercules, the traditional limit of the known world, with a motto from the book of Daniel: "Many shall run to and fro, and knowledge shall be increased."
+Published in Latin in 1620 as the second part of [Bacon](../thinkers/francis-bacon.md)'s unfinished *Instauratio Magna*. The title, "New Organon", challenges Aristotle's logical works, collectively called the [*Organon*](../../../ancient/greek/texts/organon.md) ("instrument"). Bacon offers a new instrument for the mind. The engraved title page shows a ship sailing out past the Pillars of Hercules, the traditional limit of the known world, with a motto from the book of Daniel: "Many shall run to and fro, and knowledge shall be increased."
 
 ## Structure
 
@@ -26,7 +26,7 @@ flowchart TB
 
 ## Reception
 
-The book inspired the Royal Society and later the Encyclopédistes. John Stuart Mill's methods of experimental inquiry in *A System of Logic* (1843) develop Bacon's tables. Critics, from William Whewell to [[karl-popper|Popper]], argued that real science depends on bold hypotheses, often mathematical, that Bacon's method underrated. His insight into cognitive biases (the idols) looks remarkably modern. The edition by Lisa Jardine and Michael Silverthorne (Cambridge Texts in the History of Philosophy) is the standard student translation.
+The book inspired the Royal Society and later the Encyclopédistes. John Stuart Mill's methods of experimental inquiry in *A System of Logic* (1843) develop Bacon's tables. Critics, from William Whewell to [Popper](../../twentieth-century/thinkers/karl-popper.md), argued that real science depends on bold hypotheses, often mathematical, that Bacon's method underrated. His insight into cognitive biases (the idols) looks remarkably modern. The edition by Lisa Jardine and Michael Silverthorne (Cambridge Texts in the History of Philosophy) is the standard student translation.
 
 ## Key ideas
 
@@ -36,6 +36,6 @@ The book inspired the Royal Society and later the Encyclopédistes. John Stuart 
 
 ## Where this leads
 
-- Next text: [[discourse-on-method|*Discourse on the Method*]]
-- Forward: [[the-logic-of-scientific-discovery|Popper's *Logic of Scientific Discovery*]]
-- Back: [[gt:organon.md|Aristotle's *Organon*]]
+- Next text: [*Discourse on the Method*](discourse-on-method.md)
+- Forward: [Popper's *Logic of Scientific Discovery*](../../twentieth-century/texts/the-logic-of-scientific-discovery.md)
+- Back: [Aristotle's *Organon*](../../../ancient/greek/texts/organon.md)

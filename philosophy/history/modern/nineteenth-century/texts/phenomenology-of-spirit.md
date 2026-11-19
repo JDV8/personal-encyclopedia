@@ -1,6 +1,6 @@
 # Hegel, *Phenomenology of Spirit*
 
-**Prerequisites:** [[georg-wilhelm-friedrich-hegel|Hegel]]; [[german-idealism|German idealism]]
+**Prerequisites:** [Hegel](../thinkers/georg-wilhelm-friedrich-hegel.md); [German idealism](../01-german-idealism.md)
 
 @@IMG@@
 
@@ -40,6 +40,6 @@ The book is notoriously difficult, and its interpretation has shaped whole movem
 
 ## Where this leads
 
-- Next text: [[world-as-will-and-representation|*The World as Will and Representation*]]
-- Forward: [[communist-manifesto|*The Communist Manifesto*]], [[the-second-sex|*The Second Sex*]]
-- Glossary: [[g:master-slave-dialectic|master–slave dialectic]], [[g:geist|Geist]]
+- Next text: [*The World as Will and Representation*](world-as-will-and-representation.md)
+- Forward: [*The Communist Manifesto*](communist-manifesto.md), [*The Second Sex*](../../twentieth-century/texts/the-second-sex.md)
+- Glossary: [master–slave dialectic](../../../../glossary/modern/master-slave-dialectic.md), [Geist](../../../../glossary/modern/geist.md)

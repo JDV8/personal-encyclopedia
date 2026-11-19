@@ -1,6 +1,6 @@
 # Mimetic theory: René Girard on desire, violence and the scapegoat
 
-**Prerequisites:** [[the-philosophical-novel|The philosophical novel]], [[psychoanalysis-and-depth-psychology|Psychoanalysis]]; helpful: [[g:mimesis|mimesis]], [[bib:old-testament/books/law-torah/genesis.md|Genesis]], [[bib:new-testament/stories/06-passion-week.md|Passion week]]
+**Prerequisites:** [The philosophical novel](../nineteenth-century/07-the-philosophical-novel.md), [Psychoanalysis](05-psychoanalysis-and-depth-psychology.md); helpful: [mimesis](../../../glossary/greek/mimesis.md), [Genesis](../../../../religion/abrahamic/christianity/bible/old-testament/books/law-torah/genesis.md), [Passion week](../../../../religion/abrahamic/christianity/bible/new-testament/stories/06-passion-week.md)
 
 @@IMG@@
 
@@ -8,13 +8,13 @@
 
 Put a room full of toys in front of two small children. Very often, both want the same toy, and usually the one the other child has just picked up. The toy did not become more attractive by itself. It became desirable because someone else desired it.
 
-[[rene-girard|René Girard]] (1923–2015), a French literary critic and anthropologist who spent his career in American universities, built a whole theory of culture on this observation. Its three parts are mimetic desire, the scapegoat mechanism, and the biblical revelation.
+[René Girard](thinkers/rene-girard.md) (1923–2015), a French literary critic and anthropologist who spent his career in American universities, built a whole theory of culture on this observation. Its three parts are mimetic desire, the scapegoat mechanism, and the biblical revelation.
 
 ## 1. Mimetic desire
 
-The common picture of desire is a straight line: a subject wants an object because of the object's qualities. Girard argued that, beyond basic appetites, human desire is **triangular**: we desire according to the desire of another, a **model** or **mediator**. We want what others want, because they want it. He called this **[[g:mimetic-desire|mimetic desire]]**, from Greek *mimesis*, imitation.
+The common picture of desire is a straight line: a subject wants an object because of the object's qualities. Girard argued that, beyond basic appetites, human desire is **triangular**: we desire according to the desire of another, a **model** or **mediator**. We want what others want, because they want it. He called this **[mimetic desire](../../../glossary/modern/mimetic-desire.md)**, from Greek *mimesis*, imitation.
 
-He found this first in novels. In *Deceit, Desire and the Novel* (1961) he argued that the great novelists (Cervantes, Stendhal, Flaubert, Proust, [[fyodor-dostoevsky|Dostoevsky]]) discovered what Romantic writers concealed: the "romantic lie" says my desires are spontaneously my own; the "novelistic truth" reveals they are borrowed. Don Quixote desires through Amadis of Gaul, his model of knighthood; Emma Bovary through the heroines of her novels.
+He found this first in novels. In *Deceit, Desire and the Novel* (1961) he argued that the great novelists (Cervantes, Stendhal, Flaubert, Proust, [Dostoevsky](../nineteenth-century/thinkers/fyodor-dostoevsky.md)) discovered what Romantic writers concealed: the "romantic lie" says my desires are spontaneously my own; the "novelistic truth" reveals they are borrowed. Don Quixote desires through Amadis of Gaul, his model of knighthood; Emma Bovary through the heroines of her novels.
 
 - With **external mediation**, the model is far away (a legendary knight, a celebrity), and no rivalry arises.
 - With **internal mediation**, the model is near (a neighbour, a colleague, a brother), and desiring the same object makes the model a rival. The closer and more equal the rivals, the more they imitate each other, until they become "doubles", locked in escalating rivalry in which the original object may be forgotten.
@@ -31,7 +31,7 @@ flowchart TB
 
 If desire is mimetic, rivalry is contagious. In a community, mimetic conflicts multiply until they threaten to dissolve it in a war of all against all, a **mimetic crisis** in which differences collapse and everyone becomes everyone's double. How did early human groups survive?
 
-Girard's hypothesis, set out in [[violence-and-the-sacred|*Violence and the Sacred*]] (1972), is that just as desire is imitated, so is accusation. At the height of the crisis, the "all against all" turns spontaneously into "all against one". The community unites against a single victim, often someone marked as different (a stranger, a cripple, a king), whom everyone comes to believe is responsible for the disorder. The victim is killed or expelled. Peace returns, because the community is now united. This is the **[[g:scapegoat-mechanism|scapegoat mechanism]]**.
+Girard's hypothesis, set out in [*Violence and the Sacred*](texts/violence-and-the-sacred.md) (1972), is that just as desire is imitated, so is accusation. At the height of the crisis, the "all against all" turns spontaneously into "all against one". The community unites against a single victim, often someone marked as different (a stranger, a cripple, a king), whom everyone comes to believe is responsible for the disorder. The victim is killed or expelled. Peace returns, because the community is now united. This is the **[scapegoat mechanism](../../../glossary/modern/scapegoat-mechanism.md)**.
 
 Because the peace seems to come from the victim, the victim is seen as both the cause of the disorder and the source of order: both accursed and sacred. Girard argued that this is the origin of the sacred and of religion:
 
@@ -43,7 +43,7 @@ Crucially, the mechanism works only if the persecutors do not see it: they must 
 
 ## 3. The biblical revelation
 
-In *Things Hidden Since the Foundation of the World* (1978) and [[i-see-satan-fall-like-lightning|*I See Satan Fall Like Lightning*]] (1999), Girard argued that the Hebrew Bible and the Gospels progressively expose the scapegoat mechanism by telling the story from the **victim's** point of view. Abel is innocent and his blood cries out; Joseph is innocent before his brothers; Job protests his innocence against friends who insist he must be guilty; the Psalms give voice to persecuted individuals; the Suffering Servant of Isaiah is innocent. In the Passion, the crowd, the authorities and even the disciples unite against Jesus as a classic scapegoat, but the Gospels insist he is innocent, and the resurrection vindicates the victim. The Gospels thus reveal "things hidden since the foundation of the world" (Matthew 13:35) and make the mechanism harder to use. Girard read "Satan" in the Gospels as a name for the mimetic process of rivalry and accusation (the Hebrew *satan* means "accuser").
+In *Things Hidden Since the Foundation of the World* (1978) and [*I See Satan Fall Like Lightning*](texts/i-see-satan-fall-like-lightning.md) (1999), Girard argued that the Hebrew Bible and the Gospels progressively expose the scapegoat mechanism by telling the story from the **victim's** point of view. Abel is innocent and his blood cries out; Joseph is innocent before his brothers; Job protests his innocence against friends who insist he must be guilty; the Psalms give voice to persecuted individuals; the Suffering Servant of Isaiah is innocent. In the Passion, the crowd, the authorities and even the disciples unite against Jesus as a classic scapegoat, but the Gospels insist he is innocent, and the resurrection vindicates the victim. The Gospels thus reveal "things hidden since the foundation of the world" (Matthew 13:35) and make the mechanism harder to use. Girard read "Satan" in the Gospels as a name for the mimetic process of rivalry and accusation (the Hebrew *satan* means "accuser").
 
 ```mermaid
 flowchart LR
@@ -72,8 +72,8 @@ Anthropologists object that the single-mechanism theory of religion is unfalsifi
 
 ## Where this leads
 
-- Next: [[analytic-and-continental|Analytic and continental: a map]]
-- Thinker: [[rene-girard|René Girard]]
-- Texts: [[violence-and-the-sacred|*Violence and the Sacred*]], [[i-see-satan-fall-like-lightning|*I See Satan Fall Like Lightning*]]
-- Related: [[bib:glossary/people/satan.md|Satan]], [[bib:old-testament/books/wisdom-poetry/job.md|Job]], [[bib:new-testament/stories/06-passion-week.md|Passion week]]
-- Back: [[gt:poetics.md|Aristotle's *Poetics*]] (mimesis); [[thomas-hobbes|Hobbes]] (war of all against all)
+- Next: [Analytic and continental: a map](10-analytic-and-continental.md)
+- Thinker: [René Girard](thinkers/rene-girard.md)
+- Texts: [*Violence and the Sacred*](texts/violence-and-the-sacred.md), [*I See Satan Fall Like Lightning*](texts/i-see-satan-fall-like-lightning.md)
+- Related: [Satan](../../../../religion/abrahamic/christianity/bible/glossary/people/satan.md), [Job](../../../../religion/abrahamic/christianity/bible/old-testament/books/wisdom-poetry/job.md), [Passion week](../../../../religion/abrahamic/christianity/bible/new-testament/stories/06-passion-week.md)
+- Back: [Aristotle's *Poetics*](../../ancient/greek/texts/poetics.md) (mimesis); [Hobbes](../early-modern/thinkers/thomas-hobbes.md) (war of all against all)

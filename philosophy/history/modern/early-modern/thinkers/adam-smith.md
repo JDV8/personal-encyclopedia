@@ -1,16 +1,16 @@
 # Adam Smith as moral philosopher
 
-**Prerequisites:** [[enlightenment|The Enlightenment]], [[david-hume|David Hume]]; the economics-side profile is [[eco:01-adam-smith.md|Adam Smith in the history of economic thought]]
+**Prerequisites:** [The Enlightenment](../06-enlightenment.md), [David Hume](david-hume.md); the economics-side profile is [Adam Smith in the history of economic thought](../../../../../economics/microeconomics/10-history-of-thought/thinkers/01-adam-smith.md)
 
 @@IMG@@
 
 ## Why Smith belongs here too
 
-Adam Smith (1723–1790) is usually remembered as the founder of economics for *The Wealth of Nations* (1776), and the economics branch has a [[eco:01-adam-smith.md|full profile]] from that angle. But Smith held the chair of moral philosophy at Glasgow, and his first book, *The Theory of Moral Sentiments* (1759), is reported to have been the one he considered his superior work. He revised it until the year of his death. To read him only as a theorist of markets misses how his economics sits inside a theory of human nature and ethics.
+Adam Smith (1723–1790) is usually remembered as the founder of economics for *The Wealth of Nations* (1776), and the economics branch has a [full profile](../../../../../economics/microeconomics/10-history-of-thought/thinkers/01-adam-smith.md) from that angle. But Smith held the chair of moral philosophy at Glasgow, and his first book, *The Theory of Moral Sentiments* (1759), is reported to have been the one he considered his superior work. He revised it until the year of his death. To read him only as a theorist of markets misses how his economics sits inside a theory of human nature and ethics.
 
 ## Life in brief
 
-Smith was born in Kirkcaldy, Scotland, studied at Glasgow under Francis Hutcheson and at Balliol College, Oxford, where he found the teaching neglectful. He lectured in Edinburgh, then held the chairs of logic and of moral philosophy at Glasgow (1751–1764). He resigned to tutor the young Duke of Buccleuch on a tour of France and Switzerland, meeting Voltaire, Quesnay and Turgot. Back in Kirkcaldy he wrote *The Wealth of Nations*, then became a Commissioner of Customs in Edinburgh. He was [[david-hume|Hume]]'s closest friend.
+Smith was born in Kirkcaldy, Scotland, studied at Glasgow under Francis Hutcheson and at Balliol College, Oxford, where he found the teaching neglectful. He lectured in Edinburgh, then held the chairs of logic and of moral philosophy at Glasgow (1751–1764). He resigned to tutor the young Duke of Buccleuch on a tour of France and Switzerland, meeting Voltaire, Quesnay and Turgot. Back in Kirkcaldy he wrote *The Wealth of Nations*, then became a Commissioner of Customs in Edinburgh. He was [Hume](david-hume.md)'s closest friend.
 
 ## The Theory of Moral Sentiments
 
@@ -45,7 +45,7 @@ Nineteenth-century German scholars posed the "Adam Smith problem": how can the a
 
 ## Where this leads
 
-- Economics: [[eco:01-adam-smith.md|Adam Smith (economics)]], [[micro:01-foundations/06-specialization-and-division-of-labour.md|division of labour]]
-- Next thinker: [[immanuel-kant|Immanuel Kant]]
-- Back: [[david-hume|Hume]] on sentiment
-- Forward: [[karl-marx|Marx]], [[john-stuart-mill|Mill]]
+- Economics: [Adam Smith (economics)](../../../../../economics/microeconomics/10-history-of-thought/thinkers/01-adam-smith.md), [division of labour](../../../../../economics/microeconomics/01-foundations/06-specialization-and-division-of-labour.md)
+- Next thinker: [Immanuel Kant](immanuel-kant.md)
+- Back: [Hume](david-hume.md) on sentiment
+- Forward: [Marx](../../nineteenth-century/thinkers/karl-marx.md), [Mill](../../nineteenth-century/thinkers/john-stuart-mill.md)

@@ -1,12 +1,12 @@
 # Pascal, *Pensées*
 
-**Prerequisites:** [[blaise-pascal|Blaise Pascal]]
+**Prerequisites:** [Blaise Pascal](../thinkers/blaise-pascal.md)
 
 @@IMG@@
 
 ## Dating and form
 
-*Pensées* ("Thoughts") is the title given to the notes [[blaise-pascal|Pascal]] left at his death in 1662 for a planned *Apology for the Christian Religion*. He had sorted some fragments into bundles with titles; many others were unclassified. His family and Port-Royal friends published a selection in 1670, editing out what seemed obscure or dangerous. Modern editions try to reconstruct Pascal's own ordering, and the numbering differs between editions (notably Brunschvicg, Lafuma and Sellier), which is why quotations give fragment numbers with an edition.
+*Pensées* ("Thoughts") is the title given to the notes [Pascal](../thinkers/blaise-pascal.md) left at his death in 1662 for a planned *Apology for the Christian Religion*. He had sorted some fragments into bundles with titles; many others were unclassified. His family and Port-Royal friends published a selection in 1670, editing out what seemed obscure or dangerous. Modern editions try to reconstruct Pascal's own ordering, and the numbering differs between editions (notably Brunschvicg, Lafuma and Sellier), which is why quotations give fragment numbers with an edition.
 
 ## The plan
 
@@ -38,7 +38,7 @@ flowchart TB
 
 ## Reception
 
-Admired as one of the masterpieces of French prose. [[voltaire|Voltaire]]'s *Letters Concerning the English Nation* ended with a critique of Pascal as a sublime misanthrope. [[soren-kierkegaard|Kierkegaard]], [[fyodor-dostoevsky|Dostoevsky]], Nietzsche (who admired and hated him) and the existentialists found in him a forerunner. The wager is a classic text of decision theory and philosophy of religion. A. J. Krailsheimer's Penguin translation (Lafuma numbering) and Honor Levi's Oxford World's Classics translation (Sellier numbering) are standard.
+Admired as one of the masterpieces of French prose. [Voltaire](../thinkers/voltaire.md)'s *Letters Concerning the English Nation* ended with a critique of Pascal as a sublime misanthrope. [Kierkegaard](../../nineteenth-century/thinkers/soren-kierkegaard.md), [Dostoevsky](../../nineteenth-century/thinkers/fyodor-dostoevsky.md), Nietzsche (who admired and hated him) and the existentialists found in him a forerunner. The wager is a classic text of decision theory and philosophy of religion. A. J. Krailsheimer's Penguin translation (Lafuma numbering) and Honor Levi's Oxford World's Classics translation (Sellier numbering) are standard.
 
 ## Key ideas
 
@@ -48,6 +48,6 @@ Admired as one of the masterpieces of French prose. [[voltaire|Voltaire]]'s *Let
 
 ## Where this leads
 
-- Next text: [[spinoza-ethics|Spinoza's *Ethics*]]
-- Back: [[montaigne-essays|Montaigne's *Essays*]]
-- Forward: [[fear-and-trembling|Kierkegaard's *Fear and Trembling*]], [[the-myth-of-sisyphus|Camus's *Myth of Sisyphus*]]
+- Next text: [Spinoza's *Ethics*](spinoza-ethics.md)
+- Back: [Montaigne's *Essays*](montaigne-essays.md)
+- Forward: [Kierkegaard's *Fear and Trembling*](../../nineteenth-century/texts/fear-and-trembling.md), [Camus's *Myth of Sisyphus*](../../twentieth-century/texts/the-myth-of-sisyphus.md)

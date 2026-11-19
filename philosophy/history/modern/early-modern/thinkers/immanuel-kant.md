@@ -1,6 +1,6 @@
 # Immanuel Kant
 
-**Prerequisites:** [[kants-copernican-revolution|Kant's Copernican revolution]]
+**Prerequisites:** [Kant's Copernican revolution](../07-kants-copernican-revolution.md)
 
 @@IMG@@
 
@@ -12,9 +12,9 @@ Immanuel Kant (1724–1804) was born in Königsberg, East Prussia (now Kaliningr
 
 Kant's three *Critiques* ask what reason can know, what it ought to do, and how judgment links the two.
 
-**[[critique-of-pure-reason|*Critique of Pure Reason*]] (1781, revised 1787).** How is synthetic a priori knowledge possible? Space and time are forms of intuition; categories such as causality are concepts the understanding brings to experience. We know appearances, not things in themselves. Reason going beyond experience falls into illusion: proofs about the soul, the world as a whole and God fail. See [[kants-copernican-revolution|the lesson]].
+**[*Critique of Pure Reason*](../texts/critique-of-pure-reason.md) (1781, revised 1787).** How is synthetic a priori knowledge possible? Space and time are forms of intuition; categories such as causality are concepts the understanding brings to experience. We know appearances, not things in themselves. Reason going beyond experience falls into illusion: proofs about the soul, the world as a whole and God fail. See [the lesson](../07-kants-copernican-revolution.md).
 
-**[[groundwork-of-the-metaphysics-of-morals|*Groundwork of the Metaphysics of Morals*]] (1785) and *Critique of Practical Reason* (1788).** The only thing good without qualification is a good will. An action has moral worth when done from duty, not inclination. Moral laws must be categorical (binding regardless of what you want), unlike hypothetical imperatives ("if you want X, do Y"). The categorical imperative: act only on a maxim you can will as a universal law; treat humanity always as an end and never merely as a means; act as a member of a kingdom of ends. Morality presupposes freedom, autonomy: the rational will gives itself the moral law. Though God, freedom and immortality cannot be proved, practical reason may postulate them.
+**[*Groundwork of the Metaphysics of Morals*](../texts/groundwork-of-the-metaphysics-of-morals.md) (1785) and *Critique of Practical Reason* (1788).** The only thing good without qualification is a good will. An action has moral worth when done from duty, not inclination. Moral laws must be categorical (binding regardless of what you want), unlike hypothetical imperatives ("if you want X, do Y"). The categorical imperative: act only on a maxim you can will as a universal law; treat humanity always as an end and never merely as a means; act as a member of a kingdom of ends. Morality presupposes freedom, autonomy: the rational will gives itself the moral law. Though God, freedom and immortality cannot be proved, practical reason may postulate them.
 
 **Critique of Judgment (1790).** Aesthetic judgments of beauty claim universal agreement without resting on concepts ("disinterested" pleasure); the sublime is the feeling of reason's superiority in the face of overwhelming nature. The book also treats purposiveness in living things.
 
@@ -33,7 +33,7 @@ In "What Is Enlightenment?" (1784) Kant defined enlightenment as leaving self-in
 
 ## Influence and criticism
 
-Kant is a hinge of modern philosophy: almost everything after him reacts to him. [[german-idealism|German idealism]] tried to complete his system; [[arthur-schopenhauer|Schopenhauer]] claimed to fulfil it; neo-Kantianism dominated German universities before 1914; [[john-rawls|Rawls]] built a Kantian political philosophy. Critics have attacked the unknowable thing in itself (Jacobi: without it one cannot enter the system, with it one cannot stay), the rigour of his ethics (his claim that one may not lie even to a murderer asking where a friend is hiding), and its neglect of emotion and consequences. Scholars have also examined his writings on race, which ranked human groups hierarchically, and debated how they relate to his universalist ethics.
+Kant is a hinge of modern philosophy: almost everything after him reacts to him. [German idealism](../../nineteenth-century/01-german-idealism.md) tried to complete his system; [Schopenhauer](../../nineteenth-century/thinkers/arthur-schopenhauer.md) claimed to fulfil it; neo-Kantianism dominated German universities before 1914; [Rawls](../../twentieth-century/thinkers/john-rawls.md) built a Kantian political philosophy. Critics have attacked the unknowable thing in itself (Jacobi: without it one cannot enter the system, with it one cannot stay), the rigour of his ethics (his claim that one may not lie even to a murderer asking where a friend is hiding), and its neglect of emotion and consequences. Scholars have also examined his writings on race, which ranked human groups hierarchically, and debated how they relate to his universalist ethics.
 
 ## Key ideas
 
@@ -44,7 +44,7 @@ Kant is a hinge of modern philosophy: almost everything after him reacts to him.
 
 ## Where this leads
 
-- Texts: [[critique-of-pure-reason|*Critique of Pure Reason*]], [[groundwork-of-the-metaphysics-of-morals|*Groundwork*]]
-- Next era: [[german-idealism|German idealism]]
-- Forward: [[arthur-schopenhauer|Schopenhauer]], [[john-rawls|Rawls]]
-- Glossary: [[g:categorical-imperative|categorical imperative]], [[g:thing-in-itself|thing in itself]], [[g:transcendental-idealism|transcendental idealism]], [[g:autonomy|autonomy]]
+- Texts: [*Critique of Pure Reason*](../texts/critique-of-pure-reason.md), [*Groundwork*](../texts/groundwork-of-the-metaphysics-of-morals.md)
+- Next era: [German idealism](../../nineteenth-century/01-german-idealism.md)
+- Forward: [Schopenhauer](../../nineteenth-century/thinkers/arthur-schopenhauer.md), [Rawls](../../twentieth-century/thinkers/john-rawls.md)
+- Glossary: [categorical imperative](../../../../glossary/modern/categorical-imperative.md), [thing in itself](../../../../glossary/modern/thing-in-itself.md), [transcendental idealism](../../../../glossary/modern/transcendental-idealism.md), [autonomy](../../../../glossary/modern/autonomy.md)

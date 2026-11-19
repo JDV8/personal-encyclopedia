@@ -1,12 +1,12 @@
 # Spinoza, *Ethics*
 
-**Prerequisites:** [[baruch-spinoza|Baruch Spinoza]]; [[rationalism|Rationalism]]
+**Prerequisites:** [Baruch Spinoza](../thinkers/baruch-spinoza.md); [Rationalism](../03-rationalism.md)
 
 @@IMG@@
 
 ## Dating and form
 
-Written in Latin over many years (roughly 1661–1675) and published in 1677, months after [[baruch-spinoza|Spinoza]]'s death, in his *Opera Posthuma*, without his name on the title page. Its full title is *Ethics, Demonstrated in Geometrical Order* (*Ethica, ordine geometrico demonstrata*). Like Euclid, it proceeds by definitions, axioms, propositions, demonstrations, corollaries and scholia (explanatory notes). The scholia and appendices are often where the most vivid writing is.
+Written in Latin over many years (roughly 1661–1675) and published in 1677, months after [Spinoza](../thinkers/baruch-spinoza.md)'s death, in his *Opera Posthuma*, without his name on the title page. Its full title is *Ethics, Demonstrated in Geometrical Order* (*Ethica, ordine geometrico demonstrata*). Like Euclid, it proceeds by definitions, axioms, propositions, demonstrations, corollaries and scholia (explanatory notes). The scholia and appendices are often where the most vivid writing is.
 
 ## Outline (five parts)
 
@@ -36,7 +36,7 @@ The *Ethics* was banned in the Dutch Republic in 1678. It became a key text of t
 
 ## Where this leads
 
-- Next text: [[essay-concerning-human-understanding|Locke's *Essay*]]
-- Back: [[guide-for-the-perplexed|*The Guide for the Perplexed*]]
-- Forward: [[german-idealism|German idealism]]; [[thus-spoke-zarathustra|Nietzsche]], who called Spinoza a precursor
-- Glossary: [[g:conatus|conatus]], [[g:pantheism|pantheism]]
+- Next text: [Locke's *Essay*](essay-concerning-human-understanding.md)
+- Back: [*The Guide for the Perplexed*](../../../medieval/texts/guide-for-the-perplexed.md)
+- Forward: [German idealism](../../nineteenth-century/01-german-idealism.md); [Nietzsche](../../nineteenth-century/texts/thus-spoke-zarathustra.md), who called Spinoza a precursor
+- Glossary: [conatus](../../../../glossary/modern/conatus.md), [pantheism](../../../../glossary/modern/pantheism.md)
