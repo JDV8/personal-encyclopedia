@@ -49,7 +49,7 @@ Benefits: fewer injections, fewer visits, better coverage. Challenges: combining
 
 ## Separate monovalent vaccines?
 
-During the MMR scare, Andrew Wakefield recommended separate measles, mumps and rubella vaccines given a year apart. The UK government refused, arguing there was no evidence for it and that spacing would leave children unprotected for longer. Monovalent measles, mumps and rubella vaccines are no longer available in the US or Canada; Merck stopped producing them in 2009. The episode is described in [[mmr-and-autism|MMR and autism]].
+During the MMR scare, Andrew Wakefield recommended separate measles, mumps and rubella vaccines given a year apart. The UK government refused, arguing there was no evidence for it and that spacing would leave children unprotected for longer. Monovalent measles, mumps and rubella vaccines are no longer available in the US or Canada; Merck stopped producing them in 2009. The episode is described in [MMR and autism](../07-controversies/01-mmr-and-autism.md).
 
 ## Key ideas
 

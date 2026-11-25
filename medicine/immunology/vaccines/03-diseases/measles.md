@@ -26,7 +26,7 @@ Common side effects are fever (in about 5–15%) and a mild rash 7–12 days aft
 
 ## Controversies
 
-MMR is at the centre of the most famous vaccine controversy: Andrew Wakefield's 1998 *Lancet* paper suggesting a link with autism, since retracted, and many large studies finding no link, including a Danish cohort of 657,461 children ([Hviid et al., *Annals of Internal Medicine* 2019](https://doi.org/10.7326/M18-2101)). See [[mmr-and-autism|MMR and autism]]. In 2025, US federal health officials also promoted vitamin A and other treatments during the Texas outbreak; vitamin A reduces deaths in deficient children but does not prevent infection.
+MMR is at the centre of the most famous vaccine controversy: Andrew Wakefield's 1998 *Lancet* paper suggesting a link with autism, since retracted, and many large studies finding no link, including a Danish cohort of 657,461 children ([Hviid et al., *Annals of Internal Medicine* 2019](https://doi.org/10.7326/M18-2101)). See [MMR and autism](../07-controversies/01-mmr-and-autism.md). In 2025, US federal health officials also promoted vitamin A and other treatments during the Texas outbreak; vitamin A reduces deaths in deficient children but does not prevent infection.
 
 ## Key ideas
 
@@ -38,4 +38,4 @@ MMR is at the centre of the most famous vaccine controversy: Andrew Wakefield's 
 ## Where this leads
 
 - [Mumps](mumps.md) and [rubella](rubella.md), the other components of MMR.
-- [[mmr-and-autism|MMR and autism]]; [[maurice-hilleman|Maurice Hilleman]], who developed MMR.
+- [MMR and autism](../07-controversies/01-mmr-and-autism.md); [[maurice-hilleman|Maurice Hilleman]], who developed MMR.

@@ -33,7 +33,7 @@ Many conditions first become apparent at the ages when vaccines are given:
 - Febrile seizures peak in the second year.
 - Type 1 diabetes, epilepsy and many developmental conditions also first appear in childhood.
 
-This overlap guarantees many temporal coincidences, and many sincere parental reports of "it started right after the shot". It does not mean every such report is a coincidence; it means individual timing alone cannot distinguish cause from coincidence, which is why population comparisons are needed. For autism specifically, home video studies have found signs in some children before the age of MMR vaccination, and the cohort studies in [[mmr-and-autism|MMR and autism]] compare vaccinated with unvaccinated children directly.
+This overlap guarantees many temporal coincidences, and many sincere parental reports of "it started right after the shot". It does not mean every such report is a coincidence; it means individual timing alone cannot distinguish cause from coincidence, which is why population comparisons are needed. For autism specifically, home video studies have found signs in some children before the age of MMR vaccination, and the cohort studies in [MMR and autism](../immunology/vaccines/07-controversies/01-mmr-and-autism.md) compare vaccinated with unvaccinated children directly.
 
 ## The base-rate fallacy
 

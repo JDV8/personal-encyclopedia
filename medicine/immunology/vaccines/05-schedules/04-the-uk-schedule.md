@@ -46,7 +46,7 @@ The UK relies on a call-and-recall system: GP practices are paid partly accordin
 
 ## Coverage and the MMR legacy
 
-After the 1998 Wakefield paper, MMR coverage in England fell to around 80%, and measles returned. Coverage recovered but has slipped again; England's MMR coverage is well below the 95% target, and measles outbreaks and a child death in Liverpool in 2025 renewed concern. See [the MMR era](../04-history/10-the-mmr-era.md) and [[mmr-and-autism|MMR and autism]].
+After the 1998 Wakefield paper, MMR coverage in England fell to around 80%, and measles returned. Coverage recovered but has slipped again; England's MMR coverage is well below the 95% target, and measles outbreaks and a child death in Liverpool in 2025 renewed concern. See [the MMR era](../04-history/10-the-mmr-era.md) and [MMR and autism](../07-controversies/01-mmr-and-autism.md).
 
 ## Key ideas
 

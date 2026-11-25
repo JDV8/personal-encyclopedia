@@ -22,7 +22,7 @@
 | **Infection fatality rate (IFR)** | Deaths among all infections, including undiagnosed | Lower than CFR when many infections are mild |
 | **Hospitalisation rate** | Proportion of cases hospitalised | About 1 in 5 unvaccinated US measles cases, per CDC |
 
-**Incidence vs prevalence** matters a lot. A disease that lasts a long time (like chronic hepatitis B) has a high prevalence relative to its incidence. Autism is diagnosed once and lasts for life, so its prevalence reflects decades of diagnoses. Changes in diagnostic criteria, awareness and services can raise measured prevalence without any change in the underlying condition, which is central to [[autism-the-epidemiology-of-diagnosis|the autism prevalence debate]].
+**Incidence vs prevalence** matters a lot. A disease that lasts a long time (like chronic hepatitis B) has a high prevalence relative to its incidence. Autism is diagnosed once and lasts for life, so its prevalence reflects decades of diagnoses. Changes in diagnostic criteria, awareness and services can raise measured prevalence without any change in the underlying condition, which is central to [the autism prevalence debate](../immunology/vaccines/07-controversies/03-autism-the-epidemiology-of-diagnosis.md).
 
 **CFR vs IFR** confused much early COVID-19 reporting. When testing is limited, only severe cases are counted, so CFR overstates the risk per infection.
 

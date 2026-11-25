@@ -36,7 +36,7 @@ Schedules also lose vaccines:
 - **Oral polio vaccine** (2000 in the US) because, once wild polio was gone, the rare vaccine-associated paralytic polio it caused outweighed its advantages.
 - **Whole-cell pertussis** replaced by acellular vaccine in the 1990s in rich countries, trading some effectiveness for fewer side effects.
 - **Live attenuated influenza vaccine** was not recommended in the US for two seasons (2016–18) after poor effectiveness.
-- **Thimerosal** removed from childhood vaccines as a precaution from 1999 ([CDC, "Notice to readers: thimerosal in vaccines: a joint statement of the American Academy of Pediatrics and the Public Health Service", *MMWR* 1999;48(26):563–565](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4826a3.htm)); see [[thimerosal-and-autism|thimerosal and autism]].
+- **Thimerosal** removed from childhood vaccines as a precaution from 1999 ([CDC, "Notice to readers: thimerosal in vaccines: a joint statement of the American Academy of Pediatrics and the Public Health Service", *MMWR* 1999;48(26):563–565](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4826a3.htm)); see [thimerosal and autism](../07-controversies/02-thimerosal-and-autism.md).
 
 ## Why the schedule grew
 

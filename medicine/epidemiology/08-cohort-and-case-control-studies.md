@@ -44,7 +44,7 @@ flowchart RL
   E2 --> OR
 ```
 
-Case-control studies are efficient for rare outcomes, because you start with the cases instead of following huge cohorts waiting for them. [Smeeth et al., *Lancet* 2004](https://doi.org/10.1016/S0140-6736(04)17020-7) used UK general practice records to compare 1,294 children with pervasive developmental disorders and 4,469 controls and found no association with MMR. [DeStefano et al., *Pediatrics* 2004](https://doi.org/10.1542/peds.113.2.259) compared age at first MMR in 624 autistic children and 1,824 controls in Atlanta; this is the study at the centre of the "CDC whistleblower" claims discussed in [[cdc-whistleblower-claims|that lesson]].
+Case-control studies are efficient for rare outcomes, because you start with the cases instead of following huge cohorts waiting for them. [Smeeth et al., *Lancet* 2004](https://doi.org/10.1016/S0140-6736(04)17020-7) used UK general practice records to compare 1,294 children with pervasive developmental disorders and 4,469 controls and found no association with MMR. [DeStefano et al., *Pediatrics* 2004](https://doi.org/10.1542/peds.113.2.259) compared age at first MMR in 624 autistic children and 1,824 controls in Atlanta; this is the study at the centre of the "CDC whistleblower" claims discussed in [that lesson](../immunology/vaccines/07-controversies/04-cdc-whistleblower-claims.md).
 
 **Weaknesses:** **recall bias** (parents of sick children may remember exposures differently, though using medical records avoids this), and choosing appropriate controls is tricky.
 
