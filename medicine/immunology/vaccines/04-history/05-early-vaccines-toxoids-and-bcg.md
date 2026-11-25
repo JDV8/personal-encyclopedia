@@ -16,11 +16,11 @@ In 1901, 13 children in St. Louis died of tetanus after receiving diphtheria ant
 
 ## Toxoids: active immunity against toxins
 
-Antitoxin treated diphtheria but did not prevent it. In the early 1920s Gaston Ramon at the Pasteur Institute found that treating diphtheria toxin with formaldehyde and heat destroyed its toxicity while preserving its ability to induce antibodies. This **toxoid** (Ramon's *anatoxine*) became the diphtheria vaccine; tetanus toxoid followed. In Britain, Alexander Glenny found that adding aluminium salts enhanced the response to toxoid (1926), the origin of **aluminium adjuvants** still used today; see [adjuvants](../01-how-vaccines-work/10-adjuvants.md) and [[aluminium-adjuvants|aluminium adjuvants]]. Tetanus toxoid was given to Allied troops in the Second World War; tetanus among wounded soldiers became rare.
+Antitoxin treated diphtheria but did not prevent it. In the early 1920s Gaston Ramon at the Pasteur Institute found that treating diphtheria toxin with formaldehyde and heat destroyed its toxicity while preserving its ability to induce antibodies. This **toxoid** (Ramon's *anatoxine*) became the diphtheria vaccine; tetanus toxoid followed. In Britain, Alexander Glenny found that adding aluminium salts enhanced the response to toxoid (1926), the origin of **aluminium adjuvants** still used today; see [adjuvants](../01-how-vaccines-work/10-adjuvants.md) and [aluminium adjuvants](../07-controversies/06-aluminium-adjuvants.md). Tetanus toxoid was given to Allied troops in the Second World War; tetanus among wounded soldiers became rare.
 
 ## Whole-cell pertussis
 
-In the 1930s, Pearl Kendrick and Grace Eldering, working for the Michigan Department of Health in Grand Rapids, developed a whole-cell pertussis vaccine and tested it in a carefully controlled field trial that showed substantial protection. By the late 1940s pertussis vaccine was combined with diphtheria and tetanus toxoids as **DTP**, used for decades. Its reactogenicity later became the centre of one of the biggest vaccine controversies; see [[dtp-and-whole-cell-pertussis|DTP and whole-cell pertussis]].
+In the 1930s, Pearl Kendrick and Grace Eldering, working for the Michigan Department of Health in Grand Rapids, developed a whole-cell pertussis vaccine and tested it in a carefully controlled field trial that showed substantial protection. By the late 1940s pertussis vaccine was combined with diphtheria and tetanus toxoids as **DTP**, used for decades. Its reactogenicity later became the centre of one of the biggest vaccine controversies; see [DTP and whole-cell pertussis](../07-controversies/08-dtp-and-whole-cell-pertussis.md).
 
 ## BCG
 

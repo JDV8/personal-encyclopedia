@@ -36,7 +36,7 @@ The Nordic schedules are not identical:
 - **Finland** introduced rotavirus vaccine in 2009 and offers flu vaccine to young children; it was also the country most affected by Pandemrix-associated narcolepsy ([Nohynek et al., *PLoS One* 2012](https://doi.org/10.1371/journal.pone.0033536)).
 - All give MMR in two doses and HPV in adolescence, and none has school vaccination requirements; coverage relies on trust and reminders.
 
-Sweden's 1979 decision to stop whole-cell pertussis vaccination, after concerns about its safety and efficacy, was followed by a large resurgence of pertussis until acellular vaccines were introduced in 1996, an episode discussed in [[dtp-and-whole-cell-pertussis|DTP and whole-cell pertussis]] ([Gangarosa et al., *Lancet* 1998](https://doi.org/10.1016/S0140-6736(97)04334-1)).
+Sweden's 1979 decision to stop whole-cell pertussis vaccination, after concerns about its safety and efficacy, was followed by a large resurgence of pertussis until acellular vaccines were introduced in 1996, an episode discussed in [DTP and whole-cell pertussis](../07-controversies/08-dtp-and-whole-cell-pertussis.md) ([Gangarosa et al., *Lancet* 1998](https://doi.org/10.1016/S0140-6736(97)04334-1)).
 
 ## Key ideas
 

@@ -32,7 +32,7 @@ timeline
   1940s : Combined DTP vaccine introduced
 ```
 
-The toxin–antitoxin mixtures used before toxoids could go badly wrong if improperly balanced. Ramon's **anatoxine** (toxoid) was a safer route to active immunity. In 1926, Alexander Glenny in London found that precipitating toxoid with alum (an aluminium salt) greatly increased the response, the origin of [[aluminium-adjuvants|aluminium adjuvants]]. Tetanus toxoid was widely used in the Second World War; the US military recorded only a handful of tetanus cases among millions of wounded and immunised soldiers, compared with much higher rates in earlier wars.
+The toxin–antitoxin mixtures used before toxoids could go badly wrong if improperly balanced. Ramon's **anatoxine** (toxoid) was a safer route to active immunity. In 1926, Alexander Glenny in London found that precipitating toxoid with alum (an aluminium salt) greatly increased the response, the origin of [aluminium adjuvants](../07-controversies/06-aluminium-adjuvants.md). Tetanus toxoid was widely used in the Second World War; the US military recorded only a handful of tetanus cases among millions of wounded and immunised soldiers, compared with much higher rates in earlier wars.
 
 ## Why boosters?
 

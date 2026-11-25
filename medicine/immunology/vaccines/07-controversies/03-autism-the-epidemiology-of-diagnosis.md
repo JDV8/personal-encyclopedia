@@ -36,7 +36,7 @@ Many parents first notice signs around 12–24 months, and about a quarter to a 
 
 ## Environmental hypotheses
 
-Studies have examined many environmental factors, including air pollution, maternal infection, maternal diabetes and obesity, folate, pesticides and medications. Vaccines are among the most studied exposures, with large studies of MMR, thimerosal and aluminium finding no association ([MMR and autism](01-mmr-and-autism.md); [thimerosal](02-thimerosal-and-autism.md); [[aluminium-adjuvants|aluminium adjuvants]]). In 2025 HHS highlighted acetaminophen use in pregnancy; a large Swedish sibling study had found no association once family factors were accounted for ([Ahlqvist et al., *JAMA* 2024 (acetaminophen in pregnancy, Swedish siblings)](https://doi.org/10.1001/jama.2024.3172)); see [the 2025 HHS autism claims](05-hhs-autism-claims-2025.md).
+Studies have examined many environmental factors, including air pollution, maternal infection, maternal diabetes and obesity, folate, pesticides and medications. Vaccines are among the most studied exposures, with large studies of MMR, thimerosal and aluminium finding no association ([MMR and autism](01-mmr-and-autism.md); [thimerosal](02-thimerosal-and-autism.md); [aluminium adjuvants](06-aluminium-adjuvants.md)). In 2025 HHS highlighted acetaminophen use in pregnancy; a large Swedish sibling study had found no association once family factors were accounted for ([Ahlqvist et al., *JAMA* 2024 (acetaminophen in pregnancy, Swedish siblings)](https://doi.org/10.1001/jama.2024.3172)); see [the 2025 HHS autism claims](05-hhs-autism-claims-2025.md).
 
 ## Key ideas
 

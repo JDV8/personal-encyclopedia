@@ -44,7 +44,7 @@ The page cited the Danish aluminium study as reassuring overall but highlighted 
 - Citing a single supplementary subgroup result from a study whose main findings were null is selective reporting.
 - Autism's high heritability and prenatal origins make a large vaccine effect implausible ([Bai et al., *JAMA Psychiatry* 2019 (autism heritability, five countries)](https://doi.org/10.1001/jamapsychiatry.2019.1411)).
 
-The Andersson and Hviid paper's authors and journal rejected a request from the Secretary in 2025 to retract it. Another unpublished analysis promoted at a September 2025 Senate hearing, comparing vaccinated and unvaccinated children in the Henry Ford Health system, was criticised by independent epidemiologists for differences in follow-up and health-care use between groups ([Munblit et al., *Clinical Infectious Diseases* 2026 (critique of the Henry Ford analysis)](https://doi.org/10.1093/cid/ciag403)); see [[too-many-too-soon|too many, too soon]].
+The Andersson and Hviid paper's authors and journal rejected a request from the Secretary in 2025 to retract it. Another unpublished analysis promoted at a September 2025 Senate hearing, comparing vaccinated and unvaccinated children in the Henry Ford Health system, was criticised by independent epidemiologists for differences in follow-up and health-care use between groups ([Munblit et al., *Clinical Infectious Diseases* 2026 (critique of the Henry Ford analysis)](https://doi.org/10.1093/cid/ciag403)); see [too many, too soon](07-too-many-too-soon.md).
 
 ## The Hannah Poling case
 
@@ -58,4 +58,4 @@ Supporters of the hypothesis often cite *Poling*, in which the US government in 
 
 ## Where this leads
 
-- Next: [[aluminium-adjuvants|Aluminium adjuvants]].
+- Next: [Aluminium adjuvants](06-aluminium-adjuvants.md).

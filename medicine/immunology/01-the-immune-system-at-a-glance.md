@@ -53,7 +53,7 @@ The immune system must attack invaders while leaving the body's own tissues alon
 
 ## Scale
 
-A newborn's immune system is immature in some ways but meets an enormous number of antigens from birth: bacteria colonising the skin and gut, food, and the environment. Estimates of how many antigens an infant could theoretically respond to at once are a key part of the "too many, too soon" debate; see [[too-many-too-soon|that lesson]] and [Offit et al., *Pediatrics* 2002](https://doi.org/10.1542/peds.109.1.124), which argued that infants have a very large theoretical capacity to respond to vaccines.
+A newborn's immune system is immature in some ways but meets an enormous number of antigens from birth: bacteria colonising the skin and gut, food, and the environment. Estimates of how many antigens an infant could theoretically respond to at once are a key part of the "too many, too soon" debate; see [that lesson](vaccines/07-controversies/07-too-many-too-soon.md) and [Offit et al., *Pediatrics* 2002](https://doi.org/10.1542/peds.109.1.124), which argued that infants have a very large theoretical capacity to respond to vaccines.
 
 ## Key ideas
 

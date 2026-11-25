@@ -30,7 +30,7 @@ An immunisation schedule specifies which vaccines are given, at what ages, how m
 
 Most schedules give several vaccines at the same visit and use combination vaccines (such as six-in-one infant shots). Before a new vaccine is added, **co-administration studies** check that giving it with existing vaccines does not reduce immune responses or increase side effects unacceptably. Some combinations do increase side effects: MMRV doubles the risk of febrile seizures as a first dose compared with separate MMR and varicella ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665)), and Bexsero with routine infant vaccines causes more fever.
 
-Critics argue that the cumulative effect of the whole schedule has not been tested as such. The Institute of Medicine's 2013 review agreed that few studies examine the schedule as a whole, found no evidence of harm, and judged a randomised trial of the full schedule against no vaccines unethical ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)). See [[too-many-too-soon|too many, too soon]].
+Critics argue that the cumulative effect of the whole schedule has not been tested as such. The Institute of Medicine's 2013 review agreed that few studies examine the schedule as a whole, found no evidence of harm, and judged a randomised trial of the full schedule against no vaccines unethical ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)). See [too many, too soon](../07-controversies/07-too-many-too-soon.md).
 
 ## Cost and programme considerations
 

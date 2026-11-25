@@ -41,4 +41,4 @@ Supporters argue that parental comfort matters, that a flexible paediatrician ma
 
 ## Where this leads
 
-- Back to [the schedules section](README.md); see [[too-many-too-soon|too many, too soon]] and [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+- Back to [the schedules section](README.md); see [too many, too soon](../07-controversies/07-too-many-too-soon.md) and [[conflicts-of-interest-and-funding|conflicts of interest and funding]].

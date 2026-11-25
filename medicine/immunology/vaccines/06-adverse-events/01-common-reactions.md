@@ -24,7 +24,7 @@ Most reactions to vaccines are the expected result of the immune system respondi
 - **Irritability, crying and sleepiness** in infants.
 - A mild **rash** after MMR or varicella vaccines, and sometimes swollen glands after rubella vaccine or joint pain in adult women.
 
-These effects are usually more frequent with whole-cell or more reactogenic vaccines. The switch from whole-cell to acellular pertussis vaccines in the 1990s greatly reduced fever, crying and local reactions ([[dtp-and-whole-cell-pertussis|DTP and whole-cell pertussis]]).
+These effects are usually more frequent with whole-cell or more reactogenic vaccines. The switch from whole-cell to acellular pertussis vaccines in the 1990s greatly reduced fever, crying and local reactions ([DTP and whole-cell pertussis](../07-controversies/08-dtp-and-whole-cell-pertussis.md)).
 
 ## How common?
 

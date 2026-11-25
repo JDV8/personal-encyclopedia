@@ -38,7 +38,7 @@ flowchart LR
 
 Fever is a regulated rise in the body's temperature set point, controlled by the **hypothalamus** in response to cytokines and prostaglandins. It is not the same as overheating. Moderate fever seems to help defence in several ways: many microbes grow less well at higher temperature, and some immune processes speed up.
 
-Fever after vaccination is common with some vaccines. Rates vary widely by vaccine, dose and age; the product monograph or the CDC "Pink Book" chapter for each vaccine gives figures. Fever after the old whole-cell pertussis (DTP) vaccine was particularly common, which is one reason acellular vaccines replaced it; see [[dtp-and-whole-cell-pertussis|DTP and whole-cell pertussis]].
+Fever after vaccination is common with some vaccines. Rates vary widely by vaccine, dose and age; the product monograph or the CDC "Pink Book" chapter for each vaccine gives figures. Fever after the old whole-cell pertussis (DTP) vaccine was particularly common, which is one reason acellular vaccines replaced it; see [DTP and whole-cell pertussis](vaccines/07-controversies/08-dtp-and-whole-cell-pertussis.md).
 
 ## Febrile seizures
 

@@ -46,4 +46,4 @@ This is one of the genuinely open debates in vaccine policy, though both sides o
 ## Where this leads
 
 - Next: [Trial ethics and human challenge studies](04-trial-ethics-and-human-challenge-studies.md).
-- Related: [[aluminium-adjuvants|aluminium adjuvants]], [[too-many-too-soon|too many, too soon]].
+- Related: [aluminium adjuvants](../07-controversies/06-aluminium-adjuvants.md), [too many, too soon](../07-controversies/07-too-many-too-soon.md).

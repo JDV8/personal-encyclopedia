@@ -34,7 +34,7 @@ People with thymus disorders are at particular risk, and age 60 or over is a pre
 ## Historical examples
 
 - **Smallpox vaccine** (vaccinia) caused encephalitis, progressive vaccinia in immunodeficient people, eczema vaccinatum, and myopericarditis. Its relatively high rate of serious reactions is one reason routine smallpox vaccination ended once the disease receded ([smallpox](../03-diseases/smallpox.md)).
-- **Whole-cell pertussis vaccine** caused hypotonic-hyporesponsive episodes (sudden floppiness and pallor) and high fever more often than acellular vaccines, though without lasting harm ([[dtp-and-whole-cell-pertussis|DTP and whole-cell pertussis]]).
+- **Whole-cell pertussis vaccine** caused hypotonic-hyporesponsive episodes (sudden floppiness and pallor) and high fever more often than acellular vaccines, though without lasting harm ([DTP and whole-cell pertussis](../07-controversies/08-dtp-and-whole-cell-pertussis.md)).
 - **Urabe-strain mumps vaccine** caused aseptic meningitis more often than other strains and was withdrawn in several countries around 1992 ([mumps](../03-diseases/mumps.md)).
 - **Semple-type rabies vaccines** made from animal brain tissue caused neurological reactions and have been replaced by cell-culture vaccines ([rabies](../03-diseases/rabies.md)).
 

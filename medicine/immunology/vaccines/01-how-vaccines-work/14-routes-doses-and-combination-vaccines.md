@@ -34,7 +34,7 @@ Longer intervals between doses often produce higher and more durable responses. 
 
 ## Simultaneous administration
 
-Children often receive several vaccines at one visit. National advisory committees recommend this because studies have found that giving the routine vaccines together does not reduce their effectiveness or meaningfully increase serious side effects, and it reduces missed opportunities and visits. Some parents prefer spacing them out ("alternative schedules"). The evidence and arguments on both sides, including the Institute of Medicine's 2013 review of the schedule as a whole ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)), are in [[too-many-too-soon|too many, too soon]] and [alternative and delayed schedules](../05-schedules/10-alternative-and-delayed-schedules.md).
+Children often receive several vaccines at one visit. National advisory committees recommend this because studies have found that giving the routine vaccines together does not reduce their effectiveness or meaningfully increase serious side effects, and it reduces missed opportunities and visits. Some parents prefer spacing them out ("alternative schedules"). The evidence and arguments on both sides, including the Institute of Medicine's 2013 review of the schedule as a whole ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)), are in [too many, too soon](../07-controversies/07-too-many-too-soon.md) and [alternative and delayed schedules](../05-schedules/10-alternative-and-delayed-schedules.md).
 
 ## Combination vaccines
 

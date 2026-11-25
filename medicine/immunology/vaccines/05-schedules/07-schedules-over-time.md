@@ -55,4 +55,4 @@ Critics argue that the cumulative schedule has never been tested as a whole agai
 
 ## Where this leads
 
-- Next: [Pregnancy, adult and travel vaccination](08-pregnancy-adult-and-travel-vaccination.md); see [[too-many-too-soon|too many, too soon]].
+- Next: [Pregnancy, adult and travel vaccination](08-pregnancy-adult-and-travel-vaccination.md); see [too many, too soon](../07-controversies/07-too-many-too-soon.md).

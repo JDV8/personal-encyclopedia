@@ -57,7 +57,7 @@ Case-control designs are also used to measure vaccine **effectiveness**, includi
 
 ## Ecological studies
 
-An **ecological study** compares groups (countries, states, years) rather than individuals: for example, plotting national infant mortality against the number of vaccine doses in each country's schedule ([Miller & Goldman, *Human & Experimental Toxicology* 2011](https://doi.org/10.1177/0960327111407644)). Such studies can suggest hypotheses but are prone to the **ecological fallacy**: a pattern across countries need not hold for individuals, and countries differ in many ways (how they define and record infant deaths, poverty, health care). That paper is discussed in [[too-many-too-soon|too many, too soon]].
+An **ecological study** compares groups (countries, states, years) rather than individuals: for example, plotting national infant mortality against the number of vaccine doses in each country's schedule ([Miller & Goldman, *Human & Experimental Toxicology* 2011](https://doi.org/10.1177/0960327111407644)). Such studies can suggest hypotheses but are prone to the **ecological fallacy**: a pattern across countries need not hold for individuals, and countries differ in many ways (how they define and record infant deaths, poverty, health care). That paper is discussed in [too many, too soon](../immunology/vaccines/07-controversies/07-too-many-too-soon.md).
 
 ## Key ideas
 
