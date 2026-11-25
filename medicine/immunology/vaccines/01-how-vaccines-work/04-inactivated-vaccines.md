@@ -44,7 +44,7 @@ The danger of incomplete inactivation was shown catastrophically in April 1955, 
 
 ## Split and subunit influenza vaccines
 
-Most injected influenza vaccines are not whole killed virus. They are **split** (the virus is broken apart with detergent) or **subunit** (purified surface proteins haemagglutinin and neuraminidase). This reduces reactions. Influenza vaccines must be reformulated every year because the virus changes; the WHO recommends strains twice a year based on global surveillance. See [[influenza|influenza]].
+Most injected influenza vaccines are not whole killed virus. They are **split** (the virus is broken apart with detergent) or **subunit** (purified surface proteins haemagglutinin and neuraminidase). This reduces reactions. Influenza vaccines must be reformulated every year because the virus changes; the WHO recommends strains twice a year based on global surveillance. See [influenza](../03-diseases/influenza.md).
 
 ## Key ideas
 
@@ -56,4 +56,4 @@ Most injected influenza vaccines are not whole killed virus. They are **split** 
 ## Where this leads
 
 - Next: [Toxoid vaccines](05-toxoid-vaccines.md).
-- Related: [[polio|polio]], [[jonas-salk|Jonas Salk]].
+- Related: [polio](../03-diseases/polio.md), [[jonas-salk|Jonas Salk]].

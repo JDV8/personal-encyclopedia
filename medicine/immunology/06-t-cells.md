@@ -54,4 +54,4 @@ T cells are also involved in some rare harmful reactions: delayed hypersensitivi
 ## Where this leads
 
 - Next: [Immunological memory](07-immunological-memory.md).
-- Related: [[shingles-and-varicella|varicella and shingles]], [[tuberculosis-and-bcg|tuberculosis and BCG]].
+- Related: [varicella and shingles](vaccines/03-diseases/shingles-and-varicella.md), [tuberculosis and BCG](vaccines/03-diseases/tuberculosis-and-bcg.md).

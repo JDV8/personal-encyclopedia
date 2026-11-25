@@ -58,4 +58,4 @@ Common reactions are local pain, redness and swelling, which become more frequen
 ## Where this leads
 
 - Next: [Subunit and recombinant vaccines](06-subunit-and-recombinant-vaccines.md).
-- Related: [[tetanus|tetanus]], [[diphtheria|diphtheria]], [[pertussis|pertussis]].
+- Related: [tetanus](../03-diseases/tetanus.md), [diphtheria](../03-diseases/diphtheria.md), [pertussis](../03-diseases/pertussis.md).

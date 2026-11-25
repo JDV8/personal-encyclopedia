@@ -78,4 +78,4 @@ A disease with a modest R₀ and a short generation time can explode faster than
 ## Where this leads
 
 - Next: [Herd immunity](04-herd-immunity.md).
-- Related: [[measles|measles]].
+- Related: [measles](../immunology/vaccines/03-diseases/measles.md).

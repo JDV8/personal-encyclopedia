@@ -48,5 +48,5 @@ Cochrane reviewers have themselves studied funding bias: Jefferson's 2009 review
 ## Where this leads
 
 - Back to: [Development and regulation](README.md).
-- Next section: [[d:immunology/vaccines/03-diseases|the diseases]].
+- Next section: [the diseases](../03-diseases/README.md).
 - Related: [[causality-assessment|causality assessment]], [[mmr-and-autism|MMR and autism]].

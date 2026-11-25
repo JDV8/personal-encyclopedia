@@ -53,4 +53,4 @@ Moderna's mRNA RSV vaccine (mRESVIA) was licensed for older adults in 2024. mRNA
 ## Where this leads
 
 - Next: [Adjuvants](10-adjuvants.md).
-- Related: [[covid-19|COVID-19]], [[myocarditis-and-mrna-vaccines|myocarditis]].
+- Related: [COVID-19](../03-diseases/covid-19.md), [[myocarditis-and-mrna-vaccines|myocarditis]].

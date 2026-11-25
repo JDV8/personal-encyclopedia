@@ -27,7 +27,7 @@ flowchart TD
 
 The parasite changes form at each stage, displays different proteins at each, hides inside cells, and varies its surface proteins to dodge antibodies. People in endemic areas who survive many infections develop partial immunity, but it is slow to build and wanes without re-exposure. Unlike measles, a single infection does not give lasting protection.
 
-The first malaria vaccine recommended by the WHO, **RTS,S/AS01** (2021), targets the sporozoite's circumsporozoite protein, aiming to stop the parasite before it reaches the liver. A second, **R21/Matrix-M**, was recommended in 2023. Both give partial, waning protection that is still valuable where malaria is common; see [[malaria|malaria]] for the trial figures ([RTS,S Clinical Trials Partnership, *Lancet* 2015](https://doi.org/10.1016/S0140-6736(15)60721-8); [Datoo et al., *Lancet* 2024 (R21 trial)](https://doi.org/10.1016/S0140-6736(23)02511-4)).
+The first malaria vaccine recommended by the WHO, **RTS,S/AS01** (2021), targets the sporozoite's circumsporozoite protein, aiming to stop the parasite before it reaches the liver. A second, **R21/Matrix-M**, was recommended in 2023. Both give partial, waning protection that is still valuable where malaria is common; see [malaria](../immunology/vaccines/03-diseases/malaria.md) for the trial figures ([RTS,S Clinical Trials Partnership, *Lancet* 2015](https://doi.org/10.1016/S0140-6736(15)60721-8); [Datoo et al., *Lancet* 2024 (R21 trial)](https://doi.org/10.1016/S0140-6736(23)02511-4)).
 
 ## Helminths
 
@@ -58,4 +58,4 @@ Many parasites and some viruses are carried by **vectors**, usually insects. Mos
 ## Where this leads
 
 - Next: [Infection and transmission](06-infection-and-transmission.md).
-- Related: [[malaria|malaria]], [[yellow-fever|yellow fever]], [[dengue|dengue]].
+- Related: [malaria](../immunology/vaccines/03-diseases/malaria.md), [yellow fever](../immunology/vaccines/03-diseases/yellow-fever.md), [dengue](../immunology/vaccines/03-diseases/dengue.md).

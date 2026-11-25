@@ -57,4 +57,4 @@ Modern methods can attenuate deliberately, for example by deleting genes or crea
 ## Where this leads
 
 - Next: [Inactivated vaccines](04-inactivated-vaccines.md).
-- Related: [[measles|measles]], [[polio|polio]], [[maurice-hilleman|Maurice Hilleman]].
+- Related: [measles](../03-diseases/measles.md), [polio](../03-diseases/polio.md), [[maurice-hilleman|Maurice Hilleman]].

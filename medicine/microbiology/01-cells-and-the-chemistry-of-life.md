@@ -50,7 +50,7 @@ Two points from this will matter later:
 
 ## Shape is everything
 
-The immune system does not read genetic sequences directly. It recognises **shapes**: small patches on the surface of proteins and sugars, called [[g:epitope|epitopes]]. Change a protein's sequence and you may change its shape, which is why some viruses (influenza is the classic example) can slip past existing immunity by mutating the proteins on their surface. It is also why a vaccine protein must be held in the right shape to train useful antibodies, a lesson learned the hard way with the RSV vaccine failure of the 1960s, described in [[rsv|the RSV overview]].
+The immune system does not read genetic sequences directly. It recognises **shapes**: small patches on the surface of proteins and sugars, called [[g:epitope|epitopes]]. Change a protein's sequence and you may change its shape, which is why some viruses (influenza is the classic example) can slip past existing immunity by mutating the proteins on their surface. It is also why a vaccine protein must be held in the right shape to train useful antibodies, a lesson learned the hard way with the RSV vaccine failure of the 1960s, described in [the RSV overview](../immunology/vaccines/03-diseases/rsv.md).
 
 ## Key ideas
 

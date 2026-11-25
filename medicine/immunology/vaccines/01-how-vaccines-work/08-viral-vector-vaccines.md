@@ -22,7 +22,7 @@ flowchart LR
 ## Kinds of vectors
 
 - **Non-replicating adenovirus vectors**: the vector enters cells but cannot make copies of itself. Examples: Oxford–AstraZeneca's ChAdOx1 (a chimpanzee adenovirus), Johnson & Johnson/Janssen's Ad26 COVID-19 vaccine, Russia's Sputnik V (Ad26 then Ad5), and CanSino's Ad5. Chimpanzee or rare human adenoviruses are chosen because most people lack pre-existing immunity to them.
-- **Replicating vectors**: the vector can replicate to a limited extent. **Ervebo** (rVSV-ZEBOV), the Ebola vaccine, uses vesicular stomatitis virus with its own surface protein replaced by the Ebola glycoprotein. In the 2015 "Ebola ça suffit" ring-vaccination trial in Guinea, no Ebola cases occurred 10 days or more after vaccination among those vaccinated immediately ([Henao-Restrepo et al., *Lancet* 2017](https://doi.org/10.1016/S0140-6736(16)32621-6)). The trial design (ring vaccination with delayed comparison groups, later dropped) has been debated, but the vaccine was licensed and used successfully in later outbreaks. See [[ebola|Ebola]].
+- **Replicating vectors**: the vector can replicate to a limited extent. **Ervebo** (rVSV-ZEBOV), the Ebola vaccine, uses vesicular stomatitis virus with its own surface protein replaced by the Ebola glycoprotein. In the 2015 "Ebola ça suffit" ring-vaccination trial in Guinea, no Ebola cases occurred 10 days or more after vaccination among those vaccinated immediately ([Henao-Restrepo et al., *Lancet* 2017](https://doi.org/10.1016/S0140-6736(16)32621-6)). The trial design (ring vaccination with delayed comparison groups, later dropped) has been debated, but the vaccine was licensed and used successfully in later outbreaks. See [Ebola](../03-diseases/ebola.md).
 - **Other vectors** include modified vaccinia Ankara (MVA), used as the smallpox and mpox vaccine (JYNNEOS/Imvamune) and as a vector in experimental vaccines, and the yellow fever 17D strain used as a backbone for the dengue vaccine Dengvaxia and a Japanese encephalitis vaccine.
 
 ## Advantages
@@ -48,4 +48,4 @@ flowchart LR
 ## Where this leads
 
 - Next: [mRNA vaccines](09-mrna-vaccines.md).
-- Related: [[covid-19|COVID-19]], [[ebola|Ebola]].
+- Related: [COVID-19](../03-diseases/covid-19.md), [Ebola](../03-diseases/ebola.md).

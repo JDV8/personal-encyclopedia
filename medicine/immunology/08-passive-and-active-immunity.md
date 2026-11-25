@@ -42,7 +42,7 @@ Strictly, monoclonal antibodies are not vaccines; they do not train the immune s
 
 ## Post-exposure prophylaxis
 
-Some diseases have an incubation period long enough that giving passive and active immunisation *after* exposure can prevent illness. Rabies is the most dramatic example: once symptoms appear it is almost always fatal, but immediate wound washing, rabies immune globulin and a vaccine series after a bite are nearly always effective. Hepatitis B, measles, varicella and tetanus also have post-exposure protocols. See [[rabies|rabies]].
+Some diseases have an incubation period long enough that giving passive and active immunisation *after* exposure can prevent illness. Rabies is the most dramatic example: once symptoms appear it is almost always fatal, but immediate wound washing, rabies immune globulin and a vaccine series after a bite are nearly always effective. Hepatitis B, measles, varicella and tetanus also have post-exposure protocols. See [rabies](vaccines/03-diseases/rabies.md).
 
 ## Active immunity: infection vs vaccination
 
@@ -58,4 +58,4 @@ Active immunity can come from infection or from vaccination. Which gives "better
 ## Where this leads
 
 - Next: [When immunity goes wrong](09-when-immunity-goes-wrong.md).
-- Related: [[pregnancy-adult-and-travel-vaccination|vaccination in pregnancy, adults and travel]], [[rsv|RSV]].
+- Related: [[pregnancy-adult-and-travel-vaccination|vaccination in pregnancy, adults and travel]], [RSV](vaccines/03-diseases/rsv.md).

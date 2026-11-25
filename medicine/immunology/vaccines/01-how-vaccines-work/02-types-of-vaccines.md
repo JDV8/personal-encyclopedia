@@ -48,7 +48,7 @@ The most important practical division is **live** versus **non-live**:
 
 Many diseases have been targeted by several platforms over time, sometimes with very different trade-offs:
 
-- **Polio**: inactivated injected vaccine (Salk, 1955) and live oral vaccine (Sabin, 1961). The oral vaccine is cheaper, easier to give and better at blocking gut transmission, but in rare cases it can cause paralysis or mutate into circulating vaccine-derived poliovirus. See [[polio|polio]].
+- **Polio**: inactivated injected vaccine (Salk, 1955) and live oral vaccine (Sabin, 1961). The oral vaccine is cheaper, easier to give and better at blocking gut transmission, but in rare cases it can cause paralysis or mutate into circulating vaccine-derived poliovirus. See [polio](../03-diseases/polio.md).
 - **Pertussis**: whole-cell (killed bacteria) vs acellular (purified proteins). Acellular vaccines cause fewer reactions but protection wanes faster. See [[dtp-and-whole-cell-pertussis|DTP and whole-cell pertussis]].
 - **Influenza**: inactivated (egg- or cell-grown), recombinant, and live attenuated nasal spray.
 - **Shingles**: live attenuated (Zostavax, discontinued in the US in 2020) vs recombinant adjuvanted (Shingrix), which is markedly more effective.

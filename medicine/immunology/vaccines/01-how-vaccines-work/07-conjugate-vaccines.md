@@ -36,7 +36,7 @@ The principle was shown in the 1920s and 1930s by Oswald Avery and Walter Goebel
 
 ## The impact
 
-- **Hib**: before conjugate vaccines, Hib caused about 20,000 cases of invasive disease a year in US children under 5, according to the CDC, including meningitis that killed some and left others deaf or brain-damaged. After the conjugate vaccines (licensed for infants in 1990), invasive Hib disease in young children fell by more than 99%. See [[haemophilus-influenzae-type-b|Hib]].
+- **Hib**: before conjugate vaccines, Hib caused about 20,000 cases of invasive disease a year in US children under 5, according to the CDC, including meningitis that killed some and left others deaf or brain-damaged. After the conjugate vaccines (licensed for infants in 1990), invasive Hib disease in young children fell by more than 99%. See [Hib](../03-diseases/haemophilus-influenzae-type-b.md).
 - **Pneumococcus**: the 7-valent conjugate vaccine (2000 in the US) sharply reduced invasive disease in vaccinated children and, through reduced carriage, in unvaccinated adults ([Whitney et al., *NEJM* 2003](https://doi.org/10.1056/NEJMoa022823)). Later versions cover 10, 13, 15, 20 and 21 serotypes.
 - **Meningococcus**: conjugate vaccines against group C (UK, 1999), groups A, C, W and Y, and the cheap MenAfriVac against group A, which nearly eliminated epidemic group A meningitis in Africa's "meningitis belt" after 2010.
 - **Typhoid**: typhoid conjugate vaccines prevent disease in young children ([Shakya et al., *NEJM* 2019](https://doi.org/10.1056/NEJMoa1905047)).
@@ -55,4 +55,4 @@ Because conjugate vaccines reduce carriage, they protect unvaccinated people. Bu
 ## Where this leads
 
 - Next: [Viral vector vaccines](08-viral-vector-vaccines.md).
-- Related: [[pneumococcal-disease|pneumococcal disease]], [[meningococcal-disease|meningococcal disease]].
+- Related: [pneumococcal disease](../03-diseases/pneumococcal-disease.md), [meningococcal disease](../03-diseases/meningococcal-disease.md).

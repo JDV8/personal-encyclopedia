@@ -62,4 +62,4 @@ Genotyping lets investigators tell whether cases are linked and whether a virus 
 ## Where this leads
 
 - Next: [Causation and association](06-causation-and-association.md).
-- Related: [[measles|measles]], [[eradication-and-elimination|eradication and elimination]].
+- Related: [measles](../immunology/vaccines/03-diseases/measles.md), [[eradication-and-elimination|eradication and elimination]].

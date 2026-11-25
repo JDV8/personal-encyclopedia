@@ -30,7 +30,7 @@ Some viral surface proteins assemble on their own into empty shells that look li
 
 ## Structure-based design
 
-A modern refinement is to engineer the antigen's shape. RSV's fusion (F) protein changes shape dramatically when it fuses with a cell. Antibodies against the "prefusion" form are far more protective, but the protein naturally flips into the "postfusion" form. In 2013 Barney Graham, Jason McLellan and colleagues at the US National Institutes of Health stabilised the prefusion form. This made possible the first RSV vaccines, licensed in 2023 after six decades of failure, including the disastrous 1960s formalin-inactivated vaccine that made disease worse; see [[rsv|RSV]]. The same stabilising approach ("2P" mutations) was applied to the SARS-CoV-2 spike protein in mRNA and protein COVID-19 vaccines.
+A modern refinement is to engineer the antigen's shape. RSV's fusion (F) protein changes shape dramatically when it fuses with a cell. Antibodies against the "prefusion" form are far more protective, but the protein naturally flips into the "postfusion" form. In 2013 Barney Graham, Jason McLellan and colleagues at the US National Institutes of Health stabilised the prefusion form. This made possible the first RSV vaccines, licensed in 2023 after six decades of failure, including the disastrous 1960s formalin-inactivated vaccine that made disease worse; see [RSV](../03-diseases/rsv.md). The same stabilising approach ("2P" mutations) was applied to the SARS-CoV-2 spike protein in mRNA and protein COVID-19 vaccines.
 
 ## Strengths and limitations
 
@@ -48,4 +48,4 @@ A modern refinement is to engineer the antigen's shape. RSV's fusion (F) protein
 ## Where this leads
 
 - Next: [Conjugate vaccines](07-conjugate-vaccines.md).
-- Related: [[hpv|HPV]], [[hepatitis-b|hepatitis B]].
+- Related: [HPV](../03-diseases/hpv.md), [hepatitis B](../03-diseases/hepatitis-b.md).

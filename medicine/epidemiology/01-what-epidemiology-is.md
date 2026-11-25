@@ -57,4 +57,4 @@ Epidemiology is powerful but not infallible:
 ## Where this leads
 
 - Next: [Measuring disease](02-measuring-disease.md).
-- Related: the disease itself is covered in [[cholera|the cholera overview]].
+- Related: the disease itself is covered in [the cholera overview](../immunology/vaccines/03-diseases/cholera.md).
