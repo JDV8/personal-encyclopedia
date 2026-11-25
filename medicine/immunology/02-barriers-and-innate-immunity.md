@@ -62,4 +62,4 @@ The same innate response that clears infection causes the symptoms people associ
 ## Where this leads
 
 - Next: [Inflammation and fever](03-inflammation-and-fever.md).
-- Related: [adjuvants](vaccines/01-how-vaccines-work/10-adjuvants.md), [[common-reactions|common vaccine reactions]].
+- Related: [adjuvants](vaccines/01-how-vaccines-work/10-adjuvants.md), [common vaccine reactions](vaccines/06-adverse-events/01-common-reactions.md).

@@ -21,7 +21,7 @@ Two routes brought variolation to the English-speaking world in the same year, 1
 
 Variolation was not safe. Perhaps 1–2% of those inoculated died, and inoculated people were contagious and could start outbreaks if not isolated. Its value depended on the context: in an epidemic, with natural smallpox killing perhaps 15–30% of those infected, the trade was favourable. George Washington ordered the Continental Army inoculated in 1777, after smallpox had devastated American troops.
 
-Variolation also raised arguments that echo in modern debates: whether it was right to deliberately cause illness, whether it interfered with divine providence, whether individuals could be compelled for the public good, and how to weigh a small, certain risk against a larger, uncertain one. These are recurring themes in vaccine ethics; see [[weighing-risks-against-benefits|weighing risks against benefits]].
+Variolation also raised arguments that echo in modern debates: whether it was right to deliberately cause illness, whether it interfered with divine providence, whether individuals could be compelled for the public good, and how to weigh a small, certain risk against a larger, uncertain one. These are recurring themes in vaccine ethics; see [weighing risks against benefits](../06-adverse-events/14-weighing-risks-against-benefits.md).
 
 ## Replacement
 

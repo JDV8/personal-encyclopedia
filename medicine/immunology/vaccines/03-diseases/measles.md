@@ -22,7 +22,7 @@ The US declared measles eliminated (no continuous transmission for 12 months) in
 
 Measles vaccine is a live attenuated virus, usually combined as **MMR** (measles, mumps, rubella) or **MMRV** (adding varicella). One dose is about 93% effective at preventing measles and two doses about 97% ([CDC, *Epidemiology and Prevention of Vaccine-Preventable Diseases* ("Pink Book")](https://www.cdc.gov/pinkbook/hcp/table-of-contents/index.html)); protection is long-lasting. Because of the high R0, around 95% of a population needs to be immune to stop spread.
 
-Common side effects are fever (in about 5–15%) and a mild rash 7–12 days after vaccination. Rarer effects include febrile seizures (about 1 in 3,000–4,000 doses) and immune thrombocytopenia (about 1 in 30,000–40,000); severe disease from the vaccine virus can occur in people with badly weakened immune systems, for whom the vaccine is contraindicated. See [[febrile-seizures|febrile seizures]] and [[itp-and-other-blood-disorders|ITP]].
+Common side effects are fever (in about 5–15%) and a mild rash 7–12 days after vaccination. Rarer effects include febrile seizures (about 1 in 3,000–4,000 doses) and immune thrombocytopenia (about 1 in 30,000–40,000); severe disease from the vaccine virus can occur in people with badly weakened immune systems, for whom the vaccine is contraindicated. See [febrile seizures](../06-adverse-events/02-febrile-seizures.md) and [ITP](../06-adverse-events/11-itp-and-other-blood-disorders.md).
 
 ## Controversies
 

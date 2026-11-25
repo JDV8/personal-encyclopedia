@@ -31,7 +31,7 @@ If events cluster in the risk windows more than chance would predict, that sugge
 ### Classic findings using SCCS
 
 - **MMR and febrile seizures, and ITP.** Early SCCS work in England confirmed an increased risk of febrile seizures 6–11 days after MMR and of ITP within about six weeks, while finding no link with autism or bowel disease.
-- **Rotavirus vaccines and intussusception.** SCCS studies in Mexico, Brazil, Australia, the US and the UK found a small increased risk in the week after the first dose, roughly 1 to 6 extra cases per 100,000 vaccinated infants depending on the country. See [[intussusception-and-rotavirus-vaccines|intussusception and rotavirus vaccines]].
+- **Rotavirus vaccines and intussusception.** SCCS studies in Mexico, Brazil, Australia, the US and the UK found a small increased risk in the week after the first dose, roughly 1 to 6 extra cases per 100,000 vaccinated infants depending on the country. See [intussusception and rotavirus vaccines](../immunology/vaccines/06-adverse-events/05-intussusception-and-rotavirus-vaccines.md).
 - **COVID-19 vaccines and myocarditis.** English studies by Patone and colleagues used SCCS to estimate excess myocarditis by vaccine, dose, age and sex, and compared it with the excess after SARS-CoV-2 infection itself ([Patone et al., *Circulation* 2022](https://doi.org/10.1161/CIRCULATIONAHA.122.059970)).
 
 ### Assumptions and weaknesses

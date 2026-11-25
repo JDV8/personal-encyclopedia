@@ -26,8 +26,8 @@ Protection against infection waned within months and was reduced by the Omicron 
 
 Rare serious harms were identified after rollout:
 
-- **Myocarditis** after mRNA vaccines, mainly in young males after the second dose ([Oster et al., *JAMA* 2022](https://doi.org/10.1001/jama.2021.24110); [Patone et al., *Circulation* 2022](https://doi.org/10.1161/CIRCULATIONAHA.122.059970)); see [[myocarditis-and-mrna-vaccines|myocarditis and mRNA vaccines]].
-- **Vaccine-induced immune thrombotic thrombocytopenia (VITT)** after adenovirus-vector vaccines ([Greinacher et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2104840); [Schultz et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2104882)), leading many countries to restrict or stop them; see [[vitt-and-adenovirus-vector-vaccines|VITT]].
+- **Myocarditis** after mRNA vaccines, mainly in young males after the second dose ([Oster et al., *JAMA* 2022](https://doi.org/10.1001/jama.2021.24110); [Patone et al., *Circulation* 2022](https://doi.org/10.1161/CIRCULATIONAHA.122.059970)); see [myocarditis and mRNA vaccines](../06-adverse-events/08-myocarditis-and-mrna-vaccines.md).
+- **Vaccine-induced immune thrombotic thrombocytopenia (VITT)** after adenovirus-vector vaccines ([Greinacher et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2104840); [Schultz et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2104882)), leading many countries to restrict or stop them; see [VITT](../06-adverse-events/09-vitt-and-adenovirus-vector-vaccines.md).
 - **Guillain-Barré syndrome** with adenovirus-vector vaccines, and **anaphylaxis** (a few cases per million doses).
 
 The National Academies' 2024 review confirmed myocarditis with mRNA vaccines and favoured causal links between the Janssen vaccine and TTS and GBS ([NASEM, *Evidence Review of the Adverse Effects of COVID-19 Vaccination* (2024)](https://doi.org/10.17226/27746)).

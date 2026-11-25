@@ -34,4 +34,4 @@ A 2025 natural experiment in Wales, where eligibility for Zostavax depended on e
 
 ## Where this leads
 
-- [Measles](measles.md) (MMRV); [[guillain-barre-syndrome|Guillain-Barré syndrome]]; [adult vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).
+- [Measles](measles.md) (MMRV); [Guillain-Barré syndrome](../06-adverse-events/06-guillain-barre-syndrome.md); [adult vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

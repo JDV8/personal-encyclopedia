@@ -51,7 +51,7 @@ Specific concerns:
 
 - **Aluminium**: whether injected aluminium accumulates or harms the developing brain, causes autoimmunity or allergies. This is the most contested adjuvant issue and has its own lesson: [[aluminium-adjuvants|aluminium adjuvants]].
 - **Squalene**: squalene is a natural oil made in the human body (a precursor of cholesterol) and also extracted, historically from shark liver. Claims that squalene in an anthrax vaccine caused Gulf War illness were investigated; the Institute of Medicine found no convincing evidence, and the anthrax vaccine given to US troops did not contain added squalene adjuvant.
-- **AS03 and narcolepsy**: the AS03-adjuvanted Pandemrix vaccine was associated with narcolepsy in some European countries in 2009–2010, while another AS03-adjuvanted H1N1 vaccine used in Canada (Arepanrix) showed a much smaller signal. Whether the adjuvant, the particular antigen preparation, the H1N1 virus itself, or a combination was responsible is still debated. See [[narcolepsy-and-pandemrix|narcolepsy and Pandemrix]].
+- **AS03 and narcolepsy**: the AS03-adjuvanted Pandemrix vaccine was associated with narcolepsy in some European countries in 2009–2010, while another AS03-adjuvanted H1N1 vaccine used in Canada (Arepanrix) showed a much smaller signal. Whether the adjuvant, the particular antigen preparation, the H1N1 virus itself, or a combination was responsible is still debated. See [narcolepsy and Pandemrix](../06-adverse-events/07-narcolepsy-and-pandemrix.md).
 
 Regulators evaluate adjuvants as part of each vaccine, not as stand-alone products; there is no separate "adjuvant approval".
 

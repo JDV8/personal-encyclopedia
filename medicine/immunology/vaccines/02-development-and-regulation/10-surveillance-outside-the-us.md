@@ -20,7 +20,7 @@ The **Yellow Card scheme**, run by the Medicines and Healthcare products Regulat
 
 ## WHO: VigiBase and global safety
 
-The WHO Programme for International Drug Monitoring, started in 1968, pools reports from member countries in **VigiBase**, maintained by the Uppsala Monitoring Centre in Sweden. WHO's Global Advisory Committee on Vaccine Safety (GACVS), founded in 1999, reviews safety questions and issues statements. WHO also publishes a standard method for assessing whether a vaccine caused an individual case ([Tozzi et al., *Vaccine* 2013 (WHO causality tool)](https://doi.org/10.1016/j.vaccine.2013.08.087)); see [[causality-assessment|causality assessment]].
+The WHO Programme for International Drug Monitoring, started in 1968, pools reports from member countries in **VigiBase**, maintained by the Uppsala Monitoring Centre in Sweden. WHO's Global Advisory Committee on Vaccine Safety (GACVS), founded in 1999, reviews safety questions and issues statements. WHO also publishes a standard method for assessing whether a vaccine caused an individual case ([Tozzi et al., *Vaccine* 2013 (WHO causality tool)](https://doi.org/10.1016/j.vaccine.2013.08.087)); see [causality assessment](../06-adverse-events/13-causality-assessment.md).
 
 Many low- and middle-income countries have weaker systems, so safety evidence for vaccines used mainly there (such as malaria or newer typhoid conjugate vaccines) sometimes depends on targeted studies.
 

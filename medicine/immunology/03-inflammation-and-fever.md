@@ -42,7 +42,7 @@ Fever after vaccination is common with some vaccines. Rates vary widely by vacci
 
 ## Febrile seizures
 
-Young children (roughly 6 months to 5 years) can have a seizure when their temperature rises quickly. **Febrile seizures** are frightening to witness but, in the great majority of cases, are brief and leave no lasting harm. They affect around 2 to 5% of children at some point, most often with ordinary infections. Some vaccines slightly increase the short-term risk because they cause fever: the measles-containing vaccines in the second week after vaccination, and the combined MMRV vaccine more than separate MMR plus varicella in toddlers ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665); [Barlow et al., *NEJM* 2001](https://doi.org/10.1056/NEJMoa003077)). The details and absolute numbers are in [[febrile-seizures|febrile seizures]].
+Young children (roughly 6 months to 5 years) can have a seizure when their temperature rises quickly. **Febrile seizures** are frightening to witness but, in the great majority of cases, are brief and leave no lasting harm. They affect around 2 to 5% of children at some point, most often with ordinary infections. Some vaccines slightly increase the short-term risk because they cause fever: the measles-containing vaccines in the second week after vaccination, and the combined MMRV vaccine more than separate MMR plus varicella in toddlers ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665); [Barlow et al., *NEJM* 2001](https://doi.org/10.1056/NEJMoa003077)). The details and absolute numbers are in [febrile seizures](vaccines/06-adverse-events/02-febrile-seizures.md).
 
 ## Should you lower a fever after vaccination?
 
@@ -50,7 +50,7 @@ Some studies have found that giving paracetamol (acetaminophen) *preventively* a
 
 ## When inflammation goes too far
 
-Inflammation that is too strong, too widespread or too prolonged causes harm: septic shock, acute respiratory distress, and chronic inflammatory diseases. Rare inflammatory complications after some vaccines, such as myocarditis (inflammation of the heart muscle) after mRNA COVID-19 vaccines, are assessed in [[myocarditis-and-mrna-vaccines|myocarditis and mRNA vaccines]]. The infections themselves can cause the same complications, usually more often, which is why risk comparisons matter; see [[weighing-risks-against-benefits|weighing risks against benefits]].
+Inflammation that is too strong, too widespread or too prolonged causes harm: septic shock, acute respiratory distress, and chronic inflammatory diseases. Rare inflammatory complications after some vaccines, such as myocarditis (inflammation of the heart muscle) after mRNA COVID-19 vaccines, are assessed in [myocarditis and mRNA vaccines](vaccines/06-adverse-events/08-myocarditis-and-mrna-vaccines.md). The infections themselves can cause the same complications, usually more often, which is why risk comparisons matter; see [weighing risks against benefits](vaccines/06-adverse-events/14-weighing-risks-against-benefits.md).
 
 ## Key ideas
 
@@ -62,4 +62,4 @@ Inflammation that is too strong, too widespread or too prolonged causes harm: se
 ## Where this leads
 
 - Next: [Antigens and antigen presentation](04-antigens-and-antigen-presentation.md).
-- Related: [[common-reactions|common vaccine reactions]], [[febrile-seizures|febrile seizures]].
+- Related: [common vaccine reactions](vaccines/06-adverse-events/01-common-reactions.md), [febrile seizures](vaccines/06-adverse-events/02-febrile-seizures.md).

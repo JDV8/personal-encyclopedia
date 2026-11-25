@@ -50,7 +50,7 @@ When an outbreak is detected, public health teams typically:
 6. control spread: isolation, quarantine of susceptible contacts, post-exposure vaccination or immune globulin;
 7. declare the outbreak over after two incubation periods with no new cases (42 days for measles).
 
-Genotyping lets investigators tell whether cases are linked and whether a virus is a vaccine strain or a wild strain, which matters for claims that vaccinated people "caused" outbreaks; the measles vaccine virus does not spread person to person in any meaningful way, while the oral polio vaccine virus can (see [[vaccine-derived-polio|vaccine-derived polio]]).
+Genotyping lets investigators tell whether cases are linked and whether a virus is a vaccine strain or a wild strain, which matters for claims that vaccinated people "caused" outbreaks; the measles vaccine virus does not spread person to person in any meaningful way, while the oral polio vaccine virus can (see [vaccine-derived polio](../immunology/vaccines/06-adverse-events/10-vaccine-derived-polio.md)).
 
 ## Key ideas
 

@@ -24,21 +24,21 @@ Most contraindications are temporary or specific to one vaccine, so true reasons
 
 ## Contraindications
 
-- **Severe allergic reaction (anaphylaxis)** to a previous dose or to a vaccine component. This applies to every vaccine. See [[anaphylaxis|anaphylaxis]].
+- **Severe allergic reaction (anaphylaxis)** to a previous dose or to a vaccine component. This applies to every vaccine. See [anaphylaxis](../06-adverse-events/03-anaphylaxis.md).
 - **Live vaccines in severe immunodeficiency**: people with conditions such as severe combined immunodeficiency (SCID), leukaemia under treatment, or high-dose immunosuppressive drugs should not receive live vaccines (MMR, varicella, BCG, yellow fever, oral typhoid, live flu), because the weakened vaccine microbes can cause disease.
 - **Live vaccines in pregnancy** (see [pregnancy vaccination](08-pregnancy-adult-and-travel-vaccination.md)).
 - **Encephalopathy within seven days** of a pertussis-containing vaccine, not explained by another cause, contraindicates further pertussis vaccine.
-- **Rotavirus vaccine**: SCID, or a history of intussusception ([[intussusception-and-rotavirus-vaccines|intussusception]]).
+- **Rotavirus vaccine**: SCID, or a history of intussusception ([intussusception](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md)).
 - **Dengue (Dengvaxia)**: no laboratory evidence of previous dengue infection, because the vaccine increases the risk of severe dengue in people never infected ([[dengvaxia-in-the-philippines|Dengvaxia]]).
 
 ## Precautions
 
 - **Moderate or severe acute illness**, with or without fever, for all vaccines.
-- **Guillain-Barré syndrome within six weeks** of a previous influenza or tetanus-containing vaccine ([[guillain-barre-syndrome|GBS]]).
+- **Guillain-Barré syndrome within six weeks** of a previous influenza or tetanus-containing vaccine ([GBS](../06-adverse-events/06-guillain-barre-syndrome.md)).
 - **Recent blood products or immunoglobulin** for MMR and varicella, which antibodies can neutralise.
 - **Personal or family history of seizures** for the first MMRV dose, because MMRV doubles the risk of febrile seizures compared with separate vaccines ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665)).
 - **Progressive or unstable neurological disorders** for pertussis vaccine until the condition is clarified.
-- **History of myocarditis** after an mRNA COVID-19 vaccine ([[myocarditis-and-mrna-vaccines|myocarditis]]).
+- **History of myocarditis** after an mRNA COVID-19 vaccine ([myocarditis](../06-adverse-events/08-myocarditis-and-mrna-vaccines.md)).
 
 ## Things that are not contraindications
 

@@ -56,4 +56,4 @@ This raises genuine ethical questions for some people. The Catholic Church's Pon
 ## Where this leads
 
 - Next: [How vaccines are made](12-how-vaccines-are-made.md).
-- Related: [[anaphylaxis|anaphylaxis]], [[thimerosal-and-autism|thimerosal and autism]].
+- Related: [anaphylaxis](../06-adverse-events/03-anaphylaxis.md), [[thimerosal-and-autism|thimerosal and autism]].

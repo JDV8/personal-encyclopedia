@@ -37,7 +37,7 @@ The speed raised understandable concerns. It was achieved by building on years o
 
 - **Reactogenicity**: sore arm, fatigue, headache, fever and chills are common, especially after the second dose and with Moderna's higher dose.
 - **Anaphylaxis**: early US data suggested about 2.5–5 cases per million doses ([Shimabukuro & Nair, *JAMA* 2021](https://doi.org/10.1001/jama.2021.0600)).
-- **Myocarditis and pericarditis**: rare inflammation of the heart, concentrated in adolescent and young adult males within days of the second dose; highest estimates are in the order of 1 in several thousand to 1 in tens of thousands for young males after the second dose, depending on vaccine, interval and study ([Mevorach et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2109730); [Oster et al., *JAMA* 2022](https://doi.org/10.1001/jama.2021.24110)). Most cases resolved, but long-term follow-up continues, and the size and seriousness of this risk in young, healthy people is central to debates about recommending boosters for them. See [[myocarditis-and-mrna-vaccines|myocarditis and mRNA vaccines]].
+- **Myocarditis and pericarditis**: rare inflammation of the heart, concentrated in adolescent and young adult males within days of the second dose; highest estimates are in the order of 1 in several thousand to 1 in tens of thousands for young males after the second dose, depending on vaccine, interval and study ([Mevorach et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2109730); [Oster et al., *JAMA* 2022](https://doi.org/10.1001/jama.2021.24110)). Most cases resolved, but long-term follow-up continues, and the size and seriousness of this risk in young, healthy people is central to debates about recommending boosters for them. See [myocarditis and mRNA vaccines](../06-adverse-events/08-myocarditis-and-mrna-vaccines.md).
 
 ## Beyond COVID-19
 
@@ -53,4 +53,4 @@ Moderna's mRNA RSV vaccine (mRESVIA) was licensed for older adults in 2024. mRNA
 ## Where this leads
 
 - Next: [Adjuvants](10-adjuvants.md).
-- Related: [COVID-19](../03-diseases/covid-19.md), [[myocarditis-and-mrna-vaccines|myocarditis]].
+- Related: [COVID-19](../03-diseases/covid-19.md), [myocarditis](../06-adverse-events/08-myocarditis-and-mrna-vaccines.md).

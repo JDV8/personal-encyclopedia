@@ -12,7 +12,7 @@ Rotavirus is a highly contagious virus that infects the gut and was, before vacc
 
 ## RotaShield and intussusception
 
-The first vaccine, **RotaShield** (Wyeth), was licensed in the US in 1998. Within a year, VAERS reports and then controlled studies showed it caused **intussusception**, a bowel obstruction in which part of the intestine telescopes into itself, in roughly 1 in 10,000 vaccinated infants ([Murphy et al., *NEJM* 2001](https://doi.org/10.1056/NEJM200102223440804)). It was withdrawn in 1999. Some public health experts argued that in poor countries, where rotavirus killed many more children, the benefit would still have outweighed the risk, but the vaccine was never used there. See [[intussusception-and-rotavirus-vaccines|intussusception and rotavirus vaccines]].
+The first vaccine, **RotaShield** (Wyeth), was licensed in the US in 1998. Within a year, VAERS reports and then controlled studies showed it caused **intussusception**, a bowel obstruction in which part of the intestine telescopes into itself, in roughly 1 in 10,000 vaccinated infants ([Murphy et al., *NEJM* 2001](https://doi.org/10.1056/NEJM200102223440804)). It was withdrawn in 1999. Some public health experts argued that in poor countries, where rotavirus killed many more children, the benefit would still have outweighed the risk, but the vaccine was never used there. See [intussusception and rotavirus vaccines](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md).
 
 ## Current vaccines
 
@@ -34,4 +34,4 @@ The January 2026 US schedule moved rotavirus vaccine to shared clinical decision
 
 ## Where this leads
 
-- [[intussusception-and-rotavirus-vaccines|Intussusception and rotavirus vaccines]]; [Post-market surveillance](../02-development-and-regulation/07-post-market-surveillance.md); [[paul-offit|Paul Offit]].
+- [Intussusception and rotavirus vaccines](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md); [Post-market surveillance](../02-development-and-regulation/07-post-market-surveillance.md); [[paul-offit|Paul Offit]].

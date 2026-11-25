@@ -55,7 +55,7 @@ Sugars cannot be displayed on MHC, so pure polysaccharide antigens (such as a ba
 
 ## HLA diversity
 
-Each person inherits a particular set of HLA genes, and there are thousands of variants in the human population. Different people therefore present different peptides from the same pathogen, which partly explains why individuals respond differently to the same vaccine, and why certain HLA types are linked to particular rare reactions. The narcolepsy linked to the Pandemrix vaccine, for example, occurred almost entirely in people carrying the HLA-DQB1*06:02 allele, which is also strongly linked to narcolepsy in general; see [[narcolepsy-and-pandemrix|narcolepsy and Pandemrix]].
+Each person inherits a particular set of HLA genes, and there are thousands of variants in the human population. Different people therefore present different peptides from the same pathogen, which partly explains why individuals respond differently to the same vaccine, and why certain HLA types are linked to particular rare reactions. The narcolepsy linked to the Pandemrix vaccine, for example, occurred almost entirely in people carrying the HLA-DQB1*06:02 allele, which is also strongly linked to narcolepsy in general; see [narcolepsy and Pandemrix](vaccines/06-adverse-events/07-narcolepsy-and-pandemrix.md).
 
 ## Key ideas
 

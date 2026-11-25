@@ -46,7 +46,7 @@ Two different questions are often confused:
 1. **General causation**: can this vaccine cause this condition at all, in anyone? Answered with population studies.
 2. **Specific causation**: did this vaccine cause *this* person's condition? Much harder, and often impossible to answer with certainty.
 
-Courts and compensation programmes have to decide specific causation, usually on the "balance of probabilities" (more likely than not). The US Vaccine Injury Compensation Program uses a [[the-vaccine-injury-table|table]] of presumed injuries to avoid this problem for well-established effects; see [[causality-assessment|causality assessment]] for the WHO's method for individual cases.
+Courts and compensation programmes have to decide specific causation, usually on the "balance of probabilities" (more likely than not). The US Vaccine Injury Compensation Program uses a [[the-vaccine-injury-table|table]] of presumed injuries to avoid this problem for well-established effects; see [causality assessment](../immunology/vaccines/06-adverse-events/13-causality-assessment.md) for the WHO's method for individual cases.
 
 ## Scientific reviews of causation
 

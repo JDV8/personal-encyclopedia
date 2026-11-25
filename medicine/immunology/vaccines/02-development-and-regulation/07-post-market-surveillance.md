@@ -24,7 +24,7 @@ As [the trials lesson](02-clinical-trial-phases.md) explained, pre-licensure tri
 
 ## Evaluating signals
 
-A signal is a hypothesis. Evaluating it requires controlled studies: cohort studies in health-record databases, [self-controlled case series](../../../epidemiology/09-self-controlled-designs.md) comparing risk windows after vaccination with other periods in the same people, case-control studies, and clinical review of individual cases against standard case definitions such as those of the Brighton Collaboration ([Bonhoeffer et al., *Vaccine* 2002 (Brighton Collaboration)](https://doi.org/10.1016/s0264-410x(02)00449-8)). Biological mechanism and consistency across countries are also weighed; see [[causality-assessment|causality assessment]].
+A signal is a hypothesis. Evaluating it requires controlled studies: cohort studies in health-record databases, [self-controlled case series](../../../epidemiology/09-self-controlled-designs.md) comparing risk windows after vaccination with other periods in the same people, case-control studies, and clinical review of individual cases against standard case definitions such as those of the Brighton Collaboration ([Bonhoeffer et al., *Vaccine* 2002 (Brighton Collaboration)](https://doi.org/10.1016/s0264-410x(02)00449-8)). Biological mechanism and consistency across countries are also weighed; see [causality assessment](../06-adverse-events/13-causality-assessment.md).
 
 ## Who runs it
 
@@ -34,9 +34,9 @@ In the US, surveillance is split among the CDC (VAERS with FDA, the Vaccine Safe
 
 Examples show both successes and limits:
 
-- **RotaShield and intussusception (1999).** VAERS reports of intussusception after the first rotavirus vaccine prompted investigation; controlled studies confirmed the risk ([Murphy et al., *NEJM* 2001](https://doi.org/10.1056/NEJM200102223440804)) and the vaccine was withdrawn within about a year of licensure. See [[intussusception-and-rotavirus-vaccines|intussusception and rotavirus vaccines]].
+- **RotaShield and intussusception (1999).** VAERS reports of intussusception after the first rotavirus vaccine prompted investigation; controlled studies confirmed the risk ([Murphy et al., *NEJM* 2001](https://doi.org/10.1056/NEJM200102223440804)) and the vaccine was withdrawn within about a year of licensure. See [intussusception and rotavirus vaccines](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md).
 - **MMRV and febrile seizures.** The Vaccine Safety Datalink found about one extra febrile seizure per 2,300 doses when MMRV was given as the first dose at 12–23 months, compared with separate MMR and varicella ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665)), leading to a preference for separate vaccines for the first dose in the US.
-- **Pandemrix and narcolepsy (2010).** Detected first by clinicians and national systems in Finland and Sweden, not by routine signal detection ([Nohynek et al., *PLoS One* 2012](https://doi.org/10.1371/journal.pone.0033536)). See [[narcolepsy-and-pandemrix|narcolepsy and Pandemrix]].
+- **Pandemrix and narcolepsy (2010).** Detected first by clinicians and national systems in Finland and Sweden, not by routine signal detection ([Nohynek et al., *PLoS One* 2012](https://doi.org/10.1371/journal.pone.0033536)). See [narcolepsy and Pandemrix](../06-adverse-events/07-narcolepsy-and-pandemrix.md).
 - **VITT and myocarditis (2021).** Rare clotting with adenovirus-vector COVID-19 vaccines was identified within weeks of mass rollout in Europe; myocarditis after mRNA vaccines was identified first in Israel and the US military, then confirmed in active systems ([Klein et al., *JAMA* 2021](https://doi.org/10.1001/jama.2021.15072); [Mevorach et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2109730)).
 
 Critics point out that the systems are run by the same agencies that recommend vaccines, which they see as a conflict, and that some signals (Pandemrix) were missed by formal systems. Defenders note that each of these signals was found, confirmed and acted on.

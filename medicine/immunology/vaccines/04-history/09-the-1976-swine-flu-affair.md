@@ -1,6 +1,6 @@
 # The 1976 swine flu affair
 
-**Prerequisites:** [Influenza](../03-diseases/influenza.md); [[guillain-barre-syndrome|Guillain-Barré syndrome]]
+**Prerequisites:** [Influenza](../03-diseases/influenza.md); [Guillain-Barré syndrome](../06-adverse-events/06-guillain-barre-syndrome.md)
 
 ![President Gerald Ford receiving a swine flu inoculation from the White House physician in October 1976](images/09-the-1976-swine-flu-affair.jpg)
 

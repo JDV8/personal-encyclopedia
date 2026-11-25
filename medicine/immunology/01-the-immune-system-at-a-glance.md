@@ -49,7 +49,7 @@ All blood cells come from stem cells in the bone marrow. The white blood cells (
 
 ## Self and non-self
 
-The immune system must attack invaders while leaving the body's own tissues alone. This is called **tolerance**. It is learned mostly during lymphocyte development: cells that react strongly to self-antigens are deleted or restrained. When tolerance fails, the result is **autoimmune disease** (for example type 1 diabetes, multiple sclerosis). Some claims about vaccines involve autoimmunity; the general mechanisms are in [when immunity goes wrong](09-when-immunity-goes-wrong.md), and specific claims are assessed in the [[d:immunology/vaccines/06-adverse-events|adverse events]] section.
+The immune system must attack invaders while leaving the body's own tissues alone. This is called **tolerance**. It is learned mostly during lymphocyte development: cells that react strongly to self-antigens are deleted or restrained. When tolerance fails, the result is **autoimmune disease** (for example type 1 diabetes, multiple sclerosis). Some claims about vaccines involve autoimmunity; the general mechanisms are in [when immunity goes wrong](09-when-immunity-goes-wrong.md), and specific claims are assessed in the [adverse events](vaccines/06-adverse-events/README.md) section.
 
 ## Scale
 
