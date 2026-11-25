@@ -35,4 +35,4 @@ In 2014, Kenya's Catholic bishops alleged that a WHO- and UNICEF-supported tetan
 
 ## Where this leads
 
-- [Diphtheria](diphtheria.md); [Pertussis](pertussis.md); [[pregnancy-adult-and-travel-vaccination|Pregnancy, adult and travel vaccination]].
+- [Diphtheria](diphtheria.md); [Pertussis](pertussis.md); [Pregnancy, adult and travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

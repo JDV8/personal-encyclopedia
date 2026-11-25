@@ -36,4 +36,4 @@ The most cost-effective way to prevent human rabies is to vaccinate dogs, which 
 
 ## Where this leads
 
-- [[louis-pasteur|Louis Pasteur]]; [[pregnancy-adult-and-travel-vaccination|travel vaccination]].
+- [[louis-pasteur|Louis Pasteur]]; [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

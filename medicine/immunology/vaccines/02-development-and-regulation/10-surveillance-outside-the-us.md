@@ -16,7 +16,7 @@ The **Yellow Card scheme**, run by the Medicines and Healthcare products Regulat
 
 ## European Union: EudraVigilance and PRAC
 
-**EudraVigilance**, run by the European Medicines Agency, collects reports of suspected adverse reactions from national authorities and manufacturers across the European Economic Area. Its Pharmacovigilance Risk Assessment Committee (PRAC) assesses signals and recommends regulatory action. During COVID-19, PRAC reviews led to warnings about VITT with the AstraZeneca and Janssen vaccines and myocarditis with mRNA vaccines. Public reports are available through a public portal. Several European countries, particularly the Nordic countries, have national registries linking every resident's vaccinations and health records, allowing very large population studies; see [[the-danish-and-nordic-schedules|the Danish and Nordic schedules]].
+**EudraVigilance**, run by the European Medicines Agency, collects reports of suspected adverse reactions from national authorities and manufacturers across the European Economic Area. Its Pharmacovigilance Risk Assessment Committee (PRAC) assesses signals and recommends regulatory action. During COVID-19, PRAC reviews led to warnings about VITT with the AstraZeneca and Janssen vaccines and myocarditis with mRNA vaccines. Public reports are available through a public portal. Several European countries, particularly the Nordic countries, have national registries linking every resident's vaccinations and health records, allowing very large population studies; see [the Danish and Nordic schedules](../05-schedules/05-the-danish-and-nordic-schedules.md).
 
 ## WHO: VigiBase and global safety
 

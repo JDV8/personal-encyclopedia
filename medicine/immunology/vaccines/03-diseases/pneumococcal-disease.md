@@ -35,4 +35,4 @@ Side effects are mostly local reactions, fever and irritability. When PCV13 and 
 
 ## Where this leads
 
-- [Hib](haemophilus-influenzae-type-b.md); [Meningococcal disease](meningococcal-disease.md); [[pregnancy-adult-and-travel-vaccination|adult vaccination]].
+- [Hib](haemophilus-influenzae-type-b.md); [Meningococcal disease](meningococcal-disease.md); [adult vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

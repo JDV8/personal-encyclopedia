@@ -34,4 +34,4 @@ A historical episode: in 1942, yellow fever vaccine given to US troops was stabi
 
 ## Where this leads
 
-- [Dengue](dengue.md) and [Japanese encephalitis](japanese-encephalitis.md), related flaviviruses; [[pregnancy-adult-and-travel-vaccination|travel vaccination]].
+- [Dengue](dengue.md) and [Japanese encephalitis](japanese-encephalitis.md), related flaviviruses; [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

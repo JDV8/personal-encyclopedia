@@ -34,4 +34,4 @@ Conjugate vaccines cause mainly local reactions. Bexsero causes fever in many in
 
 ## Where this leads
 
-- [Hib](haemophilus-influenzae-type-b.md); [Pneumococcal disease](pneumococcal-disease.md); [[canadas-schedule|Canada's schedule]].
+- [Hib](haemophilus-influenzae-type-b.md); [Pneumococcal disease](pneumococcal-disease.md); [Canada's schedule](../05-schedules/03-canadas-schedule.md).

@@ -32,4 +32,4 @@ The January 2026 US schedule moved hepatitis A from routine to high-risk groups 
 
 ## Where this leads
 
-- [Hepatitis B](hepatitis-b.md); [[pregnancy-adult-and-travel-vaccination|Travel vaccination]].
+- [Hepatitis B](hepatitis-b.md); [Travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

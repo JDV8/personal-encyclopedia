@@ -33,4 +33,4 @@ Early real-world data showed large falls in infant RSV hospitalisations where th
 
 ## Where this leads
 
-- [Passive and active immunity](../../08-passive-and-active-immunity.md); [[pregnancy-adult-and-travel-vaccination|Pregnancy vaccination]]; [[guillain-barre-syndrome|Guillain-Barré syndrome]].
+- [Passive and active immunity](../../08-passive-and-active-immunity.md); [Pregnancy vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md); [[guillain-barre-syndrome|Guillain-Barré syndrome]].

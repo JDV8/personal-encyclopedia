@@ -31,4 +31,4 @@ For travellers, the risk is low for short urban trips but higher for long stays 
 
 ## Where this leads
 
-- [Yellow fever](yellow-fever.md); [Dengue](dengue.md); [[pregnancy-adult-and-travel-vaccination|travel vaccination]].
+- [Yellow fever](yellow-fever.md); [Dengue](dengue.md); [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

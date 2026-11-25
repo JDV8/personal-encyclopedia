@@ -58,4 +58,4 @@ Active immunity can come from infection or from vaccination. Which gives "better
 ## Where this leads
 
 - Next: [When immunity goes wrong](09-when-immunity-goes-wrong.md).
-- Related: [[pregnancy-adult-and-travel-vaccination|vaccination in pregnancy, adults and travel]], [RSV](vaccines/03-diseases/rsv.md).
+- Related: [vaccination in pregnancy, adults and travel](vaccines/05-schedules/08-pregnancy-adult-and-travel-vaccination.md), [RSV](vaccines/03-diseases/rsv.md).

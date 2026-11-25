@@ -48,7 +48,7 @@ The route shapes which interventions work. Clean water nearly ended cholera and 
 
 ## Host factors
 
-Whether infection causes severe disease also depends on the host: age (newborns and the elderly are most vulnerable), immune status, nutrition (vitamin A deficiency makes measles far deadlier), pregnancy, and genetics. This is why schedules target particular ages and groups, covered in [[how-schedules-are-built|how schedules are built]].
+Whether infection causes severe disease also depends on the host: age (newborns and the elderly are most vulnerable), immune status, nutrition (vitamin A deficiency makes measles far deadlier), pregnancy, and genetics. This is why schedules target particular ages and groups, covered in [how schedules are built](../immunology/vaccines/05-schedules/01-how-schedules-are-built.md).
 
 ## Contagiousness varies hugely
 

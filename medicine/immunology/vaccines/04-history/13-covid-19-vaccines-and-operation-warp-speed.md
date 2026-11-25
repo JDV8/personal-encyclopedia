@@ -40,4 +40,4 @@ Supporters count the programme among the great scientific achievements of the ce
 ## Where this leads
 
 - Back to: [History](README.md).
-- Next section: [[d:immunology/vaccines/05-schedules|Schedules]].
+- Next section: [Schedules](../05-schedules/README.md).

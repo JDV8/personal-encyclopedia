@@ -55,4 +55,4 @@ Live vaccines can cause serious infection in severely immunocompromised people, 
 ## Where this leads
 
 - Next branch: [Epidemiology](../epidemiology/01-what-epidemiology-is.md).
-- Related: [[causality-assessment|causality assessment]], [[contraindications-and-precautions|contraindications and precautions]].
+- Related: [[causality-assessment|causality assessment]], [contraindications and precautions](vaccines/05-schedules/09-contraindications-and-precautions.md).

@@ -37,4 +37,4 @@ Side effects are mostly sore arms and mild fever; anaphylaxis is rare. In the 19
 
 ## Where this leads
 
-- [Hepatitis A](hepatitis-a.md); [HPV](hpv.md), the other cancer-preventing vaccine; [[the-us-schedule|the US schedule]].
+- [Hepatitis A](hepatitis-a.md); [HPV](hpv.md), the other cancer-preventing vaccine; [the US schedule](../05-schedules/02-the-us-schedule.md).
