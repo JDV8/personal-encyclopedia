@@ -2,9 +2,9 @@
 
 **Prerequisites:** [P-hacking and researcher degrees of freedom](04-p-hacking.md) and [Falsifiability](../01-foundations/02-falsifiability-and-theories.md).
 
-![The Texas sharpshooter fallacy: drawing the target around the bullet holes after shooting](images/05-harking.jpg)
+![Randomly generated points that appear to cluster, illustrating the Texas sharpshooter fallacy](images/05-harking.jpg)
 
-*The Texas sharpshooter fallacy: drawing the target around the bullet holes after shooting. Credit: Blythwood. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Texas Sharpshooter Fallacy illustration.png](https://commons.wikimedia.org/wiki/File:Texas_Sharpshooter_Fallacy_illustration.png).*
+*Randomly generated points that appear to cluster, illustrating the Texas sharpshooter fallacy. Credit: Blythwood. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Texas Sharpshooter Fallacy illustration.png](https://commons.wikimedia.org/wiki/File:Texas_Sharpshooter_Fallacy_illustration.png).*
 
 **HARKing** stands for **Hypothesizing After the Results are Known**. It means presenting a hypothesis that was formed after seeing the data as if it had been the plan all along. The social psychologist Norbert Kerr named and analysed the practice in a 1998 paper in *Personality and Social Psychology Review*.
 

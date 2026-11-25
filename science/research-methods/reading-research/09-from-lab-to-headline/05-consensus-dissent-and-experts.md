@@ -2,7 +2,9 @@
 
 **Prerequisites:** [How a claim becomes knowledge](../01-foundations/05-how-a-claim-becomes-knowledge.md) and [Weighing conflicts without ad hominem](../08-funding-and-conflicts/05-weighing-conflicts-without-ad-hominem.md).
 
-@@IMG@@
+![Diagram of Helicobacter pylori, shown by Marshall and Warren to cause most peptic ulcers](images/05-consensus-dissent-and-experts.jpg)
+
+*Diagram of Helicobacter pylori, shown by Marshall and Warren to cause most peptic ulcers. Credit: Y tambe. License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). Source: [File:Helicobacter pylori diagram.png](https://commons.wikimedia.org/wiki/File:Helicobacter_pylori_diagram.png).*
 
 Most of us cannot evaluate every study on every topic ourselves. We rely on experts, scientific bodies and the overall consensus of researchers. But experts have been wrong, consensus has shifted, and dissenters have sometimes been right. How should a reader weigh consensus against dissent?
 

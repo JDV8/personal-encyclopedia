@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Case-control studies](../03-study-designs/05-case-control-studies.md), [Bradford Hill criteria](../04-causation/09-bradford-hill-criteria.md) and [How funding shapes results](../08-funding-and-conflicts/03-how-funding-shapes-results.md).
 
-@@IMG@@
+![Cigarette smoking prevalence among US adults since 1965, the year after the Surgeon General's report](images/01-tobacco-industry-research.jpg)
+
+*Cigarette smoking prevalence among US adults since 1965, the year after the Surgeon General's report. Credit: RCraig09. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:1965- Cigarette smoking prevalence in the US.svg](https://commons.wikimedia.org/wiki/File:1965-_Cigarette_smoking_prevalence_in_the_US.svg).*
 
 The story of smoking and lung cancer is both a triumph of epidemiology and the textbook example of an industry manufacturing doubt. It shaped modern thinking about causation, conflicts of interest and the ethics of research funding.
 

@@ -2,9 +2,9 @@
 
 **Prerequisites:** [How journals work](01-how-journals-work.md).
 
-![Illustration of the scientific peer-review process](images/02-peer-review.jpg)
+![A reviewer at the US National Institutes of Health evaluating a grant proposal; journal peer review works in a similar way](images/02-peer-review.jpg)
 
-*Illustration of the scientific peer-review process. Credit: Center for Scientific Review [2]. License: Public domain. Source: [File:ScientificReview.jpg](https://commons.wikimedia.org/wiki/File:ScientificReview.jpg).*
+*A reviewer at the US National Institutes of Health evaluating a grant proposal; journal peer review works in a similar way. Credit: Center for Scientific Review [2]. License: Public domain. Source: [File:ScientificReview.jpg](https://commons.wikimedia.org/wiki/File:ScientificReview.jpg).*
 
 **Peer review** is the evaluation of a research paper by other experts before publication. It is often presented as a seal of quality: "peer-reviewed" is used in news stories and arguments as if it meant "true". It is better understood as a useful but limited filter.
 

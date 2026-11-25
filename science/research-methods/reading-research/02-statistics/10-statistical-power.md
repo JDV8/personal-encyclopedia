@@ -2,9 +2,9 @@
 
 **Prerequisites:** [Misreading p-values](09-misreading-p-values.md).
 
-![Statistical power as the area of the alternative distribution beyond the significance threshold](images/10-statistical-power.jpg)
+![Statistical power curves (here for multilevel models), showing power rising as the effect size grows](images/10-statistical-power.jpg)
 
-*Statistical power as the area of the alternative distribution beyond the significance threshold. Credit: Mariahmcd11. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Statistical Power Graph.jpg](https://commons.wikimedia.org/wiki/File:Statistical_Power_Graph.jpg).*
+*Statistical power curves (here for multilevel models), showing power rising as the effect size grows. Credit: Mariahmcd11. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Statistical Power Graph.jpg](https://commons.wikimedia.org/wiki/File:Statistical_Power_Graph.jpg).*
 
 A study that is too small is like a dim torch in a big room: if it finds nothing, you cannot conclude the room is empty. **Statistical power** measures how bright the torch is, and low power turns out to cause problems not only for null results but for positive ones too.
 

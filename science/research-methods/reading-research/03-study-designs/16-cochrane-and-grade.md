@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Meta-analysis](15-meta-analysis.md).
 
-@@IMG@@
+![Logo of the Cochrane Library, where Cochrane reviews are published; the Cochrane symbol is based on a forest plot](images/16-cochrane-and-grade.jpg)
+
+*Logo of the Cochrane Library, where Cochrane reviews are published; the Cochrane symbol is based on a forest plot. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Cochrane-logo.jpg](https://commons.wikimedia.org/wiki/File:Cochrane-logo.jpg).*
 
 Two institutions dominate how medical evidence is synthesised and graded today: **Cochrane**, which produces systematic reviews, and the **GRADE** framework, which rates how certain a body of evidence is. You will see both cited in guidelines, news stories and arguments, so it pays to know what they are and how they work.
 

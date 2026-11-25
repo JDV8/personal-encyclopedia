@@ -2,9 +2,9 @@
 
 **Prerequisites:** [Regression models and adjustment](18-regression-and-adjustment.md) and [Relative and absolute risk](12-relative-and-absolute-risk.md).
 
-![Worked calculation of an odds ratio](images/19-odds-ratios-and-hazard-ratios.jpg)
+![How the odds ratio relates to the risk ratio at different baseline risks: the two diverge as events become common](images/19-odds-ratios-and-hazard-ratios.jpg)
 
-*Worked calculation of an odds ratio. Credit: Julia.record. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Odds Ratio-1.jpg](https://commons.wikimedia.org/wiki/File:Odds_Ratio-1.jpg).*
+*How the odds ratio relates to the risk ratio at different baseline risks: the two diverge as events become common. Credit: D Wells. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Risk Ratio vs Odds Ratio.svg](https://commons.wikimedia.org/wiki/File:Risk_Ratio_vs_Odds_Ratio.svg).*
 
 Medical papers report relative effects in three main forms: the **risk ratio**, the **odds ratio** and the **hazard ratio**. They look alike (a number around 1, with a confidence interval) but are not the same, and treating them as interchangeable can exaggerate effects.
 

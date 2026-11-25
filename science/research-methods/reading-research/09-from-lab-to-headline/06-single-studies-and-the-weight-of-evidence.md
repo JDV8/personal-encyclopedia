@@ -2,9 +2,9 @@
 
 **Prerequisites:** [Meta-analysis](../03-study-designs/15-meta-analysis.md), [The replication crisis](../06-research-integrity/07-the-replication-crisis.md) and [Base rates and Bayes' theorem](../02-statistics/14-base-rates-and-bayes-theorem.md).
 
-![The OPERA neutrino detector, whose apparent faster-than-light result was traced to equipment faults](images/06-single-studies-and-the-weight-of-evidence.jpg)
+![Reconstruction of a neutrino interaction in the OPERA experiment, whose 2011 faster-than-light timing result was traced to equipment faults](images/06-single-studies-and-the-weight-of-evidence.jpg)
 
-*The OPERA neutrino detector, whose apparent faster-than-light result was traced to equipment faults. Credit: CERN PhotoLab. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:OPERA neutrino.jpg](https://commons.wikimedia.org/wiki/File:OPERA_neutrino.jpg).*
+*Reconstruction of a neutrino interaction in the OPERA experiment, whose 2011 faster-than-light timing result was traced to equipment faults. Credit: CERN PhotoLab. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:OPERA neutrino.jpg](https://commons.wikimedia.org/wiki/File:OPERA_neutrino.jpg).*
 
 "New study shows..." is the most common opening in science news. But a single study rarely settles anything. Its result is one data point in a larger body of evidence, and how much it should change your mind depends on its quality and on what was known before.
 

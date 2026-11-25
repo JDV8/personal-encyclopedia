@@ -2,9 +2,9 @@
 
 **Prerequisites:** [Observation, measurement and experiment](03-observation-measurement-and-experiment.md).
 
-![Cover of an early issue of the Philosophical Transactions of the Royal Society, the oldest continuously published science journal](images/04-norms-of-science.jpg)
+![A cover of the Philosophical Transactions of the Royal Society, published since 1665](images/04-norms-of-science.jpg)
 
-*Cover of an early issue of the Philosophical Transactions of the Royal Society, the oldest continuously published science journal. Credit: AnonymousUnknown author. License: Public domain. Source: [File:Philosophical Transactions of the Royal Society cover.jpg](https://commons.wikimedia.org/wiki/File:Philosophical_Transactions_of_the_Royal_Society_cover.jpg).*
+*A cover of the Philosophical Transactions of the Royal Society, published since 1665. Credit: AnonymousUnknown author. License: Public domain. Source: [File:Philosophical Transactions of the Royal Society cover.jpg](https://commons.wikimedia.org/wiki/File:Philosophical_Transactions_of_the_Royal_Society_cover.jpg).*
 
 Science is carried out by people working in institutions: universities, companies, government agencies, journals and funders. Those institutions run on shared expectations about how scientists should behave. Knowing the ideals, and how far practice falls short of them, helps you understand why some results deserve more trust than others.
 

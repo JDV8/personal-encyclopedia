@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Ecological studies](03-ecological-studies.md).
 
-@@IMG@@
+![A census enumerator at work; censuses and surveys are cross-sectional snapshots of a population](images/04-cross-sectional-studies.jpg)
+
+*A census enumerator at work; censuses and surveys are cross-sectional snapshots of a population. Credit: Kaiyr. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Enumerator in census of Kazakhstan 2021.jpg](https://commons.wikimedia.org/wiki/File:Enumerator_in_census_of_Kazakhstan_2021.jpg).*
 
 A **cross-sectional study** measures exposures and outcomes in a group of individuals at a single point in time, like a snapshot. National health surveys, polls about health behaviours and studies that measure blood pressure and salt intake in the same people on the same day are all cross-sectional. They are the right tool for asking *how common* something is, and a weak tool for asking *what causes* it.
 

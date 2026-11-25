@@ -2,9 +2,9 @@
 
 **Prerequisites:** [Effect sizes](11-effect-sizes.md).
 
-![Risk ratio and odds ratio calculated from the same two-by-two table](images/12-relative-and-absolute-risk.jpg)
+![A hypothetical drug that cuts deaths from 10% to 8%: a 20% relative reduction, but only a 2-percentage-point absolute reduction](images/12-relative-and-absolute-risk.jpg)
 
-*Risk ratio and odds ratio calculated from the same two-by-two table. Credit: D Wells. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Risk Ratio vs Odds Ratio.svg](https://commons.wikimedia.org/wiki/File:Risk_Ratio_vs_Odds_Ratio.svg).*
+*A hypothetical drug that cuts deaths from 10% to 8%: a 20% relative reduction, but only a 2-percentage-point absolute reduction. Credit: Stetzy. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Nnt-explained2.png](https://commons.wikimedia.org/wiki/File:Nnt-explained2.png).*
 
 "New drug cuts heart attack risk by 50%!" sounds impressive. Whether it is depends on a number the headline leaves out: how common heart attacks were in the first place. The distinction between **relative** and **absolute** risk is probably the most practically useful idea in this whole course.
 
