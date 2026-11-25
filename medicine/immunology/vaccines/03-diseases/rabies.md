@@ -14,7 +14,7 @@ Rabies kills tens of thousands of people a year, mostly in Asia and Africa, 40% 
 
 ## Pasteur and the first rabies vaccine
 
-In July 1885 Louis Pasteur and his colleagues treated nine-year-old Joseph Meister, who had been badly bitten by a rabid dog, with a series of injections of dried spinal cord from rabbits infected with rabies. Meister survived, and Pasteur became famous. The treatment was ethically controversial even then: Pasteur was not a physician, had limited animal data, and his private notebooks, studied by historian Gerald Geison in the 1990s, showed his public accounts of earlier experiments were not fully accurate. See [[louis-pasteur|Louis Pasteur]] and [Pasteur and the germ theory vaccines](../04-history/04-pasteur-and-the-germ-theory-vaccines.md).
+In July 1885 Louis Pasteur and his colleagues treated nine-year-old Joseph Meister, who had been badly bitten by a rabid dog, with a series of injections of dried spinal cord from rabbits infected with rabies. Meister survived, and Pasteur became famous. The treatment was ethically controversial even then: Pasteur was not a physician, had limited animal data, and his private notebooks, studied by historian Gerald Geison in the 1990s, showed his public accounts of earlier experiments were not fully accurate. See [Louis Pasteur](../10-people/louis-pasteur.md) and [Pasteur and the germ theory vaccines](../04-history/04-pasteur-and-the-germ-theory-vaccines.md).
 
 Early nerve-tissue vaccines caused serious neurological reactions (allergic encephalomyelitis) in a small share of recipients. Modern vaccines, grown in cell culture since the 1970s, are far safer, causing mostly local reactions and headache.
 
@@ -36,4 +36,4 @@ The most cost-effective way to prevent human rabies is to vaccinate dogs, which 
 
 ## Where this leads
 
-- [[louis-pasteur|Louis Pasteur]]; [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).
+- [Louis Pasteur](../10-people/louis-pasteur.md); [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

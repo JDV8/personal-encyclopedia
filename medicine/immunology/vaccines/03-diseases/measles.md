@@ -38,4 +38,4 @@ MMR is at the centre of the most famous vaccine controversy: Andrew Wakefield's 
 ## Where this leads
 
 - [Mumps](mumps.md) and [rubella](rubella.md), the other components of MMR.
-- [MMR and autism](../07-controversies/01-mmr-and-autism.md); [[maurice-hilleman|Maurice Hilleman]], who developed MMR.
+- [MMR and autism](../07-controversies/01-mmr-and-autism.md); [Maurice Hilleman](../10-people/maurice-hilleman.md), who developed MMR.

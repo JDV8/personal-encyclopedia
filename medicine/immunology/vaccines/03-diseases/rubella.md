@@ -41,4 +41,4 @@ Because the RA 27/3 strain was developed in a cell line from an aborted fetus, s
 
 ## Where this leads
 
-- [Measles](measles.md); [Mumps](mumps.md); [[stanley-plotkin|Stanley Plotkin]].
+- [Measles](measles.md); [Mumps](mumps.md); [Stanley Plotkin](../10-people/stanley-plotkin.md).

@@ -41,4 +41,4 @@ In 1960 Ben Sweet and Maurice Hilleman at Merck identified a monkey virus, **SV4
 ## Where this leads
 
 - Next: [Smallpox eradication](07-smallpox-eradication.md).
-- People: [[jonas-salk|Jonas Salk]]; [[albert-sabin|Albert Sabin]].
+- People: [Jonas Salk](../10-people/jonas-salk.md); [Albert Sabin](../10-people/albert-sabin.md).

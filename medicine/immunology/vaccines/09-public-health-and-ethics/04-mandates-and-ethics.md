@@ -60,5 +60,5 @@ Countries vary widely. The US relies on school-entry requirements set by states;
 
 ## Where this leads
 
-- Next: [[d:immunology/vaccines/10-people|People in vaccine history]].
+- Next: [People in vaccine history](../10-people/README.md).
 - Terms used throughout the course are defined in the [[p:medicine/glossary/README.md|medicine glossary]].

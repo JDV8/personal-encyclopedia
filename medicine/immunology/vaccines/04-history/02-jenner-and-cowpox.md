@@ -28,7 +28,7 @@ The virus used for smallpox vaccination in the 20th century, **vaccinia**, is no
 
 ## Assessment
 
-Jenner did not understand immunology, and his claim that vaccination gave lifelong protection was wrong (revaccination was later found necessary). But his work replaced the dangerous practice of variolation with a far safer one and led eventually to the eradication of smallpox. See [smallpox eradication](07-smallpox-eradication.md) and [[edward-jenner|Edward Jenner]].
+Jenner did not understand immunology, and his claim that vaccination gave lifelong protection was wrong (revaccination was later found necessary). But his work replaced the dangerous practice of variolation with a far safer one and led eventually to the eradication of smallpox. See [smallpox eradication](07-smallpox-eradication.md) and [Edward Jenner](../10-people/edward-jenner.md).
 
 Opposition to vaccination began almost immediately, on religious, medical and political grounds, and grew when governments made it compulsory. See [compulsory vaccination and the anti-vaccination leagues](03-compulsory-vaccination-and-the-anti-vaccination-leagues.md).
 

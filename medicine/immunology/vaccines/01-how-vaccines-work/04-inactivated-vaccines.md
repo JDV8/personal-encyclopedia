@@ -56,4 +56,4 @@ Most injected influenza vaccines are not whole killed virus. They are **split** 
 ## Where this leads
 
 - Next: [Toxoid vaccines](05-toxoid-vaccines.md).
-- Related: [polio](../03-diseases/polio.md), [[jonas-salk|Jonas Salk]].
+- Related: [polio](../03-diseases/polio.md), [Jonas Salk](../10-people/jonas-salk.md).

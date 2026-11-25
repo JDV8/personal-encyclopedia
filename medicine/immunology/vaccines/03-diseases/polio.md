@@ -35,4 +35,4 @@ Polio vaccines were at the centre of several controversies: the 1955 [Cutter inc
 
 ## Where this leads
 
-- [The polio eradication campaign](../04-history/08-polio-eradication.md); [[jonas-salk|Jonas Salk]]; [[albert-sabin|Albert Sabin]].
+- [The polio eradication campaign](../04-history/08-polio-eradication.md); [Jonas Salk](../10-people/jonas-salk.md); [Albert Sabin](../10-people/albert-sabin.md).

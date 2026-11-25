@@ -14,7 +14,7 @@ Growing viruses in cell culture, made possible by John Enders, Thomas Weller and
 - **Mumps**: Hilleman's Jeryl Lynn strain, licensed in 1967.
 - **Rubella**: vaccines licensed in 1969, after the 1964–65 epidemic; Stanley Plotkin's RA 27/3 strain later became standard.
 
-Merck combined the three as **MMR** in 1971. Fewer injections improved coverage. See [[maurice-hilleman|Maurice Hilleman]].
+Merck combined the three as **MMR** in 1971. Fewer injections improved coverage. See [Maurice Hilleman](../10-people/maurice-hilleman.md).
 
 ## From one dose to two
 

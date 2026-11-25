@@ -31,7 +31,7 @@ These killed-bacteria vaccines were crude by modern standards and often caused s
 
 ## Legacy
 
-Pasteur's work turned vaccination from a single empirical trick into a method that could be applied to any pathogen that could be grown and weakened. The Pasteur Institute and its overseas branches went on to develop BCG, yellow fever vaccines and much else. See [[louis-pasteur|Louis Pasteur]] and [early vaccines: toxoids and BCG](05-early-vaccines-toxoids-and-bcg.md).
+Pasteur's work turned vaccination from a single empirical trick into a method that could be applied to any pathogen that could be grown and weakened. The Pasteur Institute and its overseas branches went on to develop BCG, yellow fever vaccines and much else. See [Louis Pasteur](../10-people/louis-pasteur.md) and [early vaccines: toxoids and BCG](05-early-vaccines-toxoids-and-bcg.md).
 
 ## Key ideas
 

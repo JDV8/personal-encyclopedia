@@ -34,4 +34,4 @@ The January 2026 US schedule moved rotavirus vaccine to shared clinical decision
 
 ## Where this leads
 
-- [Intussusception and rotavirus vaccines](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md); [Post-market surveillance](../02-development-and-regulation/07-post-market-surveillance.md); [[paul-offit|Paul Offit]].
+- [Intussusception and rotavirus vaccines](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md); [Post-market surveillance](../02-development-and-regulation/07-post-market-surveillance.md); [Paul Offit](../10-people/paul-offit.md).
