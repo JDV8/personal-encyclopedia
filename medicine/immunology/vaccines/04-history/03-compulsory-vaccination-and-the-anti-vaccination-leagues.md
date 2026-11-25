@@ -1,8 +1,10 @@
 # Compulsory vaccination and the anti-vaccination leagues
 
-**Prerequisites:** [[jenner-and-cowpox|Jenner and cowpox]]
+**Prerequisites:** [Jenner and cowpox](02-jenner-and-cowpox.md)
 
-@@IMG:S:anti-vaccination Leicester 1885 demonstration|Anti-vaccination protest in Victorian England@@
+![A Victorian-era smallpox pustule gauge, used by public vaccinators in Edinburgh to check that a vaccination had "taken" (1870–1930)](images/03-compulsory-vaccination-and-the-anti-vaccination-leagues.jpg)
+
+*A Victorian-era smallpox pustule gauge, used by public vaccinators in Edinburgh to check that a vaccination had "taken" (1870–1930). Credit: https://wellcomeimages.org/indexplus/obf_images/32/bd/80dbb40cc4f29e83a7da92ee4293.jpg Gallery: https://wellcomeimages.org/indexplus/image/L. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Smallpox pustule gauge, Edinburgh, Scotland, 1870-1930 Wellcome L0057753.jpg](https://commons.wikimedia.org/wiki/File:Smallpox_pustule_gauge,_Edinburgh,_Scotland,_1870-1930_Wellcome_L0057753.jpg).*
 
 ## Britain makes vaccination compulsory
 
@@ -21,7 +23,7 @@ Some of these arguments had merit at the time (the safety and waning-protection 
 
 ## Leicester
 
-The industrial town of **Leicester** became the movement's centre. On 23 March 1885 a huge demonstration, with estimates of 80,000 to 100,000 people, marched against compulsion. Local vaccination rates collapsed, and the town's guardians stopped prosecuting objectors. Instead, Leicester adopted the **"Leicester method"**: rapid notification of cases, isolation of patients in a fever hospital, quarantine of contacts and disinfection of homes ([[c:fraser1980]]). The town avoided the severe epidemics critics predicted, which anti-vaccinationists cited as proof that vaccination was unnecessary.
+The industrial town of **Leicester** became the movement's centre. On 23 March 1885 a huge demonstration, with estimates of 80,000 to 100,000 people, marched against compulsion. Local vaccination rates collapsed, and the town's guardians stopped prosecuting objectors. Instead, Leicester adopted the **"Leicester method"**: rapid notification of cases, isolation of patients in a fever hospital, quarantine of contacts and disinfection of homes ([Fraser, *Medical History* 1980](https://doi.org/10.1017/s0025727300040345)). The town avoided the severe epidemics critics predicted, which anti-vaccinationists cited as proof that vaccination was unnecessary.
 
 Historians note that Leicester's method resembled the surveillance and containment later used to eradicate smallpox, but that it depended on many contacts and health workers having been vaccinated, and that smallpox was declining in virulence in Britain at the time (the milder variola minor became dominant in the 20th century).
 
@@ -31,7 +33,7 @@ A **Royal Commission on Vaccination** (1889–1896) concluded that vaccination p
 
 ## The United States
 
-Compulsion in the US was set by states and cities, often triggered by epidemics, and resisted by groups such as the Anti-Vaccination Society of America (1879). In **Jacobson v. Massachusetts** (1905) the US Supreme Court upheld a Cambridge, Massachusetts, requirement during a smallpox epidemic: Henning Jacobson had refused vaccination and been fined five dollars ([[c:jacobson1905]]). The Court held that states may use their police power to protect public health, while noting that requirements must not be arbitrary or oppressive and might not apply to someone for whom vaccination would be cruel. In **Zucht v. King** (1922) the Court upheld school vaccination requirements ([[c:zucht1922]]).
+Compulsion in the US was set by states and cities, often triggered by epidemics, and resisted by groups such as the Anti-Vaccination Society of America (1879). In **Jacobson v. Massachusetts** (1905) the US Supreme Court upheld a Cambridge, Massachusetts, requirement during a smallpox epidemic: Henning Jacobson had refused vaccination and been fined five dollars ([*Jacobson v. Massachusetts*, 197 U.S. 11 (1905)](https://www.law.cornell.edu/supremecourt/text/197/11)). The Court held that states may use their police power to protect public health, while noting that requirements must not be arbitrary or oppressive and might not apply to someone for whom vaccination would be cruel. In **Zucht v. King** (1922) the Court upheld school vaccination requirements ([*Zucht v. King*, 260 U.S. 174 (1922)](https://www.law.cornell.edu/supremecourt/text/260/174)).
 
 Jacobson had a dark sequel: in *Buck v. Bell* (1927), Justice Oliver Wendell Holmes cited it to uphold forced sterilisation, writing that "the principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes." Critics of mandates cite this as a warning about deferring to public health authority; defenders say *Buck* was a misuse of Jacobson. See [[mandates-and-ethics|mandates and ethics]] and [[mandate-cases-jacobson-to-covid|mandate cases from Jacobson to COVID]].
 
@@ -44,4 +46,4 @@ Jacobson had a dark sequel: in *Buck v. Bell* (1927), Justice Oliver Wendell Hol
 
 ## Where this leads
 
-- Next: [[pasteur-and-the-germ-theory-vaccines|Pasteur and the germ theory vaccines]].
+- Next: [Pasteur and the germ theory vaccines](04-pasteur-and-the-germ-theory-vaccines.md).

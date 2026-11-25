@@ -1,8 +1,10 @@
 # Variolation
 
-**Prerequisites:** [[smallpox|Smallpox]]; [[immunological-memory|Immunological memory]]
+**Prerequisites:** [Smallpox](../03-diseases/smallpox.md); [Immunological memory](../../07-immunological-memory.md)
 
-@@IMG:W:Lady Mary Wortley Montagu|Lady Mary Wortley Montagu, who promoted variolation in England after seeing it in Constantinople@@
+![Lady Mary Wortley Montagu, who promoted variolation in England after seeing it in Constantinople](images/01-variolation.jpg)
+
+*Lady Mary Wortley Montagu, who promoted variolation in England after seeing it in Constantinople. Credit: Jonathan Richardson the younger. License: Public domain. Source: [File:Jonathan_Richardson_d._J._001.jpg](https://commons.wikimedia.org/wiki/File:Jonathan_Richardson_d._J._001.jpg).*
 
 ## The idea
 
@@ -13,7 +15,7 @@ Long before anyone knew about viruses or immune systems, people noticed that sma
 Two routes brought variolation to the English-speaking world in the same year, 1721.
 
 - **Lady Mary Wortley Montagu**, wife of the British ambassador to the Ottoman Empire and herself scarred by smallpox, saw variolation in Constantinople and had her son inoculated there in 1718. During a London epidemic in 1721 she had her daughter inoculated in front of court physicians. That year six condemned prisoners at Newgate were variolated in the "Royal Experiment" in exchange for pardons; all survived, and members of the royal family were then inoculated.
-- In **Boston**, the minister Cotton Mather had learned of the practice from Onesimus, an enslaved West African man, and from reports in the Royal Society's journal. During the 1721 epidemic, the physician Zabdiel Boylston inoculated about 240 people. Mather and Boylston reported that about 2% of those inoculated died, compared with about 14% of people who caught smallpox naturally in the epidemic, one of the earliest uses of numerical comparison to evaluate a medical intervention ([[c:riedel2005]]). Boston's other doctors bitterly opposed them, and a bomb was thrown through Mather's window.
+- In **Boston**, the minister Cotton Mather had learned of the practice from Onesimus, an enslaved West African man, and from reports in the Royal Society's journal. During the 1721 epidemic, the physician Zabdiel Boylston inoculated about 240 people. Mather and Boylston reported that about 2% of those inoculated died, compared with about 14% of people who caught smallpox naturally in the epidemic, one of the earliest uses of numerical comparison to evaluate a medical intervention ([Riedel, *Baylor University Medical Center Proceedings* 2005](https://doi.org/10.1080/08998280.2005.11928028)). Boston's other doctors bitterly opposed them, and a bomb was thrown through Mather's window.
 
 ## Risks and benefits
 
@@ -34,4 +36,4 @@ Once Jenner's cowpox vaccination (1796) offered similar protection without the r
 
 ## Where this leads
 
-- Next: [[jenner-and-cowpox|Jenner and cowpox]].
+- Next: [Jenner and cowpox](02-jenner-and-cowpox.md).

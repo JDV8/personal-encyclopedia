@@ -31,7 +31,7 @@ The idea is decades old; making it work required several advances:
 
 Moderna's mRNA-1273 and Pfizer–BioNTech's BNT162b2 were the first mRNA vaccines authorised, in December 2020, less than a year after the virus's genome was published. Their phase 3 trials reported about 94–95% efficacy against symptomatic COVID-19 over the first months ([Polack et al., *NEJM* 2020 (BNT162b2 trial)](https://doi.org/10.1056/NEJMoa2034577); [Baden et al., *NEJM* 2021 (mRNA-1273 trial)](https://doi.org/10.1056/NEJMoa2035389)). Effectiveness against infection later fell with waning and with the Omicron variants, while protection against severe disease was better maintained, particularly after boosters. Updated versions have targeted newer variants.
 
-The speed raised understandable concerns. It was achieved by building on years of prior platform research, running trial phases in overlapping fashion, manufacturing at financial risk before results (see [[covid-19-vaccines-and-operation-warp-speed|Operation Warp Speed]]), and having very high case rates during trials, which yielded results quickly. The trials enrolled tens of thousands, but rarer side effects emerged only with wider use.
+The speed raised understandable concerns. It was achieved by building on years of prior platform research, running trial phases in overlapping fashion, manufacturing at financial risk before results (see [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md)), and having very high case rates during trials, which yielded results quickly. The trials enrolled tens of thousands, but rarer side effects emerged only with wider use.
 
 ## Known risks
 

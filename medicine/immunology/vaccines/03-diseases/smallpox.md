@@ -16,13 +16,13 @@ Smallpox is believed to have existed for at least 3,000 years ([WHO smallpox hea
 
 ## The vaccine
 
-Smallpox vaccination began with Edward Jenner's 1796 experiment using cowpox, following centuries of [[variolation|variolation]] (deliberate infection with smallpox itself). The vaccine used in the 20th century was **vaccinia**, a related orthopoxvirus of uncertain origin, given by scratching the skin with a bifurcated needle; a successful "take" left a scar. See [[jenner-and-cowpox|Jenner and cowpox]].
+Smallpox vaccination began with Edward Jenner's 1796 experiment using cowpox, following centuries of [variolation](../04-history/01-variolation.md) (deliberate infection with smallpox itself). The vaccine used in the 20th century was **vaccinia**, a related orthopoxvirus of uncertain origin, given by scratching the skin with a bifurcated needle; a successful "take" left a scar. See [Jenner and cowpox](../04-history/02-jenner-and-cowpox.md).
 
 Vaccinia caused more serious adverse events than any vaccine in routine use today: generalised vaccinia, eczema vaccinatum in people with eczema, progressive vaccinia in people with immune defects (often fatal), post-vaccinal encephalitis, and roughly one death per million first vaccinations in US surveys of the 1960s. When US vaccination of military personnel and health workers resumed in 2002–2003 because of bioterrorism concerns, myocarditis was identified as a further risk. Routine vaccination ended in the US in 1972 because the risk from the vaccine exceeded the risk of disease. Newer vaccines include ACAM2000 (a vaccinia vaccine grown in cell culture) and the non-replicating MVA vaccine (Jynneos/Imvanex/Imvamune), also used against [mpox](mpox.md).
 
 ## Eradication
 
-WHO launched an intensified eradication programme in 1967. Mass vaccination alone was not enough in densely populated areas; the decisive strategy was **surveillance and containment** ("ring vaccination"): finding cases quickly and vaccinating their contacts. The last natural case was Ali Maow Maalin in Somalia in 1977, and WHO declared smallpox eradicated in 1980, the only human disease so far eradicated ([WHO smallpox health topic](https://www.who.int/health-topics/smallpox)). A medical photographer, Janet Parker, died in 1978 after a laboratory-acquired infection in Birmingham, England. See [[smallpox-eradication|smallpox eradication]].
+WHO launched an intensified eradication programme in 1967. Mass vaccination alone was not enough in densely populated areas; the decisive strategy was **surveillance and containment** ("ring vaccination"): finding cases quickly and vaccinating their contacts. The last natural case was Ali Maow Maalin in Somalia in 1977, and WHO declared smallpox eradicated in 1980, the only human disease so far eradicated ([WHO smallpox health topic](https://www.who.int/health-topics/smallpox)). A medical photographer, Janet Parker, died in 1978 after a laboratory-acquired infection in Birmingham, England. See [smallpox eradication](../04-history/07-smallpox-eradication.md).
 
 ## After eradication
 
@@ -36,4 +36,4 @@ Official stocks of variola virus are kept at two laboratories: the CDC in Atlant
 
 ## Where this leads
 
-- [[smallpox-eradication|Smallpox eradication]]; [[eradication-and-elimination|Eradication and elimination]]; [Mpox](mpox.md).
+- [Smallpox eradication](../04-history/07-smallpox-eradication.md); [[eradication-and-elimination|Eradication and elimination]]; [Mpox](mpox.md).

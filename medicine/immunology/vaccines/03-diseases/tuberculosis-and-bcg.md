@@ -37,4 +37,4 @@ After decades of failure, a protein-adjuvant vaccine, **M72/AS01E**, showed abou
 
 ## Where this leads
 
-- [[early-vaccines-toxoids-and-bcg|Early vaccines: toxoids and BCG]]; [T cells](../../06-t-cells.md).
+- [Early vaccines: toxoids and BCG](../04-history/05-early-vaccines-toxoids-and-bcg.md); [T cells](../../06-t-cells.md).

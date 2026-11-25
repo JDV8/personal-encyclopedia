@@ -33,4 +33,4 @@ HPV vaccines have attracted more safety controversy than most. Reports of chroni
 
 ## Where this leads
 
-- [Hepatitis B](hepatitis-b.md), the other cancer-preventing vaccine; [[hpv-vaccine-safety-claims|HPV vaccine safety claims]]; [[hpv-vaccine-introduction|HPV vaccine introduction]].
+- [Hepatitis B](hepatitis-b.md), the other cancer-preventing vaccine; [[hpv-vaccine-safety-claims|HPV vaccine safety claims]]; [HPV vaccine introduction](../04-history/12-hpv-vaccine-introduction.md).

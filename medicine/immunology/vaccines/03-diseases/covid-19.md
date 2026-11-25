@@ -12,7 +12,7 @@ COVID-19 is caused by the coronavirus SARS-CoV-2, first identified in Wuhan, Chi
 
 ## The vaccines
 
-Vaccines were developed at unprecedented speed, building on years of research on coronavirus spike proteins and on mRNA and adenovirus-vector platforms. See [[covid-19-vaccines-and-operation-warp-speed|COVID-19 vaccines and Operation Warp Speed]].
+Vaccines were developed at unprecedented speed, building on years of research on coronavirus spike proteins and on mRNA and adenovirus-vector platforms. See [COVID-19 vaccines and Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md).
 
 - **mRNA** (Pfizer–BioNTech, Moderna): phase 3 trials found about 95% and 94% efficacy against symptomatic disease over the first few months ([Polack et al., *NEJM* 2020 (BNT162b2 trial)](https://doi.org/10.1056/NEJMoa2034577); [Baden et al., *NEJM* 2021 (mRNA-1273 trial)](https://doi.org/10.1056/NEJMoa2035389)).
 - **Adenovirus vector** (Oxford–AstraZeneca, Johnson & Johnson/Janssen, Sputnik V): Oxford–AstraZeneca showed about 70% efficacy in pooled interim analyses ([Voysey et al., *Lancet* 2021 (ChAdOx1 trials)](https://doi.org/10.1016/S0140-6736(20)32661-1)).
@@ -45,4 +45,4 @@ COVID-19 vaccines were the most politically divisive in modern history: mandates
 
 ## Where this leads
 
-- [[covid-19-vaccines-and-operation-warp-speed|Operation Warp Speed]]; [[covid-19-vaccines-mandates-and-mortality|mandates and mortality]]; [[covid-19-litigation|COVID-19 litigation]].
+- [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md); [[covid-19-vaccines-mandates-and-mortality|mandates and mortality]]; [[covid-19-litigation|COVID-19 litigation]].

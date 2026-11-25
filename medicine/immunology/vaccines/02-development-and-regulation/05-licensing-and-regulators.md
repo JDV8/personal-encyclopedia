@@ -37,7 +37,7 @@ Many low- and middle-income countries lack the capacity to review every vaccine.
 
 ## Manufacturing oversight
 
-Licensing covers the factory as much as the product: Good Manufacturing Practice, facility inspections and lot release testing. The importance of manufacturing was shown by the 1955 [[salk-sabin-and-the-cutter-incident|Cutter incident]], when incompletely inactivated polio vaccine paralysed children, which led to stronger federal oversight.
+Licensing covers the factory as much as the product: Good Manufacturing Practice, facility inspections and lot release testing. The importance of manufacturing was shown by the 1955 [Cutter incident](../04-history/06-salk-sabin-and-the-cutter-incident.md), when incompletely inactivated polio vaccine paralysed children, which led to stronger federal oversight.
 
 ## Criticisms of regulators
 

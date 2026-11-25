@@ -31,4 +31,4 @@ Side effects of the toxoid are mainly local: sore arm, redness and swelling, whi
 
 ## Where this leads
 
-- [Tetanus](tetanus.md); [Pertussis](pertussis.md); [[early-vaccines-toxoids-and-bcg|Early vaccines: toxoids and BCG]].
+- [Tetanus](tetanus.md); [Pertussis](pertussis.md); [Early vaccines: toxoids and BCG](../04-history/05-early-vaccines-toxoids-and-bcg.md).

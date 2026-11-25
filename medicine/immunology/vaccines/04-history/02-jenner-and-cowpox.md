@@ -1,8 +1,10 @@
 # Jenner and cowpox
 
-**Prerequisites:** [[variolation|Variolation]]
+**Prerequisites:** [Variolation](01-variolation.md)
 
-@@IMG:W:Edward Jenner|Edward Jenner@@
+![Portrait of Edward Jenner, who published the first study of cowpox vaccination in 1798](images/02-jenner-and-cowpox.jpg)
+
+*Portrait of Edward Jenner, who published the first study of cowpox vaccination in 1798. Credit: John Raphael Smith. License: Public domain. Source: [File:Edward_Jenner.jpg](https://commons.wikimedia.org/wiki/File:Edward_Jenner.jpg).*
 
 ## The observation
 
@@ -12,7 +14,7 @@ Country people in parts of England believed that dairymaids who had caught **cow
 
 On 14 May 1796 Jenner took material from cowpox sores on the hand of a dairymaid, Sarah Nelmes, and inserted it into scratches on the arm of James Phipps, the eight-year-old son of his gardener. Phipps developed a mild illness. Six weeks later Jenner inoculated him with smallpox matter (variolation), and the boy did not develop smallpox. In modern terms, this was a challenge experiment on a child, with no consent process recognisable today.
 
-The Royal Society declined to publish his first report. Jenner gathered more cases and in 1798 published, at his own expense, *An Inquiry into the Causes and Effects of the Variolae Vaccinae*. The word **vaccine** comes from the Latin *vacca*, cow; Louis Pasteur later extended the term to all such preparations in Jenner's honour ([[c:riedel2005]]).
+The Royal Society declined to publish his first report. Jenner gathered more cases and in 1798 published, at his own expense, *An Inquiry into the Causes and Effects of the Variolae Vaccinae*. The word **vaccine** comes from the Latin *vacca*, cow; Louis Pasteur later extended the term to all such preparations in Jenner's honour ([Riedel, *Baylor University Medical Center Proceedings* 2005](https://doi.org/10.1080/08998280.2005.11928028)).
 
 ## Rapid spread
 
@@ -26,9 +28,9 @@ The virus used for smallpox vaccination in the 20th century, **vaccinia**, is no
 
 ## Assessment
 
-Jenner did not understand immunology, and his claim that vaccination gave lifelong protection was wrong (revaccination was later found necessary). But his work replaced the dangerous practice of variolation with a far safer one and led eventually to the eradication of smallpox. See [[smallpox-eradication|smallpox eradication]] and [[edward-jenner|Edward Jenner]].
+Jenner did not understand immunology, and his claim that vaccination gave lifelong protection was wrong (revaccination was later found necessary). But his work replaced the dangerous practice of variolation with a far safer one and led eventually to the eradication of smallpox. See [smallpox eradication](07-smallpox-eradication.md) and [[edward-jenner|Edward Jenner]].
 
-Opposition to vaccination began almost immediately, on religious, medical and political grounds, and grew when governments made it compulsory. See [[compulsory-vaccination-and-the-anti-vaccination-leagues|compulsory vaccination and the anti-vaccination leagues]].
+Opposition to vaccination began almost immediately, on religious, medical and political grounds, and grew when governments made it compulsory. See [compulsory vaccination and the anti-vaccination leagues](03-compulsory-vaccination-and-the-anti-vaccination-leagues.md).
 
 ## Key ideas
 
@@ -39,4 +41,4 @@ Opposition to vaccination began almost immediately, on religious, medical and po
 
 ## Where this leads
 
-- Next: [[compulsory-vaccination-and-the-anti-vaccination-leagues|Compulsory vaccination and the anti-vaccination leagues]].
+- Next: [Compulsory vaccination and the anti-vaccination leagues](03-compulsory-vaccination-and-the-anti-vaccination-leagues.md).

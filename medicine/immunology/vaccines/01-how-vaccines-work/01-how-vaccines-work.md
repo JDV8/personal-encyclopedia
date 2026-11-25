@@ -20,13 +20,13 @@ flowchart LR
   Mem -->|later exposure| P[Rapid response:<br/>infection blocked or<br/>disease kept mild]
 ```
 
-The word comes from Latin *vacca*, cow. Edward Jenner's 1796 experiments used cowpox to protect against smallpox; Louis Pasteur later proposed calling all such preparations "vaccines" in Jenner's honour. See [[jenner-and-cowpox|Jenner and cowpox]].
+The word comes from Latin *vacca*, cow. Edward Jenner's 1796 experiments used cowpox to protect against smallpox; Louis Pasteur later proposed calling all such preparations "vaccines" in Jenner's honour. See [Jenner and cowpox](../04-history/02-jenner-and-cowpox.md).
 
 ## Vaccination, immunisation, inoculation
 
 - **Vaccination**: giving a vaccine.
 - **Immunisation**: becoming immune, by vaccination or other means (including passive antibody). Often used interchangeably with vaccination.
-- **Inoculation**: introducing material into the body; historically used for [[variolation|variolation]], the deliberate infection with smallpox material that preceded vaccination.
+- **Inoculation**: introducing material into the body; historically used for [variolation](../04-history/01-variolation.md), the deliberate infection with smallpox material that preceded vaccination.
 
 ## What a vaccine has to achieve
 
@@ -71,4 +71,4 @@ Measured by lives, vaccination is one of the most consequential health intervent
 ## Where this leads
 
 - Next: [Types of vaccines](02-types-of-vaccines.md).
-- Related: [[jenner-and-cowpox|Jenner and cowpox]], [the development pipeline](../02-development-and-regulation/01-development-pipeline.md).
+- Related: [Jenner and cowpox](../04-history/02-jenner-and-cowpox.md), [the development pipeline](../02-development-and-regulation/01-development-pipeline.md).

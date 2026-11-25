@@ -1,8 +1,10 @@
 # Pasteur and the germ theory vaccines
 
-**Prerequisites:** [[jenner-and-cowpox|Jenner and cowpox]]; [[bacteria|Bacteria]]
+**Prerequisites:** [Jenner and cowpox](02-jenner-and-cowpox.md); [Bacteria](../../../microbiology/02-bacteria.md)
 
-@@IMG:W:Louis Pasteur|Louis Pasteur@@
+![Louis Pasteur](images/04-pasteur-and-the-germ-theory-vaccines.jpg)
+
+*Louis Pasteur. Credit: Paul Nadar. License: Public domain. Source: [File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg](https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg).*
 
 ## From cowpox to a general principle
 
@@ -16,7 +18,7 @@ In May 1881, at Pouilly-le-Fort, Pasteur staged a famous public trial of an anth
 
 ## Rabies
 
-In July 1885 Pasteur treated nine-year-old Joseph Meister, bitten by a rabid dog, with a series of injections of dried spinal cord from rabid rabbits, progressively less weakened. Meister survived. Pasteur did not know the cause of rabies (a virus, invisible to microscopes of the time), had limited animal data, and was not a physician. His success, followed by many more treated patients, led to the founding of the **Pasteur Institute** in Paris (1887–1888), funded by public subscription. See [[rabies|rabies]].
+In July 1885 Pasteur treated nine-year-old Joseph Meister, bitten by a rabid dog, with a series of injections of dried spinal cord from rabid rabbits, progressively less weakened. Meister survived. Pasteur did not know the cause of rabies (a virus, invisible to microscopes of the time), had limited animal data, and was not a physician. His success, followed by many more treated patients, led to the founding of the **Pasteur Institute** in Paris (1887–1888), funded by public subscription. See [rabies](../03-diseases/rabies.md).
 
 ## Other early vaccines
 
@@ -29,7 +31,7 @@ These killed-bacteria vaccines were crude by modern standards and often caused s
 
 ## Legacy
 
-Pasteur's work turned vaccination from a single empirical trick into a method that could be applied to any pathogen that could be grown and weakened. The Pasteur Institute and its overseas branches went on to develop BCG, yellow fever vaccines and much else. See [[louis-pasteur|Louis Pasteur]] and [[early-vaccines-toxoids-and-bcg|early vaccines: toxoids and BCG]].
+Pasteur's work turned vaccination from a single empirical trick into a method that could be applied to any pathogen that could be grown and weakened. The Pasteur Institute and its overseas branches went on to develop BCG, yellow fever vaccines and much else. See [[louis-pasteur|Louis Pasteur]] and [early vaccines: toxoids and BCG](05-early-vaccines-toxoids-and-bcg.md).
 
 ## Key ideas
 
@@ -40,4 +42,4 @@ Pasteur's work turned vaccination from a single empirical trick into a method th
 
 ## Where this leads
 
-- Next: [[early-vaccines-toxoids-and-bcg|Early vaccines: toxoids and BCG]].
+- Next: [Early vaccines: toxoids and BCG](05-early-vaccines-toxoids-and-bcg.md).

@@ -1,8 +1,10 @@
 # The 1976 swine flu affair
 
-**Prerequisites:** [[influenza|Influenza]]; [[guillain-barre-syndrome|Guillain-Barré syndrome]]
+**Prerequisites:** [Influenza](../03-diseases/influenza.md); [[guillain-barre-syndrome|Guillain-Barré syndrome]]
 
-@@IMG:S:President Ford swine flu vaccination 1976|President Gerald Ford receiving the swine flu vaccine in October 1976@@
+![President Gerald Ford receiving a swine flu inoculation from the White House physician in October 1976](images/09-the-1976-swine-flu-affair.jpg)
+
+*President Gerald Ford receiving a swine flu inoculation from the White House physician in October 1976. Credit: David Hume Kennerly. License: Public domain. Source: [File:President Ford receives a swine flu inoculation - NARA - 7064718.jpg](https://commons.wikimedia.org/wiki/File:President_Ford_receives_a_swine_flu_inoculation_-_NARA_-_7064718.jpg).*
 
 ## The scare
 
@@ -14,9 +16,9 @@ Insurers refused to cover manufacturers against lawsuits from a mass campaign, a
 
 ## The campaign and its end
 
-Vaccination began on 1 October 1976. About 45 million Americans were vaccinated in ten weeks. Early on, three elderly people died shortly after vaccination at a Pittsburgh clinic, causing alarm, though the deaths were judged coincidental heart attacks, an early lesson in [[base-rates-and-coincidence|base rates and coincidence]]. Then reports of **Guillain-Barré syndrome**, a paralysing nerve disorder, accumulated. The programme was suspended on 16 December 1976. The pandemic never came: the Fort Dix virus did not spread beyond the base.
+Vaccination began on 1 October 1976. About 45 million Americans were vaccinated in ten weeks. Early on, three elderly people died shortly after vaccination at a Pittsburgh clinic, causing alarm, though the deaths were judged coincidental heart attacks, an early lesson in [base rates and coincidence](../../../epidemiology/11-base-rates-and-coincidence.md). Then reports of **Guillain-Barré syndrome**, a paralysing nerve disorder, accumulated. The programme was suspended on 16 December 1976. The pandemic never came: the Fort Dix virus did not spread beyond the base.
 
-A CDC study later estimated an excess of roughly one case of GBS per 100,000 people vaccinated in the six weeks after vaccination ([[c:schonberger1979]]). Thousands of compensation claims were filed against the government. Whether the 1976 vaccine caused GBS was itself debated for years; later reanalyses supported a real but small increase, and the finding shaped how every later influenza vaccine has been monitored.
+A CDC study later estimated an excess of roughly one case of GBS per 100,000 people vaccinated in the six weeks after vaccination ([Schonberger et al., *American Journal of Epidemiology* 1979](https://doi.org/10.1093/oxfordjournals.aje.a112795)). Thousands of compensation claims were filed against the government. Whether the 1976 vaccine caused GBS was itself debated for years; later reanalyses supported a real but small increase, and the finding shaped how every later influenza vaccine has been monitored.
 
 ## Lessons
 
@@ -37,4 +39,4 @@ The affair is cited in several ways:
 
 ## Where this leads
 
-- Next: [[the-mmr-era|The MMR era]].
+- Next: [The MMR era](10-the-mmr-era.md).

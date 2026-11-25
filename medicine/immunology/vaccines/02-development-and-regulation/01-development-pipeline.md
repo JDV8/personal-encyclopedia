@@ -43,7 +43,7 @@ Regulators have several tools to speed development without, in principle, loweri
 - **Immunobridging**: if a correlate of protection exists, new versions can be approved on immune response rather than clinical efficacy (common for flu strain updates and new combination vaccines).
 - **Accelerated approval** based on a surrogate endpoint, with confirmatory studies required.
 - **Emergency Use Authorization (EUA)** in the US, or Interim Orders in Canada, during declared emergencies, allowing use on less complete data.
-- **Parallel processes**: overlapping phases and manufacturing at financial risk before results, as in [[covid-19-vaccines-and-operation-warp-speed|Operation Warp Speed]].
+- **Parallel processes**: overlapping phases and manufacturing at financial risk before results, as in [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md).
 
 Speed is a recurring source of distrust. Critics argued that COVID-19 vaccines were "rushed" and that long-term effects were unknown. Defenders replied that no phase was skipped, that most serious vaccine side effects historically appear within weeks to a few months of a dose, and that hundreds of millions of doses were subsequently monitored. Both statements contain truth: the trials were large and followed normal phases, but follow-up was months rather than years, and some rare effects (myocarditis, VITT) were found only after rollout. The 2025 FDA framework published by Vinay Prasad and Marty Makary moved in the opposite direction, requiring new placebo-controlled trials before updated COVID-19 vaccines could be licensed for healthy people under 65 ([Prasad & Makary, *NEJM* 2025, "An Evidence-Based Approach to Covid-19 Vaccination"](https://doi.org/10.1056/NEJMsb2506929)).
 

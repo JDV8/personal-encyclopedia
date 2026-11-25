@@ -38,4 +38,4 @@ Side effects are usually mild. Notable safety episodes include:
 
 ## Where this leads
 
-- [COVID-19](covid-19.md); [RSV](rsv.md); [[the-1976-swine-flu-affair|the 1976 swine flu affair]].
+- [COVID-19](covid-19.md); [RSV](rsv.md); [the 1976 swine flu affair](../04-history/09-the-1976-swine-flu-affair.md).

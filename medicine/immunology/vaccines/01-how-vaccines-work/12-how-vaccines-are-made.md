@@ -34,7 +34,7 @@ Manufacturers must show the product is:
 
 - **Pure**: free from contaminating organisms and with impurities within limits.
 - **Potent**: contains the right amount of active antigen.
-- **Safe**: for inactivated products, tests confirm no live organism remains (the lesson of the [[salk-sabin-and-the-cutter-incident|Cutter incident]]).
+- **Safe**: for inactivated products, tests confirm no live organism remains (the lesson of the [Cutter incident](../04-history/06-salk-sabin-and-the-cutter-incident.md)).
 - **Consistent**: each lot comparable to those tested in clinical trials.
 
 In the US, the FDA's Center for Biologics Evaluation and Research (CBER) reviews lot-release protocols; in Canada, Health Canada's Biologic and Radiopharmaceutical Drugs Directorate does this. See [licensing and regulators](../02-development-and-regulation/05-licensing-and-regulators.md).

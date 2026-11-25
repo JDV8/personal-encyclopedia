@@ -30,7 +30,7 @@ flowchart LR
 
 ## A landmark: the 1954 polio trial
 
-The **Francis field trial** of Jonas Salk's inactivated polio vaccine in 1954 enrolled about 1.8 million American children, the "Polio Pioneers". Part of it was a placebo-controlled, double-blind randomised trial involving roughly 400,000 children. In April 1955 Thomas Francis announced that the vaccine was safe and effective (about 80–90% effective against paralytic polio, depending on the analysis). See [[salk-sabin-and-the-cutter-incident|Salk, Sabin and the Cutter incident]].
+The **Francis field trial** of Jonas Salk's inactivated polio vaccine in 1954 enrolled about 1.8 million American children, the "Polio Pioneers". Part of it was a placebo-controlled, double-blind randomised trial involving roughly 400,000 children. In April 1955 Thomas Francis announced that the vaccine was safe and effective (about 80–90% effective against paralytic polio, depending on the analysis). See [Salk, Sabin and the Cutter incident](../immunology/vaccines/04-history/06-salk-sabin-and-the-cutter-incident.md).
 
 ## What trials can and cannot do
 

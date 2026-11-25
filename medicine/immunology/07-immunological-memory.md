@@ -8,7 +8,7 @@
 
 ## An ancient observation
 
-Long before anyone knew about cells, people noticed that survivors of some diseases did not catch them again. Thucydides, describing the plague of Athens in 430 BC, wrote that those who had recovered nursed the sick because the same person was not attacked twice, or at least not fatally. The same observation, applied to smallpox, led to [[variolation|variolation]] and then to vaccination. Immunological memory is the reason vaccines work at all.
+Long before anyone knew about cells, people noticed that survivors of some diseases did not catch them again. Thucydides, describing the plague of Athens in 430 BC, wrote that those who had recovered nursed the sick because the same person was not attacked twice, or at least not fatally. The same observation, applied to smallpox, led to [variolation](vaccines/04-history/01-variolation.md) and then to vaccination. Immunological memory is the reason vaccines work at all.
 
 ## Primary and secondary responses
 

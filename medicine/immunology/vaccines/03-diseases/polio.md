@@ -12,9 +12,9 @@ Poliomyelitis is caused by poliovirus, an enterovirus with three types, spread m
 
 ## Burden before and after vaccination
 
-Polio became epidemic in industrialised countries in the early 20th century, partly because improved sanitation delayed infection from infancy (when maternal antibodies protect) to later childhood. In 1952 the United States had about 21,000 cases of paralytic polio; iron lungs filled hospital wards ([CDC, *Epidemiology and Prevention of Vaccine-Preventable Diseases* ("Pink Book")](https://www.cdc.gov/pinkbook/hcp/table-of-contents/index.html)). Fear of polio drove the March of Dimes and the 1954 field trial of the Salk vaccine. See [[salk-sabin-and-the-cutter-incident|Salk, Sabin and the Cutter incident]].
+Polio became epidemic in industrialised countries in the early 20th century, partly because improved sanitation delayed infection from infancy (when maternal antibodies protect) to later childhood. In 1952 the United States had about 21,000 cases of paralytic polio; iron lungs filled hospital wards ([CDC, *Epidemiology and Prevention of Vaccine-Preventable Diseases* ("Pink Book")](https://www.cdc.gov/pinkbook/hcp/table-of-contents/index.html)). Fear of polio drove the March of Dimes and the 1954 field trial of the Salk vaccine. See [Salk, Sabin and the Cutter incident](../04-history/06-salk-sabin-and-the-cutter-incident.md).
 
-The last case caused by wild poliovirus contracted in the US was in 1979. In 1988 the World Health Assembly launched the **Global Polio Eradication Initiative (GPEI)**; wild cases have fallen by over 99% from an estimated 350,000 in more than 125 countries. Wild types 2 and 3 have been certified eradicated (in 2015 and 2019); wild type 1 remains endemic only in Afghanistan and Pakistan ([WHO poliomyelitis fact sheet](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis)). See [[polio-eradication|the polio eradication campaign]].
+The last case caused by wild poliovirus contracted in the US was in 1979. In 1988 the World Health Assembly launched the **Global Polio Eradication Initiative (GPEI)**; wild cases have fallen by over 99% from an estimated 350,000 in more than 125 countries. Wild types 2 and 3 have been certified eradicated (in 2015 and 2019); wild type 1 remains endemic only in Afghanistan and Pakistan ([WHO poliomyelitis fact sheet](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis)). See [the polio eradication campaign](../04-history/08-polio-eradication.md).
 
 ## The vaccines
 
@@ -25,7 +25,7 @@ OPV has a serious drawback. Rarely, the weakened virus mutates back to a paralys
 
 ## Controversies
 
-Polio vaccines were at the centre of several controversies: the 1955 [[salk-sabin-and-the-cutter-incident|Cutter incident]] ([Offit, *NEJM* 2005, "The Cutter incident, 50 years later"](https://doi.org/10.1056/NEJMp048180)); contamination of early vaccines with the monkey virus SV40, for which the IOM found evidence inadequate to accept or reject a link with cancer ([Institute of Medicine, *SV40 Contamination of Polio Vaccine and Cancer* (2002)](https://doi.org/10.17226/10534)); the claim, rejected by expert reviews, that OPV trials in Africa started the HIV pandemic; the 2003–04 boycott in northern Nigeria ([Jegede, *PLoS Medicine* 2007](https://doi.org/10.1371/journal.pmed.0040073)); and the CIA's fake hepatitis B vaccination campaign in Pakistan, which damaged trust in polio workers ([Martinez-Bravo & Stegmann, *Journal of the European Economic Association* 2022](https://doi.org/10.1093/jeea/jvab018)).
+Polio vaccines were at the centre of several controversies: the 1955 [Cutter incident](../04-history/06-salk-sabin-and-the-cutter-incident.md) ([Offit, *NEJM* 2005, "The Cutter incident, 50 years later"](https://doi.org/10.1056/NEJMp048180)); contamination of early vaccines with the monkey virus SV40, for which the IOM found evidence inadequate to accept or reject a link with cancer ([Institute of Medicine, *SV40 Contamination of Polio Vaccine and Cancer* (2002)](https://doi.org/10.17226/10534)); the claim, rejected by expert reviews, that OPV trials in Africa started the HIV pandemic; the 2003–04 boycott in northern Nigeria ([Jegede, *PLoS Medicine* 2007](https://doi.org/10.1371/journal.pmed.0040073)); and the CIA's fake hepatitis B vaccination campaign in Pakistan, which damaged trust in polio workers ([Martinez-Bravo & Stegmann, *Journal of the European Economic Association* 2022](https://doi.org/10.1093/jeea/jvab018)).
 
 ## Key ideas
 
@@ -35,4 +35,4 @@ Polio vaccines were at the centre of several controversies: the 1955 [[salk-sabi
 
 ## Where this leads
 
-- [[polio-eradication|The polio eradication campaign]]; [[jonas-salk|Jonas Salk]]; [[albert-sabin|Albert Sabin]].
+- [The polio eradication campaign](../04-history/08-polio-eradication.md); [[jonas-salk|Jonas Salk]]; [[albert-sabin|Albert Sabin]].
