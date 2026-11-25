@@ -50,7 +50,7 @@ There are far fewer antiviral drugs than antibiotics, because viruses use the ho
 
 ## Zoonoses
 
-Many viruses jump from animals to humans (**zoonoses**). Rabies comes from mammal bites; yellow fever and dengue are carried by mosquitoes; Ebola and mpox have animal reservoirs. A disease with an animal reservoir cannot be eradicated by vaccinating humans alone; smallpox could be eradicated partly because it infected only humans. See [[eradication-and-elimination|eradication and elimination]].
+Many viruses jump from animals to humans (**zoonoses**). Rabies comes from mammal bites; yellow fever and dengue are carried by mosquitoes; Ebola and mpox have animal reservoirs. A disease with an animal reservoir cannot be eradicated by vaccinating humans alone; smallpox could be eradicated partly because it infected only humans. See [eradication and elimination](../immunology/vaccines/09-public-health-and-ethics/01-eradication-and-elimination.md).
 
 ## Key ideas
 

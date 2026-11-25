@@ -30,4 +30,4 @@ Side effects of rVSV-ZEBOV include fever, headache and joint pain, sometimes art
 
 ## Where this leads
 
-- [trial ethics](../02-development-and-regulation/04-trial-ethics-and-human-challenge-studies.md); [[global-immunisation-programmes|global immunisation programmes]].
+- [trial ethics](../02-development-and-regulation/04-trial-ethics-and-human-challenge-studies.md); [global immunisation programmes](../09-public-health-and-ethics/03-global-immunisation-programmes.md).

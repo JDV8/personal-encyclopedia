@@ -32,7 +32,7 @@ Even supporters of vaccination acknowledge that some public messaging was wrong 
 - **Canada.** Vaccination was required for federal workers and for air and rail travel. Protests against mandates, including the trucker "Freedom Convoy" that occupied central Ottawa in early 2022, led the federal government to invoke the Emergencies Act; the Federal Court ruled in January 2024 that the invocation had been unreasonable.
 - **Europe.** Austria passed a general vaccine mandate for adults in 2022 and then suspended it before enforcement. Several countries used "vaccine passes" for venues.
 
-Supporters say mandates raised coverage when it mattered and protected hospitals. Critics say they coerced low-risk people, ignored prior infection, and damaged trust; their effect on transmission fell once vaccines stopped preventing infection well. Ethical frameworks are discussed in [[mandates-and-ethics|mandates and ethics]].
+Supporters say mandates raised coverage when it mattered and protected hospitals. Critics say they coerced low-risk people, ignored prior infection, and damaged trust; their effect on transmission fell once vaccines stopped preventing infection well. Ethical frameworks are discussed in [mandates and ethics](../09-public-health-and-ethics/04-mandates-and-ethics.md).
 
 ## Political aftermath
 

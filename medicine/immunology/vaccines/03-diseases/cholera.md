@@ -30,4 +30,4 @@ Cholera is often cited by people who argue that sanitation, not vaccines, conque
 
 ## Where this leads
 
-- [Typhoid](typhoid.md); [human challenge studies](../02-development-and-regulation/04-trial-ethics-and-human-challenge-studies.md); [[global-immunisation-programmes|global immunisation programmes]].
+- [Typhoid](typhoid.md); [human challenge studies](../02-development-and-regulation/04-trial-ethics-and-human-challenge-studies.md); [global immunisation programmes](../09-public-health-and-ethics/03-global-immunisation-programmes.md).

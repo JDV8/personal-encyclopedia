@@ -41,7 +41,7 @@ In Canada, only Ontario and New Brunswick require proof of vaccination for schoo
 
 ## The ethical debate
 
-Supporters of exemptions argue that freedom of conscience and religion should be respected, that coercion breeds distrust, and that high coverage can be reached without it. Opponents argue that exemptions let some families rely on others' immunity, that clusters of exempt children cause outbreaks, and that children's interests in being protected should outweigh parents' beliefs. Some ethicists favour making exemptions available but harder to obtain, for example by requiring counselling ([[mandates-and-ethics|mandates and ethics]]).
+Supporters of exemptions argue that freedom of conscience and religion should be respected, that coercion breeds distrust, and that high coverage can be reached without it. Opponents argue that exemptions let some families rely on others' immunity, that clusters of exempt children cause outbreaks, and that children's interests in being protected should outweigh parents' beliefs. Some ethicists favour making exemptions available but harder to obtain, for example by requiring counselling ([mandates and ethics](../09-public-health-and-ethics/04-mandates-and-ethics.md)).
 
 ## Key ideas
 

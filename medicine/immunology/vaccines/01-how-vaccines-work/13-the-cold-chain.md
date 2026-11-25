@@ -58,4 +58,4 @@ Freezing is as much a danger as heat. Vaccines containing aluminium adjuvants (s
 ## Where this leads
 
 - Next: [Routes, doses and combination vaccines](14-routes-doses-and-combination-vaccines.md).
-- Related: [[global-immunisation-programmes|global immunisation programmes]].
+- Related: [global immunisation programmes](../09-public-health-and-ethics/03-global-immunisation-programmes.md).

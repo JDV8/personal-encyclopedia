@@ -44,4 +44,4 @@ COVID-19 litigation reflects the gap between the scale of vaccination and the na
 
 ## Where this leads
 
-- Next section: [[d:immunology/vaccines/09-public-health-and-ethics|Public health and ethics]].
+- Next section: [Public health and ethics](../09-public-health-and-ethics/README.md).

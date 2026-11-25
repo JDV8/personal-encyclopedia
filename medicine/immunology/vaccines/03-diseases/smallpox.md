@@ -36,4 +36,4 @@ Official stocks of variola virus are kept at two laboratories: the CDC in Atlant
 
 ## Where this leads
 
-- [Smallpox eradication](../04-history/07-smallpox-eradication.md); [[eradication-and-elimination|Eradication and elimination]]; [Mpox](mpox.md).
+- [Smallpox eradication](../04-history/07-smallpox-eradication.md); [Eradication and elimination](../09-public-health-and-ethics/01-eradication-and-elimination.md); [Mpox](mpox.md).

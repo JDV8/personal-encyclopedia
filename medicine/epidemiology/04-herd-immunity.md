@@ -41,7 +41,7 @@ Herd immunity can be reached through infection as well as vaccination. Before va
 
 ## Herd immunity and ethics
 
-Herd immunity creates a classic **collective action problem**. If almost everyone else is vaccinated, an individual can benefit from their immunity without bearing any vaccine risk ("free riding"). If many people reason that way, coverage falls below the threshold and everyone is exposed. This tension underlies debates over mandates and exemptions; see [[mandates-and-ethics|mandates and ethics]].
+Herd immunity creates a classic **collective action problem**. If almost everyone else is vaccinated, an individual can benefit from their immunity without bearing any vaccine risk ("free riding"). If many people reason that way, coverage falls below the threshold and everyone is exposed. This tension underlies debates over mandates and exemptions; see [mandates and ethics](../immunology/vaccines/09-public-health-and-ethics/04-mandates-and-ethics.md).
 
 ## Key ideas
 
@@ -53,4 +53,4 @@ Herd immunity creates a classic **collective action problem**. If almost everyon
 ## Where this leads
 
 - Next: [Outbreaks, epidemics and endemicity](05-outbreaks-epidemics-and-endemicity.md).
-- Related: [[eradication-and-elimination|eradication and elimination]].
+- Related: [eradication and elimination](../immunology/vaccines/09-public-health-and-ethics/01-eradication-and-elimination.md).

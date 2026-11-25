@@ -40,7 +40,7 @@ Conjugate vaccines also changed combination vaccines. Hib was added to DTaP and 
 
 ## Reaching poor countries
 
-Conjugate vaccines were expensive, and for years Hib vaccine was used mainly in rich countries, even though most Hib deaths occurred in poor ones. Gavi's Hib Initiative from 2005 helped lower prices and support introduction; global Hib deaths in children fell by about 90% between 2000 and 2015 ([Wahl et al., *Lancet Global Health* 2018](https://doi.org/10.1016/s2214-109x(18)30247-x)). The lag between rich- and poor-country introduction, often a decade or more, is a recurring equity concern; see [[global-immunisation-programmes|global immunisation programmes]].
+Conjugate vaccines were expensive, and for years Hib vaccine was used mainly in rich countries, even though most Hib deaths occurred in poor ones. Gavi's Hib Initiative from 2005 helped lower prices and support introduction; global Hib deaths in children fell by about 90% between 2000 and 2015 ([Wahl et al., *Lancet Global Health* 2018](https://doi.org/10.1016/s2214-109x(18)30247-x)). The lag between rich- and poor-country introduction, often a decade or more, is a recurring equity concern; see [global immunisation programmes](../09-public-health-and-ethics/03-global-immunisation-programmes.md).
 
 ## Key ideas
 

@@ -57,7 +57,7 @@ flowchart LR
 
 Early in an outbreak, almost everyone is susceptible, and cases grow roughly exponentially. As more people become immune, each case finds fewer susceptible contacts, Rₜ falls, the outbreak peaks and declines. Vaccination moves people from S to R *without* their passing through I. That is the mathematical core of how vaccination protects the unvaccinated too, developed in [herd immunity](04-herd-immunity.md).
 
-Real models add complications: age groups, waning immunity, births (which constantly add new susceptibles), seasonality and uneven mixing. Uneven mixing matters a great deal for vaccines: a country can have 95% national coverage but still have outbreaks in communities where coverage is much lower, as happened with measles among the Orthodox Jewish communities of New York in 2018–19, in the Mennonite community of West Texas in 2025, and in Canada from 2024. See [[outbreaks-and-coverage|outbreaks and coverage]].
+Real models add complications: age groups, waning immunity, births (which constantly add new susceptibles), seasonality and uneven mixing. Uneven mixing matters a great deal for vaccines: a country can have 95% national coverage but still have outbreaks in communities where coverage is much lower, as happened with measles among the Orthodox Jewish communities of New York in 2018–19, in the Mennonite community of West Texas in 2025, and in Canada from 2024. See [outbreaks and coverage](../immunology/vaccines/09-public-health-and-ethics/02-outbreaks-and-coverage.md).
 
 ## Generation time and doubling
 

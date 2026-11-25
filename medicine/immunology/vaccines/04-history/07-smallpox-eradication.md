@@ -1,6 +1,6 @@
 # Smallpox eradication
 
-**Prerequisites:** [Smallpox](../03-diseases/smallpox.md); [[eradication-and-elimination|Eradication and elimination]]
+**Prerequisites:** [Smallpox](../03-diseases/smallpox.md); [Eradication and elimination](../09-public-health-and-ethics/01-eradication-and-elimination.md)
 
 ![A CDC clinician demonstrates the bifurcated needle at a 2002 smallpox vaccinator workshop; the same simple tool was used in the eradication campaign](images/07-smallpox-eradication.jpg)
 
@@ -28,7 +28,7 @@ In 1978 Janet Parker, a medical photographer in Birmingham, England, died of sma
 
 Smallpox eradication is widely seen as public health's greatest achievement. It was a Cold War collaboration (the Soviet Union supplied much of the vaccine; the US much of the money and leadership) and relied on tens of thousands of local health workers. It was not without coercion: in parts of India in the 1970s, vaccinators sometimes forced their way into homes and vaccinated people against their will, which historians have documented and which complicates the heroic narrative.
 
-Smallpox remains the only human disease eradicated. Attempts to repeat the success with polio, measles and others have proved harder; see [polio eradication](08-polio-eradication.md) and [[eradication-and-elimination|eradication and elimination]].
+Smallpox remains the only human disease eradicated. Attempts to repeat the success with polio, measles and others have proved harder; see [polio eradication](08-polio-eradication.md) and [eradication and elimination](../09-public-health-and-ethics/01-eradication-and-elimination.md).
 
 ## Key ideas
 

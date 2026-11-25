@@ -31,4 +31,4 @@ Both vaccines are now being rolled out in routine childhood programmes across Af
 
 ## Where this leads
 
-- [Adjuvants](../01-how-vaccines-work/10-adjuvants.md); [[global-immunisation-programmes|global immunisation programmes]].
+- [Adjuvants](../01-how-vaccines-work/10-adjuvants.md); [global immunisation programmes](../09-public-health-and-ethics/03-global-immunisation-programmes.md).

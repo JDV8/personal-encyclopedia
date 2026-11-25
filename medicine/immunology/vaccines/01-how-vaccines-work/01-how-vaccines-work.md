@@ -48,7 +48,7 @@ Vaccines protect in two ways:
 - **Direct protection** of the vaccinated person.
 - **Indirect protection** of others, when vaccination reduces transmission. This produces [herd immunity](../../../epidemiology/04-herd-immunity.md) and is why vaccinating children against pneumococcus reduced pneumococcal disease in elderly people, and why vaccinating girls against HPV reduced infection in unvaccinated boys.
 
-Not every vaccine gives much indirect protection. Tetanus toxoid gives none; inactivated polio vaccine and acellular pertussis vaccine give less than the alternatives they replaced; COVID-19 vaccines gave only modest and short-lived reductions in transmission. This matters in ethical arguments: the case for requiring a vaccine to protect *others* is stronger when it actually reduces transmission. See [[mandates-and-ethics|mandates and ethics]].
+Not every vaccine gives much indirect protection. Tetanus toxoid gives none; inactivated polio vaccine and acellular pertussis vaccine give less than the alternatives they replaced; COVID-19 vaccines gave only modest and short-lived reductions in transmission. This matters in ethical arguments: the case for requiring a vaccine to protect *others* is stronger when it actually reduces transmission. See [mandates and ethics](../09-public-health-and-ethics/04-mandates-and-ethics.md).
 
 ## What vaccines cannot do
 

@@ -32,4 +32,4 @@ Vaccination can be given before exposure or within four days after contact ([WHO
 
 ## Where this leads
 
-- [Smallpox](smallpox.md); [[global-immunisation-programmes|global immunisation programmes]].
+- [Smallpox](smallpox.md); [global immunisation programmes](../09-public-health-and-ethics/03-global-immunisation-programmes.md).
