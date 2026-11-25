@@ -9,7 +9,7 @@ This branch collects courses on human health and disease. It is organised as fou
 1. [Microbiology](microbiology/README.md), lessons 01–06.
 2. [Immunology](immunology/README.md), lessons 01–09.
 3. [Epidemiology](epidemiology/README.md), lessons 01–14.
-4. [Vaccines](immunology/vaccines/README.md): how they work, how they are tested and regulated, the diseases they prevent, history, schedules, adverse events, controversies, litigation and compensation, public health and ethics, people and key documents.
+4. [Vaccines](immunology/vaccines/README.md): how they work, how they are tested and regulated, the diseases they prevent, history, schedules, adverse events, controversies, litigation and compensation, public health and ethics, and people.
 
 Use the [glossary](glossary/README.md) whenever a term is unfamiliar.
 
@@ -30,6 +30,12 @@ Use the [glossary](glossary/README.md) whenever a term is unfamiliar.
   - [Surveillance: passive and active](epidemiology/12-surveillance-passive-and-active.md)
   - [Efficacy, effectiveness and waning](epidemiology/13-efficacy-effectiveness-and-waning.md)
   - [Systematic reviews and meta-analysis](epidemiology/14-systematic-reviews-and-meta-analysis.md)
+- [Medicine glossary](glossary/README.md)
+  - [Diseases and pathogens](glossary/diseases-and-pathogens/README.md)
+  - [Epidemiology and research methods](glossary/epidemiology-and-research/README.md)
+  - [Immunology terms](glossary/immunology/README.md)
+  - [Safety, law and policy](glossary/safety-law-and-policy/README.md)
+  - [Vaccine science terms](glossary/vaccine-science/README.md)
 - [Immunology: how the body defends itself](immunology/README.md) (9 files)
   - [The immune system at a glance](immunology/01-the-immune-system-at-a-glance.md)
   - [Barriers and innate immunity](immunology/02-barriers-and-innate-immunity.md)
@@ -40,6 +46,7 @@ Use the [glossary](glossary/README.md) whenever a term is unfamiliar.
   - [Immunological memory](immunology/07-immunological-memory.md)
   - [Passive and active immunity](immunology/08-passive-and-active-immunity.md)
   - [When immunity goes wrong](immunology/09-when-immunity-goes-wrong.md)
+  - [Vaccines](immunology/vaccines/README.md)
 - [Microbiology: the organisms behind infectious disease](microbiology/README.md) (6 files)
   - [Cells and the chemistry of life](microbiology/01-cells-and-the-chemistry-of-life.md)
   - [Bacteria](microbiology/02-bacteria.md)
