@@ -59,7 +59,7 @@ Not every vaccine gives much indirect protection. Tetanus toxoid gives none; ina
 
 ## The overall record
 
-Measured by lives, vaccination is one of the most consequential health interventions in history. A modelling study for the WHO estimated that vaccination under the Expanded Programme on Immunization averted about 154 million deaths over the 50 years from 1974, most of them infants ([Shattock et al., *Lancet* 2024](https://doi.org/10.1016/S0140-6736(24)00850-X)). Like all models, this depends on assumptions about what would have happened without vaccines; critics of such estimates point to the role of nutrition, sanitation and medical care, which is the subject of [[historical-mortality-decline-argument|the mortality-decline debate]]. Smallpox, which killed an estimated 300 million people in the 20th century alone, was eradicated by vaccination in 1980.
+Measured by lives, vaccination is one of the most consequential health interventions in history. A modelling study for the WHO estimated that vaccination under the Expanded Programme on Immunization averted about 154 million deaths over the 50 years from 1974, most of them infants ([Shattock et al., *Lancet* 2024](https://doi.org/10.1016/S0140-6736(24)00850-X)). Like all models, this depends on assumptions about what would have happened without vaccines; critics of such estimates point to the role of nutrition, sanitation and medical care, which is the subject of [the mortality-decline debate](../07-controversies/12-historical-mortality-decline-argument.md). Smallpox, which killed an estimated 300 million people in the 20th century alone, was eradicated by vaccination in 1980.
 
 ## Key ideas
 

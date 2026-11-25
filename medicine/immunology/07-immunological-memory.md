@@ -67,4 +67,4 @@ The first version of a pathogen the immune system meets can shape responses to l
 ## Where this leads
 
 - Next: [Passive and active immunity](08-passive-and-active-immunity.md).
-- Related: [[natural-versus-vaccine-immunity|natural versus vaccine immunity]].
+- Related: [natural versus vaccine immunity](vaccines/07-controversies/11-natural-versus-vaccine-immunity.md).

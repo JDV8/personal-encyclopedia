@@ -46,7 +46,7 @@ Some diseases have an incubation period long enough that giving passive and acti
 
 ## Active immunity: infection vs vaccination
 
-Active immunity can come from infection or from vaccination. Which gives "better" immunity is a long-running debate. Infection sometimes gives broader or longer protection, but at the cost of the disease's risks; vaccination gives protection without those risks, sometimes needing boosters. The evidence for different diseases is discussed in [[natural-versus-vaccine-immunity|natural versus vaccine immunity]].
+Active immunity can come from infection or from vaccination. Which gives "better" immunity is a long-running debate. Infection sometimes gives broader or longer protection, but at the cost of the disease's risks; vaccination gives protection without those risks, sometimes needing boosters. The evidence for different diseases is discussed in [natural versus vaccine immunity](vaccines/07-controversies/11-natural-versus-vaccine-immunity.md).
 
 ## Key ideas
 

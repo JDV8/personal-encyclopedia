@@ -17,7 +17,7 @@ Some adverse events after vaccination are caused not by the vaccine's contents b
 
 Fainting after an injection is a reflex response (vasovagal syncope) to pain, anxiety or the sight of a needle. It is most common in adolescents and young adults, and typically happens within 15 minutes. Its main danger is injury from falling, including head injuries. Reports of syncope rose in the US after vaccines for adolescents (HPV, Tdap and MenACWY) were introduced in 2005–06, which led to recommendations that adolescents be vaccinated seated or lying down and observed for 15 minutes.
 
-Clusters of fainting and other symptoms in schools have sometimes been reported as mass reactions to vaccines. The WHO describes these as **immunisation stress-related responses**: real symptoms, triggered by anxiety, that can spread through a group. A widely publicised cluster of schoolgirls with fainting and other symptoms after HPV vaccination in Colombia in 2014 was judged by investigators to be a psychogenic reaction, but it affected HPV vaccine uptake there ([[hpv-vaccine-safety-claims|HPV vaccine safety claims]]).
+Clusters of fainting and other symptoms in schools have sometimes been reported as mass reactions to vaccines. The WHO describes these as **immunisation stress-related responses**: real symptoms, triggered by anxiety, that can spread through a group. A widely publicised cluster of schoolgirls with fainting and other symptoms after HPV vaccination in Colombia in 2014 was judged by investigators to be a psychogenic reaction, but it affected HPV vaccine uptake there ([HPV vaccine safety claims](../07-controversies/09-hpv-vaccine-safety-claims.md)).
 
 ## Shoulder injury related to vaccine administration (SIRVA)
 

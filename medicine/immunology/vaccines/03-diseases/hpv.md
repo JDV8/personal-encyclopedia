@@ -22,7 +22,7 @@ Because cervical cancer takes many years to develop, early trials measured preca
 
 ## Controversies
 
-HPV vaccines have attracted more safety controversy than most. Reports of chronic pain (complex regional pain syndrome), fatigue and postural orthostatic tachycardia syndrome (POTS) in vaccinated girls led Japan to suspend its active recommendation in 2013, after which coverage fell from about 70% to under 1%; Japan resumed recommending the vaccine in 2022. Similar public alarms occurred in Denmark, Ireland and Colombia. A European Medicines Agency review in 2015 found no evidence of a causal link to CRPS or POTS. The Cochrane review itself was criticised for missing trials and using adjuvant controls ([Jørgensen, Gøtzsche & Jefferson, *BMJ Evidence-Based Medicine* 2018](https://doi.org/10.1136/bmjebm-2018-111012)). Social conservatives also objected that vaccinating children against a sexually transmitted infection could encourage sex, a claim not supported by studies of sexual behaviour. See [[hpv-vaccine-safety-claims|HPV vaccine safety claims]] and [the placebo controls debate](../02-development-and-regulation/03-placebo-controls-debate.md).
+HPV vaccines have attracted more safety controversy than most. Reports of chronic pain (complex regional pain syndrome), fatigue and postural orthostatic tachycardia syndrome (POTS) in vaccinated girls led Japan to suspend its active recommendation in 2013, after which coverage fell from about 70% to under 1%; Japan resumed recommending the vaccine in 2022. Similar public alarms occurred in Denmark, Ireland and Colombia. A European Medicines Agency review in 2015 found no evidence of a causal link to CRPS or POTS. The Cochrane review itself was criticised for missing trials and using adjuvant controls ([Jørgensen, Gøtzsche & Jefferson, *BMJ Evidence-Based Medicine* 2018](https://doi.org/10.1136/bmjebm-2018-111012)). Social conservatives also objected that vaccinating children against a sexually transmitted infection could encourage sex, a claim not supported by studies of sexual behaviour. See [HPV vaccine safety claims](../07-controversies/09-hpv-vaccine-safety-claims.md) and [the placebo controls debate](../02-development-and-regulation/03-placebo-controls-debate.md).
 
 ## Key ideas
 
@@ -33,4 +33,4 @@ HPV vaccines have attracted more safety controversy than most. Reports of chroni
 
 ## Where this leads
 
-- [Hepatitis B](hepatitis-b.md), the other cancer-preventing vaccine; [[hpv-vaccine-safety-claims|HPV vaccine safety claims]]; [HPV vaccine introduction](../04-history/12-hpv-vaccine-introduction.md).
+- [Hepatitis B](hepatitis-b.md), the other cancer-preventing vaccine; [HPV vaccine safety claims](../07-controversies/09-hpv-vaccine-safety-claims.md); [HPV vaccine introduction](../04-history/12-hpv-vaccine-introduction.md).

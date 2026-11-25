@@ -32,4 +32,4 @@ Travellers to South Asia face the highest risk; most typhoid cases diagnosed in 
 
 ## Where this leads
 
-- [Cholera](cholera.md); [[historical-mortality-decline-argument|the historical mortality decline argument]]; [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).
+- [Cholera](cholera.md); [the historical mortality decline argument](../07-controversies/12-historical-mortality-decline-argument.md); [travel vaccination](../05-schedules/08-pregnancy-adult-and-travel-vaccination.md).

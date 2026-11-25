@@ -34,7 +34,7 @@ The National Academies' 2024 review confirmed myocarditis with mRNA vaccines and
 
 ## Policy and controversy
 
-COVID-19 vaccines were the most politically divisive in modern history: mandates and passports, debates over vaccinating children and people who had recovered from infection, and the speed of development. By 2025 policy diverged sharply: the FDA required new trials for healthy people under 65 ([Prasad & Makary, *NEJM* 2025, "An Evidence-Based Approach to Covid-19 Vaccination"](https://doi.org/10.1056/NEJMsb2506929)), ACIP moved COVID-19 vaccination to individual decision-making, and HHS ended BARDA funding for mRNA projects ([HHS press release, "HHS Winds Down mRNA Vaccine Development Under BARDA" (5 August 2025)](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)). WHO recommends vaccination using a risk-based approach ([WHO COVID-19 fact sheet](https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19))). See [[covid-19-vaccines-mandates-and-mortality|COVID-19 vaccines, mandates and mortality]] and [[natural-versus-vaccine-immunity|natural versus vaccine immunity]].
+COVID-19 vaccines were the most politically divisive in modern history: mandates and passports, debates over vaccinating children and people who had recovered from infection, and the speed of development. By 2025 policy diverged sharply: the FDA required new trials for healthy people under 65 ([Prasad & Makary, *NEJM* 2025, "An Evidence-Based Approach to Covid-19 Vaccination"](https://doi.org/10.1056/NEJMsb2506929)), ACIP moved COVID-19 vaccination to individual decision-making, and HHS ended BARDA funding for mRNA projects ([HHS press release, "HHS Winds Down mRNA Vaccine Development Under BARDA" (5 August 2025)](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)). WHO recommends vaccination using a risk-based approach ([WHO COVID-19 fact sheet](https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19))). See [COVID-19 vaccines, mandates and mortality](../07-controversies/10-covid-19-vaccines-mandates-and-mortality.md) and [natural versus vaccine immunity](../07-controversies/11-natural-versus-vaccine-immunity.md).
 
 ## Key ideas
 
@@ -45,4 +45,4 @@ COVID-19 vaccines were the most politically divisive in modern history: mandates
 
 ## Where this leads
 
-- [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md); [[covid-19-vaccines-mandates-and-mortality|mandates and mortality]]; [[covid-19-litigation|COVID-19 litigation]].
+- [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md); [mandates and mortality](../07-controversies/10-covid-19-vaccines-mandates-and-mortality.md); [[covid-19-litigation|COVID-19 litigation]].

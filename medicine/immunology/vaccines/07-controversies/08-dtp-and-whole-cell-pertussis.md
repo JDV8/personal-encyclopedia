@@ -40,4 +40,4 @@ Researchers in Guinea-Bissau have also argued that DTP may have "non-specific ef
 
 ## Where this leads
 
-- Next: [[hpv-vaccine-safety-claims|HPV vaccine safety claims]].
+- Next: [HPV vaccine safety claims](09-hpv-vaccine-safety-claims.md).

@@ -20,7 +20,7 @@ A **global OCV stockpile**, supported by Gavi, supplies vaccines for outbreaks a
 
 ## Why it matters for the wider debate
 
-Cholera is often cited by people who argue that sanitation, not vaccines, conquered infectious disease. For cholera and typhoid that argument is largely right: both disappeared from Europe and North America through clean water and sewers, long before effective vaccines. The same is not true of measles, Hib or pertussis, which spread through the air and did not decline in the same way until vaccines arrived. See [[historical-mortality-decline-argument|the historical mortality decline argument]].
+Cholera is often cited by people who argue that sanitation, not vaccines, conquered infectious disease. For cholera and typhoid that argument is largely right: both disappeared from Europe and North America through clean water and sewers, long before effective vaccines. The same is not true of measles, Hib or pertussis, which spread through the air and did not decline in the same way until vaccines arrived. See [the historical mortality decline argument](../07-controversies/12-historical-mortality-decline-argument.md).
 
 ## Key ideas
 

@@ -44,7 +44,7 @@ A vaccine might prevent infection altogether (sometimes called "sterilising" imm
 | Environmental | Spores in soil entering wounds | Tetanus |
 | Mother to child | Pregnancy, birth, breastfeeding | Rubella (congenital rubella syndrome), hepatitis B |
 
-The route shapes which interventions work. Clean water nearly ended cholera and typhoid in rich countries before vaccines existed; it did little against measles, which is airborne. The pattern explains a common argument, examined in [[historical-mortality-decline-argument|the "mortality was already falling" debate]]: sanitation and nutrition did reduce deaths from many infections, but airborne childhood infections such as measles kept infecting nearly every child until vaccination.
+The route shapes which interventions work. Clean water nearly ended cholera and typhoid in rich countries before vaccines existed; it did little against measles, which is airborne. The pattern explains a common argument, examined in [the "mortality was already falling" debate](../immunology/vaccines/07-controversies/12-historical-mortality-decline-argument.md): sanitation and nutrition did reduce deaths from many infections, but airborne childhood infections such as measles kept infecting nearly every child until vaccination.
 
 ## Host factors
 

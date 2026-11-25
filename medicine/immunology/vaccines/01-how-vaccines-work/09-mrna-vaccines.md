@@ -8,7 +8,7 @@
 
 ## Delivering the recipe, not the protein
 
-An **mRNA vaccine** contains a strand of messenger RNA encoding a target antigen, wrapped in a tiny fat bubble called a **lipid nanoparticle (LNP)**. After injection into the arm muscle, the LNPs are taken up by cells (muscle cells and immune cells at the site and in nearby lymph nodes). The cells' ribosomes read the mRNA and make the antigen, for example the SARS-CoV-2 spike protein, which the immune system then responds to. The mRNA is broken down by normal cellular processes; it does not enter the cell nucleus and is not converted into DNA. (Claims that it alters the recipient's genes are not supported; cells lack the machinery to write this mRNA into chromosomes in normal circumstances, a point examined in [[covid-19-vaccines-mandates-and-mortality|the COVID-19 controversies lesson]].)
+An **mRNA vaccine** contains a strand of messenger RNA encoding a target antigen, wrapped in a tiny fat bubble called a **lipid nanoparticle (LNP)**. After injection into the arm muscle, the LNPs are taken up by cells (muscle cells and immune cells at the site and in nearby lymph nodes). The cells' ribosomes read the mRNA and make the antigen, for example the SARS-CoV-2 spike protein, which the immune system then responds to. The mRNA is broken down by normal cellular processes; it does not enter the cell nucleus and is not converted into DNA. (Claims that it alters the recipient's genes are not supported; cells lack the machinery to write this mRNA into chromosomes in normal circumstances, a point examined in [the COVID-19 controversies lesson](../07-controversies/10-covid-19-vaccines-mandates-and-mortality.md).)
 
 ```mermaid
 flowchart LR

@@ -41,7 +41,7 @@ Countries responded differently, which itself is instructive:
 - The UK and others offered **one dose only** to healthy adolescents at first.
 - In 2025 the US FDA required updated myocarditis warnings on mRNA vaccine labels and set a framework limiting approval of updated COVID-19 vaccines to people 65 and over or with risk factors ([Prasad & Makary, *NEJM* 2025, "An Evidence-Based Approach to Covid-19 Vaccination"](https://doi.org/10.1056/NEJMsb2506929)).
 
-Critics argued that authorities were slow to acknowledge the risk and too insistent on vaccinating healthy young people with little risk from COVID-19. Defenders noted that the signal was detected, confirmed and acted on within months, and that decisions were made with incomplete information during a pandemic. Both views are discussed in [[covid-19-vaccines-mandates-and-mortality|COVID-19 vaccines, mandates and mortality]].
+Critics argued that authorities were slow to acknowledge the risk and too insistent on vaccinating healthy young people with little risk from COVID-19. Defenders noted that the signal was detected, confirmed and acted on within months, and that decisions were made with incomplete information during a pandemic. Both views are discussed in [COVID-19 vaccines, mandates and mortality](../07-controversies/10-covid-19-vaccines-mandates-and-mortality.md).
 
 ## Key ideas
 
