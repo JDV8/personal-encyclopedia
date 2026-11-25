@@ -49,7 +49,7 @@ Testing standards have improved partly because of past contamination:
 
 ## Scale and economics
 
-Only a handful of companies make most of the world's vaccines (GSK, Merck/MSD, Sanofi, Pfizer, CSL Seqirus, and the Serum Institute of India, which produces more doses than any other manufacturer). Production of a complex vaccine can take months to years and requires large up-front investment. Few manufacturers and thin margins have caused shortages. The economics also shape the conflict-of-interest debate: vaccines are a significant business for these companies, although usually a smaller share of revenue than drugs. See [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+Only a handful of companies make most of the world's vaccines (GSK, Merck/MSD, Sanofi, Pfizer, CSL Seqirus, and the Serum Institute of India, which produces more doses than any other manufacturer). Production of a complex vaccine can take months to years and requires large up-front investment. Few manufacturers and thin margins have caused shortages. The economics also shape the conflict-of-interest debate: vaccines are a significant business for these companies, although usually a smaller share of revenue than drugs. See [conflicts of interest and funding](../07-controversies/14-conflicts-of-interest-and-funding.md).
 
 ## Key ideas
 

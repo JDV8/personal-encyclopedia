@@ -24,7 +24,7 @@ In 2010 researchers found DNA from porcine circovirus, a pig virus not known to 
 
 ## Under the 2026 US changes
 
-The January 2026 US schedule moved rotavirus vaccine to shared clinical decision-making, a change blocked in court in March 2026 ([HHS fact sheet, "CDC Childhood Immunization Recommendations" (January 2026)](https://www.hhs.gov/press-room/fact-sheet-cdc-childhood-immunization-recommendations.html); [*American Academy of Pediatrics v. Kennedy*, First Circuit docket 26-1503 (CourtListener)](https://www.courtlistener.com/docket/73286021/american-academy-of-pediatrics-v-kennedy/)). Paul Offit, a prominent defender of vaccines, is a co-inventor of RotaTeq; see [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+The January 2026 US schedule moved rotavirus vaccine to shared clinical decision-making, a change blocked in court in March 2026 ([HHS fact sheet, "CDC Childhood Immunization Recommendations" (January 2026)](https://www.hhs.gov/press-room/fact-sheet-cdc-childhood-immunization-recommendations.html); [*American Academy of Pediatrics v. Kennedy*, First Circuit docket 26-1503 (CourtListener)](https://www.courtlistener.com/docket/73286021/american-academy-of-pediatrics-v-kennedy/)). Paul Offit, a prominent defender of vaccines, is a co-inventor of RotaTeq; see [conflicts of interest and funding](../07-controversies/14-conflicts-of-interest-and-funding.md).
 
 ## Key ideas
 

@@ -43,7 +43,7 @@ Confounding can also make vaccines look harmful. Children with developmental con
 
 ## Publication and reporting bias
 
-Studies with striking results are more likely to be published, and outcomes may be selectively reported. Industry-funded trials are on average more likely to report favourable conclusions than independently funded ones ([Lundh et al., Cochrane methodology review, 2017](https://doi.org/10.1002/14651858.MR000033.pub3)), and a review of influenza vaccine studies found that industry-funded studies were published in more prestigious journals and cited more, regardless of quality ([Jefferson et al., *BMJ* 2009](https://doi.org/10.1136/bmj.b354)). Advocacy-funded studies on the other side face the same incentive problems. See [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+Studies with striking results are more likely to be published, and outcomes may be selectively reported. Industry-funded trials are on average more likely to report favourable conclusions than independently funded ones ([Lundh et al., Cochrane methodology review, 2017](https://doi.org/10.1002/14651858.MR000033.pub3)), and a review of influenza vaccine studies found that industry-funded studies were published in more prestigious journals and cited more, regardless of quality ([Jefferson et al., *BMJ* 2009](https://doi.org/10.1136/bmj.b354)). Advocacy-funded studies on the other side face the same incentive problems. See [conflicts of interest and funding](../immunology/vaccines/07-controversies/14-conflicts-of-interest-and-funding.md).
 
 ## Other traps
 

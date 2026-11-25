@@ -41,7 +41,7 @@ Licensing covers the factory as much as the product: Good Manufacturing Practice
 
 ## Criticisms of regulators
 
-- **User fees.** Since 1992 (PDUFA), the FDA has been funded partly by fees paid by companies whose products it reviews. Critics argue this creates dependence on industry; defenders say fees fund reviewers and speed reviews without buying outcomes. See [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+- **User fees.** Since 1992 (PDUFA), the FDA has been funded partly by fees paid by companies whose products it reviews. Critics argue this creates dependence on industry; defenders say fees fund reviewers and speed reviews without buying outcomes. See [conflicts of interest and funding](../07-controversies/14-conflicts-of-interest-and-funding.md).
 - **Revolving door.** Some senior regulators later work for manufacturers. Scott Gottlieb, FDA commissioner 2017–2019, joined Pfizer's board in 2019.
 - **Political pressure.** Concerns about political interference were raised under the first Trump administration's push for fast COVID-19 approvals and again, from a different direction, after the 2025 changes at HHS and FDA.
 

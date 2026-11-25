@@ -31,7 +31,7 @@ Many trials, including those of HPV vaccines, used aluminium-containing placebos
 
 ## Where the debate stands
 
-Aluminium adjuvants have a long safety record and large studies have found no link with autism or autoimmune disease. Uncertainty remains about some outcomes (asthma) and about how injected particles are distributed, and a few research groups continue to argue for harm. Funding on both sides deserves scrutiny: much safety research is done by public agencies and some by manufacturers, while much of the research alleging harm has been funded by foundations opposed to current vaccination policy ([[conflicts-of-interest-and-funding|conflicts of interest and funding]]).
+Aluminium adjuvants have a long safety record and large studies have found no link with autism or autoimmune disease. Uncertainty remains about some outcomes (asthma) and about how injected particles are distributed, and a few research groups continue to argue for harm. Funding on both sides deserves scrutiny: much safety research is done by public agencies and some by manufacturers, while much of the research alleging harm has been funded by foundations opposed to current vaccination policy ([conflicts of interest and funding](14-conflicts-of-interest-and-funding.md)).
 
 ## Key ideas
 

@@ -49,7 +49,7 @@ Speed is a recurring source of distrust. Critics argued that COVID-19 vaccines w
 
 ## Who pays
 
-Most late-stage development is funded by manufacturers, often with public money for early research (NIH, universities) and sometimes for development and purchase (BARDA, CEPI, Gavi). Industry funding raises legitimate questions about conflicts of interest; see [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+Most late-stage development is funded by manufacturers, often with public money for early research (NIH, universities) and sometimes for development and purchase (BARDA, CEPI, Gavi). Industry funding raises legitimate questions about conflicts of interest; see [conflicts of interest and funding](../07-controversies/14-conflicts-of-interest-and-funding.md).
 
 ## Key ideas
 

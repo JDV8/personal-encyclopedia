@@ -38,7 +38,7 @@ JCVI's advice in England is linked to cost-effectiveness: the government is lega
 
 ## Conflicts of interest on committees
 
-Members must declare financial interests; ACIP members with conflicts are supposed to recuse from related votes. A 2000 US House Government Reform Committee report (chaired by Dan Burton) criticised conflicts on ACIP and VRBPAC, including around the rotavirus vaccine. The 2009 HHS Inspector General found CDC's ethics oversight of its advisory committee members inadequate. Both reports are often cited by critics. See [[conflicts-of-interest-and-funding|conflicts of interest and funding]].
+Members must declare financial interests; ACIP members with conflicts are supposed to recuse from related votes. A 2000 US House Government Reform Committee report (chaired by Dan Burton) criticised conflicts on ACIP and VRBPAC, including around the rotavirus vaccine. The 2009 HHS Inspector General found CDC's ethics oversight of its advisory committee members inadequate. Both reports are often cited by critics. See [conflicts of interest and funding](../07-controversies/14-conflicts-of-interest-and-funding.md).
 
 ## Key ideas
 

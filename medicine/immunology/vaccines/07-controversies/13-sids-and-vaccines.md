@@ -44,4 +44,4 @@ SIDS is a diagnosis of exclusion, and many deaths once called SIDS are now class
 
 ## Where this leads
 
-- Next: [[conflicts-of-interest-and-funding|Conflicts of interest and funding]].
+- Next: [Conflicts of interest and funding](14-conflicts-of-interest-and-funding.md).
