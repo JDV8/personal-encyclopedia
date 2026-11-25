@@ -1,6 +1,6 @@
 # Animal and in vitro studies
 
-**Prerequisites:** [[the-evidence-hierarchy|The evidence hierarchy]] and [[surrogate-endpoints|Surrogate endpoints]].
+**Prerequisites:** [The evidence hierarchy](../03-study-designs/01-the-evidence-hierarchy.md) and [Surrogate endpoints](02-surrogate-endpoints.md).
 
 @@IMG@@
 
@@ -11,7 +11,7 @@ A large part of biomedical research happens before any human is involved: **in v
 - **Mechanisms**: how a molecule, gene or pathway works.
 - **Screening**: which of thousands of compounds might be worth testing.
 - **Toxicology**: identifying possible harms before human exposure, often required by regulators.
-- **Plausibility**: providing biological support for associations seen in humans, one of the [[bradford-hill-criteria|Bradford Hill considerations]].
+- **Plausibility**: providing biological support for associations seen in humans, one of the [Bradford Hill considerations](../04-causation/09-bradford-hill-criteria.md).
 - **Questions that cannot ethically be studied in humans**.
 
 ## Why results often fail to translate
@@ -59,9 +59,9 @@ When a headline says a substance "fights cancer", "protects the brain" or "slows
 2. If cells: at what concentration, compared with what humans could achieve?
 3. If animals: which species and model, how many, randomised and blinded?
 4. Has anything been tested in humans?
-5. What outcome was measured? Often a [[surrogate-endpoints|surrogate]] such as a biomarker.
+5. What outcome was measured? Often a [surrogate](02-surrogate-endpoints.md) such as a biomarker.
 
-Sumner and colleagues found that about a third of university press releases about animal research made inferences to humans not made in the paper ([[press-releases-and-science-journalism|press releases]]). A popular Twitter account, @justsaysinmice, created by James Heathers in 2019, highlighted this by reposting headlines with the words "IN MICE".
+Sumner and colleagues found that about a third of university press releases about animal research made inferences to humans not made in the paper ([press releases](01-press-releases-and-science-journalism.md)). A popular Twitter account, @justsaysinmice, created by James Heathers in 2019, highlighted this by reposting headlines with the words "IN MICE".
 
 ## Key ideas
 
@@ -73,4 +73,4 @@ Sumner and colleagues found that about a third of university press releases abou
 
 ## Where this leads
 
-- Next: [[subgroups-and-secondary-analyses|Subgroups and secondary analyses]]
+- Next: [Subgroups and secondary analyses](04-subgroups-and-secondary-analyses.md)

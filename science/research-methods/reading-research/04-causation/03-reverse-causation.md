@@ -1,6 +1,6 @@
 # Reverse causation
 
-**Prerequisites:** [[confounding|Confounding]].
+**Prerequisites:** [Confounding](02-confounding.md).
 
 @@IMG@@
 
@@ -34,7 +34,7 @@ People who are less physically and socially active have higher rates of later de
 
 ## Where reverse causation hides
 
-- **Cross-sectional studies**, where exposure and outcome are measured together ([[cross-sectional-studies|cross-sectional studies]]).
+- **Cross-sectional studies**, where exposure and outcome are measured together ([cross-sectional studies](../03-study-designs/04-cross-sectional-studies.md)).
 - **Short follow-up cohorts**, where early disease could already be affecting exposure at baseline.
 - **Exposures that are responses to symptoms**, such as using painkillers, changing diet, or taking supplements after feeling unwell. This overlaps with confounding by indication and with **protopathic bias**, where a drug is prescribed for early symptoms of an undiagnosed disease, making the drug appear to cause it.
 
@@ -59,4 +59,4 @@ For every association, ask: **could the outcome, or its early stages, have cause
 
 ## Where this leads
 
-- Next: [[selection-bias|Selection bias]]
+- Next: [Selection bias](04-selection-bias.md)

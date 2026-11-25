@@ -1,6 +1,6 @@
 # Variables and data
 
-**Prerequisites:** [[why-reading-research-is-hard|Why reading research is hard]]. No mathematics beyond arithmetic is assumed.
+**Prerequisites:** [Why reading research is hard](../01-foundations/06-why-reading-research-is-hard.md). No mathematics beyond arithmetic is assumed.
 
 @@IMG@@
 
@@ -19,7 +19,7 @@ The type of a variable determines how it can be summarised and analysed:
 - **Ordinal:** ordered categories where the gaps are not equal, such as pain rated "none, mild, moderate, severe", or cancer stage.
 - **Continuous (interval or ratio):** numbers on a scale with equal gaps, such as weight, temperature or cholesterol level.
 - **Count:** whole numbers of events, such as the number of seizures in a month.
-- **Time-to-event:** how long until something happens, such as months until relapse. These need special methods because some people are still event-free when the study ends; see [[kaplan-meier-curves|Kaplan-Meier curves]].
+- **Time-to-event:** how long until something happens, such as months until relapse. These need special methods because some people are still event-free when the study ends; see [Kaplan-Meier curves](../05-anatomy-of-a-paper/08-kaplan-meier-curves.md).
 
 ```mermaid
 flowchart TB
@@ -41,9 +41,9 @@ In most health research, variables play distinct roles:
 
 - The **exposure** (or intervention, or independent variable) is the thing whose effect is being studied: a drug, a diet, a vaccine, an environmental chemical.
 - The **outcome** (or dependent variable, or endpoint) is what might be affected: death, heart attack, test score, symptom score.
-- **Covariates** are other variables that may influence the relationship, especially [[confounding|confounders]], which affect both exposure and outcome.
+- **Covariates** are other variables that may influence the relationship, especially [confounders](../04-causation/02-confounding.md), which affect both exposure and outcome.
 
-A paper's [[methods|methods section]] should state the exposure and the primary outcome clearly and in advance. Studies that measure dozens of outcomes and report whichever looks best are a serious problem, discussed in [[multiple-comparisons|multiple comparisons]] and [[outcome-switching|outcome switching]].
+A paper's [methods section](../05-anatomy-of-a-paper/04-methods.md) should state the exposure and the primary outcome clearly and in advance. Studies that measure dozens of outcomes and report whichever looks best are a serious problem, discussed in [multiple comparisons](16-multiple-comparisons.md) and [outcome switching](../06-research-integrity/03-outcome-switching.md).
 
 ## Primary and secondary outcomes
 
@@ -51,7 +51,7 @@ Well-designed studies name one **primary outcome**, the main question the study 
 
 ## Data quality
 
-Variables are only as good as their measurement (see [[observation-measurement-and-experiment|observation and measurement]]). Several data problems recur:
+Variables are only as good as their measurement (see [observation and measurement](../01-foundations/03-observation-measurement-and-experiment.md)). Several data problems recur:
 
 - **Missing data:** people drop out, skip questions or have incomplete records. If those who drop out differ from those who stay (for example, sicker patients leave a trial), results can be biased.
 - **Self-report:** questionnaires about diet, exercise, alcohol or past exposures are prone to forgetting and to people giving socially acceptable answers.
@@ -72,5 +72,5 @@ Always check the units and the denominator. "500 cases" means nothing without kn
 
 ## Where this leads
 
-- Next: [[probability|Probability]]
-- Related: [[path:economics/finance/01-foundations/08-probability-and-expected-value.md|Probability and expected value]] in the finance course
+- Next: [Probability](02-probability.md)
+- Related: [Probability and expected value](../../../../economics/finance/01-foundations/08-probability-and-expected-value.md) in the finance course

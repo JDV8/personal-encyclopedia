@@ -1,10 +1,10 @@
 # Worked example: a randomised trial (PREDIMED)
 
-**Prerequisites:** [[a-step-by-step-checklist|A step-by-step checklist]], [[randomised-controlled-trials|Randomised controlled trials]] and [[retractions-and-corrections|Retractions and corrections]].
+**Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md) and [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md).
 
 @@IMG@@
 
-PREDIMED (Prevención con Dieta Mediterránea) is one of the best-known nutrition trials ever conducted. It is a good worked example because it was retracted and republished, which shows how randomisation problems are detected and handled. We apply the [[a-step-by-step-checklist|checklist]] to the 2018 republished paper: Estruch and colleagues, "Primary prevention of cardiovascular disease with a Mediterranean diet supplemented with extra-virgin olive oil or nuts", *New England Journal of Medicine* 2018;378:e34.
+PREDIMED (Prevención con Dieta Mediterránea) is one of the best-known nutrition trials ever conducted. It is a good worked example because it was retracted and republished, which shows how randomisation problems are detected and handled. We apply the [checklist](02-a-step-by-step-checklist.md) to the 2018 republished paper: Estruch and colleagues, "Primary prevention of cardiovascular disease with a Mediterranean diet supplemented with extra-virgin olive oil or nuts", *New England Journal of Medicine* 2018;378:e34.
 
 ## 1. The claim
 
@@ -12,7 +12,7 @@ A Mediterranean diet supplemented with extra-virgin olive oil or nuts reduced ma
 
 ## 2. The source
 
-A peer-reviewed paper in a leading journal. Importantly, it **replaces** the original 2013 paper, which the authors withdrew. Why? In 2017 the anaesthetist John Carlisle published an analysis in *Anaesthesia* of baseline data in 5,087 trials, looking for distributions of baseline variables that were unlikely under true randomisation. PREDIMED was among the trials flagged. The investigators then audited the trial and found protocol deviations ([[fraud-and-misconduct|misconduct and error]]).
+A peer-reviewed paper in a leading journal. Importantly, it **replaces** the original 2013 paper, which the authors withdrew. Why? In 2017 the anaesthetist John Carlisle published an analysis in *Anaesthesia* of baseline data in 5,087 trials, looking for distributions of baseline variables that were unlikely under true randomisation. PREDIMED was among the trials flagged. The investigators then audited the trial and found protocol deviations ([misconduct and error](../06-research-integrity/08-fraud-and-misconduct.md)).
 
 ## 3. The design
 
@@ -43,13 +43,13 @@ flowchart TB
 
 ## 5. The outcomes
 
-The primary end point was a clinical composite: heart attack, stroke or cardiovascular death ([[surrogate-endpoints|clinical, not surrogate]]). Good.
+The primary end point was a clinical composite: heart attack, stroke or cardiovascular death ([clinical, not surrogate](../09-from-lab-to-headline/02-surrogate-endpoints.md)). Good.
 
 ## 6. The results
 
 - Events: 96 (3.8%) with olive oil, 83 (3.4%) with nuts, 109 (4.4%) control.
 - Hazard ratios: 0.69 (95% CI 0.53 to 0.91) for olive oil and 0.72 (0.54 to 0.95) for nuts, versus control.
-- Absolute differences: roughly 0.6 to 1 percentage point over a median 4.8 years ([[relative-and-absolute-risk|absolute risk]]). A relative reduction of about 30% sounds large; the absolute difference is about 1 in 100 over five years.
+- Absolute differences: roughly 0.6 to 1 percentage point over a median 4.8 years ([absolute risk](../02-statistics/12-relative-and-absolute-risk.md)). A relative reduction of about 30% sounds large; the absolute difference is about 1 in 100 over five years.
 - Results were similar after excluding the 1,588 participants with deviations.
 - The trial was **stopped early** on the basis of an interim analysis. Trials stopped early for benefit tend to overestimate effects.
 
@@ -63,7 +63,7 @@ The trial was registered (ISRCTN35739639). The investigators audited the trial, 
 
 ## 9. Funding and interests
 
-Funded mainly by the Spanish government's Instituto de Salud Carlos III. The olive oil and nuts were donated by producers, and several authors reported fees or grants from food industry or nut and olive oil organisations. These interests could plausibly favour positive results; the main protection is that the primary outcome was clinical, prespecified and adjudicated blind ([[weighing-conflicts-without-ad-hominem|weighing conflicts]]).
+Funded mainly by the Spanish government's Instituto de Salud Carlos III. The olive oil and nuts were donated by producers, and several authors reported fees or grants from food industry or nut and olive oil organisations. These interests could plausibly favour positive results; the main protection is that the primary outcome was clinical, prespecified and adjudicated blind ([weighing conflicts](../08-funding-and-conflicts/05-weighing-conflicts-without-ad-hominem.md)).
 
 ## 10. The wider evidence
 
@@ -83,4 +83,4 @@ A reasonably strong but imperfect trial suggesting that a Mediterranean diet wit
 
 ## Where this leads
 
-- Next: [[worked-example-a-cohort-study|Worked example: a cohort study]]
+- Next: [Worked example: a cohort study](04-worked-example-a-cohort-study.md)

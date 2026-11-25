@@ -1,6 +1,6 @@
 # Worked example: a meta-analysis (aspirin for primary prevention)
 
-**Prerequisites:** [[a-step-by-step-checklist|A step-by-step checklist]], [[meta-analysis|Meta-analysis]] and [[number-needed-to-treat|Number needed to treat]].
+**Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Meta-analysis](../03-study-designs/15-meta-analysis.md) and [Number needed to treat](../02-statistics/13-number-needed-to-treat.md).
 
 @@IMG@@
 
@@ -12,13 +12,13 @@ In people **without** previous cardiovascular disease (primary prevention), aspi
 
 ## 2. The source
 
-A peer-reviewed meta-analysis by an established international collaboration, published in *The Lancet*. It used **individual participant data** (IPD) rather than published summary results, which allows consistent definitions and analyses across trials and is regarded as the gold standard for meta-analysis ([[meta-analysis|meta-analysis]]).
+A peer-reviewed meta-analysis by an established international collaboration, published in *The Lancet*. It used **individual participant data** (IPD) rather than published summary results, which allows consistent definitions and analyses across trials and is regarded as the gold standard for meta-analysis ([meta-analysis](../03-study-designs/15-meta-analysis.md)).
 
 ## 3. The design
 
 - **Primary prevention**: six randomised trials, about 95,000 people at low average risk, 660,000 person-years and 3,554 serious vascular events.
 - **Secondary prevention**: 16 trials, about 17,000 people at high average risk.
-- Outcomes: serious vascular events (heart attack, stroke or vascular death) and major bleeds, analysed by intention to treat ([[intention-to-treat-and-per-protocol|intention to treat]]).
+- Outcomes: serious vascular events (heart attack, stroke or vascular death) and major bleeds, analysed by intention to treat ([intention to treat](../03-study-designs/09-intention-to-treat-and-per-protocol.md)).
 
 ```mermaid
 flowchart TB
@@ -45,7 +45,7 @@ Clinical outcomes, not surrogates: heart attacks, strokes, deaths and bleeds.
 - Vascular mortality: no difference (0.19% versus 0.19% per year).
 - Major gastrointestinal and extracranial bleeds: **0.10% versus 0.07% per year** (p < 0.0001).
 
-Now translate into absolute terms ([[relative-and-absolute-risk|relative and absolute risk]], [[number-needed-to-treat|NNT]]):
+Now translate into absolute terms ([relative and absolute risk](../02-statistics/12-relative-and-absolute-risk.md), [NNT](../02-statistics/13-number-needed-to-treat.md)):
 
 - Absolute reduction in serious vascular events: 0.06 percentage points per year, so about **1,700 people would need to take aspirin for a year** to prevent one event.
 - Absolute increase in major bleeds: 0.03 percentage points per year, so about **one extra major bleed per 3,300 people per year**.
@@ -58,7 +58,7 @@ Because all included studies were randomised trials, confounding is not a major 
 
 ## 8. Integrity and transparency
 
-Using IPD from all known eligible trials reduces [[publication-bias|publication bias]] and selective reporting. The collaboration's methods were prespecified.
+Using IPD from all known eligible trials reduces [publication bias](../06-research-integrity/06-publication-bias.md) and selective reporting. The collaboration's methods were prespecified.
 
 ## 9. Funding and interests
 
@@ -82,4 +82,4 @@ A high-quality meta-analysis showing why relative risk reductions can mislead: a
 
 ## Where this leads
 
-- Next: [[worked-example-a-news-story|Worked example: a news story]]
+- Next: [Worked example: a news story](06-worked-example-a-news-story.md)

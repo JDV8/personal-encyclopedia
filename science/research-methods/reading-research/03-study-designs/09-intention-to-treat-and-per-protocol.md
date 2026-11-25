@@ -1,6 +1,6 @@
 # Intention to treat and per-protocol analysis
 
-**Prerequisites:** [[blinding-placebos-and-allocation-concealment|Blinding, placebos and allocation concealment]].
+**Prerequisites:** [Blinding, placebos and allocation concealment](08-blinding-placebos-and-allocation-concealment.md).
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ In real trials, not everyone does what they were assigned to do. Some stop takin
 
 An **intention-to-treat (ITT)** analysis compares participants according to the group they were **randomised** to, whatever they actually did. If you were assigned the new drug and stopped after a week, you are still counted in the drug group.
 
-ITT can seem odd: why count people who did not take the treatment? The answer is that ITT **preserves randomisation**. The reasons people stop taking a treatment (side effects, feeling better, feeling worse, chaotic lives) are often related to their outcomes. Removing them breaks the balance that randomisation created, reintroducing [[confounding|confounding]].
+ITT can seem odd: why count people who did not take the treatment? The answer is that ITT **preserves randomisation**. The reasons people stop taking a treatment (side effects, feeling better, feeling worse, chaotic lives) are often related to their outcomes. Removing them breaks the balance that randomisation created, reintroducing [confounding](../04-causation/02-confounding.md).
 
 ITT answers a practical question: what happens when you offer this treatment to patients like these? Because some will not take it, the ITT effect is usually somewhat smaller than the effect in perfect adherers. That makes ITT conservative for superiority trials, which is one reason regulators and journals prefer it.
 
@@ -31,11 +31,11 @@ flowchart TB
 
 ## The Coronary Drug Project lesson
 
-A classic illustration comes from the Coronary Drug Project, a large US trial of cholesterol-lowering drugs after heart attacks, run in the 1960s and 1970s. Among men taking the drug clofibrate, those who took at least 80% of their pills had much lower five-year mortality than those who took less. But the same pattern appeared in the **placebo** group: good adherers to *placebo* also had much lower mortality. Adherence itself marked healthier, more conscientious people. The investigators reported this in the *New England Journal of Medicine* in 1980. It is a vivid demonstration of the [[healthy-user-bias|healthy adherer effect]] and of why per-protocol comparisons mislead.
+A classic illustration comes from the Coronary Drug Project, a large US trial of cholesterol-lowering drugs after heart attacks, run in the 1960s and 1970s. Among men taking the drug clofibrate, those who took at least 80% of their pills had much lower five-year mortality than those who took less. But the same pattern appeared in the **placebo** group: good adherers to *placebo* also had much lower mortality. Adherence itself marked healthier, more conscientious people. The investigators reported this in the *New England Journal of Medicine* in 1980. It is a vivid demonstration of the [healthy adherer effect](../04-causation/06-healthy-user-bias.md) and of why per-protocol comparisons mislead.
 
 ## Non-inferiority trials
 
-In a [[randomised-controlled-trials|non-inferiority trial]], the aim is to show that a new treatment is not unacceptably worse. Here ITT can be *anti-conservative*: non-adherence in both arms makes them look more similar, which helps show "no difference". Guidelines therefore recommend reporting both ITT and per-protocol analyses for non-inferiority trials and checking that they agree.
+In a [non-inferiority trial](07-randomised-controlled-trials.md), the aim is to show that a new treatment is not unacceptably worse. Here ITT can be *anti-conservative*: non-adherence in both arms makes them look more similar, which helps show "no difference". Guidelines therefore recommend reporting both ITT and per-protocol analyses for non-inferiority trials and checking that they agree.
 
 ## Missing outcome data
 
@@ -50,7 +50,7 @@ Large or unequal dropout is a warning sign. A trial where 30% of one arm and 10%
 
 ## "Modified intention to treat"
 
-Many papers report a **modified ITT** analysis, excluding some randomised participants (for example, those who never received a dose, or who were found ineligible). Sometimes this is reasonable; sometimes it is used to remove inconvenient patients. A 2010 study by Isabelle Boutron and colleagues in *JAMA* found "spin" common in reports of trials with non-significant primary outcomes, and methodologists have raised similar concerns about inconsistent "modified ITT" definitions. Check the [[reporting-checklists|CONSORT flow diagram]]: how many were randomised, how many were analysed, and why do the numbers differ?
+Many papers report a **modified ITT** analysis, excluding some randomised participants (for example, those who never received a dose, or who were found ineligible). Sometimes this is reasonable; sometimes it is used to remove inconvenient patients. A 2010 study by Isabelle Boutron and colleagues in *JAMA* found "spin" common in reports of trials with non-significant primary outcomes, and methodologists have raised similar concerns about inconsistent "modified ITT" definitions. Check the [CONSORT flow diagram](../05-anatomy-of-a-paper/12-reporting-checklists.md): how many were randomised, how many were analysed, and why do the numbers differ?
 
 ## Key ideas
 
@@ -62,5 +62,5 @@ Many papers report a **modified ITT** analysis, excluding some randomised partic
 
 ## Where this leads
 
-- Next: [[crossover-trials|Crossover trials]]
-- Related: [[healthy-user-bias|Healthy user and adherer bias]]
+- Next: [Crossover trials](10-crossover-trials.md)
+- Related: [Healthy user and adherer bias](../04-causation/06-healthy-user-bias.md)

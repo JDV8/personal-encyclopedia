@@ -1,6 +1,6 @@
 # Base rates and Bayes' theorem
 
-**Prerequisites:** [[number-needed-to-treat|Number needed to treat and to harm]] and [[probability|Probability]].
+**Prerequisites:** [Number needed to treat and to harm](13-number-needed-to-treat.md) and [Probability](02-probability.md).
 
 @@IMG@@
 
@@ -56,7 +56,7 @@ Suppose a field tests many long-shot hypotheses, of which only 1 in 10 is true, 
 
 ## Extraordinary claims
 
-A practical corollary, often associated with Carl Sagan's phrase "extraordinary claims require extraordinary evidence" (versions of the idea go back to Laplace and Hume), is that a surprising claim with a low prior needs much stronger evidence than a plausible one to become believable. In 2011 the social psychologist Daryl Bem published experiments in a leading journal reporting evidence of precognition, using standard methods and p-values. Because the prior probability of precognition is very low, many readers concluded that the paper revealed more about the weakness of standard methods than about psychic ability, and it became one trigger for the [[the-replication-crisis|replication crisis]].
+A practical corollary, often associated with Carl Sagan's phrase "extraordinary claims require extraordinary evidence" (versions of the idea go back to Laplace and Hume), is that a surprising claim with a low prior needs much stronger evidence than a plausible one to become believable. In 2011 the social psychologist Daryl Bem published experiments in a leading journal reporting evidence of precognition, using standard methods and p-values. Because the prior probability of precognition is very low, many readers concluded that the paper revealed more about the weakness of standard methods than about psychic ability, and it became one trigger for the [replication crisis](../06-research-integrity/07-the-replication-crisis.md).
 
 ## Using Bayesian thinking without formulas
 
@@ -75,5 +75,5 @@ A practical corollary, often associated with Carl Sagan's phrase "extraordinary 
 
 ## Where this leads
 
-- Next: [[sensitivity-and-specificity|Sensitivity, specificity and screening]]
-- Related: [[the-replication-crisis|The replication crisis]]
+- Next: [Sensitivity, specificity and screening](15-sensitivity-and-specificity.md)
+- Related: [The replication crisis](../06-research-integrity/07-the-replication-crisis.md)

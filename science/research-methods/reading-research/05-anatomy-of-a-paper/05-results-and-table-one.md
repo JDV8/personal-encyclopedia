@@ -1,6 +1,6 @@
 # Results and Table 1
 
-**Prerequisites:** [[methods|Methods]].
+**Prerequisites:** [Methods](04-methods.md).
 
 @@IMG@@
 
@@ -36,7 +36,7 @@ flowchart TB
 
 In a **randomised trial**, Table 1 shows whether randomisation produced comparable groups. Small differences are expected by chance. Many statisticians, including Douglas Altman, have argued that significance tests (p-values) for baseline differences in trials are pointless: if randomisation was done properly, any differences *are* due to chance by definition. Look instead at whether any difference is large enough to matter for prognosis. Implausibly perfect balance, or striking imbalances, can sometimes be a sign of problems with the randomisation itself. In 2017 the anaesthetist John Carlisle published an analysis in *Anaesthesia* of baseline data in more than 5,000 trials, flagging trials whose baseline distributions were statistically unlikely; some were later found to be fraudulent or flawed.
 
-In an **observational study**, Table 1 shows how exposed and unexposed groups differ. Large differences show how much confounding the analysis must handle. If the exposed are younger, richer and healthier, think about the [[healthy-user-bias|healthy user effect]].
+In an **observational study**, Table 1 shows how exposed and unexposed groups differ. Large differences show how much confounding the analysis must handle. If the exposed are younger, richer and healthier, think about the [healthy user effect](../04-causation/06-healthy-user-bias.md).
 
 Also use Table 1 to ask: **are these people like the ones I care about?** If the average age is 55 and you are interested in 85-year-olds, the results may not apply.
 
@@ -48,11 +48,11 @@ Find the result for the **pre-specified primary outcome** first. A good report g
 - the effect estimate (difference, risk ratio, hazard ratio) with a **confidence interval**;
 - a p-value, if reported.
 
-Compute the **absolute** risks and the risk difference yourself if they are not given ([[relative-and-absolute-risk|relative and absolute risk]], [[number-needed-to-treat|NNT]]).
+Compute the **absolute** risks and the risk difference yourself if they are not given ([relative and absolute risk](../02-statistics/12-relative-and-absolute-risk.md), [NNT](../02-statistics/13-number-needed-to-treat.md)).
 
 ## Secondary outcomes, subgroups and harms
 
-Secondary outcomes and subgroups follow. Remember [[multiple-comparisons|multiple comparisons]]: one or two significant secondary results among many are expected by chance. Subgroup claims need an interaction test ([[subgroups-and-secondary-analyses|subgroups]]).
+Secondary outcomes and subgroups follow. Remember [multiple comparisons](../02-statistics/16-multiple-comparisons.md): one or two significant secondary results among many are expected by chance. Subgroup claims need an interaction test ([subgroups](../09-from-lab-to-headline/04-subgroups-and-secondary-analyses.md)).
 
 **Harms** deserve equal attention. Are adverse events reported in full for each arm, with numbers? Serious adverse events, discontinuations due to adverse events and deaths should be clearly shown. A 2001 study by John Ioannidis and Joseph Lau in *JAMA* found that reporting of harms in randomised trials was often inadequate, and the CONSORT group published an extension on harms reporting in 2004.
 
@@ -74,4 +74,4 @@ Secondary outcomes and subgroups follow. Remember [[multiple-comparisons|multipl
 
 ## Where this leads
 
-- Next: [[reading-graphs|Reading graphs]]
+- Next: [Reading graphs](06-reading-graphs.md)

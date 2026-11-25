@@ -1,6 +1,6 @@
 # Why reading research is hard
 
-**Prerequisites:** [[how-a-claim-becomes-knowledge|How a claim becomes knowledge]].
+**Prerequisites:** [How a claim becomes knowledge](05-how-a-claim-becomes-knowledge.md).
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ The hardest part of reading research is not the statistics. It is the reader. Ev
 
 **Confirmation bias** is the tendency to seek, notice and remember evidence that fits what we already believe. **Motivated reasoning** is the broader tendency to reason toward a conclusion we want. A classic 1979 study by Charles Lord, Lee Ross and Mark Lepper gave supporters and opponents of the death penalty the same mixed evidence about whether it deters crime. Both groups rated the studies supporting their own view as more convincing, and both groups came away *more* confident in their original position.
 
-In practice this shows up as asymmetric scrutiny: we hunt for flaws in studies we dislike and wave through studies we like. The flaws we find may be real, but if we only look on one side we end up more biased, not less. A useful habit is the **symmetry test**: "If this study had found the opposite, with exactly the same methods, would I accept it?" The economics branch covers these biases in more depth in [[path:economics/microeconomics/09-behavioural-economics/03-heuristics-and-biases.md|heuristics and biases]].
+In practice this shows up as asymmetric scrutiny: we hunt for flaws in studies we dislike and wave through studies we like. The flaws we find may be real, but if we only look on one side we end up more biased, not less. A useful habit is the **symmetry test**: "If this study had found the opposite, with exactly the same methods, would I accept it?" The economics branch covers these biases in more depth in [heuristics and biases](../../../../economics/microeconomics/09-behavioural-economics/03-heuristics-and-biases.md).
 
 ```mermaid
 flowchart TB
@@ -31,10 +31,10 @@ Many research topics are entangled with political, religious or cultural identit
 
 Two opposite shortcuts both mislead:
 
-- **Deference to authority**: believing a claim because it comes from a famous scientist, a prestigious journal or an official body. These are real signals of quality, but [[peer-review|peer review]] misses errors, prestigious journals retract papers, and agencies sometimes reverse themselves.
+- **Deference to authority**: believing a claim because it comes from a famous scientist, a prestigious journal or an official body. These are real signals of quality, but [peer review](../07-publishing/02-peer-review.md) misses errors, prestigious journals retract papers, and agencies sometimes reverse themselves.
 - **Reflexive contrarianism**: assuming that whatever the establishment says must be wrong, or that a lone dissenter is a suppressed genius. Most dissenters are wrong; a few are right; the only way to tell is to look at the evidence.
 
-The [[consensus-dissent-and-experts|consensus and dissent]] lesson discusses how to weigh expert agreement without surrendering your judgement.
+The [consensus and dissent](../09-from-lab-to-headline/05-consensus-dissent-and-experts.md) lesson discusses how to weigh expert agreement without surrendering your judgement.
 
 ## The pull of a good story
 
@@ -42,7 +42,7 @@ A vivid anecdote, a sympathetic patient, a dramatic before-and-after photo: thes
 
 ## Technical barriers
 
-Research papers are written for specialists. They use jargon, assume statistical knowledge, report results in forms like odds ratios and hazard ratios, and bury key details in supplements. Many are behind paywalls. These barriers are real, and most of this course exists to lower them. The [[finding-and-accessing-papers|finding and accessing papers]] lesson covers legal ways to get the full text.
+Research papers are written for specialists. They use jargon, assume statistical knowledge, report results in forms like odds ratios and hazard ratios, and bury key details in supplements. Many are behind paywalls. These barriers are real, and most of this course exists to lower them. The [finding and accessing papers](../11-practice/01-finding-and-accessing-papers.md) lesson covers legal ways to get the full text.
 
 ## Intellectual humility
 
@@ -58,5 +58,5 @@ The goal is not to become a person who can debunk any study. It is easy to find 
 
 ## Where this leads
 
-- Next section: [[sec:02-statistics|Probability and statistics basics]], starting with [[variables-and-data|variables and data]]
-- Related: [[path:economics/finance/07-behavioural-finance/03-overconfidence-and-other-biases.md|Overconfidence and other biases]] in finance
+- Next section: [Probability and statistics basics](../02-statistics/README.md), starting with [variables and data](../02-statistics/01-variables-and-data.md)
+- Related: [Overconfidence and other biases](../../../../economics/finance/07-behavioural-finance/03-overconfidence-and-other-biases.md) in finance

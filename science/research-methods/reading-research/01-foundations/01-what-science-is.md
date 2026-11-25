@@ -33,9 +33,9 @@ flowchart LR
 
 ## Where the method came from
 
-Careful observation is ancient. Aristotle catalogued animals and argued about causes; physicians in many traditions recorded what happened to patients. The modern form took shape in seventeenth-century Europe. [[path:philosophy/history/modern/early-modern/thinkers/francis-bacon.md|Francis Bacon]] argued that knowledge should be built from systematic observation and experiment rather than from authority. Galileo combined measurement with mathematics. The Royal Society of London, founded in 1660, took the motto *Nullius in verba*, usually translated "take nobody's word for it". That motto is still the best one-line summary of how to read research: claims should be believed because of their evidence, not because of who made them.
+Careful observation is ancient. Aristotle catalogued animals and argued about causes; physicians in many traditions recorded what happened to patients. The modern form took shape in seventeenth-century Europe. [Francis Bacon](../../../../philosophy/history/modern/early-modern/thinkers/francis-bacon.md) argued that knowledge should be built from systematic observation and experiment rather than from authority. Galileo combined measurement with mathematics. The Royal Society of London, founded in 1660, took the motto *Nullius in verba*, usually translated "take nobody's word for it". That motto is still the best one-line summary of how to read research: claims should be believed because of their evidence, not because of who made them.
 
-[[path:philosophy/history/modern/early-modern/thinkers/david-hume.md|David Hume]] then raised a problem that has never fully gone away. However many times we have seen the sun rise, nothing in logic guarantees it will rise tomorrow. Generalising from past observations to future ones, called **induction**, cannot be proved; it can only be relied on more or less wisely. Much of statistics, which you will meet in [[sec:02-statistics|section 2]], is a disciplined way of doing induction while measuring how wrong you might be.
+[David Hume](../../../../philosophy/history/modern/early-modern/thinkers/david-hume.md) then raised a problem that has never fully gone away. However many times we have seen the sun rise, nothing in logic guarantees it will rise tomorrow. Generalising from past observations to future ones, called **induction**, cannot be proved; it can only be relied on more or less wisely. Much of statistics, which you will meet in [section 2](../02-statistics/README.md), is a disciplined way of doing induction while measuring how wrong you might be.
 
 ## Why it works: error correction
 
@@ -45,7 +45,7 @@ Science does not work because scientists are unusually honest or clever. It work
 - **Transparency.** Methods are written down so that others can repeat them and find the flaws.
 - **Replication.** A finding that holds up when independent groups repeat it is far more trustworthy than a single result.
 
-When any of these breaks down (when methods are hidden, when only successful experiments are published, when no one repeats the work), science becomes much less reliable. A large part of this course, especially [[sec:06-research-integrity|research integrity]] and [[sec:08-funding-and-conflicts|funding and conflicts of interest]], is about exactly those breakdowns.
+When any of these breaks down (when methods are hidden, when only successful experiments are published, when no one repeats the work), science becomes much less reliable. A large part of this course, especially [research integrity](../06-research-integrity/README.md) and [funding and conflicts of interest](../08-funding-and-conflicts/README.md), is about exactly those breakdowns.
 
 ## Kinds of scientific claims
 
@@ -54,12 +54,12 @@ Research papers make several different kinds of claim, and each needs different 
 | Kind of claim | Example | Typical evidence |
 |---|---|---|
 | Descriptive | "What share of adults in Ontario smoke?" | A survey of a representative sample |
-| Associational | "Smokers get lung cancer more often" | Comparing groups ([[cohort-studies|cohort]], [[case-control-studies|case-control]]) |
+| Associational | "Smokers get lung cancer more often" | Comparing groups ([cohort](../03-study-designs/06-cohort-studies.md), [case-control](../03-study-designs/05-case-control-studies.md)) |
 | Causal | "Smoking causes lung cancer" | Many converging studies, ideally including experiments |
 | Mechanistic | "Tobacco tar damages DNA in lung cells" | Laboratory work, animal studies |
 | Predictive | "This model forecasts next winter's flu peak" | Out-of-sample tests of the model |
 
-A frequent mistake, both by readers and by journalists, is to treat evidence for one kind of claim as if it supported another: an association reported as a cause, or a mechanism in a dish of cells reported as a cure in people. You will see this pattern again in [[correlation-and-causation|correlation and causation]] and [[animal-and-in-vitro-studies|animal and in-vitro studies]].
+A frequent mistake, both by readers and by journalists, is to treat evidence for one kind of claim as if it supported another: an association reported as a cause, or a mechanism in a dish of cells reported as a cure in people. You will see this pattern again in [correlation and causation](../04-causation/01-correlation-and-causation.md) and [animal and in-vitro studies](../09-from-lab-to-headline/03-animal-and-in-vitro-studies.md).
 
 ## Science and certainty
 
@@ -75,5 +75,5 @@ Science rarely delivers proof in the mathematical sense. It delivers degrees of 
 
 ## Where this leads
 
-- Next: [[falsifiability-and-theories|Falsifiability, hypotheses and theories]]
-- Related: [[path:philosophy/concepts/epistemology/knowledge-and-opinion.md|Knowledge and opinion]] in the philosophy branch
+- Next: [Falsifiability, hypotheses and theories](02-falsifiability-and-theories.md)
+- Related: [Knowledge and opinion](../../../../philosophy/concepts/epistemology/knowledge-and-opinion.md) in the philosophy branch

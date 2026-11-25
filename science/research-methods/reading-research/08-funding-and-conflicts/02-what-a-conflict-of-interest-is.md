@@ -1,6 +1,6 @@
 # What a conflict of interest is
 
-**Prerequisites:** [[who-pays-for-research|Who pays for research]].
+**Prerequisites:** [Who pays for research](01-who-pays-for-research.md).
 
 @@IMG@@
 
@@ -42,7 +42,7 @@ Financial conflicts are the easiest to define and disclose, which is why most po
 - **Ideological, political or religious beliefs**.
 - **Advocacy roles** in campaigns related to the research.
 
-These are discussed in [[non-financial-conflicts|non-financial conflicts]]. They are harder to define and disclose but can be just as powerful.
+These are discussed in [non-financial conflicts](06-non-financial-conflicts.md). They are harder to define and disclose but can be just as powerful.
 
 ### Institutional
 
@@ -63,7 +63,7 @@ The definition matters because it cuts both ways:
 - A conflict means there is a **risk** of bias, which justifies closer scrutiny and transparency.
 - A conflict is **not evidence** that a particular study is biased or wrong. A study must be judged on its methods and results.
 
-The next lessons examine what evidence shows about how conflicts actually affect research ([[how-funding-shapes-results|how funding shapes results]]), the limits of disclosure ([[disclosure-and-its-limits|disclosure and its limits]]), and how to weigh conflicts without falling into ad hominem dismissal ([[weighing-conflicts-without-ad-hominem|weighing conflicts]]).
+The next lessons examine what evidence shows about how conflicts actually affect research ([how funding shapes results](03-how-funding-shapes-results.md)), the limits of disclosure ([disclosure and its limits](04-disclosure-and-its-limits.md)), and how to weigh conflicts without falling into ad hominem dismissal ([weighing conflicts](05-weighing-conflicts-without-ad-hominem.md)).
 
 ## Key ideas
 
@@ -75,4 +75,4 @@ The next lessons examine what evidence shows about how conflicts actually affect
 
 ## Where this leads
 
-- Next: [[how-funding-shapes-results|How funding shapes results]]
+- Next: [How funding shapes results](03-how-funding-shapes-results.md)

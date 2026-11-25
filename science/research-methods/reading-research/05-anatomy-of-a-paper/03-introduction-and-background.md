@@ -1,6 +1,6 @@
 # Introduction and background
 
-**Prerequisites:** [[title-and-abstract|Title and abstract]].
+**Prerequisites:** [Title and abstract](02-title-and-abstract.md).
 
 @@IMG@@
 
@@ -38,11 +38,11 @@ If a study's introduction does not engage with the existing evidence, that is a 
 
 The objective at the end of the introduction is the study's promise. Compare it with:
 
-- the **trial registration** or protocol ([[trial-registries|trial registries]]): is it the same question?
+- the **trial registration** or protocol ([trial registries](../06-research-integrity/02-trial-registries.md)): is it the same question?
 - the **primary outcome** in the methods: is that what is being tested?
 - the **conclusion**: does it answer this question, or a different one?
 
-A mismatch between the stated objective and what is reported is a common sign of [[outcome-switching|outcome switching]] or [[harking|HARKing]].
+A mismatch between the stated objective and what is reported is a common sign of [outcome switching](../06-research-integrity/03-outcome-switching.md) or [HARKing](../06-research-integrity/05-harking.md).
 
 ## Framing effects
 
@@ -50,7 +50,7 @@ Introductions also set the frame. A paper about a new drug might describe the di
 
 ## Background in observational studies
 
-For observational studies, the introduction often reviews a proposed **mechanism**. Mechanisms make associations seem plausible, but almost any association can be given a plausible-sounding mechanism after the fact. A mechanism described in advance and tested is worth much more than one invented to explain a finding ([[falsifiability-and-theories|falsifiability]]).
+For observational studies, the introduction often reviews a proposed **mechanism**. Mechanisms make associations seem plausible, but almost any association can be given a plausible-sounding mechanism after the fact. A mechanism described in advance and tested is worth much more than one invented to explain a finding ([falsifiability](../01-foundations/02-falsifiability-and-theories.md)).
 
 ## Key ideas
 
@@ -62,4 +62,4 @@ For observational studies, the introduction often reviews a proposed **mechanism
 
 ## Where this leads
 
-- Next: [[methods|Methods]]
+- Next: [Methods](04-methods.md)

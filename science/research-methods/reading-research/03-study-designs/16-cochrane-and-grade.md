@@ -1,6 +1,6 @@
 # Cochrane and GRADE
 
-**Prerequisites:** [[meta-analysis|Meta-analysis]].
+**Prerequisites:** [Meta-analysis](15-meta-analysis.md).
 
 @@IMG@@
 
@@ -70,4 +70,4 @@ Cochrane reviews and GRADE-based guidelines present **summary of findings** tabl
 
 ## Where this leads
 
-- Next section: [[sec:04-causation|Causation and bias]], starting with [[correlation-and-causation|correlation and causation]]
+- Next section: [Causation and bias](../04-causation/README.md), starting with [correlation and causation](../04-causation/01-correlation-and-causation.md)

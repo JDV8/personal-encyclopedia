@@ -1,6 +1,6 @@
 # Kaplan-Meier curves
 
-**Prerequisites:** [[forest-plots|Forest plots]] and [[odds-ratios-and-hazard-ratios|Odds ratios and hazard ratios]].
+**Prerequisites:** [Forest plots](07-forest-plots.md) and [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md).
 
 @@IMG@@
 
@@ -38,13 +38,13 @@ flowchart LR
 
 ## Crossing curves and proportional hazards
 
-A single hazard ratio assumes the ratio of event rates is roughly constant over time ([[odds-ratios-and-hazard-ratios|proportional hazards]]). If the curves cross, for example because surgery carries early risk but later benefit, a single hazard ratio can be misleading, and the log-rank test loses power. Look for alternative summaries such as **restricted mean survival time**, the average event-free time up to a chosen point, which many statisticians recommend when hazards are not proportional.
+A single hazard ratio assumes the ratio of event rates is roughly constant over time ([proportional hazards](../02-statistics/19-odds-ratios-and-hazard-ratios.md)). If the curves cross, for example because surgery carries early risk but later benefit, a single hazard ratio can be misleading, and the log-rank test loses power. Look for alternative summaries such as **restricted mean survival time**, the average event-free time up to a chosen point, which many statisticians recommend when hazards are not proportional.
 
 ## Common misreadings
 
 - **Reading the tail**: the right-hand end of a curve, based on few people, is the least reliable part.
 - **Confusing relative and absolute**: a hazard ratio of 0.7 might correspond to a difference in five-year survival of only a few percentage points. Read the gap from the curves.
-- **Surrogate events**: progression-free survival can improve without any gain in overall survival ([[surrogate-endpoints|surrogate endpoints]]).
+- **Surrogate events**: progression-free survival can improve without any gain in overall survival ([surrogate endpoints](../09-from-lab-to-headline/02-surrogate-endpoints.md)).
 - **Informative censoring**: the method assumes people are censored for reasons unrelated to their risk. If sicker patients drop out more in one arm, the curves are biased.
 - **Competing risks**: when people can die of other causes before the event of interest, standard Kaplan-Meier estimates of cumulative incidence can overstate it. Competing-risk methods (such as the Fine-Gray model) address this.
 
@@ -58,4 +58,4 @@ A single hazard ratio assumes the ratio of event rates is roughly constant over 
 
 ## Where this leads
 
-- Next: [[funnel-plots|Funnel plots]]
+- Next: [Funnel plots](09-funnel-plots.md)

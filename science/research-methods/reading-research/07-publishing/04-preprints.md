@@ -1,6 +1,6 @@
 # Preprints
 
-**Prerequisites:** [[impact-factors-and-metrics|Impact factors and metrics]] and [[peer-review|Peer review]].
+**Prerequisites:** [Impact factors and metrics](03-impact-factors-and-metrics.md) and [Peer review](02-peer-review.md).
 
 @@IMG@@
 
@@ -56,7 +56,7 @@ Studies comparing preprints with their published versions found that most core c
 Treat a preprint like a paper you are reviewing yourself:
 
 1. **Note that it is a preprint** and check whether a peer-reviewed version has since been published (preprint servers often link to it).
-2. **Apply the full checklist**: design, population, outcomes, analysis, conflicts ([[a-step-by-step-checklist|step-by-step checklist]]).
+2. **Apply the full checklist**: design, population, outcomes, analysis, conflicts ([step-by-step checklist](../11-practice/02-a-step-by-step-checklist.md)).
 3. **Look for expert commentary**: comments on the server, PubPeer, organised review platforms such as Review Commons or the MIT Press Rapid Reviews project, and responses from other researchers.
 4. **Check for updated versions**, which may correct errors.
 5. **Be especially cautious with dramatic claims**, which deserve the most scrutiny and are the most likely to be shared.
@@ -75,4 +75,4 @@ Many journalists now report on preprints, ideally flagging that they are not pee
 
 ## Where this leads
 
-- Next: [[predatory-journals|Predatory journals]]
+- Next: [Predatory journals](05-predatory-journals.md)

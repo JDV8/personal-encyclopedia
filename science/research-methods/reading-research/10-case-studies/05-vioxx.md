@@ -1,6 +1,6 @@
 # Case study: Vioxx
 
-**Prerequisites:** [[outcome-switching|Outcome switching]], [[how-funding-shapes-results|How funding shapes results]] and [[passive-surveillance-and-pharmacovigilance|Pharmacovigilance]].
+**Prerequisites:** [Outcome switching](../06-research-integrity/03-outcome-switching.md), [How funding shapes results](../08-funding-and-conflicts/03-how-funding-shapes-results.md) and [Pharmacovigilance](../03-study-designs/13-passive-surveillance-and-pharmacovigilance.md).
 
 @@IMG@@
 
@@ -45,7 +45,7 @@ Litigation produced internal documents. A 2008 *JAMA* study by Joseph Ross and c
 - **Watch how harms are framed.** The VIGOR heart attack difference was interpreted as a benefit of the comparator.
 - **Check the comparator.** An active comparator can hide harms that a placebo comparison reveals.
 - **Look for complete data.** Cut-off dates and omitted events can change conclusions.
-- **Harms emerge after approval.** Pre-approval trials are often too small and short ([[passive-surveillance-and-pharmacovigilance|pharmacovigilance]]).
+- **Harms emerge after approval.** Pre-approval trials are often too small and short ([pharmacovigilance](../03-study-designs/13-passive-surveillance-and-pharmacovigilance.md)).
 - **Authorship may not reflect who wrote the paper.**
 
 ## Key ideas
@@ -58,4 +58,4 @@ Litigation produced internal documents. A 2008 *JAMA* study by Joseph Ross and c
 
 ## Where this leads
 
-- Next: [[paroxetine-study-329|Paroxetine Study 329]]
+- Next: [Paroxetine Study 329](06-paroxetine-study-329.md)

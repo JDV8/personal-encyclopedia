@@ -1,6 +1,6 @@
 # Passive surveillance and pharmacovigilance
 
-**Prerequisites:** [[case-reports-and-case-series|Case reports and case series]] and [[self-controlled-case-series|The self-controlled case series]].
+**Prerequisites:** [Case reports and case series](02-case-reports-and-case-series.md) and [The self-controlled case series](11-self-controlled-case-series.md).
 
 @@IMG@@
 
@@ -44,7 +44,7 @@ A famous success: in 1999, reports to VAERS of intussusception (a bowel obstruct
 
 ## Active surveillance
 
-Because passive data are so limited, regulators also run **active surveillance**, which uses linked health records covering defined populations, so denominators and comparison groups are available. Examples include the US **Vaccine Safety Datalink** (a collaboration between the CDC and integrated health care organisations, begun in 1990) and the FDA's **Sentinel** system for drugs. Nordic national registries serve a similar role. These systems allow designs like the [[self-controlled-case-series|self-controlled case series]] and cohort studies to test signals quickly.
+Because passive data are so limited, regulators also run **active surveillance**, which uses linked health records covering defined populations, so denominators and comparison groups are available. Examples include the US **Vaccine Safety Datalink** (a collaboration between the CDC and integrated health care organisations, begun in 1990) and the FDA's **Sentinel** system for drugs. Nordic national registries serve a similar role. These systems allow designs like the [self-controlled case series](11-self-controlled-case-series.md) and cohort studies to test signals quickly.
 
 ## Reading claims based on surveillance data
 
@@ -68,5 +68,5 @@ Regulators publish their assessments of major signals, and these are a better st
 
 ## Where this leads
 
-- Next: [[systematic-reviews|Systematic reviews]]
-- Related: [[case-reports-and-case-series|Case reports]], [[vioxx|The Vioxx case study]]
+- Next: [Systematic reviews](14-systematic-reviews.md)
+- Related: [Case reports](02-case-reports-and-case-series.md), [The Vioxx case study](../10-case-studies/05-vioxx.md)

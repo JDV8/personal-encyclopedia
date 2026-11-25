@@ -1,6 +1,6 @@
 # Time-related biases
 
-**Prerequisites:** [[measurement-and-recall-bias|Measurement and recall bias]] and [[sensitivity-and-specificity|Sensitivity, specificity and screening]].
+**Prerequisites:** [Measurement and recall bias](07-measurement-and-recall-bias.md) and [Sensitivity, specificity and screening](../02-statistics/15-sensitivity-and-specificity.md).
 
 @@IMG@@
 
@@ -50,7 +50,7 @@ flowchart TB
 ## Other time traps
 
 - **Time-window bias**: in case-control studies, cases and controls have exposure measured over windows of different lengths.
-- **Protopathic bias**: a drug is started because of early symptoms of an undiagnosed disease ([[reverse-causation|reverse causation]]).
+- **Protopathic bias**: a drug is started because of early symptoms of an undiagnosed disease ([reverse causation](03-reverse-causation.md)).
 - **Calendar-time confounding**: practices, diagnostic criteria and other exposures change over time, so comparisons of people treated in different years are confounded.
 
 ## Target trial emulation
@@ -67,4 +67,4 @@ A unifying approach, developed by Miguel Hernán and James Robins, is **target t
 
 ## Where this leads
 
-- Next: [[bradford-hill-criteria|The Bradford Hill criteria]]
+- Next: [The Bradford Hill criteria](09-bradford-hill-criteria.md)

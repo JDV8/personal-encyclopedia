@@ -1,6 +1,6 @@
 # Supplementary material and data
 
-**Prerequisites:** [[discussion-limitations-and-spin|Discussion, limitations and spin]].
+**Prerequisites:** [Discussion, limitations and spin](10-discussion-limitations-and-spin.md).
 
 @@IMG@@
 
@@ -30,7 +30,7 @@ flowchart TB
 
 ### Checking for changes
 
-Comparing the **protocol** (and its amendments) with the paper is the most direct way to detect [[outcome-switching|outcome switching]] and changed analyses. When the protocol's primary outcome or analysis differs from the paper's, the paper should say so and explain why. Often it does not.
+Comparing the **protocol** (and its amendments) with the paper is the most direct way to detect [outcome switching](../06-research-integrity/03-outcome-switching.md) and changed analyses. When the protocol's primary outcome or analysis differs from the paper's, the paper should say so and explain why. Often it does not.
 
 ### Robustness
 
@@ -48,9 +48,9 @@ Results that did not fit the story, such as non-significant secondary outcomes o
 
 For drug trials, even the supplement is a summary. More complete records exist:
 
-- **Clinical study reports (CSRs)**: detailed reports submitted to regulators, often thousands of pages long. In the [[tamiflu-and-hidden-trial-data|Tamiflu]] saga, Cochrane researchers spent years obtaining CSRs from the manufacturer, Roche, and found information missing from published papers.
-- **Regulatory reviews**: the US FDA publishes reviews of approved drugs, and the European Medicines Agency has published clinical data under its transparency policy since 2016. Erick Turner and colleagues used FDA reviews in their 2008 *New England Journal of Medicine* study showing selective publication of antidepressant trials ([[publication-bias|publication bias]]).
-- **Trial registry results**: ClinicalTrials.gov and the EU Clinical Trials Register include summary results for many trials, sometimes for trials never published in journals ([[trial-registries|trial registries]]).
+- **Clinical study reports (CSRs)**: detailed reports submitted to regulators, often thousands of pages long. In the [Tamiflu](../10-case-studies/08-tamiflu-and-hidden-trial-data.md) saga, Cochrane researchers spent years obtaining CSRs from the manufacturer, Roche, and found information missing from published papers.
+- **Regulatory reviews**: the US FDA publishes reviews of approved drugs, and the European Medicines Agency has published clinical data under its transparency policy since 2016. Erick Turner and colleagues used FDA reviews in their 2008 *New England Journal of Medicine* study showing selective publication of antidepressant trials ([publication bias](../06-research-integrity/06-publication-bias.md)).
+- **Trial registry results**: ClinicalTrials.gov and the EU Clinical Trials Register include summary results for many trials, sometimes for trials never published in journals ([trial registries](../06-research-integrity/02-trial-registries.md)).
 - **Individual participant data**: some sponsors and repositories, such as Vivli and the Yale University Open Data Access (YODA) Project, allow qualified researchers to request patient-level data.
 
 ## Data availability statements
@@ -77,4 +77,4 @@ For papers that matter to you:
 
 ## Where this leads
 
-- Next: [[reporting-checklists|Reporting checklists]]
+- Next: [Reporting checklists](12-reporting-checklists.md)

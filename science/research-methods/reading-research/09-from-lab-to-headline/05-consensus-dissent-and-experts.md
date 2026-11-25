@@ -1,6 +1,6 @@
 # Consensus, dissent and experts
 
-**Prerequisites:** [[how-a-claim-becomes-knowledge|How a claim becomes knowledge]] and [[weighing-conflicts-without-ad-hominem|Weighing conflicts without ad hominem]].
+**Prerequisites:** [How a claim becomes knowledge](../01-foundations/05-how-a-claim-becomes-knowledge.md) and [Weighing conflicts without ad hominem](../08-funding-and-conflicts/05-weighing-conflicts-without-ad-hominem.md).
 
 @@IMG@@
 
@@ -10,9 +10,9 @@ Most of us cannot evaluate every study on every topic ourselves. We rely on expe
 
 A **scientific consensus** is the collective judgement of the relevant expert community, based on the totality of evidence. It is not a vote, and it is not the same as the opinion of any one authority. It is usually expressed through:
 
-- systematic reviews and meta-analyses ([[systematic-reviews|systematic reviews]]);
+- systematic reviews and meta-analyses ([systematic reviews](../03-study-designs/14-systematic-reviews.md));
 - reports by national academies and expert panels;
-- clinical guidelines graded by systems such as [[cochrane-and-grade|GRADE]];
+- clinical guidelines graded by systems such as [GRADE](../03-study-designs/16-cochrane-and-grade.md);
 - statements by scientific societies.
 
 A strong consensus rests on **converging evidence** from many studies, using different methods, by independent groups. That is what makes it robust.
@@ -28,9 +28,9 @@ A strong consensus rests on **converging evidence** from many studies, using dif
 Consensus has also been wrong or premature:
 
 - **Peptic ulcers**: the medical consensus held that ulcers were caused mainly by stress and acid. Barry Marshall and Robin Warren showed that most were caused by the bacterium *Helicobacter pylori*, initially to scepticism; they received the 2005 Nobel Prize in Physiology or Medicine.
-- **Hormone replacement therapy**: observational studies led to widespread recommendations that HRT would prevent heart disease, which the Women's Health Initiative trial did not support ([[hormone-replacement-therapy-and-the-whi|HRT case study]]).
-- **Dietary fat and sugar**: industry funding influenced the framing of early research on diet and heart disease ([[sugar-research-foundation|sugar case study]]).
-- **Antiarrhythmic drugs**: widespread use based on a surrogate endpoint was overturned by CAST ([[the-cardiac-arrhythmia-suppression-trial|CAST]]).
+- **Hormone replacement therapy**: observational studies led to widespread recommendations that HRT would prevent heart disease, which the Women's Health Initiative trial did not support ([HRT case study](../10-case-studies/04-hormone-replacement-therapy-and-the-whi.md)).
+- **Dietary fat and sugar**: industry funding influenced the framing of early research on diet and heart disease ([sugar case study](../10-case-studies/02-sugar-research-foundation.md)).
+- **Antiarrhythmic drugs**: widespread use based on a surrogate endpoint was overturned by CAST ([CAST](../10-case-studies/03-the-cardiac-arrhythmia-suppression-trial.md)).
 
 Notice that in each case the consensus was overturned by **better evidence**, usually randomised trials or new discoveries, not by rhetoric.
 
@@ -46,7 +46,7 @@ flowchart TB
 
 ## Telling productive dissent from manufactured doubt
 
-Some dissent is the engine of scientific progress. Some is **manufactured doubt**, created to delay regulation or protect products. Historians Naomi Oreskes and Erik Conway documented in *Merchants of Doubt* (2010) how a small number of scientists, often with industry support, cast doubt on the evidence on tobacco, acid rain, the ozone hole and climate change. The tobacco industry's strategy was summed up in a 1969 Brown & Williamson memo: "Doubt is our product" ([[tobacco-industry-research|tobacco case study]]).
+Some dissent is the engine of scientific progress. Some is **manufactured doubt**, created to delay regulation or protect products. Historians Naomi Oreskes and Erik Conway documented in *Merchants of Doubt* (2010) how a small number of scientists, often with industry support, cast doubt on the evidence on tobacco, acid rain, the ozone hole and climate change. The tobacco industry's strategy was summed up in a 1969 Brown & Williamson memo: "Doubt is our product" ([tobacco case study](../10-case-studies/01-tobacco-industry-research.md)).
 
 Signs of productive dissent:
 
@@ -88,4 +88,4 @@ The right attitude combines respect for consensus with openness to evidence. Con
 
 ## Where this leads
 
-- Next: [[single-studies-and-the-weight-of-evidence|Single studies and the weight of evidence]]
+- Next: [Single studies and the weight of evidence](06-single-studies-and-the-weight-of-evidence.md)

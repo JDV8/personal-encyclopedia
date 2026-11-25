@@ -1,6 +1,6 @@
 # The Bradford Hill criteria
 
-**Prerequisites:** [[time-related-biases|Time-related biases]] and [[correlation-and-causation|Correlation and causation]].
+**Prerequisites:** [Time-related biases](08-time-related-biases.md) and [Correlation and causation](01-correlation-and-causation.md).
 
 @@IMG@@
 
@@ -8,7 +8,7 @@ In January 1965, the British statistician and epidemiologist Sir Austin Bradford
 
 ## The context
 
-Hill had helped design the 1948 streptomycin trial and, with Richard Doll, the landmark studies linking smoking to lung cancer ([[case-control-studies|case-control studies]], [[cohort-studies|cohort studies]]). By the 1960s the question was how to decide on causation when trials were impossible, as with smoking or occupational hazards. The US Surgeon General's 1964 report *Smoking and Health* used a similar set of considerations.
+Hill had helped design the 1948 streptomycin trial and, with Richard Doll, the landmark studies linking smoking to lung cancer ([case-control studies](../03-study-designs/05-case-control-studies.md), [cohort studies](../03-study-designs/06-cohort-studies.md)). By the 1960s the question was how to decide on causation when trials were impossible, as with smoking or occupational hazards. The US Surgeon General's 1964 report *Smoking and Health* used a similar set of considerations.
 
 ## The nine viewpoints
 
@@ -47,14 +47,14 @@ He also warned against over-reliance on significance tests, noting that they can
 The viewpoints are a checklist for thinking, not a scoring system. In practice:
 
 - First rule out, as far as possible, **chance, bias and confounding**. The viewpoints assume this has been done.
-- **Temporality** must hold. Check for [[reverse-causation|reverse causation]].
+- **Temporality** must hold. Check for [reverse causation](03-reverse-causation.md).
 - **Consistency across different designs** is especially persuasive, because different designs have different weaknesses. If cohort studies, case-control studies, self-controlled studies and natural experiments all agree, a common bias is less likely.
 - **Strength** and **dose-response** add weight but can be produced by confounding.
 - **Plausibility** is useful but limited. Many accepted causes had no known mechanism when first identified (Semmelweis's hand-washing, Snow's cholera), and plausible-sounding mechanisms can be invented for almost anything.
 
 ## Modern refinements
 
-Epidemiologists have updated the framework in several ways. Kenneth Rothman and Sander Greenland, among others, have criticised treating the viewpoints as criteria, and the field has added formal tools: [[causal-diagrams|causal diagrams]] to identify confounders, sensitivity analyses such as E-values, negative controls, triangulation across methods with different biases, and [[natural-experiments-and-quasi-experiments|natural experiments]]. GRADE's upgrading criteria (large effect, dose-response, plausible confounding working against the result) are a descendant of Hill's thinking ([[cochrane-and-grade|Cochrane and GRADE]]).
+Epidemiologists have updated the framework in several ways. Kenneth Rothman and Sander Greenland, among others, have criticised treating the viewpoints as criteria, and the field has added formal tools: [causal diagrams](10-causal-diagrams.md) to identify confounders, sensitivity analyses such as E-values, negative controls, triangulation across methods with different biases, and [natural experiments](../03-study-designs/12-natural-experiments-and-quasi-experiments.md). GRADE's upgrading criteria (large effect, dose-response, plausible confounding working against the result) are a descendant of Hill's thinking ([Cochrane and GRADE](../03-study-designs/16-cochrane-and-grade.md)).
 
 ## A worked application: smoking and lung cancer
 
@@ -65,7 +65,7 @@ Epidemiologists have updated the framework in several ways. Kenneth Rothman and 
 - **Experiment**: risk falls after quitting.
 - **Plausibility and coherence**: carcinogens identified in tobacco smoke; population lung cancer trends followed smoking trends with a lag.
 
-The tobacco industry disputed this case for decades ([[tobacco-industry-research|tobacco case study]]), but by Hill's viewpoints it was overwhelming.
+The tobacco industry disputed this case for decades ([tobacco case study](../10-case-studies/01-tobacco-industry-research.md)), but by Hill's viewpoints it was overwhelming.
 
 ## Key ideas
 
@@ -77,5 +77,5 @@ The tobacco industry disputed this case for decades ([[tobacco-industry-research
 
 ## Where this leads
 
-- Next: [[causal-diagrams|Causal diagrams]]
-- Case study: [[tobacco-industry-research|Tobacco industry research]]
+- Next: [Causal diagrams](10-causal-diagrams.md)
+- Case study: [Tobacco industry research](../10-case-studies/01-tobacco-industry-research.md)

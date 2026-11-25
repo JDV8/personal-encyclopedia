@@ -1,6 +1,6 @@
 # Regression to the mean
 
-**Prerequisites:** [[multiple-comparisons|Multiple comparisons]].
+**Prerequisites:** [Multiple comparisons](16-multiple-comparisons.md).
 
 @@IMG@@
 
@@ -53,5 +53,5 @@ Part of what is called the "placebo effect" in trials is really regression to th
 
 ## Where this leads
 
-- Next: [[regression-and-adjustment|Regression models and adjustment]]
-- Related: [[randomised-controlled-trials|Randomised controlled trials]]
+- Next: [Regression models and adjustment](18-regression-and-adjustment.md)
+- Related: [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md)

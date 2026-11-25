@@ -1,6 +1,6 @@
 # Outcome switching
 
-**Prerequisites:** [[trial-registries|Trial registries]] and [[multiple-comparisons|Multiple comparisons]].
+**Prerequisites:** [Trial registries](02-trial-registries.md) and [Multiple comparisons](../02-statistics/16-multiple-comparisons.md).
 
 @@IMG@@
 
@@ -33,7 +33,7 @@ Several studies have documented it:
 
 ## A notorious example: Study 329
 
-GlaxoSmithKline's **Study 329**, a trial of the antidepressant paroxetine in adolescents, published in 2001, reported that the drug was "generally well tolerated and effective". The protocol had specified two primary and six secondary outcomes; none of the eight showed a significant benefit, and the published paper highlighted outcomes that had not been pre-specified as primary. A reanalysis using the original data, published by Joanna Le Noury and colleagues in the *BMJ* in 2015, concluded that paroxetine was not effective for adolescent depression and was associated with increased harms. See the [[paroxetine-study-329|Study 329 case study]].
+GlaxoSmithKline's **Study 329**, a trial of the antidepressant paroxetine in adolescents, published in 2001, reported that the drug was "generally well tolerated and effective". The protocol had specified two primary and six secondary outcomes; none of the eight showed a significant benefit, and the published paper highlighted outcomes that had not been pre-specified as primary. A reanalysis using the original data, published by Joanna Le Noury and colleagues in the *BMJ* in 2015, concluded that paroxetine was not effective for adolescent depression and was associated with increased harms. See the [Study 329 case study](../10-case-studies/06-paroxetine-study-329.md).
 
 ## Legitimate changes
 
@@ -61,5 +61,5 @@ Not every change is misconduct. Outcomes can legitimately change before the data
 
 ## Where this leads
 
-- Next: [[p-hacking|P-hacking and researcher degrees of freedom]]
-- Case study: [[paroxetine-study-329|Paroxetine Study 329]]
+- Next: [P-hacking and researcher degrees of freedom](04-p-hacking.md)
+- Case study: [Paroxetine Study 329](../10-case-studies/06-paroxetine-study-329.md)

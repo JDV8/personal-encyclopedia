@@ -1,6 +1,6 @@
 # Number needed to treat and to harm
 
-**Prerequisites:** [[relative-and-absolute-risk|Relative and absolute risk]].
+**Prerequisites:** [Relative and absolute risk](12-relative-and-absolute-risk.md).
 
 @@IMG@@
 
@@ -53,7 +53,7 @@ This assumes the relative effect is the same for you as for trial participants, 
 
 ## NNT in practice
 
-Several projects publish NNTs in plain language for common treatments; the site TheNNT.com, started by emergency physicians, is one example. Such summaries are useful starting points, but check the source trials, as they simplify. Regulators and guideline bodies increasingly present absolute benefits and harms alongside relative ones, and the [[cochrane-and-grade|GRADE]] "summary of findings" tables used in Cochrane reviews show absolute effects per 1,000 people.
+Several projects publish NNTs in plain language for common treatments; the site TheNNT.com, started by emergency physicians, is one example. Such summaries are useful starting points, but check the source trials, as they simplify. Regulators and guideline bodies increasingly present absolute benefits and harms alongside relative ones, and the [GRADE](../03-study-designs/16-cochrane-and-grade.md) "summary of findings" tables used in Cochrane reviews show absolute effects per 1,000 people.
 
 ## Key ideas
 
@@ -65,4 +65,4 @@ Several projects publish NNTs in plain language for common treatments; the site 
 
 ## Where this leads
 
-- Next: [[base-rates-and-bayes-theorem|Base rates and Bayes' theorem]]
+- Next: [Base rates and Bayes' theorem](14-base-rates-and-bayes-theorem.md)

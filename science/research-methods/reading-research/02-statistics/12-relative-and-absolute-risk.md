@@ -1,6 +1,6 @@
 # Relative and absolute risk
 
-**Prerequisites:** [[effect-sizes|Effect sizes]].
+**Prerequisites:** [Effect sizes](11-effect-sizes.md).
 
 @@IMG@@
 
@@ -35,7 +35,7 @@ The same applies to harms. "Pill doubles the risk of blood clots" sounds alarmin
 
 ## Mismatched framing
 
-A particularly misleading practice is **mismatched framing**: reporting benefits as relative risks and harms as absolute risks (or vice versa), so that benefits look large and harms look small. A 2014 BMJ study of press releases found exaggeration common; the [[press-releases-and-science-journalism|press releases lesson]] covers this. When you read a paper, put benefits and harms on the same absolute scale before weighing them.
+A particularly misleading practice is **mismatched framing**: reporting benefits as relative risks and harms as absolute risks (or vice versa), so that benefits look large and harms look small. A 2014 BMJ study of press releases found exaggeration common; the [press releases lesson](../09-from-lab-to-headline/01-press-releases-and-science-journalism.md) covers this. When you read a paper, put benefits and harms on the same absolute scale before weighing them.
 
 ## Percent versus percentage points
 
@@ -47,7 +47,7 @@ Absolute risks only make sense with a **time frame** and a **population**: "1% o
 
 ## Relative risk greater than 1
 
-When RR is above 1, the exposure increases risk: RR = 1.3 means 30% higher risk *relative to* the baseline. Epidemiologists sometimes treat small relative risks (say, below 2) from observational studies with extra caution, because modest amounts of [[confounding|confounding]] or bias can produce them. That is a rule of thumb, not a law: some real effects are small, and the [[bradford-hill-criteria|Bradford Hill criteria]] treat strength of association as only one consideration.
+When RR is above 1, the exposure increases risk: RR = 1.3 means 30% higher risk *relative to* the baseline. Epidemiologists sometimes treat small relative risks (say, below 2) from observational studies with extra caution, because modest amounts of [confounding](../04-causation/02-confounding.md) or bias can produce them. That is a rule of thumb, not a law: some real effects are small, and the [Bradford Hill criteria](../04-causation/09-bradford-hill-criteria.md) treat strength of association as only one consideration.
 
 ## Questions to ask
 
@@ -67,4 +67,4 @@ When RR is above 1, the exposure increases risk: RR = 1.3 means 30% higher risk 
 
 ## Where this leads
 
-- Next: [[number-needed-to-treat|Number needed to treat and to harm]]
+- Next: [Number needed to treat and to harm](13-number-needed-to-treat.md)

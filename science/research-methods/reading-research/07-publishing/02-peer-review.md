@@ -1,6 +1,6 @@
 # Peer review
 
-**Prerequisites:** [[how-journals-work|How journals work]].
+**Prerequisites:** [How journals work](01-how-journals-work.md).
 
 @@IMG@@
 
@@ -49,7 +49,7 @@ In a study published in 2008 in the *Journal of the Royal Society of Medicine*, 
 
 ### Detecting fraud
 
-Reviewers do not usually see raw data and are not equipped to detect fabrication. Most fraudulent papers passed peer review ([[fraud-and-misconduct|fraud and misconduct]]).
+Reviewers do not usually see raw data and are not equipped to detect fabrication. Most fraudulent papers passed peer review ([fraud and misconduct](../06-research-integrity/08-fraud-and-misconduct.md)).
 
 ### Consistency
 
@@ -65,7 +65,7 @@ A Cochrane methodology review by Tom Jefferson and colleagues (2007) on editoria
 
 ## Peer review and sting operations
 
-In 2013 the journalist John Bohannon submitted versions of a deliberately flawed paper about a supposed anticancer compound to 304 open-access journals, as reported in *Science*. By the time of publication, 157 had accepted it. Critics noted that he did not test subscription journals, but the sting showed that many outlets calling themselves peer-reviewed did little or no real review ([[predatory-journals|predatory journals]]).
+In 2013 the journalist John Bohannon submitted versions of a deliberately flawed paper about a supposed anticancer compound to 304 open-access journals, as reported in *Science*. By the time of publication, 157 had accepted it. Critics noted that he did not test subscription journals, but the sting showed that many outlets calling themselves peer-reviewed did little or no real review ([predatory journals](05-predatory-journals.md)).
 
 ## For readers
 
@@ -84,4 +84,4 @@ In 2013 the journalist John Bohannon submitted versions of a deliberately flawed
 
 ## Where this leads
 
-- Next: [[impact-factors-and-metrics|Impact factors and metrics]]
+- Next: [Impact factors and metrics](03-impact-factors-and-metrics.md)

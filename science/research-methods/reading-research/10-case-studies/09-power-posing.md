@@ -1,6 +1,6 @@
 # Case study: power posing
 
-**Prerequisites:** [[the-replication-crisis|The replication crisis]], [[p-hacking|P-hacking]] and [[statistical-power|Statistical power]].
+**Prerequisites:** [The replication crisis](../06-research-integrity/07-the-replication-crisis.md), [P-hacking](../06-research-integrity/04-p-hacking.md) and [Statistical power](../02-statistics/10-statistical-power.md).
 
 @@IMG@@
 
@@ -29,7 +29,7 @@ Joseph Simmons and Uri Simonsohn then applied **p-curve analysis**, a method tha
 
 ## The first author's statement
 
-In September 2016 Dana Carney posted a statement on her website saying that she did not believe "power pose" effects were real. She described choices in the original study that she now regarded as problematic, including how the data were collected and analysed (for example, flexibility in excluding participants and choosing analyses), practices now recognised as forms of [[p-hacking|p-hacking]] and researcher degrees of freedom.
+In September 2016 Dana Carney posted a statement on her website saying that she did not believe "power pose" effects were real. She described choices in the original study that she now regarded as problematic, including how the data were collected and analysed (for example, flexibility in excluding participants and choosing analyses), practices now recognised as forms of [p-hacking](../06-research-integrity/04-p-hacking.md) and researcher degrees of freedom.
 
 ## The defence
 
@@ -37,11 +37,11 @@ Amy Cuddy has continued to argue that the evidence supports an effect of posture
 
 ## The human side
 
-The case drew intense attention, and much of the criticism of Cuddy, especially online, was personal and harsh. A 2017 *New York Times Magazine* article by Susan Dominus, "When the revolution came for Amy Cuddy", explored how she became a focal point for the replication debate. Many researchers argued that the problems were common practices across the field at the time, not unique to one person, and that criticism should focus on the evidence ([[weighing-conflicts-without-ad-hominem|avoiding ad hominem]]).
+The case drew intense attention, and much of the criticism of Cuddy, especially online, was personal and harsh. A 2017 *New York Times Magazine* article by Susan Dominus, "When the revolution came for Amy Cuddy", explored how she became a focal point for the replication debate. Many researchers argued that the problems were common practices across the field at the time, not unique to one person, and that criticism should focus on the evidence ([avoiding ad hominem](../08-funding-and-conflicts/05-weighing-conflicts-without-ad-hominem.md)).
 
 ## Lessons for readers
 
-- **Small studies with surprising effects are fragile** ([[statistical-power|power]], [[single-studies-and-the-weight-of-evidence|single studies]]).
+- **Small studies with surprising effects are fragile** ([power](../02-statistics/10-statistical-power.md), [single studies](../09-from-lab-to-headline/06-single-studies-and-the-weight-of-evidence.md)).
 - **Popularity is not evidence.** A TED talk or bestseller does not validate a finding.
 - **Replication with larger samples** is the test.
 - **Flexible analyses** can generate significant results without real effects.
@@ -58,4 +58,4 @@ The case drew intense attention, and much of the criticism of Cuddy, especially 
 
 ## Where this leads
 
-- Next: [[surgisphere|Surgisphere]]
+- Next: [Surgisphere](10-surgisphere.md)

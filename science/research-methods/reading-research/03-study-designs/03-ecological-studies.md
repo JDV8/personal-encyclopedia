@@ -1,6 +1,6 @@
 # Ecological studies
 
-**Prerequisites:** [[case-reports-and-case-series|Case reports and case series]].
+**Prerequisites:** [Case reports and case series](02-case-reports-and-case-series.md).
 
 @@IMG@@
 
@@ -20,7 +20,7 @@ A famous example is Ancel Keys's Seven Countries Study, begun in the late 1950s,
 
 The central danger is the **ecological fallacy**: inferring that a relationship seen between groups holds for individuals. If countries with more chocolate consumption have more Nobel laureates, it does not follow that chocolate-eaters win Nobel prizes.
 
-That example is real. In 2012 the cardiologist Franz Messerli published a tongue-in-cheek note in the *New England Journal of Medicine* reporting a correlation of r = 0.791 between per-capita chocolate consumption and Nobel laureates per 10 million population across 23 countries. Wealthy countries both consume more chocolate and fund more research; national wealth is a plausible confounder. The paper is now widely used to teach the ecological fallacy, and is the subject of a [[worked-example-a-news-story|worked example]] later in the course.
+That example is real. In 2012 the cardiologist Franz Messerli published a tongue-in-cheek note in the *New England Journal of Medicine* reporting a correlation of r = 0.791 between per-capita chocolate consumption and Nobel laureates per 10 million population across 23 countries. Wealthy countries both consume more chocolate and fund more research; national wealth is a plausible confounder. The paper is now widely used to teach the ecological fallacy, and is the subject of a [worked example](../11-practice/06-worked-example-a-news-story.md) later in the course.
 
 ```mermaid
 flowchart TB
@@ -40,7 +40,7 @@ Countries and regions differ in countless ways: wealth, healthcare, diet, climat
 
 Time-trend studies face their own problems. Many things change together over time: diagnostic criteria, awareness, testing, population age and other exposures. When autism diagnoses rose sharply in many countries from the 1990s, ecological comparisons were used to argue for many different causes. Researchers point to broadened diagnostic criteria, increased awareness and better services among the explanations for much of the rise. Similarly, a disease rate can rise because a new test finds more cases.
 
-A useful variation is to check whether trends diverge where exposures diverged. When Japan withdrew the combined MMR vaccine in 1993, a 2005 study by Hideo Honda, Yasuo Shimizu and Michael Rutter of children born from 1988 to 1996 in Kohoku Ward, Yokohama, found that the cumulative incidence of autism spectrum disorders kept rising as MMR use fell to almost nothing, evidence against MMR as a major cause. Such "natural experiment" comparisons are stronger than simple correlations, but still ecological; see [[natural-experiments-and-quasi-experiments|natural experiments]].
+A useful variation is to check whether trends diverge where exposures diverged. When Japan withdrew the combined MMR vaccine in 1993, a 2005 study by Hideo Honda, Yasuo Shimizu and Michael Rutter of children born from 1988 to 1996 in Kohoku Ward, Yokohama, found that the cumulative incidence of autism spectrum disorders kept rising as MMR use fell to almost nothing, evidence against MMR as a major cause. Such "natural experiment" comparisons are stronger than simple correlations, but still ecological; see [natural experiments](12-natural-experiments-and-quasi-experiments.md).
 
 ## When ecological studies are the right tool
 
@@ -69,5 +69,5 @@ They are weak when the question is about what happens to individuals who are exp
 
 ## Where this leads
 
-- Next: [[cross-sectional-studies|Cross-sectional studies]]
-- Worked example: [[worked-example-a-news-story|A chocolate and Nobel prize news story]]
+- Next: [Cross-sectional studies](04-cross-sectional-studies.md)
+- Worked example: [A chocolate and Nobel prize news story](../11-practice/06-worked-example-a-news-story.md)

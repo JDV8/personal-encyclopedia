@@ -1,6 +1,6 @@
 # The evidence hierarchy
 
-**Prerequisites:** [[odds-ratios-and-hazard-ratios|Odds ratios and hazard ratios]] and [[observation-measurement-and-experiment|Observation, measurement and experiment]].
+**Prerequisites:** [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md) and [Observation, measurement and experiment](../01-foundations/03-observation-measurement-and-experiment.md).
 
 @@IMG@@
 
@@ -11,12 +11,12 @@ Not all studies are equally good at answering every question. The **evidence hie
 From weakest to strongest for questions about the effects of treatments:
 
 1. **Expert opinion, mechanistic reasoning, laboratory and animal studies**
-2. **Case reports and case series**: descriptions of individual patients ([[case-reports-and-case-series|lesson]])
-3. **Ecological and cross-sectional studies**: comparisons of populations or snapshots ([[ecological-studies|ecological]], [[cross-sectional-studies|cross-sectional]])
-4. **Case-control studies**: comparing people with and without an outcome ([[case-control-studies|lesson]])
-5. **Cohort studies**: following exposed and unexposed people forward ([[cohort-studies|lesson]])
-6. **Randomised controlled trials** ([[randomised-controlled-trials|lesson]])
-7. **Systematic reviews and meta-analyses** of the above, especially of RCTs ([[systematic-reviews|systematic reviews]], [[meta-analysis|meta-analysis]])
+2. **Case reports and case series**: descriptions of individual patients ([lesson](02-case-reports-and-case-series.md))
+3. **Ecological and cross-sectional studies**: comparisons of populations or snapshots ([ecological](03-ecological-studies.md), [cross-sectional](04-cross-sectional-studies.md))
+4. **Case-control studies**: comparing people with and without an outcome ([lesson](05-case-control-studies.md))
+5. **Cohort studies**: following exposed and unexposed people forward ([lesson](06-cohort-studies.md))
+6. **Randomised controlled trials** ([lesson](07-randomised-controlled-trials.md))
+7. **Systematic reviews and meta-analyses** of the above, especially of RCTs ([systematic reviews](14-systematic-reviews.md), [meta-analysis](15-meta-analysis.md))
 
 ```mermaid
 flowchart TB
@@ -34,15 +34,15 @@ The modern hierarchy grew out of the **evidence-based medicine** movement. Archi
 
 ## What the pyramid gets right
 
-For questions about whether an intervention works, randomisation really is a huge advantage, because it balances unknown as well as known confounders. Repeatedly, treatments that looked beneficial in observational studies failed in trials. The [[hormone-replacement-therapy-and-the-whi|hormone replacement therapy]] story and the beta-carotene and vitamin E trials of the 1990s are classic examples.
+For questions about whether an intervention works, randomisation really is a huge advantage, because it balances unknown as well as known confounders. Repeatedly, treatments that looked beneficial in observational studies failed in trials. The [hormone replacement therapy](../10-case-studies/04-hormone-replacement-therapy-and-the-whi.md) story and the beta-carotene and vitamin E trials of the 1990s are classic examples.
 
 ## What the pyramid gets wrong
 
 Treat the hierarchy as a rule of thumb, not a ranking you can apply mechanically:
 
-- **Design is not quality.** A badly run RCT, with poor concealment of allocation, heavy dropout or a switched outcome, can be worse than a careful cohort study. The [[cochrane-and-grade|GRADE]] system explicitly lets evidence be downgraded or upgraded from its starting level.
+- **Design is not quality.** A badly run RCT, with poor concealment of allocation, heavy dropout or a switched outcome, can be worse than a careful cohort study. The [GRADE](16-cochrane-and-grade.md) system explicitly lets evidence be downgraded or upgraded from its starting level.
 - **Different questions need different designs.** For rare or long-term harms, large observational studies and surveillance systems are often the *only* evidence, because trials are too small and short. For diagnostic accuracy, prognosis, or how common a disease is, the hierarchy looks different.
-- **Some questions cannot ethically be randomised.** Nobody will randomise people to smoke. The case against tobacco was built on observational studies, mechanism and convergence ([[tobacco-industry-research|tobacco case study]]).
+- **Some questions cannot ethically be randomised.** Nobody will randomise people to smoke. The case against tobacco was built on observational studies, mechanism and convergence ([tobacco case study](../10-case-studies/01-tobacco-industry-research.md)).
 - **Very large effects need less.** The 2003 *BMJ* spoof by Gordon Smith and Jill Pell, "Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomised controlled trials", found no RCTs of parachutes and wryly suggested that advocates of evidence-based medicine volunteer for one. The point: when effects are dramatic and mechanisms obvious, demanding an RCT is unreasonable.
 - **Meta-analyses inherit the flaws of their inputs.** Pooling biased studies produces a precise biased answer.
 
@@ -70,5 +70,5 @@ Some writers therefore draw the pyramid with wavy lines between levels, or repla
 
 ## Where this leads
 
-- Next: [[case-reports-and-case-series|Case reports and case series]]
-- Synthesis: [[cochrane-and-grade|Cochrane and GRADE]]
+- Next: [Case reports and case series](02-case-reports-and-case-series.md)
+- Synthesis: [Cochrane and GRADE](16-cochrane-and-grade.md)

@@ -1,6 +1,6 @@
 # HARKing
 
-**Prerequisites:** [[p-hacking|P-hacking and researcher degrees of freedom]] and [[falsifiability-and-theories|Falsifiability]].
+**Prerequisites:** [P-hacking and researcher degrees of freedom](04-p-hacking.md) and [Falsifiability](../01-foundations/02-falsifiability-and-theories.md).
 
 @@IMG@@
 
@@ -24,7 +24,7 @@ The data and analysis might be impeccable. The problem is the story. HARKing con
 
 ### It misrepresents the evidence
 
-A prediction that was made in advance and succeeded is a **risky test**: it could have failed ([[falsifiability-and-theories|falsifiability]]). A "prediction" made after the fact could not have failed. HARKing makes weak evidence look strong.
+A prediction that was made in advance and succeeded is a **risky test**: it could have failed ([falsifiability](../01-foundations/02-falsifiability-and-theories.md)). A "prediction" made after the fact could not have failed. HARKing makes weak evidence look strong.
 
 ### It hides failed hypotheses
 
@@ -36,7 +36,7 @@ Because HARKed hypotheses always "succeed", theories built on them look better s
 
 ### It combines with p-hacking
 
-If a dataset is searched for any significant result and a hypothesis is then written to fit it, the combination of [[multiple-comparisons|multiple comparisons]] and HARKing makes false positives very likely.
+If a dataset is searched for any significant result and a hypothesis is then written to fit it, the combination of [multiple comparisons](../02-statistics/16-multiple-comparisons.md) and HARKing makes false positives very likely.
 
 ## Varieties
 
@@ -61,7 +61,7 @@ HARKing is hard to detect from a paper alone, because by definition the paper pr
 - **Unusually specific predictions** that match the results perfectly, including interactions and subgroups that would be odd to predict in advance.
 - **Introductions that cite a mechanism** that seems tailored to the exact finding.
 
-[[preregistration|Preregistration]] is the main safeguard, because it creates a time-stamped record of what was predicted.
+[Preregistration](01-preregistration.md) is the main safeguard, because it creates a time-stamped record of what was predicted.
 
 ## The broader lesson
 
@@ -77,4 +77,4 @@ HARKing illustrates why the **process** of research matters, not just the final 
 
 ## Where this leads
 
-- Next: [[publication-bias|Publication bias]]
+- Next: [Publication bias](06-publication-bias.md)

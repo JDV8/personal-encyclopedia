@@ -1,6 +1,6 @@
 # Case study: Wakefield 1998
 
-**Prerequisites:** [[case-reports-and-case-series|Case reports and case series]], [[activist-and-litigation-funded-research|Activist and litigation-funded research]] and [[fraud-and-misconduct|Fraud and misconduct]].
+**Prerequisites:** [Case reports and case series](../03-study-designs/02-case-reports-and-case-series.md), [Activist and litigation-funded research](../08-funding-and-conflicts/07-activist-and-litigation-funded-research.md) and [Fraud and misconduct](../06-research-integrity/08-fraud-and-misconduct.md).
 
 @@IMG@@
 
@@ -8,13 +8,13 @@ In February 1998 *The Lancet* published a paper by Andrew Wakefield and 12 co-au
 
 ## What kind of study it was
 
-The paper was a **case series** of 12 children, with no comparison group ([[case-reports-and-case-series|case series]]). Even if accurately reported, such a study cannot establish that a vaccine causes a condition: MMR is given to most children at around the age when autism is often first recognised, so some children will develop symptoms soon after vaccination by coincidence ([[correlation-and-causation|correlation and causation]]).
+The paper was a **case series** of 12 children, with no comparison group ([case series](../03-study-designs/02-case-reports-and-case-series.md)). Even if accurately reported, such a study cannot establish that a vaccine causes a condition: MMR is given to most children at around the age when autism is often first recognised, so some children will develop symptoms soon after vaccination by coincidence ([correlation and causation](../04-causation/01-correlation-and-causation.md)).
 
 ## What was wrong
 
 Investigative journalist Brian Deer reported in *The Sunday Times* from 2004, and in a series in the *BMJ* in 2011, that:
 
-- Wakefield had been funded through the UK Legal Aid Board via a solicitor preparing litigation against vaccine manufacturers, and some of the children had been referred through that litigation; this was not disclosed to the journal ([[activist-and-litigation-funded-research|litigation-funded research]]).
+- Wakefield had been funded through the UK Legal Aid Board via a solicitor preparing litigation against vaccine manufacturers, and some of the children had been referred through that litigation; this was not disclosed to the journal ([litigation-funded research](../08-funding-and-conflicts/07-activist-and-litigation-funded-research.md)).
 - Wakefield had filed a patent application related to a possible single measles vaccine and other products.
 - The children's medical records did not match the paper's descriptions in several cases, including timing of symptoms and diagnoses.
 
@@ -40,7 +40,7 @@ Many large studies have looked for a link between MMR and autism and not found o
 
 - A Danish cohort of 537,303 children by Kreesten Madsen and colleagues (*New England Journal of Medicine*, 2002).
 - A 2014 meta-analysis by Luke Taylor and colleagues in *Vaccine* including over 1.2 million children in cohort studies.
-- A Danish cohort of 657,461 children by Anders Hviid and colleagues (*Annals of Internal Medicine*, 2019), with an adjusted hazard ratio for autism of 0.93 (95% CI 0.85 to 1.02) ([[worked-example-a-cohort-study|worked example]]).
+- A Danish cohort of 657,461 children by Anders Hviid and colleagues (*Annals of Internal Medicine*, 2019), with an adjusted hazard ratio for autism of 0.93 (95% CI 0.85 to 1.02) ([worked example](../11-practice/04-worked-example-a-cohort-study.md)).
 
 ## The consequences
 
@@ -49,9 +49,9 @@ MMR uptake in England fell substantially in the years after 1998, and measles ou
 ## Lessons for readers
 
 - **Case series cannot establish causation**, however compelling the stories.
-- **Press conferences can amplify claims beyond the paper** ([[press-releases-and-science-journalism|press releases]]).
+- **Press conferences can amplify claims beyond the paper** ([press releases](../09-from-lab-to-headline/01-press-releases-and-science-journalism.md)).
 - **Undisclosed litigation interests matter** as much as industry interests.
-- **Retraction does not undo public impact**; retracted claims continue to circulate ([[retractions-and-corrections|retractions]]).
+- **Retraction does not undo public impact**; retracted claims continue to circulate ([retractions](../07-publishing/06-retractions-and-corrections.md)).
 - **Large, well-designed studies** are the way to test such claims.
 
 ## Key ideas
@@ -64,4 +64,4 @@ MMR uptake in England fell substantially in the years after 1998, and measles ou
 
 ## Where this leads
 
-- Next: [[tamiflu-and-hidden-trial-data|Tamiflu and hidden trial data]]
+- Next: [Tamiflu and hidden trial data](08-tamiflu-and-hidden-trial-data.md)

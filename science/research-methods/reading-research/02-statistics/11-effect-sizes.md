@@ -1,6 +1,6 @@
 # Effect sizes
 
-**Prerequisites:** [[statistical-power|Statistical power]].
+**Prerequisites:** [Statistical power](10-statistical-power.md).
 
 @@IMG@@
 
@@ -14,7 +14,7 @@ The simplest effect size is a difference in natural units:
 - "Children in the programme scored 4 points higher on a 100-point reading test."
 - "Patients on the new regimen lived a median of 2.1 months longer."
 
-Raw effect sizes are the easiest to interpret if you know the scale. You can ask a clinician or patient whether 6 mmHg matters. They should almost always be reported, with their [[standard-error-and-confidence-intervals|confidence intervals]].
+Raw effect sizes are the easiest to interpret if you know the scale. You can ask a clinician or patient whether 6 mmHg matters. They should almost always be reported, with their [confidence intervals](07-standard-error-and-confidence-intervals.md).
 
 ## Standardised mean differences
 
@@ -26,7 +26,7 @@ One way to make d intuitive: with d = 0.5 and normal distributions, the average 
 
 ## Correlation
 
-The **correlation coefficient** (Pearson's r) ranges from −1 to +1 and measures how closely two variables follow a straight-line relationship. Zero means no linear relationship. **r²** is the share of variation in one variable "explained" by the other in a simple linear model: r = 0.3 means r² = 0.09, about 9%. Correlations say nothing on their own about cause ([[correlation-and-causation|correlation and causation]]).
+The **correlation coefficient** (Pearson's r) ranges from −1 to +1 and measures how closely two variables follow a straight-line relationship. Zero means no linear relationship. **r²** is the share of variation in one variable "explained" by the other in a simple linear model: r = 0.3 means r² = 0.09, about 9%. Correlations say nothing on their own about cause ([correlation and causation](../04-causation/01-correlation-and-causation.md)).
 
 ## Effect sizes for binary outcomes
 
@@ -38,7 +38,7 @@ When the outcome is yes/no (died, had a stroke, got infected), the main effect s
 - **Hazard ratio**: the ratio of event rates over time, from survival analysis.
 - **Number needed to treat**: 1 divided by the risk difference.
 
-These are so important, and so easily misused, that each has its own lesson: [[relative-and-absolute-risk|relative and absolute risk]], [[number-needed-to-treat|number needed to treat]] and [[odds-ratios-and-hazard-ratios|odds ratios and hazard ratios]].
+These are so important, and so easily misused, that each has its own lesson: [relative and absolute risk](12-relative-and-absolute-risk.md), [number needed to treat](13-number-needed-to-treat.md) and [odds ratios and hazard ratios](19-odds-ratios-and-hazard-ratios.md).
 
 ```mermaid
 flowchart TB
@@ -58,7 +58,7 @@ For many outcomes, researchers have tried to define a **minimal clinically impor
 
 ## Effect sizes shrink
 
-Two patterns make early effect sizes unreliable. Small studies that reach significance tend to overestimate effects (the **winner's curse**, from [[statistical-power|the previous lesson]]), and later, larger studies usually find smaller effects. In the Open Science Collaboration's 2015 replication project, the mean effect size in replications was about half that of the original studies. A sensible reader mentally discounts dramatic effects from small early studies.
+Two patterns make early effect sizes unreliable. Small studies that reach significance tend to overestimate effects (the **winner's curse**, from [the previous lesson](10-statistical-power.md)), and later, larger studies usually find smaller effects. In the Open Science Collaboration's 2015 replication project, the mean effect size in replications was about half that of the original studies. A sensible reader mentally discounts dramatic effects from small early studies.
 
 ## Absolute numbers beat adjectives
 
@@ -74,4 +74,4 @@ Papers and press releases often describe effects with adjectives: "dramatic", "s
 
 ## Where this leads
 
-- Next: [[relative-and-absolute-risk|Relative and absolute risk]]
+- Next: [Relative and absolute risk](12-relative-and-absolute-risk.md)

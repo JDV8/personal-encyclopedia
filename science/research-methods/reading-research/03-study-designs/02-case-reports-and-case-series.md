@@ -1,6 +1,6 @@
 # Case reports and case series
 
-**Prerequisites:** [[the-evidence-hierarchy|The evidence hierarchy]].
+**Prerequisites:** [The evidence hierarchy](01-the-evidence-hierarchy.md).
 
 @@IMG@@
 
@@ -17,7 +17,7 @@ A **case report** describes a single patient; a **case series** describes severa
 
 Case reports and case series have **no comparison group**. They tell you that some people with exposure X developed outcome Y. They cannot tell you whether people *without* X develop Y just as often. If an outcome is common, many people will develop it after any exposure purely by coincidence.
 
-Suppose a vaccine is given to millions of children at the age when the first signs of a developmental condition commonly become noticeable. Some children will be diagnosed shortly after vaccination by chance alone. A case series of such children, however moving, cannot distinguish coincidence from cause. That is exactly the weakness of the 1998 *Lancet* paper by Andrew Wakefield and colleagues, a case series of 12 children, later retracted; see the [[wakefield-1998|Wakefield case study]].
+Suppose a vaccine is given to millions of children at the age when the first signs of a developmental condition commonly become noticeable. Some children will be diagnosed shortly after vaccination by chance alone. A case series of such children, however moving, cannot distinguish coincidence from cause. That is exactly the weakness of the 1998 *Lancet* paper by Andrew Wakefield and colleagues, a case series of 12 children, later retracted; see the [Wakefield case study](../10-case-studies/07-wakefield-1998.md).
 
 ```mermaid
 flowchart LR
@@ -29,13 +29,13 @@ flowchart LR
 
 ## Temporal association is not causation
 
-The pattern "it happened after, therefore it happened because" has a Latin name: *post hoc ergo propter hoc*. Case reports invite it. The question to ask is always: **how often would this outcome occur in this many people over this period anyway?** That expected number, the **background rate**, is the comparison case series lack. Safety surveillance systems compare observed reports with expected background rates for exactly this reason; see [[passive-surveillance-and-pharmacovigilance|passive surveillance]].
+The pattern "it happened after, therefore it happened because" has a Latin name: *post hoc ergo propter hoc*. Case reports invite it. The question to ask is always: **how often would this outcome occur in this many people over this period anyway?** That expected number, the **background rate**, is the comparison case series lack. Safety surveillance systems compare observed reports with expected background rates for exactly this reason; see [passive surveillance](13-passive-surveillance-and-pharmacovigilance.md).
 
 ## Selection and reporting
 
 Case series are also prone to selection. Clinicians write up the striking cases they see; patients who seek out a particular specialist because they already suspect a cause may be over-represented; and referrals to a researcher known for a hypothesis may be skewed toward cases that fit it. Reporting is often incomplete: what was the denominator, how were cases identified, were any excluded?
 
-The CARE guidelines (2013) set out what a case report should include, and many journals ask authors to follow them; see [[reporting-checklists|reporting checklists]].
+The CARE guidelines (2013) set out what a case report should include, and many journals ask authors to follow them; see [reporting checklists](../05-anatomy-of-a-paper/12-reporting-checklists.md).
 
 ## How a signal is followed up
 
@@ -43,7 +43,7 @@ A case report or cluster of reports is the beginning of an investigation, not th
 
 1. Check surveillance databases for similar reports.
 2. Compare the number of observed cases with the number expected from background rates.
-3. Run a [[case-control-studies|case-control study]], a [[cohort-studies|cohort study]] or a [[self-controlled-case-series|self-controlled case series]] using large linked databases.
+3. Run a [case-control study](05-case-control-studies.md), a [cohort study](06-cohort-studies.md) or a [self-controlled case series](11-self-controlled-case-series.md) using large linked databases.
 4. Look for a plausible mechanism.
 
 Thalidomide's harms were confirmed this way. Many other alarms raised by case reports have not been confirmed.
@@ -58,5 +58,5 @@ Thalidomide's harms were confirmed this way. Many other alarms raised by case re
 
 ## Where this leads
 
-- Next: [[ecological-studies|Ecological studies]]
-- Case study: [[wakefield-1998|Wakefield 1998]]
+- Next: [Ecological studies](03-ecological-studies.md)
+- Case study: [Wakefield 1998](../10-case-studies/07-wakefield-1998.md)

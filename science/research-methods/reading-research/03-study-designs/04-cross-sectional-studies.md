@@ -1,6 +1,6 @@
 # Cross-sectional studies
 
-**Prerequisites:** [[ecological-studies|Ecological studies]].
+**Prerequisites:** [Ecological studies](03-ecological-studies.md).
 
 @@IMG@@
 
@@ -25,7 +25,7 @@ Examples of large cross-sectional surveys include the Canadian Community Health 
 
 ## The main weakness: which came first?
 
-Because exposure and outcome are measured at the same time, a cross-sectional study usually cannot tell which came first. If people with depression exercise less, is it because lack of exercise contributes to depression, or because depression saps the motivation to exercise? Both directions are plausible. This is [[reverse-causation|reverse causation]].
+Because exposure and outcome are measured at the same time, a cross-sectional study usually cannot tell which came first. If people with depression exercise less, is it because lack of exercise contributes to depression, or because depression saps the motivation to exercise? Both directions are plausible. This is [reverse causation](../04-causation/03-reverse-causation.md).
 
 ```mermaid
 flowchart LR
@@ -53,11 +53,11 @@ Good survey papers report response rates, use weighting to correct for known dif
 
 ## Serial cross-sectional surveys
 
-Repeating the same survey in new samples every year (**serial cross-sectional** or **repeated cross-sectional** surveys) tracks changes in prevalence over time. It is how smoking rates, obesity rates and vaccination coverage are monitored. It still cannot tell you what happens to any individual over time; for that you need a [[cohort-studies|cohort study]].
+Repeating the same survey in new samples every year (**serial cross-sectional** or **repeated cross-sectional** surveys) tracks changes in prevalence over time. It is how smoking rates, obesity rates and vaccination coverage are monitored. It still cannot tell you what happens to any individual over time; for that you need a [cohort study](06-cohort-studies.md).
 
 ## Seroprevalence studies
 
-A special cross-sectional design measures antibodies in blood samples to estimate how many people have been infected by a pathogen, including those who never had symptoms. Seroprevalence studies were widely used during the COVID-19 pandemic. Their accuracy depends on the test's [[sensitivity-and-specificity|sensitivity and specificity]] (in low-prevalence settings, false positives can dominate) and on whether those tested represent the population.
+A special cross-sectional design measures antibodies in blood samples to estimate how many people have been infected by a pathogen, including those who never had symptoms. Seroprevalence studies were widely used during the COVID-19 pandemic. Their accuracy depends on the test's [sensitivity and specificity](../02-statistics/15-sensitivity-and-specificity.md) (in low-prevalence settings, false positives can dominate) and on whether those tested represent the population.
 
 ## Key ideas
 
@@ -69,5 +69,5 @@ A special cross-sectional design measures antibodies in blood samples to estimat
 
 ## Where this leads
 
-- Next: [[case-control-studies|Case-control studies]]
-- Related: [[reverse-causation|Reverse causation]]
+- Next: [Case-control studies](05-case-control-studies.md)
+- Related: [Reverse causation](../04-causation/03-reverse-causation.md)

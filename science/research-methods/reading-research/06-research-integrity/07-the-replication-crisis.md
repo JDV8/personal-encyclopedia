@@ -1,6 +1,6 @@
 # The replication crisis
 
-**Prerequisites:** [[publication-bias|Publication bias]], [[p-hacking|P-hacking]] and [[statistical-power|Statistical power]].
+**Prerequisites:** [Publication bias](06-publication-bias.md), [P-hacking](04-p-hacking.md) and [Statistical power](../02-statistics/10-statistical-power.md).
 
 @@IMG@@
 
@@ -18,10 +18,10 @@ A 2019 report from the US National Academies of Sciences, Engineering, and Medic
 
 ## Warning signs before the crisis
 
-- In 2005 John Ioannidis argued in *PLOS Medicine* that "most published research findings are false" in fields with small studies, small effects, many tested relationships and flexible designs ([[base-rates-and-bayes-theorem|base rates]]).
+- In 2005 John Ioannidis argued in *PLOS Medicine* that "most published research findings are false" in fields with small studies, small effects, many tested relationships and flexible designs ([base rates](../02-statistics/14-base-rates-and-bayes-theorem.md)).
 - In 2011 Daryl Bem published experiments in the *Journal of Personality and Social Psychology* claiming evidence for precognition, using standard methods. Many researchers saw this as showing that standard methods could support almost anything.
-- In 2011 Joseph Simmons, Leif Nelson and Uri Simonsohn showed how flexible analysis could produce false positives ([[p-hacking|p-hacking]]).
-- In 2011 the Dutch social psychologist Diederik Stapel was found to have fabricated data in dozens of papers ([[fraud-and-misconduct|fraud and misconduct]]).
+- In 2011 Joseph Simmons, Leif Nelson and Uri Simonsohn showed how flexible analysis could produce false positives ([p-hacking](04-p-hacking.md)).
+- In 2011 the Dutch social psychologist Diederik Stapel was found to have fabricated data in dozens of papers ([fraud and misconduct](08-fraud-and-misconduct.md)).
 
 ## The big replication projects
 
@@ -48,7 +48,7 @@ flowchart TB
 
 ## A case: power posing
 
-In 2010 Dana Carney, Amy Cuddy and Andy Yap reported in *Psychological Science* that holding "power poses" for two minutes increased feelings of power, risk-taking and testosterone, and decreased cortisol. Cuddy's 2012 TED talk became one of the most watched ever. A 2015 replication by Eva Ranehill and colleagues with 200 participants found no effects on hormones or risk-taking, though participants reported feeling more powerful. In 2016 Carney, the first author, posted a statement saying she did not believe that power pose effects are real. Cuddy has continued to defend the effect on felt power. See the [[power-posing|power posing case study]].
+In 2010 Dana Carney, Amy Cuddy and Andy Yap reported in *Psychological Science* that holding "power poses" for two minutes increased feelings of power, risk-taking and testosterone, and decreased cortisol. Cuddy's 2012 TED talk became one of the most watched ever. A 2015 replication by Eva Ranehill and colleagues with 200 participants found no effects on hormones or risk-taking, though participants reported feeling more powerful. In 2016 Carney, the first author, posted a statement saying she did not believe that power pose effects are real. Cuddy has continued to defend the effect on felt power. See the [power posing case study](../10-case-studies/09-power-posing.md).
 
 ## Is it a crisis everywhere?
 
@@ -56,9 +56,9 @@ Replication rates vary greatly between fields, designs and types of claim. Large
 
 ## Reforms
 
-- [[preregistration|Preregistration]] and registered reports.
+- [Preregistration](01-preregistration.md) and registered reports.
 - Larger samples and **power analysis**.
-- **Data and code sharing** ([[open-science|open science]]).
+- **Data and code sharing** ([open science](09-open-science.md)).
 - **Replication studies** published and valued.
 - Stricter or abandoned **significance thresholds**.
 - **Multi-lab collaborations** such as the Psychological Science Accelerator.
@@ -79,5 +79,5 @@ Replication rates vary greatly between fields, designs and types of claim. Large
 
 ## Where this leads
 
-- Next: [[fraud-and-misconduct|Fraud and misconduct]]
-- Case study: [[power-posing|Power posing]]
+- Next: [Fraud and misconduct](08-fraud-and-misconduct.md)
+- Case study: [Power posing](../10-case-studies/09-power-posing.md)

@@ -1,6 +1,6 @@
 # Case study: hormone replacement therapy and the WHI
 
-**Prerequisites:** [[healthy-user-bias|Healthy-user bias]], [[cohort-studies|Cohort studies]] and [[randomised-controlled-trials|Randomised controlled trials]].
+**Prerequisites:** [Healthy-user bias](../04-causation/06-healthy-user-bias.md), [Cohort studies](../03-study-designs/06-cohort-studies.md) and [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md).
 
 @@IMG@@
 
@@ -36,15 +36,15 @@ flowchart TB
 
 ## Why the observational studies differed
 
-- **Healthy-user bias**: women who chose HRT tended to be wealthier, better educated, leaner and more health-conscious, and to see doctors regularly ([[healthy-user-bias|healthy-user bias]]). Adjustment could not fully remove this confounding.
-- **Prevalent users**: cohorts often compared women already taking HRT, who had survived any early harms and stayed on it, with non-users. A 2008 reanalysis of Nurses' Health Study data by Miguel Hernán and colleagues in *Epidemiology* that emulated a trial by comparing women *starting* HRT with non-starters found results much closer to the WHI's ([[time-related-biases|time-related biases]]).
+- **Healthy-user bias**: women who chose HRT tended to be wealthier, better educated, leaner and more health-conscious, and to see doctors regularly ([healthy-user bias](../04-causation/06-healthy-user-bias.md)). Adjustment could not fully remove this confounding.
+- **Prevalent users**: cohorts often compared women already taking HRT, who had survived any early harms and stayed on it, with non-users. A 2008 reanalysis of Nurses' Health Study data by Miguel Hernán and colleagues in *Epidemiology* that emulated a trial by comparing women *starting* HRT with non-starters found results much closer to the WHI's ([time-related biases](../04-causation/08-time-related-biases.md)).
 - **Timing**: women in observational studies usually began HRT near menopause; WHI participants averaged about 63 years old, many years past menopause.
 
 ## The aftermath, and a second lesson
 
 After 2002, HRT use fell sharply worldwide. Later analyses suggested the picture was more nuanced. Analyses of WHI data by age and time since menopause (for example by Jacques Rossouw and colleagues in *JAMA* in 2007, and by JoAnn Manson and colleagues in 2013) found that absolute risks were lower in women aged 50–59 or within 10 years of menopause, supporting a "timing hypothesis". Many current guidelines, such as those of The Menopause Society (formerly the North American Menopause Society), consider HRT reasonable for bothersome symptoms in healthy women near menopause, but not for preventing chronic disease.
 
-Some clinicians argue that the initial media coverage of the WHI exaggerated the risks to younger women, leading many to stop treatment unnecessarily. Others note that the trial correctly overturned the prevention rationale. Both lessons hold: observational studies misled on heart benefit, and simplified reporting of the trial missed nuance, especially about absolute risks ([[relative-and-absolute-risk|relative and absolute risk]]).
+Some clinicians argue that the initial media coverage of the WHI exaggerated the risks to younger women, leading many to stop treatment unnecessarily. Others note that the trial correctly overturned the prevention rationale. Both lessons hold: observational studies misled on heart benefit, and simplified reporting of the trial missed nuance, especially about absolute risks ([relative and absolute risk](../02-statistics/12-relative-and-absolute-risk.md)).
 
 ## Key ideas
 
@@ -56,4 +56,4 @@ Some clinicians argue that the initial media coverage of the WHI exaggerated the
 
 ## Where this leads
 
-- Next: [[vioxx|Vioxx]]
+- Next: [Vioxx](05-vioxx.md)

@@ -1,6 +1,6 @@
 # Predatory journals
 
-**Prerequisites:** [[preprints|Preprints]] and [[how-journals-work|How journals work]].
+**Prerequisites:** [Preprints](04-preprints.md) and [How journals work](01-how-journals-work.md).
 
 @@IMG@@
 
@@ -41,7 +41,7 @@ flowchart TB
 
 ## Evidence of the problem
 
-- **Stings**: John Bohannon's 2013 *Science* sting sent a deliberately flawed paper to 304 open-access journals; 157 accepted it ([[peer-review|peer review]]). Other researchers have had nonsense papers, and papers with fictional authors, accepted.
+- **Stings**: John Bohannon's 2013 *Science* sting sent a deliberately flawed paper to 304 open-access journals; 157 accepted it ([peer review](02-peer-review.md)). Other researchers have had nonsense papers, and papers with fictional authors, accepted.
 - **Scale**: a 2015 study by Cenyu Shen and Bo-Christer Björk in *BMC Medicine* estimated that predatory journals published around 420,000 articles in 2014, though such estimates are uncertain.
 - **Biomedical content**: a 2017 study by David Moher and colleagues in *Nature* examined nearly 2,000 biomedical articles from suspected predatory journals and found that many failed to report key information, and that a substantial share of the authors came from high-income countries and some were funded by major agencies such as the US National Institutes of Health.
 
@@ -74,4 +74,4 @@ Papers in predatory journals are sometimes cited in public debates precisely bec
 
 ## Where this leads
 
-- Next: [[retractions-and-corrections|Retractions and corrections]]
+- Next: [Retractions and corrections](06-retractions-and-corrections.md)

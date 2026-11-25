@@ -1,6 +1,6 @@
 # Multiple comparisons
 
-**Prerequisites:** [[hypothesis-tests-and-p-values|Hypothesis tests and p-values]] and [[sensitivity-and-specificity|Sensitivity and specificity]].
+**Prerequisites:** [Hypothesis tests and p-values](08-hypothesis-tests-and-p-values.md) and [Sensitivity and specificity](15-sensitivity-and-specificity.md).
 
 @@IMG@@
 
@@ -31,10 +31,10 @@ The cartoonist Randall Munroe captured this in his *xkcd* strip "Significant" (2
 The problem is obvious when a paper reports twenty tests. It is less obvious when the multiplicity is hidden:
 
 - **Many outcomes:** a trial measures 15 outcomes and highlights the one that was significant.
-- **Many subgroups:** the effect is tested in men, women, old, young, diabetic, non-diabetic... ([[subgroups-and-secondary-analyses|subgroups]]).
+- **Many subgroups:** the effect is tested in men, women, old, young, diabetic, non-diabetic... ([subgroups](../09-from-lab-to-headline/04-subgroups-and-secondary-analyses.md)).
 - **Many time points:** results at 3, 6, 9 and 12 months.
 - **Many exposures:** nutritional studies that examine dozens of foods against dozens of diseases.
-- **Many analysis choices:** different covariates, outlier rules and model forms. Andrew Gelman and Eric Loken called this the **garden of forking paths**: even if researchers run only one analysis, the choice of which one can depend on the data. See [[p-hacking|p-hacking]].
+- **Many analysis choices:** different covariates, outlier rules and model forms. Andrew Gelman and Eric Loken called this the **garden of forking paths**: even if researchers run only one analysis, the choice of which one can depend on the data. See [p-hacking](../06-research-integrity/04-p-hacking.md).
 
 A famous demonstration: in 2009 Craig Bennett and colleagues presented a poster showing apparent "brain activity" in a dead Atlantic salmon shown photographs in an fMRI scanner, an artefact of testing tens of thousands of brain voxels without proper correction. The work later won an Ig Nobel Prize.
 
@@ -51,7 +51,7 @@ Genome-wide association studies, which test hundreds of thousands to millions of
 
 ## Pre-specification is the real cure
 
-Statistical correction helps, but the deeper defence is **pre-specification**: naming the primary outcome, the main comparison and the analysis plan before seeing data. A pre-specified primary outcome means one test carries the main conclusion; everything else is explicitly secondary or exploratory. This is why [[preregistration|preregistration]] and [[trial-registries|trial registries]] matter so much, and why [[outcome-switching|outcome switching]] is a serious problem.
+Statistical correction helps, but the deeper defence is **pre-specification**: naming the primary outcome, the main comparison and the analysis plan before seeing data. A pre-specified primary outcome means one test carries the main conclusion; everything else is explicitly secondary or exploratory. This is why [preregistration](../06-research-integrity/01-preregistration.md) and [trial registries](../06-research-integrity/02-trial-registries.md) matter so much, and why [outcome switching](../06-research-integrity/03-outcome-switching.md) is a serious problem.
 
 ## Exploratory research is legitimate
 
@@ -74,5 +74,5 @@ None of this means researchers should not explore data. Exploration generates hy
 
 ## Where this leads
 
-- Next: [[regression-to-the-mean|Regression to the mean]]
-- Related: [[p-hacking|P-hacking]], [[outcome-switching|Outcome switching]]
+- Next: [Regression to the mean](17-regression-to-the-mean.md)
+- Related: [P-hacking](../06-research-integrity/04-p-hacking.md), [Outcome switching](../06-research-integrity/03-outcome-switching.md)

@@ -1,6 +1,6 @@
 # Survivorship bias
 
-**Prerequisites:** [[selection-bias|Selection bias]].
+**Prerequisites:** [Selection bias](04-selection-bias.md).
 
 @@IMG@@
 
@@ -26,15 +26,15 @@ flowchart TB
 Survivorship bias takes several forms in medical studies:
 
 - **Prevalent users.** Studies that include people who have been taking a drug for some time (prevalent users) miss those who stopped early because of side effects or died. The survivors look as though they tolerate the drug well. The remedy is a **new-user design**, which follows people from when they start a treatment, a principle set out by Wayne Ray in a 2003 paper in the *American Journal of Epidemiology*.
-- **Prevalent cases.** Cross-sectional studies of people currently living with a disease miss those who died quickly; see [[cross-sectional-studies|prevalence-incidence bias]].
-- **Immortal time.** If people must survive long enough to receive a treatment, the treated group is guaranteed to have survived that period; see [[time-related-biases|time-related biases]].
+- **Prevalent cases.** Cross-sectional studies of people currently living with a disease miss those who died quickly; see [prevalence-incidence bias](../03-study-designs/04-cross-sectional-studies.md).
+- **Immortal time.** If people must survive long enough to receive a treatment, the treated group is guaranteed to have survived that period; see [time-related biases](08-time-related-biases.md).
 - **Long-term follow-up of trials.** If only survivors are re-examined years later, comparisons between arms can be biased by who survived.
 
 ## Outside medicine
 
 Survivorship bias is everywhere:
 
-- **Investment funds**: performance databases that drop funds that closed (often because they did badly) overstate average returns. The finance course discusses this in its lessons on [[path:economics/finance/06-portfolio-theory/README.md|portfolio theory]].
+- **Investment funds**: performance databases that drop funds that closed (often because they did badly) overstate average returns. The finance course discusses this in its lessons on [portfolio theory](../../../../economics/finance/06-portfolio-theory/README.md).
 - **Business advice**: studying successful companies to find the secrets of success ignores the failed companies that did the same things.
 - **"They don't make them like they used to"**: old buildings, cars and tools that survive are the best-built ones; the shoddy ones are gone.
 - **Lifestyle stories**: the 100-year-old who smoked daily is a survivor; the many smokers who died younger are not interviewed.
@@ -45,7 +45,7 @@ Ask: **what process selected the cases I am looking at, and what happened to the
 
 ## Survivorship bias and publication
 
-Published studies themselves are survivors. Studies that found nothing, or found something inconvenient, are less likely to be published ([[publication-bias|publication bias]]). Reading only the published literature is, in a sense, examining only the planes that came back.
+Published studies themselves are survivors. Studies that found nothing, or found something inconvenient, are less likely to be published ([publication bias](../06-research-integrity/06-publication-bias.md)). Reading only the published literature is, in a sense, examining only the planes that came back.
 
 ## Key ideas
 
@@ -57,5 +57,5 @@ Published studies themselves are survivors. Studies that found nothing, or found
 
 ## Where this leads
 
-- Next: [[healthy-user-bias|The healthy user effect]]
-- Related: [[publication-bias|Publication bias]]
+- Next: [The healthy user effect](06-healthy-user-bias.md)
+- Related: [Publication bias](../06-research-integrity/06-publication-bias.md)

@@ -1,6 +1,6 @@
 # Worked example: a case-control study (Doll and Hill, 1950)
 
-**Prerequisites:** [[a-step-by-step-checklist|A step-by-step checklist]], [[case-control-studies|Case-control studies]] and [[odds-ratios-and-hazard-ratios|Odds ratios and hazard ratios]].
+**Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Case-control studies](../03-study-designs/05-case-control-studies.md) and [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md).
 
 @@IMG@@
 
@@ -16,7 +16,7 @@ A peer-reviewed paper in the *BMJ* by researchers at the Medical Research Counci
 
 ## 3. The design
 
-A hospital-based **case-control study** ([[case-control-studies|case-control studies]]). Patients with lung cancer (cases) in London hospitals were compared with patients without cancer (controls), matched by sex, age group and hospital. Trained interviewers (almoners) asked all patients the same questions about smoking history.
+A hospital-based **case-control study** ([case-control studies](../03-study-designs/05-case-control-studies.md)). Patients with lung cancer (cases) in London hospitals were compared with patients without cancer (controls), matched by sex, age group and hospital. Trained interviewers (almoners) asked all patients the same questions about smoking history.
 
 ```mermaid
 flowchart LR
@@ -40,17 +40,17 @@ The outcome was a diagnosis of lung cancer; the exposure was smoking history (wh
 | Lung cancer cases | 647 | 2 |
 | Controls | 622 | 27 |
 
-The **odds ratio** for having smoked is (647 × 27) / (2 × 622) ≈ **14** ([[odds-ratios-and-hazard-ratios|odds ratios]]). Because almost all men in 1950s Britain smoked, the more informative comparison was the **amount** smoked: the proportion of heavy smokers was much higher among cases than among controls, showing a **dose-response relationship** ([[bradford-hill-criteria|biological gradient]]).
+The **odds ratio** for having smoked is (647 × 27) / (2 × 622) ≈ **14** ([odds ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md)). Because almost all men in 1950s Britain smoked, the more informative comparison was the **amount** smoked: the proportion of heavy smokers was much higher among cases than among controls, showing a **dose-response relationship** ([biological gradient](../04-causation/09-bradford-hill-criteria.md)).
 
 ## 7. Bias and causation
 
 Doll and Hill considered several alternative explanations carefully:
 
 - **Selection bias**: were controls representative? They were hospital patients, who might smoke more than the general population; if anything, that would make the difference *smaller*.
-- **Interviewer and recall bias** ([[measurement-and-recall-bias|recall bias]]): interviewers knew which patients had cancer. Doll and Hill reported a natural check: some patients interviewed as lung cancer cases were later found not to have lung cancer, and their smoking histories resembled those of controls, not of cases. That suggests the interviews were not biased by knowledge of the diagnosis.
+- **Interviewer and recall bias** ([recall bias](../04-causation/07-measurement-and-recall-bias.md)): interviewers knew which patients had cancer. Doll and Hill reported a natural check: some patients interviewed as lung cancer cases were later found not to have lung cancer, and their smoking histories resembled those of controls, not of cases. That suggests the interviews were not biased by knowledge of the diagnosis.
 - **Confounding**: they considered other factors such as air pollution and social class, which did not explain the association.
 
-Strength (odds ratio about 14), dose-response and consistency with the US study by Wynder and Graham published the same year made a causal interpretation compelling, though Doll and Hill themselves went on to start the British Doctors cohort study in 1951 to test it prospectively ([[tobacco-industry-research|tobacco case study]]).
+Strength (odds ratio about 14), dose-response and consistency with the US study by Wynder and Graham published the same year made a causal interpretation compelling, though Doll and Hill themselves went on to start the British Doctors cohort study in 1951 to test it prospectively ([tobacco case study](../10-case-studies/01-tobacco-industry-research.md)).
 
 ## 8. Integrity and transparency
 
@@ -78,4 +78,4 @@ A classic case-control study whose design, analysis and attention to bias made a
 
 ## Where this leads
 
-- Back to the course overview: [[dir:science/research-methods/reading-research|Reading research]]
+- Back to the course overview: [Reading research](../README.md)

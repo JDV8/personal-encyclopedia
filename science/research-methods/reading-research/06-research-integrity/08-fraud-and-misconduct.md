@@ -1,6 +1,6 @@
 # Fraud and misconduct
 
-**Prerequisites:** [[the-replication-crisis|The replication crisis]].
+**Prerequisites:** [The replication crisis](07-the-replication-crisis.md).
 
 @@IMG@@
 
@@ -27,11 +27,11 @@ Hard to say, since successful fraud is by definition undetected. In a 2009 meta-
 
 ## Notable cases
 
-- **Andrew Wakefield** (1998): the *Lancet* paper suggesting a link between MMR vaccine, bowel disease and autism was retracted in 2010 after the UK General Medical Council found serious professional misconduct; Wakefield was struck off the medical register. In 2011 the journalist Brian Deer reported in the *BMJ* that the children's histories had been misrepresented, and the *BMJ*'s editors described the paper as fraudulent. See the [[wakefield-1998|Wakefield case study]].
+- **Andrew Wakefield** (1998): the *Lancet* paper suggesting a link between MMR vaccine, bowel disease and autism was retracted in 2010 after the UK General Medical Council found serious professional misconduct; Wakefield was struck off the medical register. In 2011 the journalist Brian Deer reported in the *BMJ* that the children's histories had been misrepresented, and the *BMJ*'s editors described the paper as fraudulent. See the [Wakefield case study](../10-case-studies/07-wakefield-1998.md).
 - **Diederik Stapel** (2011): a prominent Dutch social psychologist found by university investigations to have fabricated data in dozens of papers; more than 50 were retracted.
 - **Yoshitaka Fujii**: a Japanese anaesthesiologist whose fabrication led to more than 180 retractions, among the largest totals for any researcher. John Carlisle's 2012 statistical analysis of baseline data in his trials helped expose him.
 - **Hwang Woo-suk** (2005–2006): a South Korean scientist whose claims to have created human embryonic stem cells by cloning, published in *Science*, were found to be fabricated.
-- **Surgisphere** (2020): two high-profile COVID-19 papers in *The Lancet* and the *New England Journal of Medicine*, based on data from a company whose database could not be verified, were retracted within weeks. See the [[surgisphere|Surgisphere case study]].
+- **Surgisphere** (2020): two high-profile COVID-19 papers in *The Lancet* and the *New England Journal of Medicine*, based on data from a company whose database could not be verified, were retracted within weeks. See the [Surgisphere case study](../10-case-studies/10-surgisphere.md).
 - **Image manipulation**: in 2016 Elisabeth Bik, Arturo Casadevall and Ferric Fang reported in *mBio* that about 4% of over 20,000 biomedical papers they screened contained problematic duplicated images. In 2022 *Science* reported on allegations of image manipulation in an influential 2006 *Nature* paper on amyloid in Alzheimer's disease; the paper was retracted in 2024.
 
 ## How fraud is detected
@@ -46,7 +46,7 @@ Many of these checks are now carried out by independent volunteers ("data sleuth
 
 ## Consequences
 
-Misconduct can lead to retraction, loss of funding and employment, and in rare cases criminal prosecution. Its harms go beyond the individual: patients may be harmed by treatments based on false data, other researchers waste years building on false findings, and public trust erodes. Retraction does not erase a paper's influence; retracted papers continue to be cited ([[retractions-and-corrections|retractions and corrections]]).
+Misconduct can lead to retraction, loss of funding and employment, and in rare cases criminal prosecution. Its harms go beyond the individual: patients may be harmed by treatments based on false data, other researchers waste years building on false findings, and public trust erodes. Retraction does not erase a paper's influence; retracted papers continue to be cited ([retractions and corrections](../07-publishing/06-retractions-and-corrections.md)).
 
 ## For readers
 
@@ -67,5 +67,5 @@ You usually cannot detect fraud from reading a paper. But you can:
 
 ## Where this leads
 
-- Next: [[open-science|Open science]]
-- Related: [[retractions-and-corrections|Retractions and corrections]]
+- Next: [Open science](09-open-science.md)
+- Related: [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md)

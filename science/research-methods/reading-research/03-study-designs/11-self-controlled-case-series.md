@@ -1,6 +1,6 @@
 # The self-controlled case series
 
-**Prerequisites:** [[crossover-trials|Crossover trials]] and [[case-reports-and-case-series|Case reports and case series]].
+**Prerequisites:** [Crossover trials](10-crossover-trials.md) and [Case reports and case series](02-case-reports-and-case-series.md).
 
 @@IMG@@
 
@@ -25,7 +25,7 @@ flowchart LR
 
 ## Why it is powerful
 
-Because each person is compared with themselves, **all fixed characteristics are automatically controlled**: genetics, sex, socioeconomic status, underlying health, health-seeking behaviour, and anything else that does not change over the observation period, whether measured or not. That removes a whole class of confounding that plagues cohort and case-control studies, including the [[healthy-user-bias|healthy vaccinee effect]].
+Because each person is compared with themselves, **all fixed characteristics are automatically controlled**: genetics, sex, socioeconomic status, underlying health, health-seeking behaviour, and anything else that does not change over the observation period, whether measured or not. That removes a whole class of confounding that plagues cohort and case-control studies, including the [healthy vaccinee effect](../04-causation/06-healthy-user-bias.md).
 
 The method was developed by the statistician Paddy Farrington in the mid-1990s, initially for vaccine safety. An early application, published in *The Lancet* in 1995 by Farrington, Elizabeth Miller and colleagues, studied hospital admissions after MMR and other vaccines in England and confirmed known associations, such as febrile convulsions in the second week after MMR an increase in idiopathic thrombocytopenic purpura (a low platelet count) after MMR, and aseptic meningitis linked to the Urabe mumps strain, which had been withdrawn from UK use in 1992. It also found that passive reporting had greatly underestimated some of these risks. In 1999 Brent Taylor, Elizabeth Miller and colleagues used a case-series analysis among the methods in a *Lancet* study of MMR and autism, finding no clustering of autism onset after vaccination.
 
@@ -40,7 +40,7 @@ The design depends on several assumptions, and a careful paper discusses each:
 
 ## Choosing the risk window
 
-The risk window must be chosen on biological grounds, before looking at the data. If it is too narrow, a real effect may be missed; too wide, and it dilutes the effect. If it is chosen after seeing when events occurred, the analysis becomes a [[multiple-comparisons|multiple comparisons]] exercise. Good SCCS studies specify windows in advance and report sensitivity analyses with alternative windows.
+The risk window must be chosen on biological grounds, before looking at the data. If it is too narrow, a real effect may be missed; too wide, and it dilutes the effect. If it is chosen after seeing when events occurred, the analysis becomes a [multiple comparisons](../02-statistics/16-multiple-comparisons.md) exercise. Good SCCS studies specify windows in advance and report sensitivity analyses with alternative windows.
 
 ## What it is not suited for
 
@@ -63,5 +63,5 @@ The risk window must be chosen on biological grounds, before looking at the data
 
 ## Where this leads
 
-- Next: [[natural-experiments-and-quasi-experiments|Natural experiments and quasi-experiments]]
-- Related: [[passive-surveillance-and-pharmacovigilance|Passive surveillance and pharmacovigilance]]
+- Next: [Natural experiments and quasi-experiments](12-natural-experiments-and-quasi-experiments.md)
+- Related: [Passive surveillance and pharmacovigilance](13-passive-surveillance-and-pharmacovigilance.md)

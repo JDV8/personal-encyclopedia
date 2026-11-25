@@ -1,6 +1,6 @@
 # Publication bias
 
-**Prerequisites:** [[harking|HARKing]] and [[funnel-plots|Funnel plots]].
+**Prerequisites:** [HARKing](05-harking.md) and [Funnel plots](../05-anatomy-of-a-paper/09-funnel-plots.md).
 
 @@IMG@@
 
@@ -36,7 +36,7 @@ Publication bias has been documented in psychology, economics, ecology, educatio
 ## Related biases
 
 - **Time-lag bias**: negative results take longer to be published.
-- **Outcome reporting bias**: within published trials, unfavourable outcomes are omitted ([[outcome-switching|outcome switching]]).
+- **Outcome reporting bias**: within published trials, unfavourable outcomes are omitted ([outcome switching](03-outcome-switching.md)).
 - **Location bias**: positive results appear in higher-impact, more widely indexed journals.
 - **Language bias**: positive results from non-English-speaking countries may be more likely to be published in English.
 - **Citation bias**: positive studies are cited more often, so they are easier to find.
@@ -53,9 +53,9 @@ Responsibility is shared. **Researchers** may not bother writing up null results
 
 ## Remedies
 
-- **Trial registration** makes unpublished trials visible ([[trial-registries|trial registries]]).
+- **Trial registration** makes unpublished trials visible ([trial registries](02-trial-registries.md)).
 - **Mandatory results reporting**, as under the US FDAAA and EU rules.
-- **Registered reports**, which commit journals to publication before results are known ([[preregistration|preregistration]]).
+- **Registered reports**, which commit journals to publication before results are known ([preregistration](01-preregistration.md)).
 - **Journals for null results** and data repositories.
 - **AllTrials**, a campaign launched in 2013 by Ben Goldacre, the BMJ, Sense about Science and others, calling for all past and present trials to be registered and their results reported.
 - **Regulatory data**: using FDA and EMA documents and clinical study reports in systematic reviews.
@@ -70,5 +70,5 @@ Responsibility is shared. **Researchers** may not bother writing up null results
 
 ## Where this leads
 
-- Next: [[the-replication-crisis|The replication crisis]]
-- Related: [[funnel-plots|Funnel plots]], [[tamiflu-and-hidden-trial-data|Tamiflu]]
+- Next: [The replication crisis](07-the-replication-crisis.md)
+- Related: [Funnel plots](../05-anatomy-of-a-paper/09-funnel-plots.md), [Tamiflu](../10-case-studies/08-tamiflu-and-hidden-trial-data.md)

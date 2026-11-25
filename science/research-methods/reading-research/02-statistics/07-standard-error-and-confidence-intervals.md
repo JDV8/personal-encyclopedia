@@ -1,6 +1,6 @@
 # Standard error and confidence intervals
 
-**Prerequisites:** [[samples-and-populations|Samples and populations]].
+**Prerequisites:** [Samples and populations](06-samples-and-populations.md).
 
 @@IMG@@
 
@@ -49,7 +49,7 @@ The last row is critical. "No statistically significant difference" with a wide 
 
 ## Intervals for ratios
 
-For relative risks, odds ratios and hazard ratios (see [[relative-and-absolute-risk|relative and absolute risk]] and [[odds-ratios-and-hazard-ratios|odds and hazard ratios]]), intervals are calculated on a logarithmic scale and are therefore **asymmetric**: an estimate of 1.5 might have a CI of 1.1 to 2.0. The line of no effect is 1, not 0. On [[forest-plots|forest plots]], ratio scales are drawn logarithmically so the intervals look symmetric.
+For relative risks, odds ratios and hazard ratios (see [relative and absolute risk](12-relative-and-absolute-risk.md) and [odds and hazard ratios](19-odds-ratios-and-hazard-ratios.md)), intervals are calculated on a logarithmic scale and are therefore **asymmetric**: an estimate of 1.5 might have a CI of 1.1 to 2.0. The line of no effect is 1, not 0. On [forest plots](../05-anatomy-of-a-paper/07-forest-plots.md), ratio scales are drawn logarithmically so the intervals look symmetric.
 
 ## Confidence intervals and p-values
 
@@ -69,5 +69,5 @@ Intervals can be 90%, 99% or any level; higher confidence means wider intervals.
 
 ## Where this leads
 
-- Next: [[hypothesis-tests-and-p-values|Hypothesis tests and p-values]]
-- Practice: [[forest-plots|Reading forest plots]]
+- Next: [Hypothesis tests and p-values](08-hypothesis-tests-and-p-values.md)
+- Practice: [Reading forest plots](../05-anatomy-of-a-paper/07-forest-plots.md)

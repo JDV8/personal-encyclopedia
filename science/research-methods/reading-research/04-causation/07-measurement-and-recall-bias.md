@@ -1,6 +1,6 @@
 # Measurement and recall bias
 
-**Prerequisites:** [[healthy-user-bias|The healthy user effect]] and [[observation-measurement-and-experiment|Observation, measurement and experiment]].
+**Prerequisites:** [The healthy user effect](06-healthy-user-bias.md) and [Observation, measurement and experiment](../01-foundations/03-observation-measurement-and-experiment.md).
 
 @@IMG@@
 
@@ -18,11 +18,11 @@ This is the reason researchers sometimes say that a positive result *despite* im
 
 ### Recall bias
 
-In [[case-control-studies|case-control studies]], cases often remember past exposures differently from controls. Mothers of babies with birth defects, for instance, may think harder about everything they took or did during pregnancy than mothers of healthy babies. The result can be an apparent association between a harmless exposure and the outcome. Using records made **before** the outcome (prescription databases, medical charts) is the main defence.
+In [case-control studies](../03-study-designs/05-case-control-studies.md), cases often remember past exposures differently from controls. Mothers of babies with birth defects, for instance, may think harder about everything they took or did during pregnancy than mothers of healthy babies. The result can be an apparent association between a harmless exposure and the outcome. Using records made **before** the outcome (prescription databases, medical charts) is the main defence.
 
 ### Interviewer and observer bias
 
-Interviewers who know a participant's case status may probe more deeply. Doctors who know which patients received a treatment may record outcomes differently. Blinding assessors is the defence ([[blinding-placebos-and-allocation-concealment|blinding]]).
+Interviewers who know a participant's case status may probe more deeply. Doctors who know which patients received a treatment may record outcomes differently. Blinding assessors is the defence ([blinding](../03-study-designs/08-blinding-placebos-and-allocation-concealment.md)).
 
 ### Detection and surveillance bias
 
@@ -76,4 +76,4 @@ Outcomes can also be mismeasured:
 
 ## Where this leads
 
-- Next: [[time-related-biases|Time-related biases]]
+- Next: [Time-related biases](08-time-related-biases.md)

@@ -1,6 +1,6 @@
 # Case study: Surgisphere
 
-**Prerequisites:** [[peer-review|Peer review]], [[retractions-and-corrections|Retractions and corrections]] and [[supplementary-material-and-data|Supplementary material and data]].
+**Prerequisites:** [Peer review](../07-publishing/02-peer-review.md), [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md) and [Supplementary material and data](../05-anatomy-of-a-paper/11-supplementary-material-and-data.md).
 
 @@IMG@@
 
@@ -45,7 +45,7 @@ Mehra, Ruschitzka and Patel commissioned an independent audit. Surgisphere decli
 ## How it happened
 
 - **Pressure for speed** during a pandemic led to fast review and publication.
-- **Peer reviewers did not see raw data**, as is normal; review cannot easily detect fabricated datasets ([[peer-review|peer review]]).
+- **Peer reviewers did not see raw data**, as is normal; review cannot easily detect fabricated datasets ([peer review](../07-publishing/02-peer-review.md)).
 - **Most authors had not accessed the data themselves** and relied on the company.
 - **Prestige** gave the results immediate credibility.
 
@@ -57,7 +57,7 @@ After the retractions, *The Lancet* announced changes requiring, for example, th
 - **Prestigious journals make mistakes.**
 - **Large numbers are not a guarantee.** A huge database can be fabricated or flawed.
 - **Speed and quality trade off.**
-- **Open scrutiny works.** Independent researchers exposed the problems within weeks ([[open-science|open science]]).
+- **Open scrutiny works.** Independent researchers exposed the problems within weeks ([open science](../06-research-integrity/09-open-science.md)).
 
 ## Key ideas
 
@@ -69,4 +69,4 @@ After the retractions, *The Lancet* announced changes requiring, for example, th
 
 ## Where this leads
 
-- Next section: [[sec:11-practice|Practice]]
+- Next section: [Practice](../11-practice/README.md)

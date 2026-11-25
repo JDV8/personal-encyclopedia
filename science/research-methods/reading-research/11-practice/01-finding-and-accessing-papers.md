@@ -1,6 +1,6 @@
 # Finding and accessing papers
 
-**Prerequisites:** [[the-shape-of-a-paper|The shape of a paper]].
+**Prerequisites:** [The shape of a paper](../05-anatomy-of-a-paper/01-the-shape-of-a-paper.md).
 
 @@IMG@@
 
@@ -20,9 +20,9 @@ News stories often do not link the paper. To find it:
 - **PubMed** (pubmed.ncbi.nlm.nih.gov), run by the US National Library of Medicine, indexes the biomedical literature (MEDLINE and more). It shows abstracts, links to full text, and flags retractions and comments.
 - **PubMed Central (PMC)** holds free full texts, including papers funded by the NIH and many other funders that require open access.
 - **Google Scholar** covers all disciplines and shows citation counts and "All versions", which often include free copies.
-- **The Cochrane Library** contains Cochrane systematic reviews ([[cochrane-and-grade|Cochrane and GRADE]]) and the CENTRAL register of trials.
-- **Trial registries**: ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) ([[trial-registries|trial registries]]).
-- **Preprint servers**: arXiv (physics, mathematics, computer science), bioRxiv (biology), medRxiv (health sciences), PsyArXiv, SSRN (social sciences and law) ([[preprints|preprints]]).
+- **The Cochrane Library** contains Cochrane systematic reviews ([Cochrane and GRADE](../03-study-designs/16-cochrane-and-grade.md)) and the CENTRAL register of trials.
+- **Trial registries**: ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) ([trial registries](../06-research-integrity/02-trial-registries.md)).
+- **Preprint servers**: arXiv (physics, mathematics, computer science), bioRxiv (biology), medRxiv (health sciences), PsyArXiv, SSRN (social sciences and law) ([preprints](../07-publishing/04-preprints.md)).
 - **Semantic Scholar** and **OpenAlex** are free scholarly search engines with citation data.
 - **Epistemonikos** is a database of systematic reviews in health.
 
@@ -47,16 +47,16 @@ Sci-Hub, a site that provides unauthorised copies of paywalled papers, is widely
 
 ## Checking a paper's status and context
 
-- **Retractions and corrections**: PubMed flags retractions; the **Retraction Watch Database**, now owned by Crossref and openly available, lists retractions, and tools such as reference managers can flag retracted papers ([[retractions-and-corrections|retractions]]).
+- **Retractions and corrections**: PubMed flags retractions; the **Retraction Watch Database**, now owned by Crossref and openly available, lists retractions, and tools such as reference managers can flag retracted papers ([retractions](../07-publishing/06-retractions-and-corrections.md)).
 - **PubPeer** is a site for post-publication comment where researchers often point out problems, including image duplication.
-- **Registry entries** show the planned outcomes ([[outcome-switching|outcome switching]]).
+- **Registry entries** show the planned outcomes ([outcome switching](../06-research-integrity/03-outcome-switching.md)).
 - **Citing papers and later reviews** (via "Cited by" in Google Scholar) show whether the finding has been replicated or challenged.
-- **Supplementary material** and data repositories may contain the protocol, statistical analysis plan and data ([[supplementary-material-and-data|supplementary material]]).
-- **The journal**: check whether it is a legitimate journal, for example via the Directory of Open Access Journals (DOAJ) for open-access journals ([[predatory-journals|predatory journals]]).
+- **Supplementary material** and data repositories may contain the protocol, statistical analysis plan and data ([supplementary material](../05-anatomy-of-a-paper/11-supplementary-material-and-data.md)).
+- **The journal**: check whether it is a legitimate journal, for example via the Directory of Open Access Journals (DOAJ) for open-access journals ([predatory journals](../07-publishing/05-predatory-journals.md)).
 
 ## Reading strategy
 
-Rather than reading a paper start to finish, use a structured approach ([[a-step-by-step-checklist|the checklist]]):
+Rather than reading a paper start to finish, use a structured approach ([the checklist](02-a-step-by-step-checklist.md)):
 
 1. Read the title and abstract to see the claim.
 2. Go to the methods: design, participants, outcomes.
@@ -78,4 +78,4 @@ A free reference manager such as **Zotero** stores papers, captures citations fr
 
 ## Where this leads
 
-- Next: [[a-step-by-step-checklist|A step-by-step checklist]]
+- Next: [A step-by-step checklist](02-a-step-by-step-checklist.md)

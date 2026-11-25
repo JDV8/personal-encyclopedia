@@ -1,6 +1,6 @@
 # Meta-analysis
 
-**Prerequisites:** [[systematic-reviews|Systematic reviews]] and [[standard-error-and-confidence-intervals|Standard error and confidence intervals]].
+**Prerequisites:** [Systematic reviews](14-systematic-reviews.md) and [Standard error and confidence intervals](../02-statistics/07-standard-error-and-confidence-intervals.md).
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ A **meta-analysis** is the statistical combination of results from several studi
 
 Each study provides an effect estimate (a risk ratio, a mean difference) and its standard error. A meta-analysis calculates a **weighted average**, giving more weight to more precise studies (usually larger ones). The most common weighting is **inverse-variance**: each study's weight is 1 divided by the square of its standard error. The result is a pooled estimate with a narrower confidence interval than any single study.
 
-Results are displayed in a [[forest-plots|forest plot]]: one line per study showing its estimate and interval, and a diamond at the bottom for the pooled result.
+Results are displayed in a [forest plot](../05-anatomy-of-a-paper/07-forest-plots.md): one line per study showing its estimate and interval, and a diamond at the bottom for the pooled result.
 
 ## Fixed-effect and random-effects models
 
@@ -29,7 +29,7 @@ Neither is automatically right. If studies differ a lot, a single pooled number 
 - the **I² statistic**, introduced by Julian Higgins and Simon Thompson in 2002, which estimates the percentage of variation due to real differences rather than chance. Rough guides treat about 25% as low, 50% as moderate and 75% as high;
 - **tau² (τ²)**, the estimated variance of true effects in a random-effects model, and **prediction intervals**, which show the range in which the effect in a new setting would likely fall.
 
-High heterogeneity is a reason to ask *why* results differ, through **subgroup analysis** or **meta-regression** (relating effects to study characteristics such as dose or year), with the usual caveats about [[multiple-comparisons|multiple comparisons]].
+High heterogeneity is a reason to ask *why* results differ, through **subgroup analysis** or **meta-regression** (relating effects to study characteristics such as dose or year), with the usual caveats about [multiple comparisons](../02-statistics/16-multiple-comparisons.md).
 
 ```mermaid
 flowchart TB
@@ -48,7 +48,7 @@ A robust meta-analysis checks whether its conclusion depends on particular choic
 
 ## Small-study effects and publication bias
 
-If small studies show bigger effects than large ones, the cause may be [[publication-bias|publication bias]] (small negative studies never published), lower quality in small studies, or genuine differences. **Funnel plots** and statistical tests such as Egger's test (Matthias Egger and colleagues, *BMJ*, 1997) look for this asymmetry; see [[funnel-plots|funnel plots]].
+If small studies show bigger effects than large ones, the cause may be [publication bias](../06-research-integrity/06-publication-bias.md) (small negative studies never published), lower quality in small studies, or genuine differences. **Funnel plots** and statistical tests such as Egger's test (Matthias Egger and colleagues, *BMJ*, 1997) look for this asymmetry; see [funnel plots](../05-anatomy-of-a-paper/09-funnel-plots.md).
 
 ## When meta-analyses and big trials disagree
 
@@ -74,5 +74,5 @@ In 1997 Jacques LeLorier and colleagues compared meta-analyses with later large 
 
 ## Where this leads
 
-- Next: [[cochrane-and-grade|Cochrane and GRADE]]
-- Practice: [[forest-plots|Forest plots]], [[worked-example-a-meta-analysis|Worked example: a meta-analysis]]
+- Next: [Cochrane and GRADE](16-cochrane-and-grade.md)
+- Practice: [Forest plots](../05-anatomy-of-a-paper/07-forest-plots.md), [Worked example: a meta-analysis](../11-practice/05-worked-example-a-meta-analysis.md)

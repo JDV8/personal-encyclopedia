@@ -1,6 +1,6 @@
 # The healthy user effect
 
-**Prerequisites:** [[confounding|Confounding]] and [[survivorship-bias|Survivorship bias]].
+**Prerequisites:** [Confounding](02-confounding.md) and [Survivorship bias](05-survivorship-bias.md).
 
 @@IMG@@
 
@@ -21,7 +21,7 @@ Because health consciousness is hard to measure, adjusting for income, education
 
 ### Adherence to placebo
 
-The strongest evidence comes from trials themselves. In the Coronary Drug Project, men who took at least 80% of their **placebo** pills had much lower five-year mortality than men who took less, as reported in 1980 in the *New England Journal of Medicine* ([[intention-to-treat-and-per-protocol|intention to treat]]). Similar placebo-adherence effects have been reported in other trials. A sugar pill cannot lower mortality; adhering to it marks a different kind of person.
+The strongest evidence comes from trials themselves. In the Coronary Drug Project, men who took at least 80% of their **placebo** pills had much lower five-year mortality than men who took less, as reported in 1980 in the *New England Journal of Medicine* ([intention to treat](../03-study-designs/09-intention-to-treat-and-per-protocol.md)). Similar placebo-adherence effects have been reported in other trials. A sugar pill cannot lower mortality; adhering to it marks a different kind of person.
 
 ### Unrelated outcomes
 
@@ -37,7 +37,7 @@ The mirror image of the healthy user effect is that people who are very ill, fra
 
 ## Hormone replacement therapy
 
-The best-known casualty of the healthy user effect is postmenopausal **hormone replacement therapy**. Observational studies, notably the Nurses' Health Study, found that women using HRT had lower rates of heart disease. Women who used HRT in those years tended to be wealthier, more educated and more health-conscious. When the Women's Health Initiative randomised trial reported in 2002, it found no heart benefit from combined estrogen-plus-progestin therapy and an increased risk of coronary heart disease. See the [[hormone-replacement-therapy-and-the-whi|HRT case study]].
+The best-known casualty of the healthy user effect is postmenopausal **hormone replacement therapy**. Observational studies, notably the Nurses' Health Study, found that women using HRT had lower rates of heart disease. Women who used HRT in those years tended to be wealthier, more educated and more health-conscious. When the Women's Health Initiative randomised trial reported in 2002, it found no heart benefit from combined estrogen-plus-progestin therapy and an increased risk of coronary heart disease. See the [HRT case study](../10-case-studies/04-hormone-replacement-therapy-and-the-whi.md).
 
 ## How studies try to address it
 
@@ -62,5 +62,5 @@ The healthy user effect can make useless interventions look beneficial, and it c
 
 ## Where this leads
 
-- Next: [[measurement-and-recall-bias|Measurement and recall bias]]
-- Case study: [[hormone-replacement-therapy-and-the-whi|HRT and the WHI]]
+- Next: [Measurement and recall bias](07-measurement-and-recall-bias.md)
+- Case study: [HRT and the WHI](../10-case-studies/04-hormone-replacement-therapy-and-the-whi.md)

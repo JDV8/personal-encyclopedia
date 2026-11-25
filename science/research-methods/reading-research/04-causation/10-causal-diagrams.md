@@ -1,6 +1,6 @@
 # Causal diagrams
 
-**Prerequisites:** [[bradford-hill-criteria|The Bradford Hill criteria]], [[confounding|Confounding]] and [[selection-bias|Selection bias]].
+**Prerequisites:** [The Bradford Hill criteria](09-bradford-hill-criteria.md), [Confounding](02-confounding.md) and [Selection bias](04-selection-bias.md).
 
 @@IMG@@
 
@@ -36,7 +36,7 @@ flowchart LR
 
 1. **Fork (confounder):** C causes both E and O. The path E ← C → O is a **backdoor path** that creates a non-causal association. **Adjusting for C blocks it.** This is ordinary confounding.
 2. **Chain (mediator):** E causes M, which causes O. M is how E has its effect. **Adjusting for M removes part of the real effect.** If you want the total effect of E, do not adjust for mediators.
-3. **Collider:** E and O both cause K. The path E → K ← O is naturally **blocked**: it creates no association. But **adjusting for K, or selecting on it, opens the path** and creates a spurious association. This is [[selection-bias|collider bias]].
+3. **Collider:** E and O both cause K. The path E → K ← O is naturally **blocked**: it creates no association. But **adjusting for K, or selecting on it, opens the path** and creates a spurious association. This is [collider bias](04-selection-bias.md).
 
 ## The backdoor criterion
 
@@ -76,5 +76,5 @@ Even without drawing a formal diagram, you can ask of any adjusted analysis:
 
 ## Where this leads
 
-- Next section: [[sec:05-anatomy-of-a-paper|Anatomy of a paper]], starting with [[the-shape-of-a-paper|the shape of a paper]]
-- Related: [[regression-and-adjustment|Regression and adjustment]]
+- Next section: [Anatomy of a paper](../05-anatomy-of-a-paper/README.md), starting with [the shape of a paper](../05-anatomy-of-a-paper/01-the-shape-of-a-paper.md)
+- Related: [Regression and adjustment](../02-statistics/18-regression-and-adjustment.md)

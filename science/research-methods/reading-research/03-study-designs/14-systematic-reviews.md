@@ -1,6 +1,6 @@
 # Systematic reviews
 
-**Prerequisites:** [[the-evidence-hierarchy|The evidence hierarchy]] and [[passive-surveillance-and-pharmacovigilance|Passive surveillance and pharmacovigilance]].
+**Prerequisites:** [The evidence hierarchy](01-the-evidence-hierarchy.md) and [Passive surveillance and pharmacovigilance](13-passive-surveillance-and-pharmacovigilance.md).
 
 @@IMG@@
 
@@ -18,8 +18,8 @@ A **systematic review** replaces that discretion with a protocol:
 4. **Explicit eligibility criteria**, applied by two reviewers independently.
 5. **Data extraction** by two reviewers independently, on standard forms.
 6. **Risk of bias assessment** of each included study using structured tools, such as the Cochrane risk-of-bias tool (RoB 2) for randomised trials or ROBINS-I for non-randomised studies.
-7. **Synthesis**, either narrative or statistical ([[meta-analysis|meta-analysis]]).
-8. **Assessment of the certainty of the evidence**, often with [[cochrane-and-grade|GRADE]].
+7. **Synthesis**, either narrative or statistical ([meta-analysis](15-meta-analysis.md)).
+8. **Assessment of the certainty of the evidence**, often with [GRADE](16-cochrane-and-grade.md).
 
 ```mermaid
 flowchart TB
@@ -34,18 +34,18 @@ flowchart TB
 
 ## Why it matters
 
-In 1992, Elliott Antman, Joseph Lau and colleagues published an analysis in *JAMA* showing that a **cumulative meta-analysis** of trials of clot-busting drugs after heart attack would have shown a clear benefit years before many textbooks and expert reviews recommended the treatment, while some reviews continued to recommend treatments that trials had shown to be ineffective or harmful. Narrative expert opinion had lagged behind the evidence. This kind of finding helped drive the growth of systematic reviews and of the [[cochrane-and-grade|Cochrane Collaboration]].
+In 1992, Elliott Antman, Joseph Lau and colleagues published an analysis in *JAMA* showing that a **cumulative meta-analysis** of trials of clot-busting drugs after heart attack would have shown a clear benefit years before many textbooks and expert reviews recommended the treatment, while some reviews continued to recommend treatments that trials had shown to be ineffective or harmful. Narrative expert opinion had lagged behind the evidence. This kind of finding helped drive the growth of systematic reviews and of the [Cochrane Collaboration](16-cochrane-and-grade.md).
 
 ## The PRISMA flow diagram
 
-Systematic reviews report how studies were found and selected in a **PRISMA flow diagram**: how many records the searches found, how many were screened, how many full texts were assessed, how many were excluded and why, and how many were included. PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) was first published in 2009 and updated as PRISMA 2020. See [[reporting-checklists|reporting checklists]].
+Systematic reviews report how studies were found and selected in a **PRISMA flow diagram**: how many records the searches found, how many were screened, how many full texts were assessed, how many were excluded and why, and how many were included. PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) was first published in 2009 and updated as PRISMA 2020. See [reporting checklists](../05-anatomy-of-a-paper/12-reporting-checklists.md).
 
 ## Limits and abuses
 
 A systematic review is only as good as its inputs and its execution:
 
 - **Garbage in, garbage out.** Pooling biased studies does not remove bias.
-- **Publication bias.** If negative studies were never published, even a thorough search may miss them ([[publication-bias|publication bias]]). Regulatory documents and trial registries help.
+- **Publication bias.** If negative studies were never published, even a thorough search may miss them ([publication bias](../06-research-integrity/06-publication-bias.md)). Regulatory documents and trial registries help.
 - **Question framing.** Narrow or oddly chosen eligibility criteria can include or exclude decisive studies. Two systematic reviews on the "same" question can reach different conclusions because they asked slightly different questions.
 - **Conflicts of interest.** Reviews have authors and funders too. Studies of reviews in several fields have found that reviews with industry ties were more likely to reach conclusions favourable to the sponsor.
 - **Redundancy.** In a 2016 paper in the *Milbank Quarterly*, John Ioannidis argued that systematic reviews and meta-analyses had become mass-produced, and that many were redundant, misleading or conflicted.
@@ -77,4 +77,4 @@ A systematic review is only as good as its inputs and its execution:
 
 ## Where this leads
 
-- Next: [[meta-analysis|Meta-analysis]]
+- Next: [Meta-analysis](15-meta-analysis.md)

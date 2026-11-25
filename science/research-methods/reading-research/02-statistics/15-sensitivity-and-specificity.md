@@ -1,6 +1,6 @@
 # Sensitivity, specificity and screening
 
-**Prerequisites:** [[base-rates-and-bayes-theorem|Base rates and Bayes' theorem]].
+**Prerequisites:** [Base rates and Bayes' theorem](14-base-rates-and-bayes-theorem.md).
 
 @@IMG@@
 
@@ -34,7 +34,7 @@ flowchart LR
 
 ## Predictive values depend on prevalence
 
-Sensitivity and specificity are properties of the test (though they can vary between populations). PPV and NPV are not: they depend on **prevalence**, the base rate. The same test that is very reliable in a specialist clinic, where many patients have the disease, will produce mostly false positives in population screening, where few do. This is [[base-rates-and-bayes-theorem|Bayes' theorem]] in action.
+Sensitivity and specificity are properties of the test (though they can vary between populations). PPV and NPV are not: they depend on **prevalence**, the base rate. The same test that is very reliable in a specialist clinic, where many patients have the disease, will produce mostly false positives in population screening, where few do. This is [Bayes' theorem](14-base-rates-and-bayes-theorem.md) in action.
 
 A paper reporting only "the test was 95% accurate" is not telling you enough. Accuracy, (TP + TN) ÷ everyone, can be high simply because most people do not have the condition: a "test" that calls everyone negative is 99% accurate for a disease with 1% prevalence.
 
@@ -46,7 +46,7 @@ Many tests produce a number (a blood level, a score) and a cut-off decides posit
 
 ## Screening has its own problems
 
-Screening healthy people is different from testing someone with symptoms, and its benefits are harder to show than they look. Three biases make screened patients look better off even if screening does nothing; they are covered in [[time-related-biases|time-related biases]]:
+Screening healthy people is different from testing someone with symptoms, and its benefits are harder to show than they look. Three biases make screened patients look better off even if screening does nothing; they are covered in [time-related biases](../04-causation/08-time-related-biases.md):
 
 - **Lead-time bias:** finding a disease earlier makes survival from diagnosis longer even if death occurs at the same time.
 - **Length bias:** screening preferentially finds slow-growing disease, which has a better prognosis anyway.
@@ -63,7 +63,7 @@ Questions to ask:
 - Were the people studied like those in whom the test will be used (**spectrum bias**)? Tests look better when comparing very sick patients with very healthy volunteers.
 - Were those interpreting the test blinded to the reference result?
 
-The reporting guideline for such studies is STARD; see [[reporting-checklists|reporting checklists]].
+The reporting guideline for such studies is STARD; see [reporting checklists](../05-anatomy-of-a-paper/12-reporting-checklists.md).
 
 ## Key ideas
 
@@ -75,5 +75,5 @@ The reporting guideline for such studies is STARD; see [[reporting-checklists|re
 
 ## Where this leads
 
-- Next: [[multiple-comparisons|Multiple comparisons]]
-- Related: [[time-related-biases|Time-related biases]]
+- Next: [Multiple comparisons](16-multiple-comparisons.md)
+- Related: [Time-related biases](../04-causation/08-time-related-biases.md)

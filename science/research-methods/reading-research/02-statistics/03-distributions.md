@@ -1,6 +1,6 @@
 # Distributions
 
-**Prerequisites:** [[probability|Probability]].
+**Prerequisites:** [Probability](02-probability.md).
 
 @@IMG@@
 
@@ -10,8 +10,8 @@ If you measured the height of every adult in Toronto and plotted how many people
 
 A **histogram** groups values into bins and draws a bar for how many fall in each. Looking at a histogram, ask:
 
-- **Centre:** where is the bulk of the data? (See [[mean-median-and-mode|mean, median and mode]].)
-- **Spread:** how widely are values scattered? (See [[variance-and-standard-deviation|variance and standard deviation]].)
+- **Centre:** where is the bulk of the data? (See [mean, median and mode](04-mean-median-and-mode.md).)
+- **Spread:** how widely are values scattered? (See [variance and standard deviation](05-variance-and-standard-deviation.md).)
 - **Shape:** is it symmetric, or does it have a long tail on one side (**skewed**)? Does it have one peak or two (**bimodal**)?
 - **Outliers:** are there isolated extreme values?
 
@@ -37,18 +37,18 @@ Many biological measurements, such as adult height within one sex, are roughly n
 
 The normal distribution matters far more than the number of naturally normal variables would suggest, because of the **central limit theorem**. It says, roughly, that if you take many random samples and compute the average of each, those averages will be approximately normally distributed, *whatever the shape of the original data*, provided the samples are large enough.
 
-This is the foundation for most confidence intervals and p-values. When a paper reports that the average blood pressure fell by 5 mmHg with a 95% confidence interval of 3 to 7, the calculation relies on the average being approximately normal, even if individual blood pressures are not. You will see how in [[samples-and-populations|samples and populations]].
+This is the foundation for most confidence intervals and p-values. When a paper reports that the average blood pressure fell by 5 mmHg with a 95% confidence interval of 3 to 7, the calculation relies on the average being approximately normal, even if individual blood pressures are not. You will see how in [samples and populations](06-samples-and-populations.md).
 
 ## Other distributions you will meet
 
 - **Binomial:** the number of "successes" in a fixed number of independent yes/no trials (for example, how many of 100 patients respond to a drug).
 - **Poisson:** counts of rare events in a fixed time or space (for example, cases of a rare disease per year in a city). Its key property is that the variance equals the mean.
 - **Log-normal:** a variable whose logarithm is normal; common for concentrations, costs and antibody levels. Papers often report **geometric means** for such data.
-- **Uniform:** every value equally likely. Under the null hypothesis, p-values are uniformly distributed between 0 and 1, a fact used to detect [[p-hacking|p-hacking]].
+- **Uniform:** every value equally likely. Under the null hypothesis, p-values are uniformly distributed between 0 and 1, a fact used to detect [p-hacking](../06-research-integrity/04-p-hacking.md).
 
 ## Distributions of results across studies
 
-The idea of a distribution applies to studies as well as people. If many studies estimate the same effect, their results form a distribution around the true value, wider for small studies and narrower for large ones. [[funnel-plots|Funnel plots]] use this idea to detect missing studies: if small studies with unfavourable results have gone unpublished, one side of the funnel will be empty.
+The idea of a distribution applies to studies as well as people. If many studies estimate the same effect, their results form a distribution around the true value, wider for small studies and narrower for large ones. [Funnel plots](../05-anatomy-of-a-paper/09-funnel-plots.md) use this idea to detect missing studies: if small studies with unfavourable results have gone unpublished, one side of the funnel will be empty.
 
 ## Key ideas
 
@@ -60,5 +60,5 @@ The idea of a distribution applies to studies as well as people. If many studies
 
 ## Where this leads
 
-- Next: [[mean-median-and-mode|Mean, median and mode]]
-- Later: [[samples-and-populations|Samples and populations]]
+- Next: [Mean, median and mode](04-mean-median-and-mode.md)
+- Later: [Samples and populations](06-samples-and-populations.md)

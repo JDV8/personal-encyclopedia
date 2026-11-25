@@ -1,6 +1,6 @@
 # P-hacking and researcher degrees of freedom
 
-**Prerequisites:** [[outcome-switching|Outcome switching]] and [[misreading-p-values|Misreading p-values]].
+**Prerequisites:** [Outcome switching](03-outcome-switching.md) and [Misreading p-values](../02-statistics/09-misreading-p-values.md).
 
 @@IMG@@
 
@@ -49,10 +49,10 @@ Andrew Gelman and Eric Loken pointed out in 2013 that p-hacking does not require
 
 For researchers:
 
-- [[preregistration|Preregistration]] and registered reports fix choices in advance.
+- [Preregistration](01-preregistration.md) and registered reports fix choices in advance.
 - **Multiverse** or **specification curve** analyses run all reasonable analyses and report the whole distribution of results, showing whether the conclusion depends on particular choices.
 - **Blind analysis**: analysts make choices on data with labels hidden.
-- **Sharing data and code** lets others check robustness ([[open-science|open science]]).
+- **Sharing data and code** lets others check robustness ([open science](09-open-science.md)).
 
 For readers, warning signs include:
 
@@ -77,4 +77,4 @@ P-hacking is a statistical problem more than a moral one. Many researchers train
 
 ## Where this leads
 
-- Next: [[harking|HARKing]]
+- Next: [HARKing](05-harking.md)

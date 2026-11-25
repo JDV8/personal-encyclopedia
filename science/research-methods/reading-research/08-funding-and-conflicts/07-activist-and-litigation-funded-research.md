@@ -1,6 +1,6 @@
 # Activist and litigation-funded research
 
-**Prerequisites:** [[non-financial-conflicts|Non-financial conflicts]] and [[how-funding-shapes-results|How funding shapes results]].
+**Prerequisites:** [Non-financial conflicts](06-non-financial-conflicts.md) and [How funding shapes results](03-how-funding-shapes-results.md).
 
 @@IMG@@
 
@@ -12,9 +12,9 @@ Lawsuits create demand for evidence. Plaintiffs' lawyers may fund or commission 
 
 ### The Wakefield case
 
-The most notorious example is the 1998 *Lancet* paper by Andrew Wakefield and colleagues describing 12 children with bowel symptoms and developmental regression, which suggested a possible link with the MMR vaccine ([[wakefield-1998|case study]]). Investigative journalist Brian Deer later reported that Wakefield had been paid through the UK Legal Aid Board via a solicitor preparing litigation against vaccine manufacturers, that some of the children were referred through that litigation, and that this was not disclosed to the journal. The UK General Medical Council found Wakefield guilty of serious professional misconduct and struck him off the medical register in 2010, and *The Lancet* fully retracted the paper that year. In 2011 the *BMJ* published Deer's reports and an editorial describing the paper as fraudulent.
+The most notorious example is the 1998 *Lancet* paper by Andrew Wakefield and colleagues describing 12 children with bowel symptoms and developmental regression, which suggested a possible link with the MMR vaccine ([case study](../10-case-studies/07-wakefield-1998.md)). Investigative journalist Brian Deer later reported that Wakefield had been paid through the UK Legal Aid Board via a solicitor preparing litigation against vaccine manufacturers, that some of the children were referred through that litigation, and that this was not disclosed to the journal. The UK General Medical Council found Wakefield guilty of serious professional misconduct and struck him off the medical register in 2010, and *The Lancet* fully retracted the paper that year. In 2011 the *BMJ* published Deer's reports and an editorial describing the paper as fraudulent.
 
-Litigation funding does not make research wrong. Expert evidence in litigation has also exposed real harms, and discovery in lawsuits has revealed hidden industry documents ([[tobacco-industry-research|tobacco]], [[vioxx|Vioxx]], [[paroxetine-study-329|Study 329]]). But it creates a strong interest in a particular finding, which should be disclosed and weighed.
+Litigation funding does not make research wrong. Expert evidence in litigation has also exposed real harms, and discovery in lawsuits has revealed hidden industry documents ([tobacco](../10-case-studies/01-tobacco-industry-research.md), [Vioxx](../10-case-studies/05-vioxx.md), [Study 329](../10-case-studies/06-paroxetine-study-329.md)). But it creates a strong interest in a particular finding, which should be disclosed and weighed.
 
 ```mermaid
 flowchart LR
@@ -41,7 +41,7 @@ Whatever one thinks of GMOs, the case shows that non-industry funders with a cau
 - **Competitors** may fund studies that highlight problems with a rival's product.
 - **Organic or "natural" product companies** may fund research critical of conventional products, which is also industry funding, just from a different industry.
 - **Short sellers** have funded investigations of companies whose stock they bet against; some exposed real fraud, others were contested.
-- **Government agencies** may fund evaluations of their own programmes ([[who-pays-for-research|who pays for research]]).
+- **Government agencies** may fund evaluations of their own programmes ([who pays for research](01-who-pays-for-research.md)).
 
 ## Disclosure of these interests
 
@@ -54,7 +54,7 @@ Many disclosure forms focus on payments from companies and may not clearly captu
 
 ## A balanced stance
 
-The framework from [[weighing-conflicts-without-ad-hominem|weighing conflicts]] applies equally here. A study funded by an advocacy group or law firm is neither automatically wrong nor automatically independent. Ask how the interest could have biased the question, design, analysis or reporting; whether the study was preregistered and transparent; and whether independent groups have replicated it.
+The framework from [weighing conflicts](05-weighing-conflicts-without-ad-hominem.md) applies equally here. A study funded by an advocacy group or law firm is neither automatically wrong nor automatically independent. Ask how the interest could have biased the question, design, analysis or reporting; whether the study was preregistered and transparent; and whether independent groups have replicated it.
 
 The point is not false balance. Industry funding is much larger in scale and has a well-documented track record of distorting evidence, documented in the Lundh review and the case studies. But "independent of industry" is not the same as "without interests".
 
@@ -68,4 +68,4 @@ The point is not false balance. Industry funding is much larger in scale and has
 
 ## Where this leads
 
-- Next section: [[sec:09-from-lab-to-headline|From lab to headline]]
+- Next section: [From lab to headline](../09-from-lab-to-headline/README.md)

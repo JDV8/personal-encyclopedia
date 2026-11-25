@@ -1,6 +1,6 @@
 # Title and abstract
 
-**Prerequisites:** [[the-shape-of-a-paper|The shape of a paper]].
+**Prerequisites:** [The shape of a paper](01-the-shape-of-a-paper.md).
 
 @@IMG@@
 
@@ -70,5 +70,5 @@ The last sentence of the abstract is what gets quoted. Compare it with the desig
 
 ## Where this leads
 
-- Next: [[introduction-and-background|Introduction and background]]
-- Related: [[discussion-limitations-and-spin|Discussion, limitations and spin]]
+- Next: [Introduction and background](03-introduction-and-background.md)
+- Related: [Discussion, limitations and spin](10-discussion-limitations-and-spin.md)

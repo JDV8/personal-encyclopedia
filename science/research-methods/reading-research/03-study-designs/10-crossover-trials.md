@@ -1,6 +1,6 @@
 # Crossover trials
 
-**Prerequisites:** [[intention-to-treat-and-per-protocol|Intention to treat and per-protocol analysis]].
+**Prerequisites:** [Intention to treat and per-protocol analysis](09-intention-to-treat-and-per-protocol.md).
 
 @@IMG@@
 
@@ -28,7 +28,7 @@ flowchart LR
 
 ## Why it is efficient
 
-People vary enormously. In a parallel trial, that between-person variation adds noise to the comparison. In a crossover trial, differences between people cancel out, because each is compared with themselves. The result is that crossover trials can often reach the same [[statistical-power|power]] with far fewer participants, sometimes a fraction of the number.
+People vary enormously. In a parallel trial, that between-person variation adds noise to the comparison. In a crossover trial, differences between people cancel out, because each is compared with themselves. The result is that crossover trials can often reach the same [power](../02-statistics/10-statistical-power.md) with far fewer participants, sometimes a fraction of the number.
 
 ## When crossover designs suit
 
@@ -85,4 +85,4 @@ An extreme version is the **n-of-1 trial**, a crossover experiment in a single p
 
 ## Where this leads
 
-- Next: [[self-controlled-case-series|The self-controlled case series]], which applies the "own control" idea to observational data
+- Next: [The self-controlled case series](11-self-controlled-case-series.md), which applies the "own control" idea to observational data

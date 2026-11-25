@@ -1,6 +1,6 @@
 # Non-financial conflicts
 
-**Prerequisites:** [[weighing-conflicts-without-ad-hominem|Weighing conflicts without ad hominem]].
+**Prerequisites:** [Weighing conflicts without ad hominem](05-weighing-conflicts-without-ad-hominem.md).
 
 @@IMG@@
 
@@ -9,7 +9,7 @@ Money is the easiest conflict to see and disclose, but it is not the only one. R
 ## Kinds of non-financial interest
 
 - **Intellectual commitment.** Scientists who have built careers on a theory have an interest in its being right. Max Planck's remark, often paraphrased as "science advances one funeral at a time", reflects the observation that established researchers rarely abandon their own theories.
-- **Career incentives.** Hiring, promotion and grants reward publications, especially novel, positive results in prestigious journals. That creates pressure toward [[p-hacking|p-hacking]], [[harking|HARKing]] and overstated conclusions ([[the-replication-crisis|the replication crisis]]).
+- **Career incentives.** Hiring, promotion and grants reward publications, especially novel, positive results in prestigious journals. That creates pressure toward [p-hacking](../06-research-integrity/04-p-hacking.md), [HARKing](../06-research-integrity/05-harking.md) and overstated conclusions ([the replication crisis](../06-research-integrity/07-the-replication-crisis.md)).
 - **Reputation.** A researcher whose finding is challenged may defend it beyond what the evidence supports. Institutions may defend their staff and their brand.
 - **Personal relationships.** Peer reviewers and editors may favour friends or students and disfavour rivals.
 - **Ideology, politics and religion.** Beliefs about how society should be organised can affect which questions are asked and how results are interpreted, in nutrition, environmental science, social science, drug policy and many other areas.
@@ -51,13 +51,13 @@ The current ICMJE form asks about some non-financial relationships, including le
 
 ## Effects on peer review
 
-Non-financial conflicts are particularly important in [[peer-review|peer review]]. Reviewers may be competitors working on the same question, or authors of the theory a paper challenges. A classic 1977 experiment by Michael Mahoney in *Cognitive Therapy and Research* sent reviewers manuscripts with identical methods but results that either supported or contradicted the reviewers' presumed theoretical views; manuscripts with confirming results were rated more favourably. The study was small, but it illustrates **confirmation bias** in review.
+Non-financial conflicts are particularly important in [peer review](../07-publishing/02-peer-review.md). Reviewers may be competitors working on the same question, or authors of the theory a paper challenges. A classic 1977 experiment by Michael Mahoney in *Cognitive Therapy and Research* sent reviewers manuscripts with identical methods but results that either supported or contradicted the reviewers' presumed theoretical views; manuscripts with confirming results were rated more favourably. The study was small, but it illustrates **confirmation bias** in review.
 
 ## Protection against non-financial bias
 
 The same tools that protect against financial bias also protect against non-financial bias:
 
-- [[preregistration|Preregistration]] fixes hypotheses and analyses before the data are seen.
+- [Preregistration](../06-research-integrity/01-preregistration.md) fixes hypotheses and analyses before the data are seen.
 - **Blinded analysis** prevents analysts from steering results toward a preferred answer.
 - **Adversarial collaboration**: rivals agree on a design in advance, so neither can dismiss the result (an approach championed by Daniel Kahneman).
 - **Open data** lets others check the analysis.
@@ -77,4 +77,4 @@ Ask about an author's stake in the result, not just their funding: Is this their
 
 ## Where this leads
 
-- Next: [[activist-and-litigation-funded-research|Activist and litigation-funded research]]
+- Next: [Activist and litigation-funded research](07-activist-and-litigation-funded-research.md)

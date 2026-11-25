@@ -1,6 +1,6 @@
 # Surrogate endpoints
 
-**Prerequisites:** [[randomised-controlled-trials|Randomised controlled trials]] and [[correlation-and-causation|Correlation and causation]].
+**Prerequisites:** [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md) and [Correlation and causation](../04-causation/01-correlation-and-causation.md).
 
 @@IMG@@
 
@@ -35,7 +35,7 @@ flowchart LR
 
 ### Antiarrhythmic drugs (CAST)
 
-After a heart attack, patients with frequent irregular heartbeats (premature ventricular contractions) had a higher risk of sudden death. Drugs such as encainide and flecainide suppressed these beats, so it seemed obvious they would save lives. The **Cardiac Arrhythmia Suppression Trial** tested this. Its preliminary report in the *New England Journal of Medicine* in 1989 showed that the drugs **increased** mortality: 56 of 730 patients (7.7%) on encainide or flecainide died, compared with 22 of 725 (3.0%) on placebo ([[the-cardiac-arrhythmia-suppression-trial|CAST case study]]). The surrogate improved; patients died.
+After a heart attack, patients with frequent irregular heartbeats (premature ventricular contractions) had a higher risk of sudden death. Drugs such as encainide and flecainide suppressed these beats, so it seemed obvious they would save lives. The **Cardiac Arrhythmia Suppression Trial** tested this. Its preliminary report in the *New England Journal of Medicine* in 1989 showed that the drugs **increased** mortality: 56 of 730 patients (7.7%) on encainide or flecainide died, compared with 22 of 725 (3.0%) on placebo ([CAST case study](../10-case-studies/03-the-cardiac-arrhythmia-suppression-trial.md)). The surrogate improved; patients died.
 
 ### Raising HDL cholesterol
 
@@ -78,4 +78,4 @@ Even a validated surrogate may not transfer to a new drug class with different m
 
 ## Where this leads
 
-- Next: [[animal-and-in-vitro-studies|Animal and in vitro studies]]
+- Next: [Animal and in vitro studies](03-animal-and-in-vitro-studies.md)

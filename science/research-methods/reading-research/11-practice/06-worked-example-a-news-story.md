@@ -1,6 +1,6 @@
 # Worked example: a news story (chocolate and Nobel prizes)
 
-**Prerequisites:** [[a-step-by-step-checklist|A step-by-step checklist]], [[ecological-studies|Ecological studies]] and [[press-releases-and-science-journalism|Press releases and science journalism]].
+**Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Ecological studies](../03-study-designs/03-ecological-studies.md) and [Press releases and science journalism](../09-from-lab-to-headline/01-press-releases-and-science-journalism.md).
 
 @@IMG@@
 
@@ -22,7 +22,7 @@ A real article in a top journal, but in an informal section, not a research repo
 
 ## 3. The design
 
-An **ecological study**: it compares countries, not people ([[ecological-studies|ecological studies]]). It cannot tell us whether the people who eat more chocolate are the ones who win Nobel prizes. Drawing individual conclusions from group data is the **ecological fallacy**.
+An **ecological study**: it compares countries, not people ([ecological studies](../03-study-designs/03-ecological-studies.md)). It cannot tell us whether the people who eat more chocolate are the ones who win Nobel prizes. Drawing individual conclusions from group data is the **ecological fallacy**.
 
 ```mermaid
 flowchart TB
@@ -43,11 +43,11 @@ Nobel laureates per capita is a very indirect proxy for "cognitive function" of 
 
 ## 6. The results
 
-A correlation of 0.79 is strong, but strength is not causation ([[correlation-and-causation|correlation and causation]]).
+A correlation of 0.79 is strong, but strength is not causation ([correlation and causation](../04-causation/01-correlation-and-causation.md)).
 
 ## 7. Bias and causation
 
-The obvious explanation is **confounding** ([[confounding|confounding]]): wealthy European countries tend both to consume a lot of chocolate and to invest heavily in research and education. Many other variables correlate with Nobel prizes for similar reasons. In a 2013 paper in *The Journal of Nutrition*, Pierre Maurage, Alexandre Heeren and Mauro Pesenti pointed out that per capita numbers of IKEA stores also correlated with Nobel laureates, and argued that the chocolate correlation illustrated the danger of over-interpreting correlations. **Reverse causation** is also conceivable: rich, successful countries can afford more chocolate.
+The obvious explanation is **confounding** ([confounding](../04-causation/02-confounding.md)): wealthy European countries tend both to consume a lot of chocolate and to invest heavily in research and education. Many other variables correlate with Nobel prizes for similar reasons. In a 2013 paper in *The Journal of Nutrition*, Pierre Maurage, Alexandre Heeren and Mauro Pesenti pointed out that per capita numbers of IKEA stores also correlated with Nobel laureates, and argued that the chocolate correlation illustrated the danger of over-interpreting correlations. **Reverse causation** is also conceivable: rich, successful countries can afford more chocolate.
 
 ## 8. Integrity and transparency
 
@@ -83,4 +83,4 @@ An amusing illustration of ecological correlation and confounding, published in 
 
 ## Where this leads
 
-- Next: [[worked-example-a-case-control-study|Worked example: a case-control study]]
+- Next: [Worked example: a case-control study](07-worked-example-a-case-control-study.md)

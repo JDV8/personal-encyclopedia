@@ -1,6 +1,6 @@
 # Press releases and science journalism
 
-**Prerequisites:** [[discussion-limitations-and-spin|Discussion, limitations and spin]] and [[correlation-and-causation|Correlation and causation]].
+**Prerequisites:** [Discussion, limitations and spin](../05-anatomy-of-a-paper/10-discussion-limitations-and-spin.md) and [Correlation and causation](../04-causation/01-correlation-and-causation.md).
 
 @@IMG@@
 
@@ -32,18 +32,18 @@ When a press release exaggerated, news stories were much more likely to exaggera
 
 ## Common distortions
 
-- **Correlation reported as causation.** "Coffee drinkers live longer" becomes "Coffee helps you live longer" ([[correlation-and-causation|correlation and causation]]).
-- **Animal and lab results reported as human results.** "Compound kills cancer cells" may describe a petri dish ([[animal-and-in-vitro-studies|animal and in vitro studies]]).
-- **Relative risks without absolute risks.** "Doubles your risk" may mean from 1 in 10,000 to 2 in 10,000 ([[relative-and-absolute-risk|relative and absolute risk]]).
-- **Surrogate outcomes reported as health outcomes.** "Lowers cholesterol" is not the same as "prevents heart attacks" ([[surrogate-endpoints|surrogate endpoints]]).
-- **Single studies treated as definitive** ([[single-studies-and-the-weight-of-evidence|single studies]]).
-- **Conference abstracts and preprints** reported without noting that they have not been peer reviewed ([[preprints|preprints]]).
-- **False balance**: presenting a fringe view as equal to a strong consensus ([[consensus-dissent-and-experts|consensus and dissent]]).
+- **Correlation reported as causation.** "Coffee drinkers live longer" becomes "Coffee helps you live longer" ([correlation and causation](../04-causation/01-correlation-and-causation.md)).
+- **Animal and lab results reported as human results.** "Compound kills cancer cells" may describe a petri dish ([animal and in vitro studies](03-animal-and-in-vitro-studies.md)).
+- **Relative risks without absolute risks.** "Doubles your risk" may mean from 1 in 10,000 to 2 in 10,000 ([relative and absolute risk](../02-statistics/12-relative-and-absolute-risk.md)).
+- **Surrogate outcomes reported as health outcomes.** "Lowers cholesterol" is not the same as "prevents heart attacks" ([surrogate endpoints](02-surrogate-endpoints.md)).
+- **Single studies treated as definitive** ([single studies](06-single-studies-and-the-weight-of-evidence.md)).
+- **Conference abstracts and preprints** reported without noting that they have not been peer reviewed ([preprints](../07-publishing/04-preprints.md)).
+- **False balance**: presenting a fringe view as equal to a strong consensus ([consensus and dissent](05-consensus-dissent-and-experts.md)).
 - **Missing context**: no mention of funding, sample size, or how the result fits with other studies.
 
 ## A demonstration: the chocolate hoax
 
-In 2015 journalist John Bohannon, working with a German television documentary team, ran a real but deliberately weak study: a small trial (15 participants in the analysis) of a low-carbohydrate diet with or without a daily chocolate bar, measuring 18 outcomes. With so many outcomes and so few people, something was likely to be "significant" by chance ([[multiple-comparisons|multiple comparisons]]); weight loss happened to be. The result was published in a journal that accepted it without meaningful review, and promoted with a press release. Numerous news outlets in several countries reported that chocolate helps weight loss. Bohannon then revealed the hoax on io9 in May 2015 to show how easily weak research becomes news. Some criticised the ethics of the stunt, but it illustrated many of the failure points in this course.
+In 2015 journalist John Bohannon, working with a German television documentary team, ran a real but deliberately weak study: a small trial (15 participants in the analysis) of a low-carbohydrate diet with or without a daily chocolate bar, measuring 18 outcomes. With so many outcomes and so few people, something was likely to be "significant" by chance ([multiple comparisons](../02-statistics/16-multiple-comparisons.md)); weight loss happened to be. The result was published in a journal that accepted it without meaningful review, and promoted with a press release. Numerous news outlets in several countries reported that chocolate helps weight loss. Bohannon then revealed the hoax on io9 in May 2015 to show how easily weak research becomes news. Some criticised the ethics of the stunt, but it illustrated many of the failure points in this course.
 
 ## What good science journalism looks like
 
@@ -66,7 +66,7 @@ Organisations such as the UK **Science Media Centre** (founded 2002) gather rapi
 4. Look for absolute numbers.
 5. Check whether it was in humans.
 6. Look for independent comment.
-7. See [[worked-example-a-news-story|the worked news-story example]] for a full walk-through.
+7. See [the worked news-story example](../11-practice/06-worked-example-a-news-story.md) for a full walk-through.
 
 ## Key ideas
 
@@ -78,4 +78,4 @@ Organisations such as the UK **Science Media Centre** (founded 2002) gather rapi
 
 ## Where this leads
 
-- Next: [[surrogate-endpoints|Surrogate endpoints]]
+- Next: [Surrogate endpoints](02-surrogate-endpoints.md)

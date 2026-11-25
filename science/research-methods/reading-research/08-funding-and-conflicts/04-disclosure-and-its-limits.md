@@ -1,6 +1,6 @@
 # Disclosure and its limits
 
-**Prerequisites:** [[how-funding-shapes-results|How funding shapes results]].
+**Prerequisites:** [How funding shapes results](03-how-funding-shapes-results.md).
 
 @@IMG@@
 
@@ -8,13 +8,13 @@ The main way science handles conflicts of interest is **disclosure**: authors de
 
 ## How disclosure became standard
 
-Medical journals began requiring financial disclosure in the 1980s; the *New England Journal of Medicine* introduced a policy in 1984. The ICMJE developed a uniform disclosure form, revised several times ([[what-a-conflict-of-interest-is|what a conflict of interest is]]). Guideline bodies, regulators' advisory committees and universities have their own disclosure rules. In the United States, the Physician Payments Sunshine Act required public reporting of industry payments to physicians, published through the **Open Payments** database from 2014.
+Medical journals began requiring financial disclosure in the 1980s; the *New England Journal of Medicine* introduced a policy in 1984. The ICMJE developed a uniform disclosure form, revised several times ([what a conflict of interest is](02-what-a-conflict-of-interest-is.md)). Guideline bodies, regulators' advisory committees and universities have their own disclosure rules. In the United States, the Physician Payments Sunshine Act required public reporting of industry payments to physicians, published through the **Open Payments** database from 2014.
 
 ## Incomplete disclosure
 
 Disclosures are often incomplete. Studies comparing authors' declared conflicts with public payment databases have repeatedly found undisclosed payments. For example, studies of clinical practice guideline authors and of authors of journal articles have found that a substantial share received industry payments listed in Open Payments that they did not disclose. Reasons include different interpretations of "relevant", forgetfulness and, occasionally, deliberate concealment.
 
-Some of the most serious historical conflicts were not disclosed at all. The 1967 *New England Journal of Medicine* review on dietary fats, sugar and heart disease by Robert McGandy, D. Mark Hegsted and Fredrick Stare did not disclose that the Sugar Research Foundation had funded it, set its objective and seen drafts ([[sugar-research-foundation|sugar case study]]). Disclosure requirements were not then standard.
+Some of the most serious historical conflicts were not disclosed at all. The 1967 *New England Journal of Medicine* review on dietary fats, sugar and heart disease by Robert McGandy, D. Mark Hegsted and Fredrick Stare did not disclose that the Sugar Research Foundation had funded it, set its objective and seen drafts ([sugar case study](../10-case-studies/02-sugar-research-foundation.md)). Disclosure requirements were not then standard.
 
 ```mermaid
 flowchart TB
@@ -45,7 +45,7 @@ Because disclosure is not enough, institutions use other tools:
 - **Data access**: requiring that academic authors have full access to the data and final say over publication, a condition many journals require authors to confirm.
 - **Recusal**: excluding conflicted people from guideline panels, advisory committees or peer review on relevant topics. The Institute of Medicine's 2011 standards for trustworthy clinical practice guidelines recommended that most panel members, and the chair, be free of conflicts.
 - **Limits on payments** and bans on gifts in some institutions.
-- **Registration and data sharing**, which reduce the scope for selective reporting regardless of who funds the study ([[open-science|open science]]).
+- **Registration and data sharing**, which reduce the scope for selective reporting regardless of who funds the study ([open science](../06-research-integrity/09-open-science.md)).
 
 ## For readers
 
@@ -64,4 +64,4 @@ Because disclosure is not enough, institutions use other tools:
 
 ## Where this leads
 
-- Next: [[weighing-conflicts-without-ad-hominem|Weighing conflicts without ad hominem]]
+- Next: [Weighing conflicts without ad hominem](05-weighing-conflicts-without-ad-hominem.md)

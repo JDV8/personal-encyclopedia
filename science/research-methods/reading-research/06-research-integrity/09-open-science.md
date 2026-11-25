@@ -1,10 +1,10 @@
 # Open science
 
-**Prerequisites:** [[fraud-and-misconduct|Fraud and misconduct]] and [[preregistration|Preregistration]].
+**Prerequisites:** [Fraud and misconduct](08-fraud-and-misconduct.md) and [Preregistration](01-preregistration.md).
 
 @@IMG@@
 
-**Open science** is a broad movement to make research more transparent, accessible and checkable. It grew partly in response to the problems in this section: publication bias, flexible analysis, irreproducible results and occasional fraud. Its central idea goes back to Merton's norm of "communism", the common ownership of scientific knowledge ([[norms-of-science|the norms of science]]): if others can see your materials, data and code, they can find your mistakes.
+**Open science** is a broad movement to make research more transparent, accessible and checkable. It grew partly in response to the problems in this section: publication bias, flexible analysis, irreproducible results and occasional fraud. Its central idea goes back to Merton's norm of "communism", the common ownership of scientific knowledge ([the norms of science](../01-foundations/04-norms-of-science.md)): if others can see your materials, data and code, they can find your mistakes.
 
 ## The main components
 
@@ -12,9 +12,9 @@
 - **Open data**: the underlying data deposited in public repositories where possible, with appropriate privacy protections for human participants.
 - **Open code**: the analysis scripts that produced the results.
 - **Open materials**: questionnaires, protocols, stimuli and lab procedures.
-- **Preregistration** and **registered reports** ([[preregistration|preregistration]]).
-- **Preprints**: sharing papers before peer review ([[preprints|preprints]]).
-- **Open peer review**: publishing reviewers' reports, sometimes with names ([[peer-review|peer review]]).
+- **Preregistration** and **registered reports** ([preregistration](01-preregistration.md)).
+- **Preprints**: sharing papers before peer review ([preprints](../07-publishing/04-preprints.md)).
+- **Open peer review**: publishing reviewers' reports, sometimes with names ([peer review](../07-publishing/02-peer-review.md)).
 
 ```mermaid
 flowchart TB
@@ -48,21 +48,21 @@ Journals, funders and institutions have adopted policies such as:
 
 ## The Center for Open Science and the Open Science Framework
 
-The **Center for Open Science**, founded in 2013 by Brian Nosek and Jeffrey Spies in Charlottesville, Virginia, runs the **Open Science Framework (OSF)**, a free platform for registering studies and sharing data, code and materials. It coordinated the Reproducibility Project: Psychology and the Reproducibility Project: Cancer Biology ([[the-replication-crisis|replication crisis]]).
+The **Center for Open Science**, founded in 2013 by Brian Nosek and Jeffrey Spies in Charlottesville, Virginia, runs the **Open Science Framework (OSF)**, a free platform for registering studies and sharing data, code and materials. It coordinated the Reproducibility Project: Psychology and the Reproducibility Project: Cancer Biology ([replication crisis](07-the-replication-crisis.md)).
 
 ## Limits and tensions
 
 - **Privacy**: health data cannot always be shared openly. Controlled-access repositories and data-use agreements are compromises.
-- **Commercial confidentiality**: companies resist sharing trial data, though regulators have pushed for more ([[supplementary-material-and-data|supplementary material and data]]).
+- **Commercial confidentiality**: companies resist sharing trial data, though regulators have pushed for more ([supplementary material and data](../05-anatomy-of-a-paper/11-supplementary-material-and-data.md)).
 - **Cost and effort**: preparing data for sharing takes time that researchers are not always rewarded for.
-- **Open access fees**: many open access journals charge authors **article processing charges**, which can be thousands of dollars, shifting costs and creating incentives exploited by [[predatory-journals|predatory journals]].
+- **Open access fees**: many open access journals charge authors **article processing charges**, which can be thousands of dollars, shifting costs and creating incentives exploited by [predatory journals](../07-publishing/05-predatory-journals.md).
 - **Misuse**: open data can be reanalysed carelessly or selectively, by any side of a debate. Transparency helps only if reanalyses are themselves transparent.
 
 ## For readers
 
 - Prefer studies with **open data and code** or preregistration.
 - Check for **data availability statements** and whether data are actually deposited.
-- Use open access versions of papers legally ([[finding-and-accessing-papers|finding and accessing papers]]).
+- Use open access versions of papers legally ([finding and accessing papers](../11-practice/01-finding-and-accessing-papers.md)).
 - Treat reanalyses with the same scrutiny as original studies.
 
 ## Key ideas
@@ -75,4 +75,4 @@ The **Center for Open Science**, founded in 2013 by Brian Nosek and Jeffrey Spie
 
 ## Where this leads
 
-- Next section: [[sec:07-publishing|Peer review and publishing]], starting with [[how-journals-work|how journals work]]
+- Next section: [Peer review and publishing](../07-publishing/README.md), starting with [how journals work](../07-publishing/01-how-journals-work.md)

@@ -1,6 +1,6 @@
 # Trial registries
 
-**Prerequisites:** [[preregistration|Preregistration]].
+**Prerequisites:** [Preregistration](01-preregistration.md).
 
 @@IMG@@
 
@@ -45,7 +45,7 @@ flowchart TB
 1. **Find the registration number** in the paper's abstract or methods, then look it up.
 2. **Check the registration date** against the trial start date. Registration after enrolment began ("retrospective registration") weakens its value.
 3. **Use the history of changes** to see what the primary outcome was at the start. Changes made after the trial was underway, especially near its end, are a warning sign.
-4. **Compare outcomes** with the paper: same primary outcome? Same time point? Any registered outcomes missing from the paper? ([[outcome-switching|outcome switching]])
+4. **Compare outcomes** with the paper: same primary outcome? Same time point? Any registered outcomes missing from the paper? ([outcome switching](03-outcome-switching.md))
 5. **Check posted results** if available, and compare them with the publication.
 6. **Search for unpublished trials** of the same intervention. Many completed trials never appear in journals.
 
@@ -63,4 +63,4 @@ Registration and results reporting are far from universal. Ben Goldacre and coll
 
 ## Where this leads
 
-- Next: [[outcome-switching|Outcome switching]]
+- Next: [Outcome switching](03-outcome-switching.md)

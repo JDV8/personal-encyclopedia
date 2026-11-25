@@ -1,6 +1,6 @@
 # Case study: the Sugar Research Foundation
 
-**Prerequisites:** [[tobacco-industry-research|Tobacco industry research]] and [[disclosure-and-its-limits|Disclosure and its limits]].
+**Prerequisites:** [Tobacco industry research](01-tobacco-industry-research.md) and [Disclosure and its limits](../08-funding-and-conflicts/04-disclosure-and-its-limits.md).
 
 @@IMG@@
 
@@ -34,16 +34,16 @@ Several points were raised in response:
 
 - The documents did not show that the SRF wrote the review or dictated its conclusions; the authors were respected researchers who may have sincerely believed fat was the bigger risk.
 - The relative roles of fat and sugar in heart disease were genuinely uncertain at the time, and the review was one of many influences on dietary advice.
-- Kearns, Schmidt and Glantz have themselves long campaigned against sugar and tobacco industry influence; the paper should be judged on its documents, as the [[weighing-conflicts-without-ad-hominem|weighing conflicts]] lesson suggests.
+- Kearns, Schmidt and Glantz have themselves long campaigned against sugar and tobacco industry influence; the paper should be judged on its documents, as the [weighing conflicts](../08-funding-and-conflicts/05-weighing-conflicts-without-ad-hominem.md) lesson suggests.
 - An accompanying *JAMA Internal Medicine* commentary by Marion Nestle supported the paper's broad conclusions, while others argued the case had been simplified into "sugar industry blamed fat" headlines.
 
 What the documents do clearly show is that the review's funding and the funder's involvement were hidden from readers, which would be unacceptable today.
 
 ## Later developments
 
-The pattern of food industry funding has continued in other forms. In 2015 *The New York Times* reported that Coca-Cola had funded the Global Energy Balance Network, a group of researchers who emphasised physical activity over diet in obesity; the network disbanded later that year. Bes-Rastrollo and colleagues found that systematic reviews with food-industry conflicts were much more likely to conclude there was insufficient evidence linking sugary drinks to weight gain ([[how-funding-shapes-results|how funding shapes results]]).
+The pattern of food industry funding has continued in other forms. In 2015 *The New York Times* reported that Coca-Cola had funded the Global Energy Balance Network, a group of researchers who emphasised physical activity over diet in obesity; the network disbanded later that year. Bes-Rastrollo and colleagues found that systematic reviews with food-industry conflicts were much more likely to conclude there was insufficient evidence linking sugary drinks to weight gain ([how funding shapes results](../08-funding-and-conflicts/03-how-funding-shapes-results.md)).
 
-On the other hand, Cope and Allison's concept of [[non-financial-conflicts|white hat bias]] was illustrated partly using research on sugary drinks, where they argued that evidence of harm was sometimes overstated. The current scientific consensus, reflected for example in World Health Organization guidance on free sugars (2015), is that high intake of free sugars is harmful, while the debate about the relative roles of different nutrients continues.
+On the other hand, Cope and Allison's concept of [white hat bias](../08-funding-and-conflicts/06-non-financial-conflicts.md) was illustrated partly using research on sugary drinks, where they argued that evidence of harm was sometimes overstated. The current scientific consensus, reflected for example in World Health Organization guidance on free sugars (2015), is that high intake of free sugars is harmful, while the debate about the relative roles of different nutrients continues.
 
 ## Lessons for readers
 
@@ -62,4 +62,4 @@ On the other hand, Cope and Allison's concept of [[non-financial-conflicts|white
 
 ## Where this leads
 
-- Next: [[the-cardiac-arrhythmia-suppression-trial|The Cardiac Arrhythmia Suppression Trial]]
+- Next: [The Cardiac Arrhythmia Suppression Trial](03-the-cardiac-arrhythmia-suppression-trial.md)

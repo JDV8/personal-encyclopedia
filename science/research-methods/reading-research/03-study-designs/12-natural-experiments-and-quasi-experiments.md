@@ -1,6 +1,6 @@
 # Natural experiments and quasi-experiments
 
-**Prerequisites:** [[self-controlled-case-series|The self-controlled case series]] and [[confounding|Confounding]] (helpful but not essential).
+**Prerequisites:** [The self-controlled case series](11-self-controlled-case-series.md) and [Confounding](../04-causation/02-confounding.md) (helpful but not essential).
 
 @@IMG@@
 
@@ -62,5 +62,5 @@ Natural experiments can provide much stronger causal evidence than ordinary asso
 
 ## Where this leads
 
-- Next: [[passive-surveillance-and-pharmacovigilance|Passive surveillance and pharmacovigilance]]
-- Related: [[causal-diagrams|Causal diagrams]]
+- Next: [Passive surveillance and pharmacovigilance](13-passive-surveillance-and-pharmacovigilance.md)
+- Related: [Causal diagrams](../04-causation/10-causal-diagrams.md)

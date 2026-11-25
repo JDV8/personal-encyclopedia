@@ -1,6 +1,6 @@
 # Blinding, placebos and allocation concealment
 
-**Prerequisites:** [[randomised-controlled-trials|Randomised controlled trials]].
+**Prerequisites:** [Randomised controlled trials](07-randomised-controlled-trials.md).
 
 @@IMG@@
 
@@ -46,7 +46,7 @@ Blinding can fail. Side effects can reveal who is on an active drug; a placebo m
 
 ## Placebos
 
-A **placebo** is an inactive intervention designed to be indistinguishable from the active one: a sugar pill, a saline injection, a sham procedure. It lets the trial separate the specific effect of the treatment from everything else that happens to participants: natural recovery, [[regression-to-the-mean|regression to the mean]], extra attention, and expectation effects.
+A **placebo** is an inactive intervention designed to be indistinguishable from the active one: a sugar pill, a saline injection, a sham procedure. It lets the trial separate the specific effect of the treatment from everything else that happens to participants: natural recovery, [regression to the mean](../02-statistics/17-regression-to-the-mean.md), extra attention, and expectation effects.
 
 **Sham surgery** trials have overturned several procedures. For example, a 2002 trial by J. Bruce Moseley and colleagues in the *New England Journal of Medicine* compared arthroscopic knee surgery for osteoarthritis with a sham procedure involving skin incisions only, and found no better outcomes with the real surgery.
 
@@ -70,5 +70,5 @@ The improvement seen in placebo groups is often called the placebo effect, but m
 
 ## Where this leads
 
-- Next: [[intention-to-treat-and-per-protocol|Intention to treat and per-protocol analysis]]
-- Related: [[reporting-checklists|CONSORT]] for how trials should report these details
+- Next: [Intention to treat and per-protocol analysis](09-intention-to-treat-and-per-protocol.md)
+- Related: [CONSORT](../05-anatomy-of-a-paper/12-reporting-checklists.md) for how trials should report these details

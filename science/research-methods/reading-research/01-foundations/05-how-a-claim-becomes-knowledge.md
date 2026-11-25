@@ -1,6 +1,6 @@
 # How a claim becomes knowledge
 
-**Prerequisites:** [[norms-of-science|The norms of science]].
+**Prerequisites:** [The norms of science](04-norms-of-science.md).
 
 @@IMG@@
 
@@ -11,13 +11,13 @@ A new medical claim usually travels a long road between a researcher's hunch and
 Take a new drug as an example. The stages are roughly:
 
 1. **Idea and mechanism.** Laboratory work identifies a molecule that blocks some biological process thought to matter in a disease.
-2. **In-vitro and animal studies.** The molecule is tested in cells and then in animals. Most candidates fail here. See [[animal-and-in-vitro-studies|animal and in-vitro studies]].
+2. **In-vitro and animal studies.** The molecule is tested in cells and then in animals. Most candidates fail here. See [animal and in-vitro studies](../09-from-lab-to-headline/03-animal-and-in-vitro-studies.md).
 3. **Phase 1 trials.** Small studies, often in healthy volunteers, test safety and dosing.
-4. **Phase 2 trials.** Moderate studies in patients look for signs of benefit and refine the dose, often using [[surrogate-endpoints|surrogate endpoints]] such as a lab value.
-5. **Phase 3 trials.** Large [[randomised-controlled-trials|randomised controlled trials]] test whether the drug improves outcomes that matter to patients, compared with placebo or standard treatment.
+4. **Phase 2 trials.** Moderate studies in patients look for signs of benefit and refine the dose, often using [surrogate endpoints](../09-from-lab-to-headline/02-surrogate-endpoints.md) such as a lab value.
+5. **Phase 3 trials.** Large [randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md) test whether the drug improves outcomes that matter to patients, compared with placebo or standard treatment.
 6. **Regulatory review.** Agencies such as Health Canada, the US Food and Drug Administration (FDA) and the European Medicines Agency weigh the evidence and decide whether to approve.
-7. **Post-marketing surveillance.** Once millions of people use the drug, rare harms can surface that trials were too small to detect. See [[passive-surveillance-and-pharmacovigilance|surveillance and pharmacovigilance]].
-8. **Synthesis.** [[systematic-reviews|Systematic reviews]] and [[meta-analysis|meta-analyses]] pool all the trials, and guideline panels turn the pooled evidence into recommendations.
+7. **Post-marketing surveillance.** Once millions of people use the drug, rare harms can surface that trials were too small to detect. See [surveillance and pharmacovigilance](../03-study-designs/13-passive-surveillance-and-pharmacovigilance.md).
+8. **Synthesis.** [Systematic reviews](../03-study-designs/14-systematic-reviews.md) and [meta-analyses](../03-study-designs/15-meta-analysis.md) pool all the trials, and guideline panels turn the pooled evidence into recommendations.
 
 ```mermaid
 flowchart LR
@@ -40,13 +40,13 @@ The practical lesson is that the *stage* of a finding is itself evidence. A news
 
 ## Single studies versus bodies of evidence
 
-A single study, however good, is one draw from a noisy process. Its result can be inflated by chance, by flexible analysis, or by the fact that surprising results are more likely to be published ([[publication-bias|publication bias]]). In 2005 John Ioannidis examined highly cited clinical research in *JAMA* and found that of 45 highly cited studies claiming an intervention was effective, 7 were later contradicted and another 7 had found effects stronger than later studies did; 20 were replicated. Contradictions were more common for non-randomised studies and small trials.
+A single study, however good, is one draw from a noisy process. Its result can be inflated by chance, by flexible analysis, or by the fact that surprising results are more likely to be published ([publication bias](../06-research-integrity/06-publication-bias.md)). In 2005 John Ioannidis examined highly cited clinical research in *JAMA* and found that of 45 highly cited studies claiming an intervention was effective, 7 were later contradicted and another 7 had found effects stronger than later studies did; 20 were replicated. Contradictions were more common for non-randomised studies and small trials.
 
-This is why careful readers look for **convergence**: different research groups, different methods, different populations, all pointing the same way. The lesson on [[single-studies-and-the-weight-of-evidence|single studies and the weight of evidence]] develops this.
+This is why careful readers look for **convergence**: different research groups, different methods, different populations, all pointing the same way. The lesson on [single studies and the weight of evidence](../09-from-lab-to-headline/06-single-studies-and-the-weight-of-evidence.md) develops this.
 
 ## Who decides when something is "known"?
 
-There is no single moment when a claim becomes accepted. In practice, several things happen together: replications accumulate, systematic reviews pool them, professional bodies and regulators issue guidance, and the claim enters textbooks. Each of these steps involves human judgement, and each can go wrong, as the [[hormone-replacement-therapy-and-the-whi|hormone replacement therapy]] story shows: an observational consensus held for years before a large trial overturned it.
+There is no single moment when a claim becomes accepted. In practice, several things happen together: replications accumulate, systematic reviews pool them, professional bodies and regulators issue guidance, and the claim enters textbooks. Each of these steps involves human judgement, and each can go wrong, as the [hormone replacement therapy](../10-case-studies/04-hormone-replacement-therapy-and-the-whi.md) story shows: an observational consensus held for years before a large trial overturned it.
 
 Equally, real knowledge can be resisted for a long time. Ignaz Semmelweis showed in the 1840s that hand-washing with chlorinated lime sharply cut deaths from childbed fever in a Vienna maternity clinic, but his colleagues largely rejected the idea until germ theory provided a mechanism decades later.
 
@@ -60,5 +60,5 @@ Equally, real knowledge can be resisted for a long time. Ignaz Semmelweis showed
 
 ## Where this leads
 
-- Next: [[why-reading-research-is-hard|Why reading research is hard]]
-- Deeper: [[the-evidence-hierarchy|The evidence hierarchy]]
+- Next: [Why reading research is hard](06-why-reading-research-is-hard.md)
+- Deeper: [The evidence hierarchy](../03-study-designs/01-the-evidence-hierarchy.md)

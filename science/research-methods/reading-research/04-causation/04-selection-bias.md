@@ -1,6 +1,6 @@
 # Selection bias
 
-**Prerequisites:** [[reverse-causation|Reverse causation]] and [[samples-and-populations|Samples and populations]].
+**Prerequisites:** [Reverse causation](03-reverse-causation.md) and [Samples and populations](../02-statistics/06-samples-and-populations.md).
 
 @@IMG@@
 
@@ -42,7 +42,7 @@ The classic case was described by the statistician Joseph Berkson in 1946. Among
 - **Loss to follow-up**: if dropouts in a cohort or trial differ in both exposure and outcome, results are biased. This is selection *out of* the analysis.
 - **Healthy worker effect**: employed people are healthier than the general population (illness can prevent employment), so occupational cohorts compared with the general population can make harmful jobs look safe.
 - **Referral and detection bias**: specialist centres see unusual cases, and exposed people may be more likely to be tested and diagnosed.
-- **Survivorship bias**: only those who survived some process are observed; see [[survivorship-bias|survivorship bias]].
+- **Survivorship bias**: only those who survived some process are observed; see [survivorship bias](05-survivorship-bias.md).
 
 ## Index event bias
 
@@ -54,7 +54,7 @@ A modern variant is **index event bias**, also called the "obesity paradox" prob
 - In case-control studies, choose controls from the same population that produced the cases.
 - Minimise and report loss to follow-up, and analyse its effect.
 - Be careful about restricting analyses to people defined by a post-exposure event (hospitalised, tested, survived).
-- Draw a [[causal-diagrams|causal diagram]] and check for colliders.
+- Draw a [causal diagram](10-causal-diagrams.md) and check for colliders.
 
 ## Key ideas
 
@@ -66,4 +66,4 @@ A modern variant is **index event bias**, also called the "obesity paradox" prob
 
 ## Where this leads
 
-- Next: [[survivorship-bias|Survivorship bias]]
+- Next: [Survivorship bias](05-survivorship-bias.md)

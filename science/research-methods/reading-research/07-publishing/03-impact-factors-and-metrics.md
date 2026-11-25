@@ -1,6 +1,6 @@
 # Impact factors and metrics
 
-**Prerequisites:** [[peer-review|Peer review]].
+**Prerequisites:** [Peer review](02-peer-review.md).
 
 @@IMG@@
 
@@ -63,4 +63,4 @@ Prestigious journals have advantages: more editorial resources, more rigorous st
 
 ## Where this leads
 
-- Next: [[preprints|Preprints]]
+- Next: [Preprints](04-preprints.md)

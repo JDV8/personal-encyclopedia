@@ -1,6 +1,6 @@
 # Mean, median and mode
 
-**Prerequisites:** [[distributions|Distributions]].
+**Prerequisites:** [Distributions](03-distributions.md).
 
 @@IMG@@
 
@@ -26,25 +26,25 @@ flowchart LR
 
 In a symmetric distribution, the mean and median are about the same. In a right-skewed distribution (incomes, hospital costs, survival times), the mean is larger than the median because the long right tail pulls it up. So when a paper reports a mean for something you suspect is skewed, look for the median too. A large gap tells you the distribution is lopsided and that "average" may not describe most people.
 
-A practical example: "median survival" is the standard summary in cancer trials because survival times are skewed and some patients are still alive at the end of the study. The median survival is the time by which half the patients have died. It can be read straight off a [[kaplan-meier-curves|Kaplan-Meier curve]].
+A practical example: "median survival" is the standard summary in cancer trials because survival times are skewed and some patients are still alive at the end of the study. The median survival is the time by which half the patients have died. It can be read straight off a [Kaplan-Meier curve](../05-anatomy-of-a-paper/08-kaplan-meier-curves.md).
 
 ## Quantiles and the five-number summary
 
 The median splits the data in half. **Quartiles** split it into quarters: the first quartile (Q1) has 25% of values below it, the third (Q3) has 75% below it. The **interquartile range** (IQR), Q3 − Q1, describes the spread of the middle half and, like the median, is robust to outliers. Papers often report skewed variables as "median (IQR)", for example "median length of stay 4 days (IQR 2–7)".
 
-A **box plot** draws this five-number summary (minimum, Q1, median, Q3, maximum, with outliers marked separately). See [[reading-graphs|reading graphs]].
+A **box plot** draws this five-number summary (minimum, Q1, median, Q3, maximum, with outliers marked separately). See [reading graphs](../05-anatomy-of-a-paper/06-reading-graphs.md).
 
 **Percentiles** generalise the idea: the 90th percentile has 90% of values below it. Growth charts for children are built from percentiles.
 
 ## Averages of groups versus individuals
 
-An average describes a group, not any individual in it. If a drug lowers average blood pressure by 5 mmHg, some patients may have dropped by 20 and others not at all, or even risen. Trials usually report average effects; whether the effect is consistent across people is a separate question, and one that is much harder to answer, as discussed in [[subgroups-and-secondary-analyses|subgroups and secondary analyses]].
+An average describes a group, not any individual in it. If a drug lowers average blood pressure by 5 mmHg, some patients may have dropped by 20 and others not at all, or even risen. Trials usually report average effects; whether the effect is consistent across people is a separate question, and one that is much harder to answer, as discussed in [subgroups and secondary analyses](../09-from-lab-to-headline/04-subgroups-and-secondary-analyses.md).
 
-A related trap is **change from baseline**. "Patients' symptom scores improved by an average of 10 points" tells you nothing about the drug unless you also know how much the control group improved. People enrolled in trials are often at their worst when they enrol, so they tend to improve anyway ([[regression-to-the-mean|regression to the mean]]).
+A related trap is **change from baseline**. "Patients' symptom scores improved by an average of 10 points" tells you nothing about the drug unless you also know how much the control group improved. People enrolled in trials are often at their worst when they enrol, so they tend to improve anyway ([regression to the mean](17-regression-to-the-mean.md)).
 
 ## Weighted means and geometric means
 
-A **weighted mean** gives some values more influence than others. [[meta-analysis|Meta-analyses]] use weighted means, giving larger, more precise studies more weight. A **geometric mean** multiplies values and takes the root; it suits ratios and log-normally distributed data such as antibody levels after vaccination, where results are often reported as "geometric mean titres".
+A **weighted mean** gives some values more influence than others. [Meta-analyses](../03-study-designs/15-meta-analysis.md) use weighted means, giving larger, more precise studies more weight. A **geometric mean** multiplies values and takes the root; it suits ratios and log-normally distributed data such as antibody levels after vaccination, where results are often reported as "geometric mean titres".
 
 ## Key ideas
 
@@ -56,4 +56,4 @@ A **weighted mean** gives some values more influence than others. [[meta-analysi
 
 ## Where this leads
 
-- Next: [[variance-and-standard-deviation|Variance and standard deviation]]
+- Next: [Variance and standard deviation](05-variance-and-standard-deviation.md)

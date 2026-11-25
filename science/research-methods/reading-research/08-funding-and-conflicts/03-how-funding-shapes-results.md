@@ -1,6 +1,6 @@
 # How funding shapes results
 
-**Prerequisites:** [[what-a-conflict-of-interest-is|What a conflict of interest is]] and [[meta-analysis|Meta-analysis]].
+**Prerequisites:** [What a conflict of interest is](02-what-a-conflict-of-interest-is.md) and [Meta-analysis](../03-study-designs/15-meta-analysis.md).
 
 @@IMG@@
 
@@ -43,9 +43,9 @@ That last finding is crucial. Industry-funded trials are often methodologically 
 
 - **Choice of comparator**: comparing a new drug with placebo when an effective treatment exists, or with a competitor given at too low a dose (less effective) or too high a dose (more side effects).
 - **Choice of population**: enrolling patients most likely to respond and least likely to have side effects.
-- **Choice of outcomes and duration**: [[surrogate-endpoints|surrogate endpoints]] that respond quickly, short trials that miss later harms.
-- **Selective publication** of favourable trials ([[publication-bias|publication bias]]) and favourable outcomes ([[outcome-switching|outcome switching]]).
-- **Framing and spin** in abstracts and conclusions ([[discussion-limitations-and-spin|spin]]).
+- **Choice of outcomes and duration**: [surrogate endpoints](../09-from-lab-to-headline/02-surrogate-endpoints.md) that respond quickly, short trials that miss later harms.
+- **Selective publication** of favourable trials ([publication bias](../06-research-integrity/06-publication-bias.md)) and favourable outcomes ([outcome switching](../06-research-integrity/03-outcome-switching.md)).
+- **Framing and spin** in abstracts and conclusions ([spin](../05-anatomy-of-a-paper/10-discussion-limitations-and-spin.md)).
 - **Multiple publication** of positive results.
 
 ## Specific examples
@@ -57,7 +57,7 @@ That last finding is crucial. Industry-funded trials are often methodologically 
 
 ## Beyond pharma
 
-Similar patterns have been reported for research funded by the tobacco, sugar, alcohol, chemical and other industries ([[tobacco-industry-research|tobacco]], [[sugar-research-foundation|sugar]]). Fewer studies have examined other kinds of funders, but the mechanisms (choice of question, design, analysis and publication) apply to any funder with a stake in the result ([[activist-and-litigation-funded-research|activist and litigation-funded research]]).
+Similar patterns have been reported for research funded by the tobacco, sugar, alcohol, chemical and other industries ([tobacco](../10-case-studies/01-tobacco-industry-research.md), [sugar](../10-case-studies/02-sugar-research-foundation.md)). Fewer studies have examined other kinds of funders, but the mechanisms (choice of question, design, analysis and publication) apply to any funder with a stake in the result ([activist and litigation-funded research](07-activist-and-litigation-funded-research.md)).
 
 ## What this does and does not mean
 
@@ -75,4 +75,4 @@ Similar patterns have been reported for research funded by the tobacco, sugar, a
 
 ## Where this leads
 
-- Next: [[disclosure-and-its-limits|Disclosure and its limits]]
+- Next: [Disclosure and its limits](04-disclosure-and-its-limits.md)

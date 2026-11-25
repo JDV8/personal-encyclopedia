@@ -1,6 +1,6 @@
 # The shape of a paper
 
-**Prerequisites:** [[causal-diagrams|Causal diagrams]] and the statistics in [[sec:02-statistics|section 2]].
+**Prerequisites:** [Causal diagrams](../04-causation/10-causal-diagrams.md) and the statistics in [section 2](../02-statistics/README.md).
 
 @@IMG@@
 
@@ -11,14 +11,14 @@ Most empirical research papers in medicine and the life sciences follow the same
 A typical paper contains:
 
 - **Title**, **authors** and **affiliations**.
-- **Abstract**: a summary of 150–300 words, often structured into Background, Methods, Results and Conclusions ([[title-and-abstract|lesson]]).
-- **Introduction**: why the question matters and what is already known ([[introduction-and-background|lesson]]).
-- **Methods**: exactly what was done ([[methods|lesson]]).
-- **Results**: what was found, in text, tables and figures ([[results-and-table-one|results and Table 1]], [[reading-graphs|graphs]]).
-- **Discussion**: interpretation, comparison with other work, limitations and conclusions ([[discussion-limitations-and-spin|lesson]]).
+- **Abstract**: a summary of 150–300 words, often structured into Background, Methods, Results and Conclusions ([lesson](02-title-and-abstract.md)).
+- **Introduction**: why the question matters and what is already known ([lesson](03-introduction-and-background.md)).
+- **Methods**: exactly what was done ([lesson](04-methods.md)).
+- **Results**: what was found, in text, tables and figures ([results and Table 1](05-results-and-table-one.md), [graphs](06-reading-graphs.md)).
+- **Discussion**: interpretation, comparison with other work, limitations and conclusions ([lesson](10-discussion-limitations-and-spin.md)).
 - **Declarations**: funding, conflicts of interest, author contributions, ethics approval, trial registration, data availability.
 - **References**.
-- **Supplementary material**: extra methods, tables and analyses, sometimes the protocol ([[supplementary-material-and-data|lesson]]).
+- **Supplementary material**: extra methods, tables and analyses, sometimes the protocol ([lesson](11-supplementary-material-and-data.md)).
 
 ```mermaid
 flowchart TB
@@ -60,14 +60,14 @@ Journals publish many kinds of articles, and it is important to know which you a
 | Letter / correspondence | Brief comment or data | Variable; often where errors are first pointed out |
 | Case report | One or a few patients | Hypothesis-generating |
 | Research letter / brief report | Short original research | As original research, less detail |
-| Preprint | Not yet peer reviewed | Provisional ([[preprints|preprints]]) |
-| Correction / retraction notice | Fixes or withdraws a paper | Always check for these ([[retractions-and-corrections|retractions]]) |
+| Preprint | Not yet peer reviewed | Provisional ([preprints](../07-publishing/04-preprints.md)) |
+| Correction / retraction notice | Fixes or withdraws a paper | Always check for these ([retractions](../07-publishing/06-retractions-and-corrections.md)) |
 
 News stories often cite editorials or commentaries as if they were studies.
 
 ## Reading speed and depth
 
-You do not need to read every paper deeply. For most purposes, a 10-minute triage (abstract, declarations, design, primary outcome with absolute numbers, limitations) tells you whether a paper deserves more time. The [[a-step-by-step-checklist|step-by-step checklist]] at the end of the course formalises this.
+You do not need to read every paper deeply. For most purposes, a 10-minute triage (abstract, declarations, design, primary outcome with absolute numbers, limitations) tells you whether a paper deserves more time. The [step-by-step checklist](../11-practice/02-a-step-by-step-checklist.md) at the end of the course formalises this.
 
 ## Key ideas
 
@@ -79,4 +79,4 @@ You do not need to read every paper deeply. For most purposes, a 10-minute triag
 
 ## Where this leads
 
-- Next: [[title-and-abstract|Title and abstract]]
+- Next: [Title and abstract](02-title-and-abstract.md)

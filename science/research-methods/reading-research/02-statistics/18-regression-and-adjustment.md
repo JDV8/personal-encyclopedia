@@ -1,6 +1,6 @@
 # Regression models and adjustment
 
-**Prerequisites:** [[regression-to-the-mean|Regression to the mean]] and [[effect-sizes|Effect sizes]].
+**Prerequisites:** [Regression to the mean](17-regression-to-the-mean.md) and [Effect sizes](11-effect-sizes.md).
 
 @@IMG@@
 
@@ -21,11 +21,11 @@ Different outcome types need different models:
 | Count or rate (infections) | Poisson or negative binomial regression | Rate ratio |
 | Time to event (survival) | Cox proportional hazards regression | Hazard ratio |
 
-See [[odds-ratios-and-hazard-ratios|odds ratios and hazard ratios]] for how to read the last three.
+See [odds ratios and hazard ratios](19-odds-ratios-and-hazard-ratios.md) for how to read the last three.
 
 ## Why adjust?
 
-Suppose coffee drinkers appear to have more heart disease. But coffee drinkers in some datasets are also more likely to smoke. Smoking could explain the association: it is a [[confounding|confounder]]. By including smoking in the model, researchers estimate the coffee-heart disease association among people with the same smoking status. If the association shrinks toward zero after adjustment, smoking was doing much of the work.
+Suppose coffee drinkers appear to have more heart disease. But coffee drinkers in some datasets are also more likely to smoke. Smoking could explain the association: it is a [confounder](../04-causation/02-confounding.md). By including smoking in the model, researchers estimate the coffee-heart disease association among people with the same smoking status. If the association shrinks toward zero after adjustment, smoking was doing much of the work.
 
 ```mermaid
 flowchart LR
@@ -44,7 +44,7 @@ Adjustment is powerful but limited, and papers often present it as more decisive
 1. **It only handles what was measured.** Unmeasured confounders, such as health consciousness, income or frailty, remain. This **residual confounding** is the central weakness of observational research.
 2. **It only handles what was measured well.** If smoking is recorded crudely ("ever/never"), adjusting for it leaves much confounding behind.
 3. **The model form matters.** Assuming a straight-line relationship when the real one is curved leaves bias.
-4. **Adjusting for the wrong things can create bias.** Adjusting for a variable on the causal pathway (a **mediator**) removes part of the real effect; adjusting for a common effect of exposure and outcome (a **collider**) can create a spurious association. [[causal-diagrams|Causal diagrams]] explain how to tell which variables to adjust for.
+4. **Adjusting for the wrong things can create bias.** Adjusting for a variable on the causal pathway (a **mediator**) removes part of the real effect; adjusting for a common effect of exposure and outcome (a **collider**) can create a spurious association. [Causal diagrams](../04-causation/10-causal-diagrams.md) explain how to tell which variables to adjust for.
 5. **Too many variables for too few events** makes models unstable. A rough rule of thumb in logistic regression has been at least ten outcome events per predictor, though statisticians debate the exact number.
 
 ## Propensity scores
@@ -73,5 +73,5 @@ Regression is also used to build **prediction models**, such as cardiovascular r
 
 ## Where this leads
 
-- Next: [[odds-ratios-and-hazard-ratios|Odds ratios and hazard ratios]]
-- Deeper: [[confounding|Confounding]] and [[causal-diagrams|Causal diagrams]]
+- Next: [Odds ratios and hazard ratios](19-odds-ratios-and-hazard-ratios.md)
+- Deeper: [Confounding](../04-causation/02-confounding.md) and [Causal diagrams](../04-causation/10-causal-diagrams.md)

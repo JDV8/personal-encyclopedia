@@ -1,6 +1,6 @@
 # Preregistration
 
-**Prerequisites:** [[reporting-checklists|Reporting checklists]], [[multiple-comparisons|Multiple comparisons]] and [[falsifiability-and-theories|Falsifiability]].
+**Prerequisites:** [Reporting checklists](../05-anatomy-of-a-paper/12-reporting-checklists.md), [Multiple comparisons](../02-statistics/16-multiple-comparisons.md) and [Falsifiability](../01-foundations/02-falsifiability-and-theories.md).
 
 @@IMG@@
 
@@ -8,7 +8,7 @@ A statistical test means what it claims to mean only if the hypothesis and analy
 
 ## The problem it solves
 
-Once researchers have seen their data, many choices become tempting: which outcome to emphasise, which covariates to include, which participants to exclude, which subgroup to highlight, whether to transform a variable. Each choice may be defensible, but making them *after* seeing the results means the analysis is shaped by the data. The p-values that result no longer have their nominal meaning ([[p-hacking|p-hacking]], [[harking|HARKing]]). Andrew Gelman and Eric Loken call this the **garden of forking paths**: even researchers who run only one analysis may have chosen it because of the data.
+Once researchers have seen their data, many choices become tempting: which outcome to emphasise, which covariates to include, which participants to exclude, which subgroup to highlight, whether to transform a variable. Each choice may be defensible, but making them *after* seeing the results means the analysis is shaped by the data. The p-values that result no longer have their nominal meaning ([p-hacking](04-p-hacking.md), [HARKing](05-harking.md)). Andrew Gelman and Eric Loken call this the **garden of forking paths**: even researchers who run only one analysis may have chosen it because of the data.
 
 Preregistration fixes the path in advance. It distinguishes:
 
@@ -39,8 +39,8 @@ Typically:
 
 ## Where it happens
 
-- **Clinical trials** are registered in trial registries such as ClinicalTrials.gov, now largely mandatory ([[trial-registries|trial registries]]).
-- **Systematic reviews** register protocols in PROSPERO ([[systematic-reviews|systematic reviews]]).
+- **Clinical trials** are registered in trial registries such as ClinicalTrials.gov, now largely mandatory ([trial registries](02-trial-registries.md)).
+- **Systematic reviews** register protocols in PROSPERO ([systematic reviews](../03-study-designs/14-systematic-reviews.md)).
 - **Other research**, especially in psychology and social science, uses platforms such as the Open Science Framework (OSF) Registries and AsPredicted. Brian Nosek and colleagues described the case for expanding preregistration across science in a 2018 paper in *PNAS*, "The preregistration revolution".
 
 ## Registered reports
@@ -53,7 +53,7 @@ Evidence suggests preregistration changes results substantially. Robert Kaplan a
 
 ## Limits and criticisms
 
-- **Registration is not compliance.** Many studies deviate from their registrations without saying so ([[outcome-switching|outcome switching]]). Registration only helps if someone checks.
+- **Registration is not compliance.** Many studies deviate from their registrations without saying so ([outcome switching](03-outcome-switching.md)). Registration only helps if someone checks.
 - **Vague registrations** leave room for flexibility. A registration that says "we will measure depression" without specifying the scale and time point constrains little.
 - **Exploration is valuable**, and some researchers worry that preregistration culture devalues it. The answer most proponents give is to label exploration clearly, not to stop it.
 - **Not all research fits.** Qualitative research, some observational analyses of existing data, and fast-moving outbreak research fit the model less neatly, though adapted forms exist.
@@ -74,4 +74,4 @@ Evidence suggests preregistration changes results substantially. Robert Kaplan a
 
 ## Where this leads
 
-- Next: [[trial-registries|Trial registries]]
+- Next: [Trial registries](02-trial-registries.md)

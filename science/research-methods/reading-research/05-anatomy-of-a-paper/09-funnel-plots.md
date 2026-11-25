@@ -1,6 +1,6 @@
 # Funnel plots
 
-**Prerequisites:** [[kaplan-meier-curves|Kaplan-Meier curves]], [[meta-analysis|Meta-analysis]] and [[distributions|Distributions]].
+**Prerequisites:** [Kaplan-Meier curves](08-kaplan-meier-curves.md), [Meta-analysis](../03-study-designs/15-meta-analysis.md) and [Distributions](../02-statistics/03-distributions.md).
 
 @@IMG@@
 
@@ -24,7 +24,7 @@ The technique was proposed by Richard Light and David Pillemer in their 1984 boo
 
 If small studies with unfavourable or null results have gone unpublished, the bottom of the funnel will be **lopsided**: small studies will appear only on the side favouring the intervention. The pooled estimate will then be biased toward benefit.
 
-In 1997, Matthias Egger, George Davey Smith, Martin Schneider and Christoph Minder proposed a regression test for funnel plot asymmetry in the *BMJ*, now known as **Egger's test**. They showed that asymmetry predicted discordance between meta-analyses and later large trials, including the case of intravenous magnesium after heart attack ([[meta-analysis|meta-analysis]]).
+In 1997, Matthias Egger, George Davey Smith, Martin Schneider and Christoph Minder proposed a regression test for funnel plot asymmetry in the *BMJ*, now known as **Egger's test**. They showed that asymmetry predicted discordance between meta-analyses and later large trials, including the case of intravenous magnesium after heart attack ([meta-analysis](../03-study-designs/15-meta-analysis.md)).
 
 ## Asymmetry is not proof of publication bias
 
@@ -49,7 +49,7 @@ For this reason the term **small-study effects** is preferred: asymmetry shows t
 - **Contour-enhanced funnel plots** shade regions of statistical significance, helping to show whether "missing" studies would have been non-significant (suggesting publication bias) or not.
 - **Trim-and-fill** imputes hypothetical missing studies to estimate an adjusted effect. It rests on strong assumptions and should be treated as a sensitivity analysis.
 - **Selection models** and **PET-PEESE** methods attempt to correct for publication bias statistically, with varying success.
-- The most direct remedy is to **find the missing data**: trial registries, regulatory documents and clinical study reports ([[trial-registries|trial registries]], [[tamiflu-and-hidden-trial-data|Tamiflu case study]]).
+- The most direct remedy is to **find the missing data**: trial registries, regulatory documents and clinical study reports ([trial registries](../06-research-integrity/02-trial-registries.md), [Tamiflu case study](../10-case-studies/08-tamiflu-and-hidden-trial-data.md)).
 
 ## Key ideas
 
@@ -61,5 +61,5 @@ For this reason the term **small-study effects** is preferred: asymmetry shows t
 
 ## Where this leads
 
-- Next: [[discussion-limitations-and-spin|Discussion, limitations and spin]]
-- Related: [[publication-bias|Publication bias]]
+- Next: [Discussion, limitations and spin](10-discussion-limitations-and-spin.md)
+- Related: [Publication bias](../06-research-integrity/06-publication-bias.md)

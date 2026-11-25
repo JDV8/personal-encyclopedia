@@ -1,6 +1,6 @@
 # Case study: paroxetine Study 329
 
-**Prerequisites:** [[outcome-switching|Outcome switching]] and [[how-funding-shapes-results|How funding shapes results]].
+**Prerequisites:** [Outcome switching](../06-research-integrity/03-outcome-switching.md) and [How funding shapes results](../08-funding-and-conflicts/03-how-funding-shapes-results.md).
 
 @@IMG@@
 
@@ -10,7 +10,7 @@ Study 329 was a trial of the antidepressant paroxetine (Paxil in the US, Seroxat
 
 The trial randomised 275 adolescents with major depression to paroxetine, the older antidepressant imipramine, or placebo for eight weeks. It was published in 2001 in the *Journal of the American Academy of Child and Adolescent Psychiatry* by Martin Keller and colleagues, with 22 academic authors. The abstract concluded that paroxetine was "generally well tolerated and effective for major depression in adolescents".
 
-The protocol had specified two primary outcomes, and neither showed a statistically significant difference from placebo. The published paper emphasised positive results on other measures, some of which had not been among the protocol's prespecified outcomes ([[outcome-switching|outcome switching]]). Documents released later in litigation showed that the first draft had been written by a medical writer funded by the company, which raised questions about authorship ([[vioxx|Vioxx]] for a similar pattern).
+The protocol had specified two primary outcomes, and neither showed a statistically significant difference from placebo. The published paper emphasised positive results on other measures, some of which had not been among the protocol's prespecified outcomes ([outcome switching](../06-research-integrity/03-outcome-switching.md)). Documents released later in litigation showed that the first draft had been written by a medical writer funded by the company, which raised questions about authorship ([Vioxx](05-vioxx.md) for a similar pattern).
 
 ## Harms
 
@@ -38,10 +38,10 @@ In 2004 the New York State Attorney General sued GSK for fraud over the concealm
 
 ## Lessons for readers
 
-- **Compare the paper with the protocol.** Were the reported primary outcomes the registered ones? ([[trial-registries|trial registries]])
+- **Compare the paper with the protocol.** Were the reported primary outcomes the registered ones? ([trial registries](../06-research-integrity/02-trial-registries.md))
 - **Read the harms carefully.** How adverse events are coded can hide them.
 - **Authorship can mislead.** Named authors may not have written the paper or seen all the data.
-- **Access to full data changes conclusions.** Clinical study reports and individual participant data are far more complete than journal articles ([[supplementary-material-and-data|supplementary material and data]]).
+- **Access to full data changes conclusions.** Clinical study reports and individual participant data are far more complete than journal articles ([supplementary material and data](../05-anatomy-of-a-paper/11-supplementary-material-and-data.md)).
 - **Journals do not always correct the record.**
 
 ## Key ideas
@@ -54,4 +54,4 @@ In 2004 the New York State Attorney General sued GSK for fraud over the concealm
 
 ## Where this leads
 
-- Next: [[wakefield-1998|Wakefield 1998]]
+- Next: [Wakefield 1998](07-wakefield-1998.md)

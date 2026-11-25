@@ -1,6 +1,6 @@
 # Retractions and corrections
 
-**Prerequisites:** [[predatory-journals|Predatory journals]] and [[fraud-and-misconduct|Fraud and misconduct]].
+**Prerequisites:** [Predatory journals](05-predatory-journals.md) and [Fraud and misconduct](../06-research-integrity/08-fraud-and-misconduct.md).
 
 @@IMG@@
 
@@ -9,9 +9,9 @@ Published papers are not final. Errors are found, data turn out to be unreliable
 ## The tools
 
 - A **correction** (erratum or corrigendum) fixes an error that does not invalidate the paper's main conclusions: a mislabelled figure, a wrong number in a table, an omitted conflict of interest.
-- An **expression of concern** is a notice from the editors that they have serious doubts about a paper (for example, about data integrity) while an investigation is ongoing or cannot be completed. The *New England Journal of Medicine* published an expression of concern in December 2005 about the 2000 VIGOR trial of rofecoxib (Vioxx), stating that data on three heart attacks had not been included in the article ([[vioxx|Vioxx case study]]).
+- An **expression of concern** is a notice from the editors that they have serious doubts about a paper (for example, about data integrity) while an investigation is ongoing or cannot be completed. The *New England Journal of Medicine* published an expression of concern in December 2005 about the 2000 VIGOR trial of rofecoxib (Vioxx), stating that data on three heart attacks had not been included in the article ([Vioxx case study](../10-case-studies/05-vioxx.md)).
 - A **retraction** withdraws a paper because its findings are unreliable (owing to misconduct or serious error), because of plagiarism or duplicate publication, or because of ethical problems. The paper usually remains online, clearly marked "RETRACTED", with a notice explaining why.
-- **Retraction and replacement** (or "retraction and republication") is used when an error is so pervasive that the paper must be withdrawn, but a corrected version is valid. The PREDIMED trial of a Mediterranean diet was retracted and republished in the *NEJM* in 2018 after problems with randomisation at some sites were identified ([[worked-example-a-randomised-trial|PREDIMED worked example]]).
+- **Retraction and replacement** (or "retraction and republication") is used when an error is so pervasive that the paper must be withdrawn, but a corrected version is valid. The PREDIMED trial of a Mediterranean diet was retracted and republished in the *NEJM* in 2018 after problems with randomisation at some sites were identified ([PREDIMED worked example](../11-practice/03-worked-example-a-randomised-trial.md)).
 
 The **Committee on Publication Ethics (COPE)**, founded in 1997, publishes guidelines on when and how journals should issue these notices.
 
@@ -26,7 +26,7 @@ flowchart TB
 
 ## How common are retractions?
 
-Retractions are rare relative to the number of papers published, but their number rose sharply from the early 2000s, partly because of more scrutiny and better detection. As discussed in [[fraud-and-misconduct|fraud and misconduct]], Fang, Steen and Casadevall found in 2012 that about two-thirds of retractions in biomedicine were due to misconduct. Large batches of retractions linked to paper mills and compromised peer review have since added thousands more.
+Retractions are rare relative to the number of papers published, but their number rose sharply from the early 2000s, partly because of more scrutiny and better detection. As discussed in [fraud and misconduct](../06-research-integrity/08-fraud-and-misconduct.md), Fang, Steen and Casadevall found in 2012 that about two-thirds of retractions in biomedicine were due to misconduct. Large batches of retractions linked to paper mills and compromised peer review have since added thousands more.
 
 ## Retraction Watch
 
@@ -40,7 +40,7 @@ Retracted papers continue to be cited, often without acknowledgement of the retr
 
 Investigations are usually carried out by the authors' institutions, which may have conflicts of interest and limited resources. Journals may wait for institutional findings. Legal threats from authors can delay action. The Wakefield paper was published in February 1998, ten of its thirteen authors issued a retraction of the paper's interpretation in March 2004, and the full retraction came in February 2010, after the UK General Medical Council's findings.
 
-By contrast, the Surgisphere papers in 2020 were retracted within weeks, after independent researchers raised questions and the company would not provide data for an independent audit ([[surgisphere|Surgisphere case study]]).
+By contrast, the Surgisphere papers in 2020 were retracted within weeks, after independent researchers raised questions and the company would not provide data for an independent audit ([Surgisphere case study](../10-case-studies/10-surgisphere.md)).
 
 ## Checking a paper's status
 
@@ -66,4 +66,4 @@ Many unreliable papers are never retracted: they simply fail to replicate or are
 
 ## Where this leads
 
-- Next section: [[sec:08-funding-and-conflicts|Funding and conflicts of interest]], starting with [[who-pays-for-research|who pays for research]]
+- Next section: [Funding and conflicts of interest](../08-funding-and-conflicts/README.md), starting with [who pays for research](../08-funding-and-conflicts/01-who-pays-for-research.md)

@@ -1,6 +1,6 @@
 # How journals work
 
-**Prerequisites:** [[open-science|Open science]].
+**Prerequisites:** [Open science](../06-research-integrity/09-open-science.md).
 
 @@IMG@@
 
@@ -14,11 +14,11 @@ The first scientific journals appeared in 1665: the *Journal des sçavans* in Pa
 
 1. **Submission**: authors send a manuscript, usually through an online system, with a cover letter and declarations (funding, conflicts, ethics, registration).
 2. **Editorial screening**: an editor decides whether the paper fits the journal and is worth reviewing. Many papers at selective journals are rejected at this stage ("desk rejection").
-3. **Peer review**: usually two or three external experts assess the paper ([[peer-review|peer review]]).
+3. **Peer review**: usually two or three external experts assess the paper ([peer review](02-peer-review.md)).
 4. **Decision**: accept, minor revision, major revision or reject.
 5. **Revision and re-review**, possibly several rounds.
 6. **Acceptance, copy-editing and publication**, often online first.
-7. **Post-publication**: letters, comments, corrections, and occasionally retraction ([[retractions-and-corrections|retractions]]).
+7. **Post-publication**: letters, comments, corrections, and occasionally retraction ([retractions](06-retractions-and-corrections.md)).
 
 ```mermaid
 flowchart LR
@@ -46,7 +46,7 @@ Commercial publishing is concentrated. A 2015 study in *PLOS One* by Vincent Lar
 
 ## Editors and their incentives
 
-Editors decide what gets reviewed and published. They want papers that are rigorous, but also important, novel and likely to be cited, which raises a journal's [[impact-factors-and-metrics|impact factor]]. This creates pressure toward striking positive findings, contributing to [[publication-bias|publication bias]]. Some journals have responded with registered reports and explicit policies welcoming replication and null results.
+Editors decide what gets reviewed and published. They want papers that are rigorous, but also important, novel and likely to be cited, which raises a journal's [impact factor](03-impact-factors-and-metrics.md). This creates pressure toward striking positive findings, contributing to [publication bias](../06-research-integrity/06-publication-bias.md). Some journals have responded with registered reports and explicit policies welcoming replication and null results.
 
 Medical journals also have commercial relationships. Reprints of articles, especially of industry-funded trials, can be purchased in large quantities by companies for marketing. Richard Smith, a former editor of the *BMJ*, argued in a 2005 *PLOS Medicine* essay titled "Medical journals are an extension of the marketing arm of pharmaceutical companies" that this created conflicts for journals. The **ICMJE** (International Committee of Medical Journal Editors) publishes recommendations on authorship, conflicts of interest, trial registration and data sharing that many journals follow.
 
@@ -57,7 +57,7 @@ Who is listed as an author matters. ICMJE criteria require substantial contribut
 - **Ghost authorship**: people who wrote the paper (often medical writers paid by a sponsor) are not named.
 - **Guest or honorary authorship**: senior figures are named who did little.
 
-Investigations of industry documents released in litigation have described ghostwriting in several drug programmes, including the Vioxx and paroxetine cases ([[vioxx|Vioxx]], [[paroxetine-study-329|Study 329]]).
+Investigations of industry documents released in litigation have described ghostwriting in several drug programmes, including the Vioxx and paroxetine cases ([Vioxx](../10-case-studies/05-vioxx.md), [Study 329](../10-case-studies/06-paroxetine-study-329.md)).
 
 ## Key ideas
 
@@ -69,4 +69,4 @@ Investigations of industry documents released in litigation have described ghost
 
 ## Where this leads
 
-- Next: [[peer-review|Peer review]]
+- Next: [Peer review](02-peer-review.md)

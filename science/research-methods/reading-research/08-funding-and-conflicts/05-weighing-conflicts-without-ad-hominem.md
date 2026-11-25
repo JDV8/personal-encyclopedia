@@ -1,6 +1,6 @@
 # Weighing conflicts without ad hominem
 
-**Prerequisites:** [[disclosure-and-its-limits|Disclosure and its limits]] and [[why-reading-research-is-hard|Why reading research is hard]].
+**Prerequisites:** [Disclosure and its limits](04-disclosure-and-its-limits.md) and [Why reading research is hard](../01-foundations/06-why-reading-research-is-hard.md).
 
 @@IMG@@
 
@@ -11,11 +11,11 @@ Once you know that funding affects results on average, it is tempting to use con
 1. **It throws away evidence.** Much of what we know about drug efficacy comes from industry-funded trials, many of them rigorous. Ignoring them all leaves you with far less information, not better information.
 2. **It cannot be applied consistently.** Almost everyone has some interest: researchers in their theories and careers, activists in their causes, regulators in past decisions, journalists in striking stories. If any interest disqualifies, nothing survives.
 3. **It invites symmetric abuse.** If you dismiss industry studies on funding grounds, you have no principled reply when others dismiss independent studies on ideological grounds.
-4. **Conflicts are probabilistic.** Lundh's Cochrane review found a risk ratio of 1.27 for favourable results ([[how-funding-shapes-results|how funding shapes results]]). That is a real tilt, but it means most of the difference between industry and other studies is not explained by sponsorship, and many industry studies report unfavourable results.
+4. **Conflicts are probabilistic.** Lundh's Cochrane review found a risk ratio of 1.27 for favourable results ([how funding shapes results](03-how-funding-shapes-results.md)). That is a real tilt, but it means most of the difference between industry and other studies is not explained by sponsorship, and many industry studies report unfavourable results.
 
 ## The opposite error
 
-Ignoring conflicts entirely is also a mistake. History is full of research that was distorted by funders with a stake in the answer: tobacco, sugar, Vioxx, paroxetine and others in the [[sec:10-case-studies|case studies]]. Conflicts are relevant evidence about the **risk of bias**. The task is to use them to direct scrutiny, not to replace it.
+Ignoring conflicts entirely is also a mistake. History is full of research that was distorted by funders with a stake in the answer: tobacco, sugar, Vioxx, paroxetine and others in the [case studies](../10-case-studies/README.md). Conflicts are relevant evidence about the **risk of bias**. The task is to use them to direct scrutiny, not to replace it.
 
 ## A practical framework
 
@@ -45,11 +45,11 @@ Use the same framework for all interests:
 - An industry-funded trial of a company's drug.
 - A study funded by a competitor, which may have the opposite interest.
 - A study by a scientist whose reputation rests on a theory.
-- A study funded by an advocacy group or a law firm ([[activist-and-litigation-funded-research|activist and litigation-funded research]]).
+- A study funded by an advocacy group or a law firm ([activist and litigation-funded research](07-activist-and-litigation-funded-research.md)).
 - A study by a public agency evaluating its own programme.
 - An analysis by a critic who sells books or services related to the claim.
 
-The symmetry test from [[why-reading-research-is-hard|why reading research is hard]] applies: would you scrutinise this conflict as hard if the study's conclusion matched your views?
+The symmetry test from [why reading research is hard](../01-foundations/06-why-reading-research-is-hard.md) applies: would you scrutinise this conflict as hard if the study's conclusion matched your views?
 
 ## Strong evidence survives conflicts
 
@@ -76,4 +76,4 @@ Conflicts should increase your caution more when:
 
 ## Where this leads
 
-- Next: [[non-financial-conflicts|Non-financial conflicts]]
+- Next: [Non-financial conflicts](06-non-financial-conflicts.md)

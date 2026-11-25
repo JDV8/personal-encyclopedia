@@ -1,6 +1,6 @@
 # Forest plots
 
-**Prerequisites:** [[reading-graphs|Reading graphs]], [[meta-analysis|Meta-analysis]] and [[standard-error-and-confidence-intervals|Confidence intervals]].
+**Prerequisites:** [Reading graphs](06-reading-graphs.md), [Meta-analysis](../03-study-designs/15-meta-analysis.md) and [Confidence intervals](../02-statistics/07-standard-error-and-confidence-intervals.md).
 
 @@IMG@@
 
@@ -34,20 +34,20 @@ flowchart TB
 3. **Look at the diamond.** Where is it, and does it cross the line of no effect? How wide is it?
 4. **Look at the spread of studies.** Do their confidence intervals overlap heavily (consistent), or do they scatter on both sides of the line (heterogeneous)? Check I².
 5. **Look at the big squares.** Is the result driven by one or two large studies? Do they agree with the small ones?
-6. **Look at the small studies.** Do they show larger effects than the big ones? That pattern suggests small-study effects or publication bias ([[funnel-plots|funnel plots]]).
+6. **Look at the small studies.** Do they show larger effects than the big ones? That pattern suggests small-study effects or publication bias ([funnel plots](09-funnel-plots.md)).
 7. **Check subgroups**, if the plot is split by study type, risk of bias or population, and whether the test for subgroup differences is significant.
 
 ## A famous forest plot
 
-The Cochrane logo shows a stylised forest plot from a meta-analysis of randomised trials of corticosteroids given to women at risk of premature delivery. The individual trials, several of them small and inconclusive on their own, consistently pointed toward fewer newborn deaths, and the pooled diamond sat clearly on the side of benefit. The pooled evidence had shown this benefit years before the treatment was widely used, which is the story Cochrane tells about why systematic reviews matter ([[cochrane-and-grade|Cochrane and GRADE]]).
+The Cochrane logo shows a stylised forest plot from a meta-analysis of randomised trials of corticosteroids given to women at risk of premature delivery. The individual trials, several of them small and inconclusive on their own, consistently pointed toward fewer newborn deaths, and the pooled diamond sat clearly on the side of benefit. The pooled evidence had shown this benefit years before the treatment was widely used, which is the story Cochrane tells about why systematic reviews matter ([Cochrane and GRADE](../03-study-designs/16-cochrane-and-grade.md)).
 
 ## Cumulative forest plots
 
-A **cumulative meta-analysis** adds studies one at a time in chronological order, with each row showing the pooled result up to that point. It shows when the evidence became conclusive. Elliott Antman, Joseph Lau and colleagues used cumulative meta-analysis in 1992 to show that the benefit of clot-busting therapy after heart attack was clear long before expert recommendations caught up ([[systematic-reviews|systematic reviews]]).
+A **cumulative meta-analysis** adds studies one at a time in chronological order, with each row showing the pooled result up to that point. It shows when the evidence became conclusive. Elliott Antman, Joseph Lau and colleagues used cumulative meta-analysis in 1992 to show that the benefit of clot-busting therapy after heart attack was clear long before expert recommendations caught up ([systematic reviews](../03-study-designs/14-systematic-reviews.md)).
 
 ## Forest plots for subgroups
 
-Single trials also use forest plots to show results across **subgroups** (men and women, age bands, disease severity). These are easy to over-read. Some subgroup lines will cross the line of no effect simply because subgroups are smaller. The question is whether the subgroup estimates differ from each other more than chance would allow, which requires an **interaction test**, not eyeballing ([[subgroups-and-secondary-analyses|subgroups]]).
+Single trials also use forest plots to show results across **subgroups** (men and women, age bands, disease severity). These are easy to over-read. Some subgroup lines will cross the line of no effect simply because subgroups are smaller. The question is whether the subgroup estimates differ from each other more than chance would allow, which requires an **interaction test**, not eyeballing ([subgroups](../09-from-lab-to-headline/04-subgroups-and-secondary-analyses.md)).
 
 ## Common pitfalls
 
@@ -66,5 +66,5 @@ Single trials also use forest plots to show results across **subgroups** (men an
 
 ## Where this leads
 
-- Next: [[kaplan-meier-curves|Kaplan-Meier curves]]
-- Worked example: [[worked-example-a-meta-analysis|Worked example: a meta-analysis]]
+- Next: [Kaplan-Meier curves](08-kaplan-meier-curves.md)
+- Worked example: [Worked example: a meta-analysis](../11-practice/05-worked-example-a-meta-analysis.md)

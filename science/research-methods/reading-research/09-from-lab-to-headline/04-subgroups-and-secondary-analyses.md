@@ -1,6 +1,6 @@
 # Subgroups and secondary analyses
 
-**Prerequisites:** [[multiple-comparisons|Multiple comparisons]] and [[forest-plots|Forest plots]].
+**Prerequisites:** [Multiple comparisons](../02-statistics/16-multiple-comparisons.md) and [Forest plots](../05-anatomy-of-a-paper/07-forest-plots.md).
 
 @@IMG@@
 
@@ -14,10 +14,10 @@ A **subgroup analysis** looks at the treatment effect separately in subsets of p
 
 ## Why subgroup findings mislead
 
-- **Multiple comparisons.** With many subgroups, some will show "significant" effects by chance ([[multiple-comparisons|multiple comparisons]]). With 20 independent subgroups and no real differences, you expect about one at p < 0.05.
+- **Multiple comparisons.** With many subgroups, some will show "significant" effects by chance ([multiple comparisons](../02-statistics/16-multiple-comparisons.md)). With 20 independent subgroups and no real differences, you expect about one at p < 0.05.
 - **Low power.** Each subgroup is smaller than the trial, so true effects are hard to detect, and absences of effect are uninformative.
 - **Wrong test.** Finding p < 0.05 in one subgroup and p > 0.05 in another does not show the effects differ. The correct test is a **test for interaction**, which asks whether the effect differs between subgroups.
-- **Post hoc selection.** Subgroups chosen after seeing the data are especially unreliable ([[harking|HARKing]]).
+- **Post hoc selection.** Subgroups chosen after seeing the data are especially unreliable ([HARKing](../06-research-integrity/05-harking.md)).
 
 ## The ISIS-2 star signs
 
@@ -51,7 +51,7 @@ Subgroup effects that meet these criteria are rare. Most claimed subgroup effect
 
 ## Reading subgroup forest plots
 
-Many trial papers include a forest plot of the treatment effect across subgroups ([[forest-plots|forest plots]]). The right way to read it:
+Many trial papers include a forest plot of the treatment effect across subgroups ([forest plots](../05-anatomy-of-a-paper/07-forest-plots.md)). The right way to read it:
 
 - Expect the subgroup estimates to scatter around the overall effect by chance.
 - Look at the **interaction p-value**, not the individual subgroup p-values.
@@ -59,7 +59,7 @@ Many trial papers include a forest plot of the treatment effect across subgroups
 
 ## Secondary outcomes and post hoc analyses
 
-The same logic applies to secondary outcomes. A trial that fails on its primary outcome but "succeeds" on one of several secondary outcomes has not shown the treatment works. Papers and press releases sometimes emphasise such findings ([[discussion-limitations-and-spin|spin]]). Post hoc analyses of trial data can be valuable for generating hypotheses, but they are observational analyses within a trial and need confirmation.
+The same logic applies to secondary outcomes. A trial that fails on its primary outcome but "succeeds" on one of several secondary outcomes has not shown the treatment works. Papers and press releases sometimes emphasise such findings ([spin](../05-anatomy-of-a-paper/10-discussion-limitations-and-spin.md)). Post hoc analyses of trial data can be valuable for generating hypotheses, but they are observational analyses within a trial and need confirmation.
 
 ## Key ideas
 
@@ -71,4 +71,4 @@ The same logic applies to secondary outcomes. A trial that fails on its primary 
 
 ## Where this leads
 
-- Next: [[consensus-dissent-and-experts|Consensus, dissent and experts]]
+- Next: [Consensus, dissent and experts](05-consensus-dissent-and-experts.md)

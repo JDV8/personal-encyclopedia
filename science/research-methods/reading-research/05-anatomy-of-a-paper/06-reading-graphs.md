@@ -1,6 +1,6 @@
 # Reading graphs
 
-**Prerequisites:** [[results-and-table-one|Results and Table 1]].
+**Prerequisites:** [Results and Table 1](05-results-and-table-one.md).
 
 @@IMG@@
 
@@ -15,11 +15,11 @@ Before interpreting any graph, read:
 - **The range**: has it been chosen to exaggerate or hide a change?
 - **The legend**: what do the symbols, colours, lines and error bars represent?
 
-A y-axis that starts at 95 instead of 0 can make a change from 96 to 98 look enormous. That is not always wrong (for many continuous variables, zero is meaningless), but it should be noticed. For ratios such as relative risks, a **logarithmic scale** is appropriate, because a halving and a doubling should look equally large ([[odds-ratios-and-hazard-ratios|odds and hazard ratios]]).
+A y-axis that starts at 95 instead of 0 can make a change from 96 to 98 look enormous. That is not always wrong (for many continuous variables, zero is meaningless), but it should be noticed. For ratios such as relative risks, a **logarithmic scale** is appropriate, because a halving and a doubling should look equally large ([odds and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md)).
 
 ## Error bars
 
-Error bars can show the **standard deviation**, the **standard error** or a **confidence interval**, and these have very different widths and meanings ([[variance-and-standard-deviation|SD versus SE]]). Standard error bars are much narrower than SD bars and make differences look more certain. A 2005 study by Sarah Belia, Fiona Fidler, Jennifer Williams and Geoff Cumming in *Psychological Methods* found that many researchers misjudged what overlapping error bars implied about statistical significance.
+Error bars can show the **standard deviation**, the **standard error** or a **confidence interval**, and these have very different widths and meanings ([SD versus SE](../02-statistics/05-variance-and-standard-deviation.md)). Standard error bars are much narrower than SD bars and make differences look more certain. A 2005 study by Sarah Belia, Fiona Fidler, Jennifer Williams and Geoff Cumming in *Psychological Methods* found that many researchers misjudged what overlapping error bars implied about statistical significance.
 
 Rules of thumb (for two independent groups of similar size):
 
@@ -31,10 +31,10 @@ Always check the legend.
 ## Common chart types
 
 - **Bar charts** compare categories. Bars showing means hide the distribution; "dynamite plots" (bars with error bars on top) have been criticised by statisticians for this reason. Tracey Weissgerber and colleagues argued in *PLOS Biology* in 2015 that small-sample continuous data should be shown as individual points.
-- **Box plots** show the median, interquartile range and outliers ([[mean-median-and-mode|quartiles]]).
+- **Box plots** show the median, interquartile range and outliers ([quartiles](../02-statistics/04-mean-median-and-mode.md)).
 - **Scatter plots** show the relationship between two continuous variables. Look at the spread of points, not just the fitted line: a "significant" line through a cloud of scattered points may explain very little.
 - **Line charts** show change over time. Check whether points are evenly spaced and whether the time axis has been truncated.
-- **Histograms** show distributions ([[distributions|distributions]]).
+- **Histograms** show distributions ([distributions](../02-statistics/03-distributions.md)).
 
 ```mermaid
 flowchart TB
@@ -52,11 +52,11 @@ flowchart TB
 
 Three types are so important they get their own lessons:
 
-- **Forest plots** for meta-analyses and subgroup analyses ([[forest-plots|lesson]]).
-- **Kaplan-Meier curves** for survival and time-to-event data ([[kaplan-meier-curves|lesson]]).
-- **Funnel plots** for detecting small-study effects and publication bias ([[funnel-plots|lesson]]).
+- **Forest plots** for meta-analyses and subgroup analyses ([lesson](07-forest-plots.md)).
+- **Kaplan-Meier curves** for survival and time-to-event data ([lesson](08-kaplan-meier-curves.md)).
+- **Funnel plots** for detecting small-study effects and publication bias ([lesson](09-funnel-plots.md)).
 
-Others you will meet include **ROC curves** for diagnostic tests ([[sensitivity-and-specificity|sensitivity and specificity]]), **Bland-Altman plots** for comparing two measurement methods (introduced by Martin Bland and Douglas Altman in *The Lancet* in 1986), and **Manhattan plots** for genome-wide studies.
+Others you will meet include **ROC curves** for diagnostic tests ([sensitivity and specificity](../02-statistics/15-sensitivity-and-specificity.md)), **Bland-Altman plots** for comparing two measurement methods (introduced by Martin Bland and Douglas Altman in *The Lancet* in 1986), and **Manhattan plots** for genome-wide studies.
 
 ## Graphical tricks to watch for
 
@@ -80,4 +80,4 @@ The statistician Edward Tufte's books, such as *The Visual Display of Quantitati
 
 ## Where this leads
 
-- Next: [[forest-plots|Forest plots]]
+- Next: [Forest plots](07-forest-plots.md)

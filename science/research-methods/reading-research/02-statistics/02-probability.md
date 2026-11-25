@@ -1,6 +1,6 @@
 # Probability
 
-**Prerequisites:** [[variables-and-data|Variables and data]].
+**Prerequisites:** [Variables and data](01-variables-and-data.md).
 
 @@IMG@@
 
@@ -13,9 +13,9 @@ A **probability** is a number between 0 (impossible) and 1 (certain) describing 
 - **Frequentist:** probability is the long-run proportion of times an event happens in repeated trials. A fair coin lands heads with probability 0.5 because, over many tosses, about half are heads.
 - **Bayesian:** probability is a degree of belief, given the available evidence. You can speak of the probability that a particular hypothesis is true, even though it is not a repeatable event.
 
-Most papers in medicine use frequentist methods ([[hypothesis-tests-and-p-values|p-values]] and [[standard-error-and-confidence-intervals|confidence intervals]]), but Bayesian reasoning is essential for interpreting them, as you will see in [[base-rates-and-bayes-theorem|base rates and Bayes' theorem]].
+Most papers in medicine use frequentist methods ([p-values](08-hypothesis-tests-and-p-values.md) and [confidence intervals](07-standard-error-and-confidence-intervals.md)), but Bayesian reasoning is essential for interpreting them, as you will see in [base rates and Bayes' theorem](14-base-rates-and-bayes-theorem.md).
 
-The mathematics itself began with gambling. In 1654 Blaise Pascal and Pierre de Fermat corresponded about how to divide the stakes of an interrupted game of chance, and their letters are usually taken as the start of probability theory. There is more on this in the finance course's lesson on [[path:economics/finance/01-foundations/08-probability-and-expected-value.md|probability and expected value]].
+The mathematics itself began with gambling. In 1654 Blaise Pascal and Pierre de Fermat corresponded about how to divide the stakes of an interrupted game of chance, and their letters are usually taken as the start of probability theory. There is more on this in the finance course's lesson on [probability and expected value](../../../../economics/finance/01-foundations/08-probability-and-expected-value.md).
 
 ## Basic rules
 
@@ -36,7 +36,7 @@ Conditional probabilities are not symmetric. P(A | B) is usually *not* equal to 
 - P(positive test | disease): the chance that a person with the disease tests positive.
 - P(disease | positive test): the chance that a person who tested positive has the disease.
 
-These can be very different numbers. If a disease is rare, most positive tests can be false alarms even when the test is good. Confusing the two is so common it has names: the **confusion of the inverse**, or, in courtrooms, the **prosecutor's fallacy**. It returns in [[sensitivity-and-specificity|sensitivity and specificity]].
+These can be very different numbers. If a disease is rare, most positive tests can be false alarms even when the test is good. Confusing the two is so common it has names: the **confusion of the inverse**, or, in courtrooms, the **prosecutor's fallacy**. It returns in [sensitivity and specificity](15-sensitivity-and-specificity.md).
 
 ```mermaid
 flowchart TB
@@ -58,7 +58,7 @@ The psychologist Gerd Gigerenzer and colleagues have shown that people, includin
 
 ## Probability and risk
 
-In health research, the probability of an outcome in a group over a period is called its **risk**: if 30 of 1,000 people have a stroke within five years, the five-year risk is 3%. Risk is a probability; **odds** are a different way of expressing the same information (30 to 970, about 0.031). The difference matters when papers report odds ratios; see [[odds-ratios-and-hazard-ratios|odds ratios and hazard ratios]].
+In health research, the probability of an outcome in a group over a period is called its **risk**: if 30 of 1,000 people have a stroke within five years, the five-year risk is 3%. Risk is a probability; **odds** are a different way of expressing the same information (30 to 970, about 0.031). The difference matters when papers report odds ratios; see [odds ratios and hazard ratios](19-odds-ratios-and-hazard-ratios.md).
 
 ## Key ideas
 
@@ -70,5 +70,5 @@ In health research, the probability of an outcome in a group over a period is ca
 
 ## Where this leads
 
-- Next: [[distributions|Distributions]]
-- Uses: [[base-rates-and-bayes-theorem|Base rates and Bayes' theorem]], [[sensitivity-and-specificity|Sensitivity and specificity]]
+- Next: [Distributions](03-distributions.md)
+- Uses: [Base rates and Bayes' theorem](14-base-rates-and-bayes-theorem.md), [Sensitivity and specificity](15-sensitivity-and-specificity.md)

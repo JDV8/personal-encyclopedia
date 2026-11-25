@@ -1,6 +1,6 @@
 # Statistical power
 
-**Prerequisites:** [[misreading-p-values|Misreading p-values]].
+**Prerequisites:** [Misreading p-values](09-misreading-p-values.md).
 
 @@IMG@@
 
@@ -27,7 +27,7 @@ flowchart LR
 
 ## Sample size calculations
 
-Before a trial begins, its designers should do a **sample size calculation**: given the expected event rate in the control group, the smallest worthwhile effect, the chosen α and the desired power, how many participants are needed? This calculation belongs in the protocol and the [[methods|methods section]]. Things to check:
+Before a trial begins, its designers should do a **sample size calculation**: given the expected event rate in the control group, the smallest worthwhile effect, the chosen α and the desired power, how many participants are needed? This calculation belongs in the protocol and the [methods section](../05-anatomy-of-a-paper/04-methods.md). Things to check:
 
 - Was the assumed effect realistic, or optimistically large (which makes the required sample look smaller)?
 - Did the trial actually recruit the planned number?
@@ -35,7 +35,7 @@ Before a trial begins, its designers should do a **sample size calculation**: gi
 
 ## Low power and null results
 
-An underpowered study that finds "no significant difference" tells you very little. Its confidence interval will usually be wide enough to include both no effect and important effects. Many small trials declared a treatment "ineffective" when they simply could not have detected a plausible benefit. Pooling such trials in a [[meta-analysis|meta-analysis]] is one remedy.
+An underpowered study that finds "no significant difference" tells you very little. Its confidence interval will usually be wide enough to include both no effect and important effects. Many small trials declared a treatment "ineffective" when they simply could not have detected a plausible benefit. Pooling such trials in a [meta-analysis](../03-study-designs/15-meta-analysis.md) is one remedy.
 
 ## Low power and positive results: the winner's curse
 
@@ -66,5 +66,5 @@ Button and colleagues' 2013 paper in *Nature Reviews Neuroscience*, "Power failu
 
 ## Where this leads
 
-- Next: [[effect-sizes|Effect sizes]]
-- Related: [[the-replication-crisis|The replication crisis]]
+- Next: [Effect sizes](11-effect-sizes.md)
+- Related: [The replication crisis](../06-research-integrity/07-the-replication-crisis.md)

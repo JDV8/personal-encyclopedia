@@ -1,6 +1,6 @@
 # Samples and populations
 
-**Prerequisites:** [[variance-and-standard-deviation|Variance and standard deviation]].
+**Prerequisites:** [Variance and standard deviation](05-variance-and-standard-deviation.md).
 
 @@IMG@@
 
@@ -39,9 +39,9 @@ flowchart TB
 
 ## The sampling distribution
 
-Imagine repeating a study an enormous number of times and plotting all the sample means. That imaginary distribution is the **sampling distribution**. Thanks to the [[distributions|central limit theorem]], it is approximately normal, centred on the true parameter, with a spread equal to the **standard error** (SD ÷ √n).
+Imagine repeating a study an enormous number of times and plotting all the sample means. That imaginary distribution is the **sampling distribution**. Thanks to the [central limit theorem](03-distributions.md), it is approximately normal, centred on the true parameter, with a spread equal to the **standard error** (SD ÷ √n).
 
-This imaginary distribution is the key to frequentist statistics. A [[standard-error-and-confidence-intervals|confidence interval]] and a [[hypothesis-tests-and-p-values|p-value]] are both statements about what would happen across these hypothetical repeated studies.
+This imaginary distribution is the key to frequentist statistics. A [confidence interval](07-standard-error-and-confidence-intervals.md) and a [p-value](08-hypothesis-tests-and-p-values.md) are both statements about what would happen across these hypothetical repeated studies.
 
 ## Sample size and the law of large numbers
 
@@ -53,7 +53,7 @@ Daniel Kahneman and Amos Tversky called the common failure to appreciate this th
 
 Sampling error shrinks as samples grow. **Bias** does not. If you survey people about exercise by phoning landlines in the afternoon, you will over-represent retirees, and surveying a million of them will not fix it; you will just get a very precise wrong answer. The 1936 *Literary Digest* poll, which predicted that Alf Landon would beat Franklin Roosevelt from millions of returned ballots drawn largely from telephone directories and car registrations, is the textbook example.
 
-Large datasets ("big data") reduce sampling error but can carry large biases. See [[selection-bias|selection bias]].
+Large datasets ("big data") reduce sampling error but can carry large biases. See [selection bias](../04-causation/04-selection-bias.md).
 
 ## Key ideas
 
@@ -65,5 +65,5 @@ Large datasets ("big data") reduce sampling error but can carry large biases. Se
 
 ## Where this leads
 
-- Next: [[standard-error-and-confidence-intervals|Standard error and confidence intervals]]
-- Related: [[selection-bias|Selection bias]]
+- Next: [Standard error and confidence intervals](07-standard-error-and-confidence-intervals.md)
+- Related: [Selection bias](../04-causation/04-selection-bias.md)

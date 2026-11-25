@@ -1,10 +1,10 @@
 # Hypothesis tests and p-values
 
-**Prerequisites:** [[standard-error-and-confidence-intervals|Standard error and confidence intervals]].
+**Prerequisites:** [Standard error and confidence intervals](07-standard-error-and-confidence-intervals.md).
 
 @@IMG@@
 
-The p-value is the most reported and most misunderstood number in science. This lesson explains what it actually measures. The next lesson, [[misreading-p-values|misreading p-values]], catalogues the ways it is misused.
+The p-value is the most reported and most misunderstood number in science. This lesson explains what it actually measures. The next lesson, [misreading p-values](09-misreading-p-values.md), catalogues the ways it is misused.
 
 ## The logic of a significance test
 
@@ -43,7 +43,7 @@ A test can go wrong in two ways:
 | Reject null ("significant") | **Type I error** (false positive), probability α | Correct |
 | Don't reject null | Correct | **Type II error** (false negative), probability β |
 
-The significance level α (usually 0.05) is the false-positive rate *when the null is true*. The probability of correctly detecting a real effect, 1 − β, is the [[statistical-power|power]] of the study. Small studies have low power and miss real effects often.
+The significance level α (usually 0.05) is the false-positive rate *when the null is true*. The probability of correctly detecting a real effect, 1 − β, is the [power](10-statistical-power.md) of the study. Small studies have low power and miss real effects often.
 
 ## One-sided and two-sided tests
 
@@ -60,7 +60,7 @@ The American Statistical Association's 2016 statement on p-values, written by Ro
 5. A p-value does not measure the size of an effect or the importance of a result.
 6. By itself, a p-value does not provide a good measure of evidence regarding a model or hypothesis.
 
-Each of these is unpacked in the [[misreading-p-values|next lesson]].
+Each of these is unpacked in the [next lesson](09-misreading-p-values.md).
 
 ## Common tests you will see named
 
@@ -82,5 +82,5 @@ You do not need to know the formulas. You need to know that each produces a p-va
 
 ## Where this leads
 
-- Next: [[misreading-p-values|Misreading p-values]]
-- Then: [[statistical-power|Statistical power]]
+- Next: [Misreading p-values](09-misreading-p-values.md)
+- Then: [Statistical power](10-statistical-power.md)

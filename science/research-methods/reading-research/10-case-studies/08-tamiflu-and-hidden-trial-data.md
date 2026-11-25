@@ -1,6 +1,6 @@
 # Case study: Tamiflu and hidden trial data
 
-**Prerequisites:** [[systematic-reviews|Systematic reviews]], [[publication-bias|Publication bias]] and [[cochrane-and-grade|Cochrane and GRADE]].
+**Prerequisites:** [Systematic reviews](../03-study-designs/14-systematic-reviews.md), [Publication bias](../06-research-integrity/06-publication-bias.md) and [Cochrane and GRADE](../03-study-designs/16-cochrane-and-grade.md).
 
 @@IMG@@
 
@@ -41,9 +41,9 @@ Health agencies continue to recommend antivirals for some groups, such as hospit
 ## Why the case matters
 
 - **Journal articles are not the full data.** CSRs contain information about methods, outcomes and harms that never reaches publications.
-- **Unpublished trials undermine meta-analyses.** A review is only as good as the data it can access ([[publication-bias|publication bias]]).
+- **Unpublished trials undermine meta-analyses.** A review is only as good as the data it can access ([publication bias](../06-research-integrity/06-publication-bias.md)).
 - **Transparency policy changed.** The case contributed to the European Medicines Agency's 2014 policy on publishing clinical data and to the AllTrials campaign, launched in 2013, calling for all trials to be registered and reported.
-- **Different analyses can reach different conclusions** depending on the question and population, and on who funds and conducts them ([[weighing-conflicts-without-ad-hominem|weighing conflicts]]).
+- **Different analyses can reach different conclusions** depending on the question and population, and on who funds and conducts them ([weighing conflicts](../08-funding-and-conflicts/05-weighing-conflicts-without-ad-hominem.md)).
 
 ## Key ideas
 
@@ -55,4 +55,4 @@ Health agencies continue to recommend antivirals for some groups, such as hospit
 
 ## Where this leads
 
-- Next: [[power-posing|Power posing]]
+- Next: [Power posing](09-power-posing.md)

@@ -1,6 +1,6 @@
 # Variance and standard deviation
 
-**Prerequisites:** [[mean-median-and-mode|Mean, median and mode]].
+**Prerequisites:** [Mean, median and mode](04-mean-median-and-mode.md).
 
 @@IMG@@
 
@@ -25,7 +25,7 @@ Variance is in squared units (mmHg², kg²), which is awkward to interpret. So r
 
 ## Standard deviation
 
-The **standard deviation** (SD) is the square root of the variance. In the example, √4 = 2. It is in the same units as the data, so "mean systolic blood pressure 130 mmHg (SD 15)" tells you that most people's values are within about 15 to 30 mmHg of 130. If the data are roughly normal, about 95% of people fall within two SDs of the mean: here, roughly 100 to 160 mmHg (see [[distributions|distributions]]).
+The **standard deviation** (SD) is the square root of the variance. In the example, √4 = 2. It is in the same units as the data, so "mean systolic blood pressure 130 mmHg (SD 15)" tells you that most people's values are within about 15 to 30 mmHg of 130. If the data are roughly normal, about 95% of people fall within two SDs of the mean: here, roughly 100 to 160 mmHg (see [distributions](03-distributions.md)).
 
 ```mermaid
 flowchart TB
@@ -44,14 +44,14 @@ This is the single most common confusion in reading results tables. The **standa
 
 > SE = SD ÷ √n
 
-So with SD = 15 and n = 100, SE = 1.5. As samples grow, the SE shrinks, but the SD does not: people do not become more alike just because you studied more of them. Error bars on graphs may show either one, or a confidence interval, and they look very different. Always check the figure legend. This is developed in [[standard-error-and-confidence-intervals|standard error and confidence intervals]].
+So with SD = 15 and n = 100, SE = 1.5. As samples grow, the SE shrinks, but the SD does not: people do not become more alike just because you studied more of them. Error bars on graphs may show either one, or a confidence interval, and they look very different. Always check the figure legend. This is developed in [standard error and confidence intervals](07-standard-error-and-confidence-intervals.md).
 
 ## Why spread matters for reading research
 
-- **Noise and detectability.** The more individuals vary, the harder it is to detect a given average effect, and the larger the study needs to be ([[statistical-power|statistical power]]).
-- **Standardised effect sizes.** Many [[effect-sizes|effect sizes]], such as Cohen's d, are expressed in standard deviation units: "the intervention improved scores by 0.3 SD".
-- **Heterogeneity.** In meta-analysis, variance *between* studies tells you whether studies agree; see [[meta-analysis|meta-analysis]].
-- **Risk and volatility.** The finance course uses the same idea to measure investment risk; see [[path:economics/finance/01-foundations/09-variance-and-standard-deviation.md|variance and standard deviation in finance]].
+- **Noise and detectability.** The more individuals vary, the harder it is to detect a given average effect, and the larger the study needs to be ([statistical power](10-statistical-power.md)).
+- **Standardised effect sizes.** Many [effect sizes](11-effect-sizes.md), such as Cohen's d, are expressed in standard deviation units: "the intervention improved scores by 0.3 SD".
+- **Heterogeneity.** In meta-analysis, variance *between* studies tells you whether studies agree; see [meta-analysis](../03-study-designs/15-meta-analysis.md).
+- **Risk and volatility.** The finance course uses the same idea to measure investment risk; see [variance and standard deviation in finance](../../../../economics/finance/01-foundations/09-variance-and-standard-deviation.md).
 
 ## Coefficient of variation
 
@@ -67,4 +67,4 @@ The **coefficient of variation** is the SD divided by the mean, often as a perce
 
 ## Where this leads
 
-- Next: [[samples-and-populations|Samples and populations]]
+- Next: [Samples and populations](06-samples-and-populations.md)

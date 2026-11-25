@@ -1,6 +1,6 @@
 # Case study: the Cardiac Arrhythmia Suppression Trial
 
-**Prerequisites:** [[surrogate-endpoints|Surrogate endpoints]] and [[randomised-controlled-trials|Randomised controlled trials]].
+**Prerequisites:** [Surrogate endpoints](../09-from-lab-to-headline/02-surrogate-endpoints.md) and [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md).
 
 @@IMG@@
 
@@ -40,7 +40,7 @@ flowchart LR
 
 ## Why the surrogate failed
 
-The drugs suppressed PVCs but also had **pro-arrhythmic** effects, making dangerous arrhythmias more likely in hearts damaged by infarction. The surrogate (PVC count) captured the intended effect but not the harm. This fits Fleming and DeMets's account of how surrogates fail ([[surrogate-endpoints|surrogate endpoints]]).
+The drugs suppressed PVCs but also had **pro-arrhythmic** effects, making dangerous arrhythmias more likely in hearts damaged by infarction. The surrogate (PVC count) captured the intended effect but not the harm. This fits Fleming and DeMets's account of how surrogates fail ([surrogate endpoints](../09-from-lab-to-headline/02-surrogate-endpoints.md)).
 
 ## The scale of harm
 
@@ -65,4 +65,4 @@ CAST changed regulatory thinking about surrogates and is still taught to medical
 
 ## Where this leads
 
-- Next: [[hormone-replacement-therapy-and-the-whi|Hormone replacement therapy and the WHI]]
+- Next: [Hormone replacement therapy and the WHI](04-hormone-replacement-therapy-and-the-whi.md)

@@ -1,6 +1,6 @@
 # Discussion, limitations and spin
 
-**Prerequisites:** [[funnel-plots|Funnel plots]] and [[title-and-abstract|Title and abstract]].
+**Prerequisites:** [Funnel plots](09-funnel-plots.md) and [Title and abstract](02-title-and-abstract.md).
 
 @@IMG@@
 
@@ -49,7 +49,7 @@ Isabelle Boutron, Philippe Ravaud and colleagues have studied spin extensively. 
 
 ## Spin can go both ways
 
-Spin is not only for exaggerating benefits. Authors can also spin results to **minimise harms**, to defend an established practice, to discredit a rival hypothesis, or to support a policy position. A paper finding an inconvenient association might bury it under qualifications; a paper with a welcome null result might overstate its precision. Apply the same scrutiny whichever direction the spin runs ([[why-reading-research-is-hard|why reading research is hard]]).
+Spin is not only for exaggerating benefits. Authors can also spin results to **minimise harms**, to defend an established practice, to discredit a rival hypothesis, or to support a policy position. A paper finding an inconvenient association might bury it under qualifications; a paper with a welcome null result might overstate its precision. Apply the same scrutiny whichever direction the spin runs ([why reading research is hard](../01-foundations/06-why-reading-research-is-hard.md)).
 
 ## "More research is needed"
 
@@ -57,7 +57,7 @@ Many discussions end by calling for more research. Sometimes this is right: the 
 
 ## Comparing with other evidence
 
-The most useful part of a discussion is often its comparison with previous work. Good discussions explain why this study's results might differ from others (different populations, designs, doses, follow-up). Bad discussions cite only agreeing studies. Check whether a systematic review on the question exists, and whether this study's result is consistent with it ([[single-studies-and-the-weight-of-evidence|single studies and the weight of evidence]]).
+The most useful part of a discussion is often its comparison with previous work. Good discussions explain why this study's results might differ from others (different populations, designs, doses, follow-up). Bad discussions cite only agreeing studies. Check whether a systematic review on the question exists, and whether this study's result is consistent with it ([single studies and the weight of evidence](../09-from-lab-to-headline/06-single-studies-and-the-weight-of-evidence.md)).
 
 ## Key ideas
 
@@ -69,4 +69,4 @@ The most useful part of a discussion is often its comparison with previous work.
 
 ## Where this leads
 
-- Next: [[supplementary-material-and-data|Supplementary material and data]]
+- Next: [Supplementary material and data](11-supplementary-material-and-data.md)

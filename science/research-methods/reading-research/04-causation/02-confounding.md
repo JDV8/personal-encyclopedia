@@ -1,6 +1,6 @@
 # Confounding
 
-**Prerequisites:** [[correlation-and-causation|Correlation and causation]].
+**Prerequisites:** [Correlation and causation](01-correlation-and-causation.md).
 
 @@IMG@@
 
@@ -44,13 +44,13 @@ At the **design** stage:
 - **Randomisation** (in trials) balances all confounders on average.
 - **Restriction**: study only one group (for example, only non-smokers), which removes confounding by that variable but limits generalisability.
 - **Matching**: choose comparison subjects similar in key confounders.
-- **Self-controlled designs** compare people with themselves ([[self-controlled-case-series|SCCS]]).
+- **Self-controlled designs** compare people with themselves ([SCCS](../03-study-designs/11-self-controlled-case-series.md)).
 - **Natural experiments** and active comparators: compare two treatments for the same condition rather than treatment versus no treatment, so the groups are more alike.
 
 At the **analysis** stage:
 
 - **Stratification**: analyse within levels of the confounder.
-- **Regression adjustment** and **propensity scores** ([[regression-and-adjustment|regression and adjustment]]).
+- **Regression adjustment** and **propensity scores** ([regression and adjustment](../02-statistics/18-regression-and-adjustment.md)).
 
 None of the analysis methods can handle confounders that were not measured.
 
@@ -72,5 +72,5 @@ When you read an observational result, ask: **who gets this exposure, and why?**
 
 ## Where this leads
 
-- Next: [[reverse-causation|Reverse causation]]
-- Related: [[causal-diagrams|Causal diagrams]]
+- Next: [Reverse causation](03-reverse-causation.md)
+- Related: [Causal diagrams](10-causal-diagrams.md)

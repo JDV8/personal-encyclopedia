@@ -1,6 +1,6 @@
 # Who pays for research
 
-**Prerequisites:** [[retractions-and-corrections|Retractions and corrections]] and [[norms-of-science|The norms of science]].
+**Prerequisites:** [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md) and [The norms of science](../01-foundations/04-norms-of-science.md).
 
 @@IMG@@
 
@@ -12,7 +12,7 @@ Research is expensive. Someone pays for the scientists, the laboratories, the pa
 - **Industry**: pharmaceutical, biotechnology and medical device companies fund most clinical trials of new products, because regulators require trials before approval. Food, chemical, energy, technology and other industries also fund research relevant to their products.
 - **Charities and foundations**: such as the Wellcome Trust, the Bill & Melinda Gates Foundation, the Howard Hughes Medical Institute, cancer and heart charities, and patient advocacy organisations.
 - **Universities and hospitals** from their own funds.
-- **Advocacy groups, activist organisations and law firms**, which sometimes fund studies relevant to campaigns or litigation ([[activist-and-litigation-funded-research|activist and litigation-funded research]]).
+- **Advocacy groups, activist organisations and law firms**, which sometimes fund studies relevant to campaigns or litigation ([activist and litigation-funded research](07-activist-and-litigation-funded-research.md)).
 
 ## The scale of industry funding
 
@@ -47,13 +47,13 @@ Contracts between sponsors and academic investigators have sometimes given spons
 
 ## Public funders have interests too
 
-Government funding is often treated as neutral, but agencies have priorities, political pressures and institutional commitments. Agencies that recommend a public health measure may have a reputational stake in studies of it. Academic researchers funded by public grants have career interests in positive, novel findings and in their own theories ([[non-financial-conflicts|non-financial conflicts]]). These interests are usually weaker and more diffuse than a company's interest in its product, but they are real.
+Government funding is often treated as neutral, but agencies have priorities, political pressures and institutional commitments. Agencies that recommend a public health measure may have a reputational stake in studies of it. Academic researchers funded by public grants have career interests in positive, novel findings and in their own theories ([non-financial conflicts](06-non-financial-conflicts.md)). These interests are usually weaker and more diffuse than a company's interest in its product, but they are real.
 
 ## Where to find funding information
 
 - The paper's **funding statement** and **role of the funder** statement (did the funder design the study, analyse the data, write the paper?).
-- **Conflict of interest declarations** for each author ([[what-a-conflict-of-interest-is|what a conflict of interest is]]).
-- **Trial registries**, which list sponsors and collaborators ([[trial-registries|trial registries]]).
+- **Conflict of interest declarations** for each author ([what a conflict of interest is](02-what-a-conflict-of-interest-is.md)).
+- **Trial registries**, which list sponsors and collaborators ([trial registries](../06-research-integrity/02-trial-registries.md)).
 - **Payment databases**: in the United States, the federal **Open Payments** database, created under the Physician Payments Sunshine Act (part of the 2010 Affordable Care Act), publishes industry payments to physicians and teaching hospitals.
 
 ## Key ideas
@@ -66,4 +66,4 @@ Government funding is often treated as neutral, but agencies have priorities, po
 
 ## Where this leads
 
-- Next: [[what-a-conflict-of-interest-is|What a conflict of interest is]]
+- Next: [What a conflict of interest is](02-what-a-conflict-of-interest-is.md)

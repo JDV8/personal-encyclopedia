@@ -1,6 +1,6 @@
 # Reporting checklists
 
-**Prerequisites:** [[supplementary-material-and-data|Supplementary material and data]].
+**Prerequisites:** [Supplementary material and data](11-supplementary-material-and-data.md).
 
 @@IMG@@
 
@@ -8,7 +8,7 @@ Many papers fail to report the details needed to judge them. **Reporting guideli
 
 ## Why they exist
 
-In the 1990s, studies of published trials found that basic information, such as how randomisation was done or whether allocation was concealed, was often missing. Kenneth Schulz and colleagues showed in 1995 that trials with unclear or inadequate concealment reported larger effects ([[blinding-placebos-and-allocation-concealment|allocation concealment]]). In response, a group of trialists and editors published the first **CONSORT** statement in 1996. Many other guidelines followed. The **EQUATOR Network** (Enhancing the QUAlity and Transparency Of health Research), launched in 2008, maintains a searchable library of hundreds of reporting guidelines.
+In the 1990s, studies of published trials found that basic information, such as how randomisation was done or whether allocation was concealed, was often missing. Kenneth Schulz and colleagues showed in 1995 that trials with unclear or inadequate concealment reported larger effects ([allocation concealment](../03-study-designs/08-blinding-placebos-and-allocation-concealment.md)). In response, a group of trialists and editors published the first **CONSORT** statement in 1996. Many other guidelines followed. The **EQUATOR Network** (Enhancing the QUAlity and Transparency Of health Research), launched in 2008, maintains a searchable library of hundreds of reporting guidelines.
 
 ## The main guidelines
 
@@ -70,7 +70,7 @@ Reporting guidelines improve **reporting**, not necessarily **conduct**. A well-
 
 ## Risk-of-bias tools
 
-Distinct from reporting guidelines are **risk-of-bias tools**, which judge how well a study was *conducted*: the Cochrane **RoB 2** tool for randomised trials, **ROBINS-I** for non-randomised studies of interventions, and **QUADAS-2** for diagnostic accuracy studies. Systematic reviews use these to rate each included study ([[systematic-reviews|systematic reviews]]).
+Distinct from reporting guidelines are **risk-of-bias tools**, which judge how well a study was *conducted*: the Cochrane **RoB 2** tool for randomised trials, **ROBINS-I** for non-randomised studies of interventions, and **QUADAS-2** for diagnostic accuracy studies. Systematic reviews use these to rate each included study ([systematic reviews](../03-study-designs/14-systematic-reviews.md)).
 
 ## Key ideas
 
@@ -82,4 +82,4 @@ Distinct from reporting guidelines are **risk-of-bias tools**, which judge how w
 
 ## Where this leads
 
-- Next section: [[sec:06-research-integrity|Research integrity]], starting with [[preregistration|preregistration]]
+- Next section: [Research integrity](../06-research-integrity/README.md), starting with [preregistration](../06-research-integrity/01-preregistration.md)
