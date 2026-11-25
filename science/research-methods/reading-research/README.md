@@ -36,6 +36,7 @@ The course tries to be even-handed. It shows how industry funding has distorted 
 - Philosophy of science: [Karl Popper](../../../philosophy/history/modern/twentieth-century/thinkers/karl-popper.md), [Thomas Kuhn](../../../philosophy/history/modern/twentieth-century/thinkers/thomas-kuhn.md), [Francis Bacon](../../../philosophy/history/modern/early-modern/thinkers/francis-bacon.md), [David Hume](../../../philosophy/history/modern/early-modern/thinkers/david-hume.md).
 - Probability and variance in finance: [probability and expected value](../../../economics/finance/01-foundations/08-probability-and-expected-value.md), [variance and standard deviation](../../../economics/finance/01-foundations/09-variance-and-standard-deviation.md).
 - Cognitive biases: [heuristics and biases](../../../economics/microeconomics/09-behavioural-economics/03-heuristics-and-biases.md).
+- Applied case: the [vaccines course](../../../medicine/immunology/vaccines/README.md), whose adverse-events, controversies and conflicts-of-interest lessons apply these methods.
 
 ## References & further reading
 

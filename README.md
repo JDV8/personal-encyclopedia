@@ -76,6 +76,13 @@ personal-encyclopedia/
           new-testament/   survey lessons, stories/, books/ (all 27)
           deuterocanon/    Catholic and common Orthodox extras
           glossary/        228 entries (people, places, terms, themes)
+  medicine/
+    microbiology/      Cells, bacteria, viruses, parasites, infection, toxins
+    immunology/        Innate and adaptive immunity, memory, when immunity goes wrong
+      vaccines/        10 sections: how vaccines work, regulation, 29 diseases, history, schedules,
+                       adverse events, controversies, litigation, public health and ethics, people
+    epidemiology/      Measuring disease, study designs, bias, herd immunity, surveillance
+    glossary/          239 entries in five topical folders
   science/
     research-methods/
       reading-research/   108 lessons in 11 sections, plus a 193-entry glossary
@@ -93,6 +100,8 @@ Start here:
 4. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), its [book overviews](religion/abrahamic/christianity/bible/old-testament/books/README.md), and the [glossary](religion/abrahamic/christianity/bible/glossary/README.md).
 5. [Science](science/README.md) — the [reading scientific research course](science/research-methods/reading-research/README.md): statistics, study designs, causation, the anatomy of a paper, research integrity, peer review, funding and conflicts of interest, case studies and a step-by-step checklist, with its [glossary](science/research-methods/reading-research/glossary/README.md).
 
+6. [Medicine](medicine/README.md) — foundations in [microbiology](medicine/microbiology/README.md), [immunology](medicine/immunology/README.md) and [epidemiology](medicine/epidemiology/README.md), then the [vaccines course](medicine/immunology/vaccines/README.md) (how vaccines work, regulation, diseases, history, schedules, adverse events, controversies, litigation and compensation, public health and ethics, people), with its [glossary](medicine/glossary/README.md).
+
 Future topics should be added as new branches of this tree (for example `engineering/mechanical/…`), not as loose files at the root.
 
 ## References & further reading
@@ -104,3 +113,4 @@ Future topics should be added as new branches of this tree (for example `enginee
 - N. Gregory Mankiw, *Principles of Microeconomics* (Beginner). A first book for the microeconomics course.
 - Burton G. Malkiel, *A Random Walk Down Wall Street* (Beginner). A first book for the finance branch under economics.
 - Trisha Greenhalgh, *How to Read a Paper* (Beginner). A first book for the reading-research course under science.
+- Philipp Dettmer, *Immune* (Beginner). A first book for the medicine branch, before the vaccines course.
