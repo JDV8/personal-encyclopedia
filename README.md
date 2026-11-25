@@ -76,6 +76,13 @@ personal-encyclopedia/
           new-testament/   survey lessons, stories/, books/ (all 27)
           deuterocanon/    Catholic and common Orthodox extras
           glossary/        228 entries (people, places, terms, themes)
+  science/
+    research-methods/
+      reading-research/   108 lessons in 11 sections, plus a 193-entry glossary
+        01-foundations/ … 04-causation/   Science, statistics, study designs, causation and bias
+        05-anatomy-of-a-paper/ … 07-publishing/   Papers, integrity, replication, peer review
+        08-funding-and-conflicts/   Who pays, COI evidence, disclosure, weighing without ad hominem
+        09-from-lab-to-headline/ 10-case-studies/ 11-practice/   News, surrogates, cases, worked examples
 ```
 
 Start here:
@@ -84,6 +91,7 @@ Start here:
 2. [Ancient philosophy](philosophy/history/ancient/README.md) — then either the [Greek](philosophy/history/ancient/greek/README.md) or [Chinese](philosophy/history/ancient/chinese/README.md) path, and the [comparison](philosophy/history/ancient/greek-and-chinese-compared.md) after both. Then [medieval](philosophy/history/medieval/README.md) and [modern philosophy](philosophy/history/modern/README.md), from Descartes and Kant to Nietzsche, Jung, Girard, C. S. Lewis and Roger Scruton.
 3. [Economics](economics/README.md) — the [microeconomics course](economics/microeconomics/README.md) (scarcity, supply and demand, consumer and producer theory, market structures and game theory, market failure, welfare, behavioural economics, history of thought) and its [glossary](economics/microeconomics/glossary/README.md), then the [finance course](economics/finance/README.md) (time value, stocks, bonds, funds, derivatives, markets, regulation, portfolios, behaviour, history, investing in Canada) and its [glossary](economics/finance/glossary/README.md).
 4. [Religion](religion/README.md) — then [the Bible](religion/abrahamic/christianity/bible/README.md), its [book overviews](religion/abrahamic/christianity/bible/old-testament/books/README.md), and the [glossary](religion/abrahamic/christianity/bible/glossary/README.md).
+5. [Science](science/README.md) — the [reading scientific research course](science/research-methods/reading-research/README.md): statistics, study designs, causation, the anatomy of a paper, research integrity, peer review, funding and conflicts of interest, case studies and a step-by-step checklist, with its [glossary](science/research-methods/reading-research/glossary/README.md).
 
 Future topics should be added as new branches of this tree (for example `engineering/mechanical/…`), not as loose files at the root.
 
@@ -95,3 +103,4 @@ Future topics should be added as new branches of this tree (for example `enginee
 - John Barton, *A History of the Bible: The Book and Its Faiths* (Intermediate). A careful, readable overview of how the biblical library formed.
 - N. Gregory Mankiw, *Principles of Microeconomics* (Beginner). A first book for the microeconomics course.
 - Burton G. Malkiel, *A Random Walk Down Wall Street* (Beginner). A first book for the finance branch under economics.
+- Trisha Greenhalgh, *How to Read a Paper* (Beginner). A first book for the reading-research course under science.
