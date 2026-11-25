@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Relative and absolute risk](12-relative-and-absolute-risk.md).
 
-@@IMG@@
+![Illustration of the number needed to treat](images/13-number-needed-to-treat.jpg)
+
+*Illustration of the number needed to treat. Credit: Stetzy. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Nnt-explained2.png](https://commons.wikimedia.org/wiki/File:Nnt-explained2.png).*
 
 Absolute risk reductions are honest but abstract: "a 1.5 percentage point reduction" is hard to picture. The **number needed to treat** turns them into something concrete: how many people must take a treatment for one of them to benefit.
 

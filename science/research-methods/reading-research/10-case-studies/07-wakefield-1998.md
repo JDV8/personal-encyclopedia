@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Case reports and case series](../03-study-designs/02-case-reports-and-case-series.md), [Activist and litigation-funded research](../08-funding-and-conflicts/07-activist-and-litigation-funded-research.md) and [Fraud and misconduct](../06-research-integrity/08-fraud-and-misconduct.md).
 
-@@IMG@@
+![Illustration of measles; MMR uptake fell and measles returned after the Wakefield scare](images/07-wakefield-1998.jpg)
+
+*Illustration of measles; MMR uptake fell and measles returned after the Wakefield scare. Credit: Chidiebere Ibe. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Measles Illustration IMG.jpg](https://commons.wikimedia.org/wiki/File:Measles_Illustration_IMG.jpg).*
 
 In February 1998 *The Lancet* published a paper by Andrew Wakefield and 12 co-authors describing 12 children with bowel inflammation and developmental regression, including autism. The parents of eight of the children were reported to associate the onset of symptoms with the measles, mumps and rubella (MMR) vaccine. The paper itself said it did not prove an association, but at a press conference Wakefield suggested that single vaccines might be safer than the combined MMR. The paper was later found to be fraudulent and retracted, but its effects on vaccine confidence lasted for decades.
 

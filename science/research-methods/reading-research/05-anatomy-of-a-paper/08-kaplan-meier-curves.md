@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Forest plots](07-forest-plots.md) and [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md).
 
-@@IMG@@
+![Kaplan-Meier survival curves for two groups](images/08-kaplan-meier-curves.jpg)
+
+*Kaplan-Meier survival curves for two groups. Credit: Accountalive. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Kaplan-Meier-sample-plot.svg](https://commons.wikimedia.org/wiki/File:Kaplan-Meier-sample-plot.svg).*
 
 When a study follows people over time to see when an event happens (death, relapse, infection, hospital admission), its results are usually shown as **Kaplan-Meier curves**. They are named after Edward Kaplan and Paul Meier, whose 1958 paper in the *Journal of the American Statistical Association* set out the method. It became one of the most cited statistics papers ever published.
 

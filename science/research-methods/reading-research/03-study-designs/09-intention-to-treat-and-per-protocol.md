@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Blinding, placebos and allocation concealment](08-blinding-placebos-and-allocation-concealment.md).
 
-@@IMG@@
+![A CONSORT flow diagram from a published trial, showing participants allocated, lost and analysed](images/09-intention-to-treat-and-per-protocol.jpg)
+
+*A CONSORT flow diagram from a published trial, showing participants allocated, lost and analysed. Credit: Authors of the study: Huating Li, Lei Zhang, Jun Li, Qian Wu, Lingling Qian, Junsheng He, Yueqiong Ni, Petia Kovatcheva-Datchary, Rui Yuan, . License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:CONSORT flow diagram illustrating the procedures for enrolment, intervention allocation, follow-up and data analysis of the study about resistant starch for weight loss.webp](https://commons.wikimedia.org/wiki/File:CONSORT_flow_diagram_illustrating_the_procedures_for_enrolment,_intervention_allocation,_follow-up_and_data_analysis_of_the_study_about_resistant_starch_for_weight_loss.webp).*
 
 In real trials, not everyone does what they were assigned to do. Some stop taking the pill; some in the control group get the treatment elsewhere; some drop out entirely. How a trial handles these people can change its answer, and the choice is a frequent source of quiet bias.
 

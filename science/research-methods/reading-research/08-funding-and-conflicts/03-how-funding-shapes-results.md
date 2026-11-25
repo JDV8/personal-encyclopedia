@@ -2,7 +2,9 @@
 
 **Prerequisites:** [What a conflict of interest is](02-what-a-conflict-of-interest-is.md) and [Meta-analysis](../03-study-designs/15-meta-analysis.md).
 
-@@IMG@@
+![Chart of non-research payments from industry to healthcare professionals](images/03-how-funding-shapes-results.jpg)
+
+*Chart of non-research payments from industry to healthcare professionals. Credit: Authors of the study: Shai Mulinari, Luc Martinon, Pierre-Alain Jachiet, Piotr Ozieranski. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Non-R&D payments to healthcare professionals from 15 large pharmaceutical companies.jpg](https://commons.wikimedia.org/wiki/File:Non-R&D_payments_to_healthcare_professionals_from_15_large_pharmaceutical_companies.jpg).*
 
 Does funding actually change what research finds? This is an empirical question, and it has been studied extensively. The short answer from the best evidence is **yes, on average**, though not always in obvious ways, and not in a way that lets you dismiss any individual study.
 

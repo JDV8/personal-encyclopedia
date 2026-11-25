@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Standard error and confidence intervals](07-standard-error-and-confidence-intervals.md).
 
-@@IMG@@
+![The p-value as the probability of data at least as extreme as those observed, if the null hypothesis were true](images/08-hypothesis-tests-and-p-values.jpg)
+
+*The p-value as the probability of data at least as extreme as those observed, if the null hypothesis were true. Credit: User:Repapetilto @ Wikipedia &amp; User:Chen-Pan Liao @ Wikipedia. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:P-value in statistical significance testing.svg](https://commons.wikimedia.org/wiki/File:P-value_in_statistical_significance_testing.svg).*
 
 The p-value is the most reported and most misunderstood number in science. This lesson explains what it actually measures. The next lesson, [misreading p-values](09-misreading-p-values.md), catalogues the ways it is misused.
 

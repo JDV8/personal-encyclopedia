@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Outcome switching](03-outcome-switching.md) and [Misreading p-values](../02-statistics/09-misreading-p-values.md).
 
-@@IMG@@
+![A garden path splitting in several directions, evoking the 'garden of forking paths' in data analysis](images/04-p-hacking.jpg)
+
+*A garden path splitting in several directions, evoking the 'garden of forking paths' in data analysis. Credit: Robert Couse-Baker from Sacramento, California. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:The garden of forking paths - Flickr - Robert Couse-Baker.jpg](https://commons.wikimedia.org/wiki/File:The_garden_of_forking_paths_-_Flickr_-_Robert_Couse-Baker.jpg).*
 
 **P-hacking** means analysing data in multiple ways and selectively reporting the analyses that produce statistically significant results. It is usually not deliberate fraud. Most researchers who p-hack believe they are finding the "right" analysis. But the effect is the same: false positives become far more common than the nominal 5%.
 

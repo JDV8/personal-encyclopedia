@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Surrogate endpoints](../09-from-lab-to-headline/02-surrogate-endpoints.md) and [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md).
 
-@@IMG@@
+![ECG showing normal sinus rhythm with premature ventricular and atrial contractions](images/03-the-cardiac-arrhythmia-suppression-trial.jpg)
+
+*ECG showing normal sinus rhythm with premature ventricular and atrial contractions. Credit: YitzhakNat. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:NSR and Ectopic beats (PVC and PAC).svg](https://commons.wikimedia.org/wiki/File:NSR_and_Ectopic_beats_(PVC_and_PAC).svg).*
 
 The Cardiac Arrhythmia Suppression Trial (CAST) is the classic warning about surrogate endpoints. A treatment that fixed a worrying measurement turned out to kill patients.
 

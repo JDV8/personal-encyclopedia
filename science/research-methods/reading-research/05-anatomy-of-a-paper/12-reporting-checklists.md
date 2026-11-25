@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Supplementary material and data](11-supplementary-material-and-data.md).
 
-@@IMG@@
+![PRISMA flow diagram for reporting how studies were identified and selected in a systematic review](images/12-reporting-checklists.jpg)
+
+*PRISMA flow diagram for reporting how studies were identified and selected in a systematic review. Credit: Atizinha. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:PRISMA flow diagram.svg](https://commons.wikimedia.org/wiki/File:PRISMA_flow_diagram.svg).*
 
 Many papers fail to report the details needed to judge them. **Reporting guidelines** are checklists, developed by groups of methodologists, editors and researchers, that specify what a paper of a given type should include. Most major medical journals require or recommend them. For readers, they double as ready-made appraisal checklists: if a paper omits an item, you know what to look for.
 

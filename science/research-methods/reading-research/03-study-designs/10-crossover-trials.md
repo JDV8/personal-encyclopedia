@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Intention to treat and per-protocol analysis](09-intention-to-treat-and-per-protocol.md).
 
-@@IMG@@
+![A clinical trial participant receiving a study injection](images/10-crossover-trials.jpg)
+
+*A clinical trial participant receiving a study injection. Credit: NIAID. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Clinical Trial Participant Receives Injection (34033294061).jpg](https://commons.wikimedia.org/wiki/File:Clinical_Trial_Participant_Receives_Injection_(34033294061).jpg).*
 
 In an ordinary ("parallel-group") trial, each participant gets one treatment, and outcomes are compared between different people. In a **crossover trial**, each participant receives **both** treatments, one after the other, in random order. Each person acts as their own control.
 

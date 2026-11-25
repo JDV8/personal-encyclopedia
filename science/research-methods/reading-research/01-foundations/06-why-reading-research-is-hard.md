@@ -2,7 +2,9 @@
 
 **Prerequisites:** [How a claim becomes knowledge](05-how-a-claim-becomes-knowledge.md).
 
-@@IMG@@
+![Clever Hans, the horse that appeared to do arithmetic but was responding to unconscious cues from people](images/06-why-reading-research-is-hard.jpg)
+
+*Clever Hans, the horse that appeared to do arithmetic but was responding to unconscious cues from people. Credit: Karl Krall. License: Public domain. Source: [File:Hans 1910.jpg](https://commons.wikimedia.org/wiki/File:Hans_1910.jpg).*
 
 The hardest part of reading research is not the statistics. It is the reader. Everyone comes to a paper with prior beliefs, loyalties and hopes, and the human mind is very good at finding reasons to accept what it likes and reject what it dislikes. This lesson names the main traps so you can watch for them in yourself.
 

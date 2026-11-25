@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Non-financial conflicts](06-non-financial-conflicts.md) and [How funding shapes results](03-how-funding-shapes-results.md).
 
-@@IMG@@
+![The Royal Courts of Justice in London; litigation both funds research and exposes hidden documents](images/07-activist-and-litigation-funded-research.jpg)
+
+*The Royal Courts of Justice in London; litigation both funds research and exposes hidden documents. Credit: This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Royal Courts of Justice 2019.jpg](https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_2019.jpg).*
 
 Discussions of conflicts of interest usually focus on industry. But research can also be funded by parties with the opposite interest: advocacy and activist groups, competitors, lawyers suing a company, and campaigns. These funders also want particular answers. A balanced reader applies the same scrutiny to them.
 

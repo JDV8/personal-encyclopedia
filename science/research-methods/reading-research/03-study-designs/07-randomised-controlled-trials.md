@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Cohort studies](06-cohort-studies.md) and [Observation, measurement and experiment](../01-foundations/03-observation-measurement-and-experiment.md).
 
-@@IMG@@
+![CONSORT flow diagram for a two-group randomised trial: enrolment, allocation, follow-up and analysis](images/07-randomised-controlled-trials.jpg)
+
+*CONSORT flow diagram for a two-group randomised trial: enrolment, allocation, follow-up and analysis. Credit: Derek Jansen. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:CONSORT 2010 flow diagram for a two-group parallel randomized trial.svg](https://commons.wikimedia.org/wiki/File:CONSORT_2010_flow_diagram_for_a_two-group_parallel_randomized_trial.svg).*
 
 In a **randomised controlled trial** (RCT), participants are assigned by chance to receive either the intervention being tested or a comparison. Because chance, not choice, decides who gets what, the groups are alike on average in every way except the intervention. That makes the RCT the most reliable common design for testing whether a treatment works.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Cohort studies](../03-study-designs/06-cohort-studies.md) and [Wakefield 1998](../10-case-studies/07-wakefield-1998.md).
 
-@@IMG@@
+![Main building of Statens Serum Institut in Copenhagen, where the Danish MMR cohort study was conducted](images/04-worked-example-a-cohort-study.jpg)
+
+*Main building of Statens Serum Institut in Copenhagen, where the Danish MMR cohort study was conducted. Credit: Froztbyte. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Statens Serum Institut hovedbygning.JPG](https://commons.wikimedia.org/wiki/File:Statens_Serum_Institut_hovedbygning.JPG).*
 
 This worked example applies the checklist to a large registry-based cohort study: Anders Hviid, Jørgen Vinsløv Hansen, Morten Frisch and Mads Melbye, "Measles, mumps, rubella vaccination and autism: a nationwide cohort study", *Annals of Internal Medicine* 2019;170(8):513–520.
 

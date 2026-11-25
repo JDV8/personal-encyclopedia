@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Systematic reviews](14-systematic-reviews.md) and [Standard error and confidence intervals](../02-statistics/07-standard-error-and-confidence-intervals.md).
 
-@@IMG@@
+![A generic forest plot showing study estimates and a pooled result](images/15-meta-analysis.jpg)
+
+*A generic forest plot showing study estimates and a pooled result. Credit: James Grellier. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Generic forest plot.png](https://commons.wikimedia.org/wiki/File:Generic_forest_plot.png).*
 
 A **meta-analysis** is the statistical combination of results from several studies into a single summary estimate. Done well, it gives a more precise answer than any individual study. Done badly, it gives a precise wrong answer that looks authoritative. The term was coined by the psychologist Gene Glass in 1976.
 

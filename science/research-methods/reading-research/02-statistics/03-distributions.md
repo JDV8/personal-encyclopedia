@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Probability](02-probability.md).
 
-@@IMG@@
+![A right-skewed histogram, with a long tail of high values](images/03-distributions.jpg)
+
+*A right-skewed histogram, with a long tail of high values. Credit: Derek Jansen. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Histogram shape - skewed right.svg](https://commons.wikimedia.org/wiki/File:Histogram_shape_-_skewed_right.svg).*
 
 If you measured the height of every adult in Toronto and plotted how many people fell into each centimetre band, you would get a shape: most people near the middle, fewer at the extremes. That shape is a **distribution**. Distributions are how statistics describes variation, and most of the methods in papers assume something about their shape.
 

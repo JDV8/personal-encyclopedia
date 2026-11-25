@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Crossover trials](10-crossover-trials.md) and [Case reports and case series](02-case-reports-and-case-series.md).
 
-@@IMG@@
+![MMR vaccine; self-controlled case series have been used to study timing of adverse events after MMR](images/11-self-controlled-case-series.jpg)
+
+*MMR vaccine; self-controlled case series have been used to study timing of adverse events after MMR. Credit: Whispyhistory. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:MMR vaccine.jpg](https://commons.wikimedia.org/wiki/File:MMR_vaccine.jpg).*
 
 The **self-controlled case series** (SCCS) is a clever observational design that borrows the crossover trial's best idea, using each person as their own control, and applies it to people who have already had the outcome. It is one of the main tools used to study whether vaccines and drugs cause acute adverse events, so it is worth understanding in some detail.
 

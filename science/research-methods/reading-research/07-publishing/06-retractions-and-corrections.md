@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Predatory journals](05-predatory-journals.md) and [Fraud and misconduct](../06-research-integrity/08-fraud-and-misconduct.md).
 
-@@IMG@@
+![Logo of Retraction Watch, which tracks retractions of scientific papers](images/06-retractions-and-corrections.jpg)
+
+*Logo of Retraction Watch, which tracks retractions of scientific papers. Credit: RetractionWatch. License: Public domain. Source: [File:Retraction Watch logo.webp](https://commons.wikimedia.org/wiki/File:Retraction_Watch_logo.webp).*
 
 Published papers are not final. Errors are found, data turn out to be unreliable, and occasionally fraud is uncovered. Journals have several tools for fixing the record: **corrections**, **expressions of concern** and **retractions**. Knowing how to check for them is one of the simplest and most important habits in reading research.
 

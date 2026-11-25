@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md) and [The norms of science](../01-foundations/04-norms-of-science.md).
 
-@@IMG@@
+![The US National Institutes of Health campus in Bethesda, Maryland, the world's largest public funder of biomedical research](images/01-who-pays-for-research.jpg)
+
+*The US National Institutes of Health campus in Bethesda, Maryland, the world's largest public funder of biomedical research. Credit: Unknown photographer. License: Public domain. Source: [File:NIH campus - aerial.jpg](https://commons.wikimedia.org/wiki/File:NIH_campus_-_aerial.jpg).*
 
 Research is expensive. Someone pays for the scientists, the laboratories, the participants and the years of follow-up, and whoever pays has some influence over what gets studied, how and what gets published. Knowing the main funders and their interests is the starting point for thinking about conflicts of interest.
 

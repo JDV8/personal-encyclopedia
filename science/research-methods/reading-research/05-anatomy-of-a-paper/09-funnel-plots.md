@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Kaplan-Meier curves](08-kaplan-meier-curves.md), [Meta-analysis](../03-study-designs/15-meta-analysis.md) and [Distributions](../02-statistics/03-distributions.md).
 
-@@IMG@@
+![An asymmetric funnel plot, a possible sign of publication bias or small-study effects](images/09-funnel-plots.jpg)
+
+*An asymmetric funnel plot, a possible sign of publication bias or small-study effects. Credit: Sardmeta1. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Funnel plot depicting asymmetry Sept 2015.jpg](https://commons.wikimedia.org/wiki/File:Funnel_plot_depicting_asymmetry_Sept_2015.jpg).*
 
 If a meta-analysis is missing studies because unfavourable results went unpublished, the pooled result will be biased. A **funnel plot** is a simple graphical check for this problem, and for other "small-study effects". It is widely used, and also widely over-interpreted, so it is worth knowing both what it shows and what it cannot.
 

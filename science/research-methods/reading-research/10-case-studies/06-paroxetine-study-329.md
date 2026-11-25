@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Outcome switching](../06-research-integrity/03-outcome-switching.md) and [How funding shapes results](../08-funding-and-conflicts/03-how-funding-shapes-results.md).
 
-@@IMG@@
+![Paroxetine tablet](images/06-paroxetine-study-329.jpg)
+
+*Paroxetine tablet. Credit: Tokino. License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). Source: [File:Paroxetine pill.jpg](https://commons.wikimedia.org/wiki/File:Paroxetine_pill.jpg).*
 
 Study 329 was a trial of the antidepressant paroxetine (Paxil in the US, Seroxat in the UK) in adolescents with depression, sponsored by SmithKline Beecham (later GlaxoSmithKline, GSK). Its 2001 publication presented the drug as effective and well tolerated. A 2015 independent reanalysis of the full data found it was neither. The case is a landmark for outcome switching, ghostwriting, under-reporting of harms and the value of access to raw trial data.
 

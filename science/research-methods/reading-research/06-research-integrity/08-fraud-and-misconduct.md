@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The replication crisis](07-the-replication-crisis.md).
 
-@@IMG@@
+![Reconstruction of 'Piltdown Man', a fossil hoax that misled scientists for four decades](images/08-fraud-and-misconduct.jpg)
+
+*Reconstruction of 'Piltdown Man', a fossil hoax that misled scientists for four decades. Credit: James Howard McGregor. License: Public domain. Source: [File:Piltdown Man - McGregor reconstruction.jpg](https://commons.wikimedia.org/wiki/File:Piltdown_Man_-_McGregor_reconstruction.jpg).*
 
 Most bad science is honest error, poor design or wishful analysis. But some is deliberate. **Research misconduct** is usually defined, following the US Office of Research Integrity, as **fabrication, falsification or plagiarism** (often abbreviated FFP) in proposing, performing, reviewing or reporting research. It is rarer than the problems in earlier lessons, but its cases have had enormous consequences.
 

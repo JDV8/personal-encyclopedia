@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Healthy-user bias](../04-causation/06-healthy-user-bias.md), [Cohort studies](../03-study-designs/06-cohort-studies.md) and [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md).
 
-@@IMG@@
+![Hormone levels with different oestrogen regimens; HRT was widely prescribed before the WHI trial](images/04-hormone-replacement-therapy-and-the-whi.jpg)
+
+*Hormone levels with different oestrogen regimens; HRT was widely prescribed before the WHI trial. Credit: Medgirl131. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Levels of estradiol, estrone, and estrone sulfate following a single 2 mg oral dose of micronized estradiol.png](https://commons.wikimedia.org/wiki/File:Levels_of_estradiol,_estrone,_and_estrone_sulfate_following_a_single_2_mg_oral_dose_of_micronized_estradiol.png).*
 
 For years, observational studies suggested that hormone replacement therapy (HRT, also called menopausal hormone therapy) protected women against heart disease. Many doctors recommended it partly for that reason. A large randomised trial found the opposite. The story is the standard example of how observational evidence can mislead, and also of how a trial result can itself be oversimplified.
 

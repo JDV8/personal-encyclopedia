@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Case-control studies](05-case-control-studies.md).
 
-@@IMG@@
+![Physicians of the Framingham Heart Study, a cohort followed since 1948](images/06-cohort-studies.jpg)
+
+*Physicians of the Framingham Heart Study, a cohort followed since 1948. Credit: NIH History Office from Bethesda. License: Public domain. Source: [File:Framingham Heart Study physicians (26548315418).jpg](https://commons.wikimedia.org/wiki/File:Framingham_Heart_Study_physicians_(26548315418).jpg).*
 
 A **cohort study** identifies a group of people, records their exposures, and follows them over time to see who develops which outcomes. Because exposure is measured *before* the outcome, cohort studies get the time order right, which makes them the strongest common observational design for causal questions.
 

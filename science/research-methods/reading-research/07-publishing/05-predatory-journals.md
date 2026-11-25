@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Preprints](04-preprints.md) and [How journals work](01-how-journals-work.md).
 
-@@IMG@@
+![Recommendations for identifying and avoiding predatory journals](images/05-predatory-journals.jpg)
+
+*Recommendations for identifying and avoiding predatory journals. Credit: Pereira CC, Mello MAR, Negreiros D, Figueiredo JCG, Kenedy-Siqueira W, Maia LR, Fernandes S, Fernandes GFC, Ponce de Leon A, Ashworth L, Oki. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Recommendations for identifying and avoiding the main threats posed by predatory publishers of journals, books and book chapters, as well as organisers of predatory scientific meetings.jpg](https://commons.wikimedia.org/wiki/File:Recommendations_for_identifying_and_avoiding_the_main_threats_posed_by_predatory_publishers_of_journals,_books_and_book_chapters,_as_well_as_organisers_of_predatory_scientific_meetings.jpg).*
 
 **Predatory journals** (also called deceptive or pseudo-journals) charge authors publication fees while providing little or no genuine editorial service or peer review. They exploit the open access business model and researchers' pressure to publish. Their papers can look like legitimate research, appear in search results and be cited in arguments, so readers need to be able to recognise them.
 

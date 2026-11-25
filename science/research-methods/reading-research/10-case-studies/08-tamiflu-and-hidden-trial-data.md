@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Systematic reviews](../03-study-designs/14-systematic-reviews.md), [Publication bias](../06-research-integrity/06-publication-bias.md) and [Cochrane and GRADE](../03-study-designs/16-cochrane-and-grade.md).
 
-@@IMG@@
+![A Tamiflu (oseltamivir) capsule](images/08-tamiflu-and-hidden-trial-data.jpg)
+
+*A Tamiflu (oseltamivir) capsule. Credit: Mk2010. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:A Tamiflu (oseltamivir) capsule.jpg](https://commons.wikimedia.org/wiki/File:A_Tamiflu_(oseltamivir)_capsule.jpg).*
 
 Oseltamivir, sold by Roche as Tamiflu, is an antiviral drug for influenza. Governments around the world stockpiled it for pandemic preparedness, spending large sums. A years-long effort by Cochrane reviewers to obtain the full trial data, and the debate over what those data showed, became a turning point in the movement for clinical trial transparency.
 

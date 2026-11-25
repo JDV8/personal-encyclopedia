@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Measurement and recall bias](07-measurement-and-recall-bias.md) and [Sensitivity, specificity and screening](../02-statistics/15-sensitivity-and-specificity.md).
 
-@@IMG@@
+![James Stewart receiving an Academy Award; studies of Oscar winners' longevity illustrate immortal time bias](images/08-time-related-biases.jpg)
+
+*James Stewart receiving an Academy Award; studies of Oscar winners' longevity illustrate immortal time bias. Credit: https://archive.org/details/1941-03-04_Screen_Notables_Hear_Roosevelt. License: Public domain. Source: [File:James stewart receives academy award 1941.jpg](https://commons.wikimedia.org/wiki/File:James_stewart_receives_academy_award_1941.jpg).*
 
 Some of the most persuasive-looking errors in medical research come from how time is handled. They can make useless treatments look life-saving and useless screening look effective. Because they are subtle, they have fooled researchers in well-regarded journals.
 

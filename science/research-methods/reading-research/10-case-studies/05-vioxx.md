@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Outcome switching](../06-research-integrity/03-outcome-switching.md), [How funding shapes results](../08-funding-and-conflicts/03-how-funding-shapes-results.md) and [Pharmacovigilance](../03-study-designs/13-passive-surveillance-and-pharmacovigilance.md).
 
-@@IMG@@
+![Chemical structure of rofecoxib (Vioxx)](images/05-vioxx.jpg)
+
+*Chemical structure of rofecoxib (Vioxx). Credit: Harbin. License: Public domain. Source: [File:Rofecoxib.svg](https://commons.wikimedia.org/wiki/File:Rofecoxib.svg).*
 
 Rofecoxib, sold by Merck as Vioxx, was a painkiller for arthritis approved by the US FDA in 1999. It was withdrawn worldwide in 2004 after a trial showed it increased the risk of heart attacks and strokes. The case raised questions about how cardiovascular risks were reported, how regulators monitored safety, and how journals handled data.
 

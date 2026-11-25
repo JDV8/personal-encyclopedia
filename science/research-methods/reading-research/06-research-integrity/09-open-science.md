@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Fraud and misconduct](08-fraud-and-misconduct.md) and [Preregistration](01-preregistration.md).
 
-@@IMG@@
+![The pillars of open science as set out by UNESCO](images/09-open-science.jpg)
+
+*The pillars of open science as set out by UNESCO. Credit: UNESCO.org. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:UNESCO-Open science-pillars-en.png](https://commons.wikimedia.org/wiki/File:UNESCO-Open_science-pillars-en.png).*
 
 **Open science** is a broad movement to make research more transparent, accessible and checkable. It grew partly in response to the problems in this section: publication bias, flexible analysis, irreproducible results and occasional fraud. Its central idea goes back to Merton's norm of "communism", the common ownership of scientific knowledge ([the norms of science](../01-foundations/04-norms-of-science.md)): if others can see your materials, data and code, they can find your mistakes.
 

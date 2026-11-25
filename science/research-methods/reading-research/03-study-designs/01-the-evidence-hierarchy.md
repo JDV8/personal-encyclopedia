@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md) and [Observation, measurement and experiment](../01-foundations/03-observation-measurement-and-experiment.md).
 
-@@IMG@@
+![A common pyramid of evidence, from expert opinion at the base to systematic reviews at the top](images/01-the-evidence-hierarchy.jpg)
+
+*A common pyramid of evidence, from expert opinion at the base to systematic reviews at the top. Credit: Jmarchn. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Hierarchy of Evidence-en.svg](https://commons.wikimedia.org/wiki/File:Hierarchy_of_Evidence-en.svg).*
 
 Not all studies are equally good at answering every question. The **evidence hierarchy**, often drawn as a pyramid, ranks study designs by how well they protect against bias when the question is whether something *causes* something else. It is a useful first map, provided you remember what it leaves out.
 

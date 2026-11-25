@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The norms of science](04-norms-of-science.md).
 
-@@IMG@@
+![Ignaz Semmelweis, whose evidence that handwashing reduced childbed fever was resisted for years](images/05-how-a-claim-becomes-knowledge.jpg)
+
+*Ignaz Semmelweis, whose evidence that handwashing reduced childbed fever was resisted for years. Credit: After Jenő Doby's engravig. License: Public domain. Source: [File:Ignaz Semmelweis 1860.jpg](https://commons.wikimedia.org/wiki/File:Ignaz_Semmelweis_1860.jpg).*
 
 A new medical claim usually travels a long road between a researcher's hunch and a fact your doctor relies on. Knowing the stages of that road tells you how much weight a given study can bear. A finding at the start of the road is interesting; a finding at the end has been tested many times by many people.
 

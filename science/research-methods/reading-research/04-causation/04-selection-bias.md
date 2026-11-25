@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Reverse causation](03-reverse-causation.md) and [Samples and populations](../02-statistics/06-samples-and-populations.md).
 
-@@IMG@@
+![Berkson's paradox: selecting on a combination of traits creates a spurious negative association](images/04-selection-bias.jpg)
+
+*Berkson's paradox: selecting on a combination of traits creates a spurious negative association. Credit: Cmglee. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Berkson paradox singers.svg](https://commons.wikimedia.org/wiki/File:Berkson_paradox_singers.svg).*
 
 **Selection bias** occurs when the way people get into a study, or into the analysis, distorts the relationship between exposure and outcome. Unlike confounding, which reflects real differences between groups in the world, selection bias is created by the study's own process of choosing whom to include.
 

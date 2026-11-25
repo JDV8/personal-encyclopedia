@@ -2,7 +2,9 @@
 
 **Prerequisites:** [How funding shapes results](03-how-funding-shapes-results.md).
 
-@@IMG@@
+![Signing a formal declaration; disclosure forms are only as good as what is declared](images/04-disclosure-and-its-limits.jpg)
+
+*Signing a formal declaration; disclosure forms are only as good as what is declared. Credit: Payore1100. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Notary public assisting with document signing.png](https://commons.wikimedia.org/wiki/File:Notary_public_assisting_with_document_signing.png).*
 
 The main way science handles conflicts of interest is **disclosure**: authors declare their financial and other relationships, and readers take them into account. Disclosure is necessary, but research suggests it is far from sufficient, and can sometimes backfire.
 

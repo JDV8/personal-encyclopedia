@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Disclosure and its limits](04-disclosure-and-its-limits.md) and [Why reading research is hard](../01-foundations/06-why-reading-research-is-hard.md).
 
-@@IMG@@
+![A balance scale; conflicts should be weighed alongside the evidence, not used to replace it](images/05-weighing-conflicts-without-ad-hominem.jpg)
+
+*A balance scale; conflicts should be weighed alongside the evidence, not used to replace it. Credit: Nikodem Nijaki. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Balance scale IMGP9755.jpg](https://commons.wikimedia.org/wiki/File:Balance_scale_IMGP9755.jpg).*
 
 Once you know that funding affects results on average, it is tempting to use conflicts as a shortcut: "This study was funded by the manufacturer, so I can ignore it." Or, from the other side: "This critic has ties to activists, so ignore them." Both are versions of the **ad hominem fallacy**: rejecting an argument because of who makes it rather than what it says. This lesson is about using conflict-of-interest information properly.
 

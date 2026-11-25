@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The evidence hierarchy](../03-study-designs/01-the-evidence-hierarchy.md) and [Surrogate endpoints](02-surrogate-endpoints.md).
 
-@@IMG@@
+![Laboratory mice, the most widely used animals in biomedical research](images/03-animal-and-in-vitro-studies.jpg)
+
+*Laboratory mice, the most widely used animals in biomedical research. Credit: Understanding Animal Research. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Lab mice 436262.jpg](https://commons.wikimedia.org/wiki/File:Lab_mice_436262.jpg).*
 
 A large part of biomedical research happens before any human is involved: **in vitro** studies ("in glass") in cells, tissues or test tubes, and **in vivo** studies in animals such as mice, rats, zebrafish or monkeys. These studies are essential for understanding mechanisms and screening candidates, but their results often fail to carry over to people. "Kills cancer cells" or "reverses ageing in mice" is a long way from a treatment.
 

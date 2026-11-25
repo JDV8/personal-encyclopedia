@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Case reports and case series](02-case-reports-and-case-series.md) and [The self-controlled case series](11-self-controlled-case-series.md).
 
-@@IMG@@
+![A 1960 package of Kevadon (thalidomide); the thalidomide disaster led to modern drug safety monitoring](images/13-passive-surveillance-and-pharmacovigilance.jpg)
+
+*A 1960 package of Kevadon (thalidomide); the thalidomide disaster led to modern drug safety monitoring. Credit: The U.S. Food and Drug Administration. License: Public domain. Source: [File:Kevadon (thalidomide), 1960.jpg](https://commons.wikimedia.org/wiki/File:Kevadon_(thalidomide),_1960.jpg).*
 
 Clinical trials involve thousands of people at most; an approved drug or vaccine may be used by hundreds of millions. Rare harms, those affecting one person in tens or hundreds of thousands, can only be found after approval. **Pharmacovigilance** is the science of detecting, assessing and preventing such harms. Its raw material often includes reports from **passive surveillance** systems, which are widely cited in public debates and widely misread.
 

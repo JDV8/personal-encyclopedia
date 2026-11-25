@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Funnel plots](09-funnel-plots.md) and [Title and abstract](02-title-and-abstract.md).
 
-@@IMG@@
+![Newspaper headlines; spin in a paper's discussion often carries into press coverage](images/10-discussion-limitations-and-spin.jpg)
+
+*Newspaper headlines; spin in a paper's discussion often carries into press coverage. Credit: Travis Wise from Bay Area, California, United States. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Newspaper Headlines (49674433826).jpg](https://commons.wikimedia.org/wiki/File:Newspaper_Headlines_(49674433826).jpg).*
 
 The discussion is where the authors interpret their results: what they mean, how they fit with other evidence, what the limitations are and what should happen next. It is the most subjective part of a paper. By the time you reach it, you should already have your own view of the results, so that you can judge the authors' interpretation rather than adopt it.
 

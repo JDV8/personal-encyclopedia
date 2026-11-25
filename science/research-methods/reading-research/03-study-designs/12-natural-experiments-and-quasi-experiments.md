@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The self-controlled case series](11-self-controlled-case-series.md) and [Confounding](../04-causation/02-confounding.md) (helpful but not essential).
 
-@@IMG@@
+![Replica of the Broad Street pump in Soho, London, commemorating John Snow's cholera investigation](images/12-natural-experiments-and-quasi-experiments.jpg)
+
+*Replica of the Broad Street pump in Soho, London, commemorating John Snow's cholera investigation. Credit: Jamzze. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Pump Handle - John Snow .jpg](https://commons.wikimedia.org/wiki/File:Pump_Handle_-_John_Snow_.jpg).*
 
 When randomisation is impossible, researchers look for situations where the world itself has done something close to randomising: a policy that applied to one place but not its neighbour, a lottery, an arbitrary cut-off, or a quirk of genetics. These **natural experiments** and **quasi-experimental designs** sit between ordinary observational studies and trials. Economists have used them heavily, and they are increasingly common in health research.
 

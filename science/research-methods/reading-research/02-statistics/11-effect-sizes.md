@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Statistical power](10-statistical-power.md).
 
-@@IMG@@
+![Pairs of distributions with different standardised mean differences (Cohen's d)](images/11-effect-sizes.jpg)
+
+*Pairs of distributions with different standardised mean differences (Cohen's d). Credit: Skbkekas. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Cohens d 4panel.svg](https://commons.wikimedia.org/wiki/File:Cohens_d_4panel.svg).*
 
 The p-value asks whether there is an effect. The more useful question is **how big is it?** An **effect size** is a number that answers that question. Learning the main effect sizes, and what counts as large or small for each, is essential for reading any results section.
 

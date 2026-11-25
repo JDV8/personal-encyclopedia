@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Open science](../06-research-integrity/09-open-science.md).
 
-@@IMG@@
+![Title page of the Journal des sçavans (1665), one of the first scientific journals](images/01-how-journals-work.jpg)
+
+*Title page of the Journal des sçavans (1665), one of the first scientific journals. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:1665 journal des scavans title.jpg](https://commons.wikimedia.org/wiki/File:1665_journal_des_scavans_title.jpg).*
 
 Scientific journals are the main channel through which research becomes part of the official record. Understanding how they operate, as businesses, as gatekeepers and as communities, helps you judge what publication in a journal does and does not guarantee.
 

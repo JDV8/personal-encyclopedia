@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Title and abstract](02-title-and-abstract.md).
 
-@@IMG@@
+![A stack of journals and books; an introduction places a study in the existing literature](images/03-introduction-and-background.jpg)
+
+*A stack of journals and books; an introduction places a study in the existing literature. Credit: Kai3952. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Stack of journals and books in the Central Geological Survey Library, MOEA.jpg](https://commons.wikimedia.org/wiki/File:Stack_of_journals_and_books_in_the_Central_Geological_Survey_Library,_MOEA.jpg).*
 
 The introduction explains why the study was done: what problem it addresses, what is already known, and what gap the study fills. It is usually the least scrutinised section, but it shapes how readers interpret everything that follows. It is also where selective citation can make a study look more necessary, or more plausible, than it is.
 

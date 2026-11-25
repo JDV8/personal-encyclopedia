@@ -2,7 +2,9 @@
 
 **Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md) and [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md).
 
-@@IMG@@
+![Extra-virgin olive oil, one of the PREDIMED supplements](images/03-worked-example-a-randomised-trial.jpg)
+
+*Extra-virgin olive oil, one of the PREDIMED supplements. Credit: Czingone. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Villa Torrigiani Extra virgin Olive Oil.jpg](https://commons.wikimedia.org/wiki/File:Villa_Torrigiani_Extra_virgin_Olive_Oil.jpg).*
 
 PREDIMED (Prevención con Dieta Mediterránea) is one of the best-known nutrition trials ever conducted. It is a good worked example because it was retracted and republished, which shows how randomisation problems are detected and handled. We apply the [checklist](02-a-step-by-step-checklist.md) to the 2018 republished paper: Estruch and colleagues, "Primary prevention of cardiovascular disease with a Mediterranean diet supplemented with extra-virgin olive oil or nuts", *New England Journal of Medicine* 2018;378:e34.
 

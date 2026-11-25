@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Introduction and background](03-introduction-and-background.md) and the study designs in [section 3](../03-study-designs/README.md).
 
-@@IMG@@
+![Otto Hahn's laboratory notebook from 1938; methods sections record what was actually done](images/04-methods.jpg)
+
+*Otto Hahn's laboratory notebook from 1938; methods sections record what was actually done. Credit: J Brew. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Source: [File:Otto Hahn's notebook 1938 - Deutsches Museum - Munich.jpg](https://commons.wikimedia.org/wiki/File:Otto_Hahn's_notebook_1938_-_Deutsches_Museum_-_Munich.jpg).*
 
 The methods section is the heart of a paper. It tells you exactly what was done, and therefore what the results can mean. Most of the judgement in reading research happens here. A study with a dramatic result and weak methods tells you little; a study with a modest result and strong methods may tell you a lot.
 

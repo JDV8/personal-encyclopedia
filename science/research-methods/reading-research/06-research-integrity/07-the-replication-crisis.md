@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Publication bias](06-publication-bias.md), [P-hacking](04-p-hacking.md) and [Statistical power](../02-statistics/10-statistical-power.md).
 
-@@IMG@@
+![Questionable research practices as a grey area between good practice and misconduct](images/07-the-replication-crisis.jpg)
+
+*Questionable research practices as a grey area between good practice and misconduct. Credit: Rubinpsyc. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Questionable Research Practices - The Grey Area Intepretation.png](https://commons.wikimedia.org/wiki/File:Questionable_Research_Practices_-_The_Grey_Area_Intepretation.png).*
 
 Since about 2011, a series of large projects has tried to repeat published findings, and many have failed. The **replication crisis** (or reproducibility crisis) refers to the realisation that a substantial share of published results in several fields do not hold up when tested again. It began most visibly in social psychology but has spread to many disciplines, and it has driven a wave of reforms.
 

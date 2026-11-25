@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Samples and populations](06-samples-and-populations.md).
 
-@@IMG@@
+![Repeated samples produce different confidence intervals; most, but not all, contain the true value](images/07-standard-error-and-confidence-intervals.jpg)
+
+*Repeated samples produce different confidence intervals; most, but not all, contain the true value. Credit: Rohanukhade. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Confidence intervals visual.jpg](https://commons.wikimedia.org/wiki/File:Confidence_intervals_visual.jpg).*
 
 A study never tells you the true effect. It gives you an **estimate** plus a measure of how uncertain that estimate is. The most useful way to express that uncertainty is the **confidence interval**, and learning to read it properly will tell you more about a study than its p-value.
 

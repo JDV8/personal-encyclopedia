@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Time-related biases](08-time-related-biases.md) and [Correlation and causation](01-correlation-and-causation.md).
 
-@@IMG@@
+![Sir Austin Bradford Hill, who set out his considerations for causation in 1965](images/09-bradford-hill-criteria.jpg)
+
+*Sir Austin Bradford Hill, who set out his considerations for causation in 1965. Credit: Unknown authorUnknown author. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Austin Bradford Hill.jpg](https://commons.wikimedia.org/wiki/File:Austin_Bradford_Hill.jpg).*
 
 In January 1965, the British statistician and epidemiologist Sir Austin Bradford Hill (1897–1991) gave the President's Address to the Section of Occupational Medicine of the Royal Society of Medicine. Published that year in the *Proceedings of the Royal Society of Medicine* as "The environment and disease: association or causation?", it set out nine "viewpoints" for deciding whether an observed association is likely to be causal. They are still the most widely cited framework for causal judgement in epidemiology.
 

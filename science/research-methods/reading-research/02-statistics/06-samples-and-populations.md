@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Variance and standard deviation](05-variance-and-standard-deviation.md).
 
-@@IMG@@
+![Simple random sampling: each member of the population has an equal chance of selection](images/06-samples-and-populations.jpg)
+
+*Simple random sampling: each member of the population has an equal chance of selection. Credit: Derek Jansen. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Sampling method - simple random sample.svg](https://commons.wikimedia.org/wiki/File:Sampling_method_-_simple_random_sample.svg).*
 
 Researchers almost never study everyone they care about. They study a **sample** and use it to draw conclusions about a **population**. Every statistical result in a paper is, at bottom, an inference from the sample to the population, and both the logic and the pitfalls of that inference are worth understanding.
 

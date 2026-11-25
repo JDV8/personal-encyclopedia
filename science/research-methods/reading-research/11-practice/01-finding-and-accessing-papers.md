@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The shape of a paper](../05-anatomy-of-a-paper/01-the-shape-of-a-paper.md).
 
-@@IMG@@
+![The Suzzallo Library reading room at the University of Washington](images/01-finding-and-accessing-papers.jpg)
+
+*The Suzzallo Library reading room at the University of Washington. Credit: Guywelch2000. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Suzzallo Reading Room University of Washington restoration Seattle Washington 2026.jpg](https://commons.wikimedia.org/wiki/File:Suzzallo_Reading_Room_University_of_Washington_restoration_Seattle_Washington_2026.jpg).*
 
 Before you can read a study, you have to find it, and often get past a paywall. This lesson is a practical guide to the main tools, most of them free.
 

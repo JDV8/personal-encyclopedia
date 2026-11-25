@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Preregistration](01-preregistration.md).
 
-@@IMG@@
+![A trial record on ClinicalTrials.gov](images/02-trial-registries.jpg)
+
+*A trial record on ClinicalTrials.gov. Credit: clinicaltrials.gov. License: Public domain. Source: [File:ClinicalTrials.gov screenshot of trial NCT00789373.png](https://commons.wikimedia.org/wiki/File:ClinicalTrials.gov_screenshot_of_trial_NCT00789373.png).*
 
 A **trial registry** is a public database in which clinical trials are recorded, ideally before the first participant is enrolled. Registries make it possible to know that a trial exists even if it is never published, to compare what was planned with what was reported, and increasingly to see summary results. They are among the most useful tools available to anyone reading clinical research.
 

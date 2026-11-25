@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The healthy user effect](06-healthy-user-bias.md) and [Observation, measurement and experiment](../01-foundations/03-observation-measurement-and-experiment.md).
 
-@@IMG@@
+![A tape measure; measurement error in exposures and outcomes can bias study results](images/07-measurement-and-recall-bias.jpg)
+
+*A tape measure; measurement error in exposures and outcomes can bias study results. Credit: Clément Bucco-Lechat. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Blue tape measure.jpg](https://commons.wikimedia.org/wiki/File:Blue_tape_measure.jpg).*
 
 Every study depends on measuring exposures and outcomes. When those measurements are wrong, the results can be wrong too. Errors in measurement are called **information bias** or **measurement bias**, and they come in two importantly different kinds.
 

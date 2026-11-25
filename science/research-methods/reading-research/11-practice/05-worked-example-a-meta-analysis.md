@@ -2,7 +2,9 @@
 
 **Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Meta-analysis](../03-study-designs/15-meta-analysis.md) and [Number needed to treat](../02-statistics/13-number-needed-to-treat.md).
 
-@@IMG@@
+![Enteric-coated aspirin tablets](images/05-worked-example-a-meta-analysis.jpg)
+
+*Enteric-coated aspirin tablets. Credit: Ragesoss. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Regular strength enteric coated aspirin tablets.jpg](https://commons.wikimedia.org/wiki/File:Regular_strength_enteric_coated_aspirin_tablets.jpg).*
 
 Should healthy people take a daily low-dose aspirin to prevent heart attacks? This worked example uses an influential individual participant data meta-analysis: Antithrombotic Trialists' (ATT) Collaboration, "Aspirin in the primary and secondary prevention of vascular disease: collaborative meta-analysis of individual participant data from randomised trials", *The Lancet* 2009;373:1849–1860.
 

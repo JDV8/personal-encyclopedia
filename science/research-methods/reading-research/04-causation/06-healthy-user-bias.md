@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Confounding](02-confounding.md) and [Survivorship bias](05-survivorship-bias.md).
 
-@@IMG@@
+![Multivitamin supplements; people who take them tend to differ in health habits from those who do not](images/06-healthy-user-bias.jpg)
+
+*Multivitamin supplements; people who take them tend to differ in health habits from those who do not. Credit: MBilbao12. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Multivitamin product.jpg](https://commons.wikimedia.org/wiki/File:Multivitamin_product.jpg).*
 
 People who do one healthy thing tend to do many healthy things. People who take preventive medicines, get screened, get vaccinated, take supplements, stick to their prescriptions and attend check-ups are, on average, more health-conscious, better off and in better baseline health than those who do not. This cluster of differences, the **healthy user effect** (also called healthy user bias or healthy adherer bias), is a powerful confounder in observational studies of preventive interventions.
 

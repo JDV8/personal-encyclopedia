@@ -2,7 +2,9 @@
 
 **Prerequisites:** [What science is](01-what-science-is.md).
 
-@@IMG@@
+![A black swan (Cygnus atratus), the standard example of an observation that falsifies 'all swans are white'](images/02-falsifiability-and-theories.jpg)
+
+*A black swan (Cygnus atratus), the standard example of an observation that falsifies 'all swans are white'. Credit: Francis C. Franklin. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Black Swan at Martin Mere.JPG](https://commons.wikimedia.org/wiki/File:Black_Swan_at_Martin_Mere.JPG).*
 
 Words like *hypothesis*, *theory* and *law* are used loosely in everyday speech. In research they have more specific meanings, and confusing them leads to some of the most common misreadings of science ("it's only a theory").
 

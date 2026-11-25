@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Reporting checklists](../05-anatomy-of-a-paper/12-reporting-checklists.md), [Multiple comparisons](../02-statistics/16-multiple-comparisons.md) and [Falsifiability](../01-foundations/02-falsifiability-and-theories.md).
 
-@@IMG@@
+![Logo of the Open Science Framework and Center for Open Science, which host preregistrations](images/01-preregistration.jpg)
+
+*Logo of the Open Science Framework and Center for Open Science, which host preregistrations. Credit: I created it based on the PNG version at https://osf.io/7cewn. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Open Science Framework log (and Center for Open Science logo).svg](https://commons.wikimedia.org/wiki/File:Open_Science_Framework_log_(and_Center_for_Open_Science_logo).svg).*
 
 A statistical test means what it claims to mean only if the hypothesis and analysis were chosen **before** seeing the data. **Preregistration** is the practice of publicly recording a study's hypotheses, design, primary outcomes and analysis plan in advance, in a time-stamped, unchangeable form. It is the single most important reform of the last few decades for separating genuine tests from post-hoc storytelling.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Impact factors and metrics](03-impact-factors-and-metrics.md) and [Peer review](02-peer-review.md).
 
-@@IMG@@
+![Yearly submissions to the arXiv preprint server](images/04-preprints.jpg)
+
+*Yearly submissions to the arXiv preprint server. Credit: Paul Ginsparg. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:ArXiv's yearly submission rate plot.jpg](https://commons.wikimedia.org/wiki/File:ArXiv's_yearly_submission_rate_plot.jpg).*
 
 A **preprint** is a version of a research paper shared publicly before peer review, usually on a dedicated server. Preprints let findings circulate in days rather than months. They became central to public discussion during the COVID-19 pandemic, and they require their own reading habits.
 

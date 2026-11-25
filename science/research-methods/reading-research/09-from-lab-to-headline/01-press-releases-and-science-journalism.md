@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Discussion, limitations and spin](../05-anatomy-of-a-paper/10-discussion-limitations-and-spin.md) and [Correlation and causation](../04-causation/01-correlation-and-causation.md).
 
-@@IMG@@
+![A stack of newspapers](images/01-press-releases-and-science-journalism.jpg)
+
+*A stack of newspapers. Credit: Daniel R. Blume from Orange County, California, USA. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Source: [File:A stack of newspapers.jpg](https://commons.wikimedia.org/wiki/File:A_stack_of_newspapers.jpg).*
 
 Most people never read a scientific paper. They learn about research from news stories, social media posts and podcasts, which are often based on press releases written by universities, journals or companies. Each step in that chain is a chance for a finding to become simpler, stronger and more exciting than it really is.
 

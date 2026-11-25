@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Variables and data](01-variables-and-data.md).
 
-@@IMG@@
+![A Galton board: balls bouncing randomly off pegs pile up in a bell-shaped pattern](images/02-probability.jpg)
+
+*A Galton board: balls bouncing randomly off pegs pile up in a bell-shaped pattern. Credit: Svjo. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Galton board.png](https://commons.wikimedia.org/wiki/File:Galton_board.png).*
 
 Research results are always uncertain. Probability is the mathematics of uncertainty, and a small amount of it goes a long way in reading papers. This lesson covers the rules you need for the rest of the course: what a probability is, how probabilities combine, and the crucial idea of **conditional probability**.
 

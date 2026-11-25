@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Weighing conflicts without ad hominem](05-weighing-conflicts-without-ad-hominem.md).
 
-@@IMG@@
+![Max Planck, to whom the observation that science advances 'one funeral at a time' is often attributed](images/06-non-financial-conflicts.jpg)
+
+*Max Planck, to whom the observation that science advances 'one funeral at a time' is often attributed. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Max Planck 1933.jpg](https://commons.wikimedia.org/wiki/File:Max_Planck_1933.jpg).*
 
 Money is the easiest conflict to see and disclose, but it is not the only one. Researchers also have stakes in their theories, careers, reputations, relationships and beliefs. These **non-financial conflicts** can bias research just as much, and they are almost universal.
 

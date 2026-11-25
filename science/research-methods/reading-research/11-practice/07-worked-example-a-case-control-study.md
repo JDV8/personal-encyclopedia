@@ -2,7 +2,9 @@
 
 **Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Case-control studies](../03-study-designs/05-case-control-studies.md) and [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md).
 
-@@IMG@@
+![Sir Austin Bradford Hill, co-author of the 1950 smoking and lung cancer study](images/07-worked-example-a-case-control-study.jpg)
+
+*Sir Austin Bradford Hill, co-author of the 1950 smoking and lung cancer study. Credit: https://wellcomeimages.org/indexplus/obf_images/cf/e6/eb098ec1a4bb203785230ec6114b.jpg Gallery: https://wellcomeimages.org/indexplus/image/L. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Sir Austin Bradford Hill, portrait Wellcome L0027006.jpg](https://commons.wikimedia.org/wiki/File:Sir_Austin_Bradford_Hill,_portrait_Wellcome_L0027006.jpg).*
 
 Richard Doll and Austin Bradford Hill's 1950 paper "Smoking and carcinoma of the lung: preliminary report" (*BMJ* 1950;2:739–748) is one of the most important papers in epidemiology. This example applies the checklist to show why a well-designed case-control study can be so persuasive, and what its weaknesses are.
 

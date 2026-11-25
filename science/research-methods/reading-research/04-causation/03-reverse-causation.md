@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Confounding](02-confounding.md).
 
-@@IMG@@
+![Diagram of a chicken egg; 'which came first' is the folk version of the direction-of-causation question](images/03-reverse-causation.jpg)
+
+*Diagram of a chicken egg; 'which came first' is the folk version of the direction-of-causation question. Credit: KDS4444. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Chicken egg diagram.svg](https://commons.wikimedia.org/wiki/File:Chicken_egg_diagram.svg).*
 
 Sometimes an association runs the opposite way from the one assumed: the outcome, or an early stage of it, causes the exposure. This is **reverse causation** (also called **reverse causality**). It is especially common when the outcome develops slowly and its early, unnoticed stages change people's behaviour.
 

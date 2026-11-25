@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Hypothesis tests and p-values](08-hypothesis-tests-and-p-values.md).
 
-@@IMG@@
+![The relationship between a p-value and the chosen significance level (alpha)](images/09-misreading-p-values.jpg)
+
+*The relationship between a p-value and the chosen significance level (alpha). Credit: Erzbischof. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:P value vs alpha error.svg](https://commons.wikimedia.org/wiki/File:P_value_vs_alpha_error.svg).*
 
 Surveys of researchers and textbooks have found that misinterpretations of p-values are widespread even among scientists. In 2016 Sander Greenland and colleagues published a guide in the *European Journal of Epidemiology* listing 25 common misinterpretations of p-values, confidence intervals and power. This lesson covers the ones that matter most for readers.
 

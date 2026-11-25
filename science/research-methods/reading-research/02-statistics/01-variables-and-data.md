@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Why reading research is hard](../01-foundations/06-why-reading-research-is-hard.md). No mathematics beyond arithmetic is assumed.
 
-@@IMG@@
+![Levels of measurement (nominal, ordinal, interval, ratio) and the properties each adds](images/01-variables-and-data.jpg)
+
+*Levels of measurement (nominal, ordinal, interval, ratio) and the properties each adds. Credit: Derek Jansen. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Levels of measurement and their cumulative properties.svg](https://commons.wikimedia.org/wiki/File:Levels_of_measurement_and_their_cumulative_properties.svg).*
 
 Statistics is the language research papers are written in. You do not need to be able to calculate everything yourself, but you do need to know what the words mean and which questions to ask. Everything starts with **variables**: the things a study measures.
 

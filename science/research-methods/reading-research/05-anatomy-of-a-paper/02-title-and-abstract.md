@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The shape of a paper](01-the-shape-of-a-paper.md).
 
-@@IMG@@
+![Draft of Watson and Crick's 1953 paper on the structure of DNA, famous for its brevity](images/02-title-and-abstract.jpg)
+
+*Draft of Watson and Crick's 1953 paper on the structure of DNA, famous for its brevity. Credit: https://wellcomeimages.org/indexplus/obf_images/ef/6b/797701826eabff8e6e3266665394.jpg Gallery: https://wellcomeimages.org/indexplus/image/L. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Part 1 of a draft of the first Watson & Crick paper Wellcome L0032978.jpg](https://commons.wikimedia.org/wiki/File:Part_1_of_a_draft_of_the_first_Watson_&_Crick_paper_Wellcome_L0032978.jpg).*
 
 The title and abstract are the most-read parts of any paper. Many readers, journalists and even citing authors never get further. They are also the parts most shaped by the authors' wish to present their work favourably, so they need to be read with care.
 

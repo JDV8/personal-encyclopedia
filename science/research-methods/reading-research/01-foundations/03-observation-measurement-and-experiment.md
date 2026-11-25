@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Falsifiability, hypotheses and theories](02-falsifiability-and-theories.md).
 
-@@IMG@@
+![James Lind's Treatise on the Scurvy, which reported his 1747 comparative trial of scurvy treatments](images/03-observation-measurement-and-experiment.jpg)
+
+*James Lind's Treatise on the Scurvy, which reported his 1747 comparative trial of scurvy treatments. Credit: https://wellcomeimages.org/indexplus/obf_images/7d/77/90d8d0cac232af93512ce6e7efb3.jpg Gallery: https://wellcomeimages.org/indexplus/image/M. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:James Lind, A Treatise on the Scurvy, 1757 Wellcome M0013130.jpg](https://commons.wikimedia.org/wiki/File:James_Lind,_A_Treatise_on_the_Scurvy,_1757_Wellcome_M0013130.jpg).*
 
 There are two basic ways to learn about cause and effect. You can **watch** the world and compare what happens to different people (observation), or you can **intervene**, deliberately changing one thing and seeing what follows (experiment). Almost every study design in this course is a variation on one of these two, and the difference between them is the single most important idea for judging a causal claim.
 

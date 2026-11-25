@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Discussion, limitations and spin](10-discussion-limitations-and-spin.md).
 
-@@IMG@@
+![Servers in a data centre; supplementary data and code are increasingly held in online repositories](images/11-supplementary-material-and-data.jpg)
+
+*Servers in a data centre; supplementary data and code are increasingly held in online repositories. Credit: BalticServers.com. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:BalticServers data center.jpg](https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg).*
 
 Journals limit the length of papers, so much of the detail ends up in **supplementary material** (also called supplementary appendices, online supplements or extended data). Most readers never open it. Yet it often contains the information that matters most for judging a study: the full protocol, the statistical analysis plan, sensitivity analyses, complete adverse event tables and results for every outcome.
 

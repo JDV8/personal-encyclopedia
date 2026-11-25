@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Distributions](03-distributions.md).
 
-@@IMG@@
+![Mean, median and mode in a skewed distribution](images/04-mean-median-and-mode.jpg)
+
+*Mean, median and mode in a skewed distribution. Credit: Cmglee. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Comparison mean median mode.svg](https://commons.wikimedia.org/wiki/File:Comparison_mean_median_mode.svg).*
 
 When a paper says "the average patient lost 4 kg", it is summarising a whole distribution with one number. There are several ways to do this, and the choice can change the story a lot.
 

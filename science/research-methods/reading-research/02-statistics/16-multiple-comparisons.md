@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Hypothesis tests and p-values](08-hypothesis-tests-and-p-values.md) and [Sensitivity and specificity](15-sensitivity-and-specificity.md).
 
-@@IMG@@
+![The probability of at least one false positive rises as the number of tests grows](images/16-multiple-comparisons.jpg)
+
+*The probability of at least one false positive rises as the number of tests grows. Credit: GrandEscogriffe. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Multiple binomial testing.svg](https://commons.wikimedia.org/wiki/File:Multiple_binomial_testing.svg).*
 
 If you test one true null hypothesis at α = 0.05, you have a 5% chance of a false positive. If you test twenty, the chance that at least one comes up "significant" by luck is about 64%. This is the **multiple comparisons problem**, and it is behind a remarkable share of false findings.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Cross-sectional studies](04-cross-sectional-studies.md) and [Odds ratios and hazard ratios](../02-statistics/19-odds-ratios-and-hazard-ratios.md).
 
-@@IMG@@
+![Sir Richard Doll, co-author with Austin Bradford Hill of the 1950 case-control study of smoking and lung cancer](images/05-case-control-studies.jpg)
+
+*Sir Richard Doll, co-author with Austin Bradford Hill of the 1950 case-control study of smoking and lung cancer. Credit: CJ DUB. License: [CC BY-SA 2.0 ca](https://creativecommons.org/licenses/by-sa/2.0/ca/deed.en). Source: [File:Richard Doll.jpg](https://commons.wikimedia.org/wiki/File:Richard_Doll.jpg).*
 
 Suppose you want to know whether something causes a rare disease. Following thousands of people for decades until a handful get sick would be slow and expensive. A **case-control study** works backwards instead: it starts with people who already have the disease (**cases**), finds comparable people who do not (**controls**), and compares how often each group was exposed in the past.
 

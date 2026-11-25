@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Who pays for research](01-who-pays-for-research.md).
 
-@@IMG@@
+![Scales of justice; a conflict of interest risks tipping judgement](images/02-what-a-conflict-of-interest-is.jpg)
+
+*Scales of justice; a conflict of interest risks tipping judgement. Credit: frankieleon. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Scales of Justice (3285348799).jpg](https://commons.wikimedia.org/wiki/File:Scales_of_Justice_(3285348799).jpg).*
 
 A **conflict of interest** (COI) exists when a person's judgement about a primary interest, such as the validity of research or the welfare of patients, risks being unduly influenced by a secondary interest, such as financial gain or professional advancement. That definition, close to the one used by the US Institute of Medicine (now the National Academy of Medicine) in its 2009 report *Conflict of Interest in Medical Research, Education, and Practice*, has an important feature: a conflict of interest is a **situation**, not an act. Having one does not mean anyone has done anything wrong.
 

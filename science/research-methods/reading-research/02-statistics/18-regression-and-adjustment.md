@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Regression to the mean](17-regression-to-the-mean.md) and [Effect sizes](11-effect-sizes.md).
 
-@@IMG@@
+![A fitted linear regression line through scattered data points](images/18-regression-and-adjustment.jpg)
+
+*A fitted linear regression line through scattered data points. Credit: Sewaqu. License: Public domain. Source: [File:Linear regression.svg](https://commons.wikimedia.org/wiki/File:Linear_regression.svg).*
 
 Almost every observational study, and many trials, report results "adjusted for" age, sex, smoking and other factors. The tool doing the adjusting is a **regression model**. You do not need to fit one yourself, but you need to know what adjustment can and cannot do.
 

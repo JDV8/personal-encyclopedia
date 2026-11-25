@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Mean, median and mode](04-mean-median-and-mode.md).
 
-@@IMG@@
+![Normal distribution showing the share of values within one, two and three standard deviations of the mean](images/05-variance-and-standard-deviation.jpg)
+
+*Normal distribution showing the share of values within one, two and three standard deviations of the mean. Credit: M. W. Toews. License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5). Source: [File:Standard deviation diagram.svg](https://commons.wikimedia.org/wiki/File:Standard_deviation_diagram.svg).*
 
 Two classes can have the same average test score, 70, but in one every student scored between 65 and 75 while in the other scores ranged from 30 to 100. The average alone hides this. Measures of **spread** describe how much values vary around the centre, and spread is the raw material of statistical uncertainty.
 

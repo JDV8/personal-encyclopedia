@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Correlation and causation](01-correlation-and-causation.md).
 
-@@IMG@@
+![Hot weather as a confounder of the association between ice cream sales and drowning](images/02-confounding.jpg)
+
+*Hot weather as a confounder of the association between ice cream sales and drowning. Credit: Derek Jansen. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: [File:Confounding variable - hot weather, ice cream sales and drownings.svg](https://commons.wikimedia.org/wiki/File:Confounding_variable_-_hot_weather,_ice_cream_sales_and_drownings.svg).*
 
 **Confounding** is the most important source of error in observational research. A confounder is a third factor that is associated with both the exposure and the outcome and distorts the apparent relationship between them. Learning to imagine plausible confounders is the core skill in reading any non-randomised study.
 

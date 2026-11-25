@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The replication crisis](../06-research-integrity/07-the-replication-crisis.md), [P-hacking](../06-research-integrity/04-p-hacking.md) and [Statistical power](../02-statistics/10-statistical-power.md).
 
-@@IMG@@
+![Amy Cuddy demonstrating a power pose at PopTech in 2011](images/09-power-posing.jpg)
+
+*Amy Cuddy demonstrating a power pose at PopTech in 2011. Credit: Erik (HASH) Hersman from Orlando. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Power pose by Amy Cuddy at PopTech 2011 (6279920726).jpg](https://commons.wikimedia.org/wiki/File:Power_pose_by_Amy_Cuddy_at_PopTech_2011_(6279920726).jpg).*
 
 In 2010 three researchers reported that adopting expansive "power poses" for two minutes changed people's hormones and behaviour. The idea became one of the most popular findings in psychology, thanks partly to a hugely popular TED talk. Then attempts to replicate it failed, and one of the original authors said she no longer believed the effects were real. The story illustrates the replication crisis, and also how a scientific debate can become a personal one.
 

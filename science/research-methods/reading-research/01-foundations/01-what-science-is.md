@@ -2,7 +2,9 @@
 
 **Prerequisites:** none. This is the first lesson of the course.
 
-@@IMG@@
+![Frontispiece of Francis Bacon's Instauratio Magna (1620), showing a ship sailing beyond the Pillars of Hercules](images/01-what-science-is.jpg)
+
+*Frontispiece of Francis Bacon's Instauratio Magna (1620), showing a ship sailing beyond the Pillars of Hercules. Credit: Credit as given on Wikimedia Commons. License: Public domain. Source: [File:Bacon Great Instauration frontispiece.jpg](https://commons.wikimedia.org/wiki/File:Bacon_Great_Instauration_frontispiece.jpg).*
 
 Every research paper you will ever read is an attempt to persuade you that something is true about the world. Before learning how to judge those attempts, it helps to be clear about what science is trying to do and why it works as well as it does.
 

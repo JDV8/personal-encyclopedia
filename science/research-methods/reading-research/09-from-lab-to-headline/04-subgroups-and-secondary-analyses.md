@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Multiple comparisons](../02-statistics/16-multiple-comparisons.md) and [Forest plots](../05-anatomy-of-a-paper/07-forest-plots.md).
 
-@@IMG@@
+![The signs of the zodiac; the ISIS-2 trial's star-sign subgroups showed how chance subgroup effects arise](images/04-subgroups-and-secondary-analyses.jpg)
+
+*The signs of the zodiac; the ISIS-2 trial's star-sign subgroups showed how chance subgroup effects arise. Credit: Pearson Scott Foresman. License: Public domain. Source: [File:Zodiac (PSF).png](https://commons.wikimedia.org/wiki/File:Zodiac_(PSF).png).*
 
 A trial finds that a treatment does not work overall, but the paper reports that it works in women, or in people over 65, or in those with a particular gene. Or a trial finds a benefit overall, and someone points out that it was absent in one subgroup. Are these findings real? Usually, they should be treated with great caution.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Trial registries](02-trial-registries.md) and [Multiple comparisons](../02-statistics/16-multiple-comparisons.md).
 
-@@IMG@@
+![Goal posts; outcome switching is the research version of moving them](images/03-outcome-switching.jpg)
+
+*Goal posts; outcome switching is the research version of moving them. Credit: Evad37. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Perth Stadium goal posts 2018 (crop).jpg](https://commons.wikimedia.org/wiki/File:Perth_Stadium_goal_posts_2018_(crop).jpg).*
 
 **Outcome switching** (or **selective outcome reporting**) happens when the outcomes reported in a paper differ from those pre-specified in the protocol or registry, without clear acknowledgement. A disappointing primary outcome is demoted or dropped, and a secondary outcome that looked better is promoted. Because trials measure many outcomes, this can turn a failed trial into an apparent success.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Causal diagrams](../04-causation/10-causal-diagrams.md) and the statistics in [section 2](../02-statistics/README.md).
 
-@@IMG@@
+![The 'wineglass' model of the IMRaD structure: introduction, methods, results and discussion](images/01-the-shape-of-a-paper.jpg)
+
+*The 'wineglass' model of the IMRaD structure: introduction, methods, results and discussion. Credit: Tom Toyosaki. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Wineglass model for IMRaD structure..png](https://commons.wikimedia.org/wiki/File:Wineglass_model_for_IMRaD_structure..png).*
 
 Most empirical research papers in medicine and the life sciences follow the same structure, known as **IMRaD**: Introduction, Methods, Results and Discussion. Knowing what each section is for, and the order in which experienced readers actually read them, saves a lot of time and protects against being steered by the authors' framing.
 

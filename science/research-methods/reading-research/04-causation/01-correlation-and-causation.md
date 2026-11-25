@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Cochrane and GRADE](../03-study-designs/16-cochrane-and-grade.md) and [Effect sizes](../02-statistics/11-effect-sizes.md).
 
-@@IMG@@
+![Scatter plots with their correlation coefficients, showing that correlation measures only linear association](images/01-correlation-and-causation.jpg)
+
+*Scatter plots with their correlation coefficients, showing that correlation measures only linear association. Credit: DenisBoigelot, original uploader was Imagecreator. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Correlation examples2.svg](https://commons.wikimedia.org/wiki/File:Correlation_examples2.svg).*
 
 "Correlation does not imply causation" is one of the best-known phrases in science, and one of the least understood. It does not mean correlations are useless or that causation can never be inferred from them. It means a correlation has several possible explanations, and causation is only one of them. This section works through each alternative in turn.
 

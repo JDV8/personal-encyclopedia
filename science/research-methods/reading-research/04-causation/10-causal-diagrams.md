@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The Bradford Hill criteria](09-bradford-hill-criteria.md), [Confounding](02-confounding.md) and [Selection bias](04-selection-bias.md).
 
-@@IMG@@
+![A directed acyclic graph (causal diagram) for Mendelian randomisation](images/10-causal-diagrams.jpg)
+
+*A directed acyclic graph (causal diagram) for Mendelian randomisation. Credit: KaitlinHazelWade. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Directed acyclic graph for Mendelian randomization Wikipedia page.png](https://commons.wikimedia.org/wiki/File:Directed_acyclic_graph_for_Mendelian_randomization_Wikipedia_page.png).*
 
 Which variables should a study adjust for? Intuition says "as many as possible", but that is wrong: adjusting for some variables removes bias, while adjusting for others creates it. **Causal diagrams**, formally called **directed acyclic graphs** (DAGs), make the reasoning explicit. They are increasingly common in epidemiology papers, and you can use simple ones yourself to check whether a study adjusted for the right things.
 

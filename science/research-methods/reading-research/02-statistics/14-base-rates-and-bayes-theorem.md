@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Number needed to treat and to harm](13-number-needed-to-treat.md) and [Probability](02-probability.md).
 
-@@IMG@@
+![Tree diagrams showing how Bayes' theorem combines base rates with test accuracy](images/14-base-rates-and-bayes-theorem.jpg)
+
+*Tree diagrams showing how Bayes' theorem combines base rates with test accuracy. Credit: Gnathan87. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Bayes theorem tree diagrams.svg](https://commons.wikimedia.org/wiki/File:Bayes_theorem_tree_diagrams.svg).*
 
 How likely is a claim to be true *after* you see some evidence? It depends heavily on how likely it was *before*. This simple idea, formalised in **Bayes' theorem**, explains why most positive screening tests can be wrong, why surprising findings deserve extra scrutiny, and why many published results fail to replicate.
 

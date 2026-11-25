@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Selection bias](04-selection-bias.md).
 
-@@IMG@@
+![Hypothetical damage pattern on returning aircraft, illustrating survivorship bias](images/05-survivorship-bias.jpg)
+
+*Hypothetical damage pattern on returning aircraft, illustrating survivorship bias. Credit: Martin Grandjean (vector), McGeddon (picture), US Air Force (hit plot concept). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Survivorship-bias.svg](https://commons.wikimedia.org/wiki/File:Survivorship-bias.svg).*
 
 **Survivorship bias** is the error of drawing conclusions from the cases that made it through some selection process while ignoring those that did not. Because the failures are invisible, the survivors look more typical, more successful or more instructive than they really are.
 

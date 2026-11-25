@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Methods](04-methods.md).
 
-@@IMG@@
+![A simple cross-tabulation with percentages, the basic building block of results tables](images/05-results-and-table-one.jpg)
+
+*A simple cross-tabulation with percentages, the basic building block of results tables. Credit: ASnieckus. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Table of gender by major with percents.png](https://commons.wikimedia.org/wiki/File:Table_of_gender_by_major_with_percents.png).*
 
 The results section reports what was found, in text, tables and figures. Read the numbers before the authors' descriptions of them. This lesson covers the participant flow, the baseline characteristics table (almost always "Table 1"), and the main results tables.
 

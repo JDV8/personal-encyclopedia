@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Multiple comparisons](16-multiple-comparisons.md).
 
-@@IMG@@
+![Francis Galton's 1889 diagram of the quincunx, used in his work on regression toward the mean](images/17-regression-to-the-mean.jpg)
+
+*Francis Galton's 1889 diagram of the quincunx, used in his work on regression toward the mean. Credit: w: Francis Galton. License: Public domain. Source: [File:Quincunx (Galton Box) - Galton 1889 diagram.png](https://commons.wikimedia.org/wiki/File:Quincunx_(Galton_Box)_-_Galton_1889_diagram.png).*
 
 People tend to seek treatment when they feel worst, schools get special help after their worst year, and athletes appear on magazine covers after their best season. In each case, the next measurement is likely to be closer to average, whether or not anything was done. This is **regression to the mean**, and it fools patients, doctors, policymakers and researchers alike.
 

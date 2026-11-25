@@ -2,7 +2,9 @@
 
 **Prerequisites:** [HARKing](05-harking.md) and [Funnel plots](../05-anatomy-of-a-paper/09-funnel-plots.md).
 
-@@IMG@@
+![A filing cabinet; unpublished null results end up in the 'file drawer'](images/06-publication-bias.jpg)
+
+*A filing cabinet; unpublished null results end up in the 'file drawer'. Credit: Watty62. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Card Filing Cabinet.jpg](https://commons.wikimedia.org/wiki/File:Card_Filing_Cabinet.jpg).*
 
 **Publication bias** occurs when whether a study is published depends on what it found. Studies with positive, statistically significant or exciting results are more likely to be published, published quickly and published in prominent journals than studies with null or unfavourable results. The published literature then gives a distorted picture, even if every individual paper is accurate.
 

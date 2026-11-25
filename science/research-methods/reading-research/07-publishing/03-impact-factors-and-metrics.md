@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Peer review](02-peer-review.md).
 
-@@IMG@@
+![How an h-index is calculated from a researcher's citation counts](images/03-impact-factors-and-metrics.jpg)
+
+*How an h-index is calculated from a researcher's citation counts. Credit: Jü. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Hirsch Index Example h=4 V1.svg](https://commons.wikimedia.org/wiki/File:Hirsch_Index_Example_h=4_V1.svg).*
 
 Because there is far too much research for anyone to read, people use shortcuts to judge its importance: which journal it appeared in, how often it has been cited, how much attention it received. These **metrics** shape careers, funding and public perception. They contain real information, but they measure attention and prestige, not truth.
 

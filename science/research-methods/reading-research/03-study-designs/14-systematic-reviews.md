@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The evidence hierarchy](01-the-evidence-hierarchy.md) and [Passive surveillance and pharmacovigilance](13-passive-surveillance-and-pharmacovigilance.md).
 
-@@IMG@@
+![Archie Cochrane, the epidemiologist whose call for systematic summaries of trials inspired the Cochrane collaboration](images/14-systematic-reviews.jpg)
+
+*Archie Cochrane, the epidemiologist whose call for systematic summaries of trials inspired the Cochrane collaboration. Credit: Unknown authorUnknown author. License: Public domain. Source: [File:Archie Cochrane.webp](https://commons.wikimedia.org/wiki/File:Archie_Cochrane.webp).*
 
 On almost any question worth asking, there is more than one study, and they rarely agree perfectly. A **systematic review** collects all the relevant studies on a clearly defined question, using explicit and reproducible methods, appraises them, and summarises what they show. It is the main defence against cherry-picking.
 

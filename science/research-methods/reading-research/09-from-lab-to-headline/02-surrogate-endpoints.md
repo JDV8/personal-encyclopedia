@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Randomised controlled trials](../03-study-designs/07-randomised-controlled-trials.md) and [Correlation and causation](../04-causation/01-correlation-and-causation.md).
 
-@@IMG@@
+![Measuring blood pressure, a surrogate endpoint validated for some treatments](images/02-surrogate-endpoints.jpg)
+
+*Measuring blood pressure, a surrogate endpoint validated for some treatments. Credit: Víctor Santa María from Buenos Aires, Argentina. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Blood pressure measurement (1).jpg](https://commons.wikimedia.org/wiki/File:Blood_pressure_measurement_(1).jpg).*
 
 What we ultimately care about in medicine are outcomes that matter to patients: living longer, avoiding heart attacks and strokes, feeling better, functioning better. These **clinical** or **patient-important outcomes** can take years and thousands of participants to measure. So trials often measure **surrogate endpoints** instead: laboratory measures or physical signs that are expected to predict clinical outcomes, such as blood pressure, cholesterol, blood sugar, tumour shrinkage, bone density or antibody levels.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Tobacco industry research](01-tobacco-industry-research.md) and [Disclosure and its limits](../08-funding-and-conflicts/04-disclosure-and-its-limits.md).
 
-@@IMG@@
+![Sugar cubes](images/02-sugar-research-foundation.jpg)
+
+*Sugar cubes. Credit: Poyraz 72. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Sugar cubes V1.jpg](https://commons.wikimedia.org/wiki/File:Sugar_cubes_V1.jpg).*
 
 In the 1960s scientists were debating whether dietary fat or sugar played a bigger role in heart disease. In 2016, researchers who examined historical documents reported that the sugar industry had funded an influential review that played down sugar and emphasised fat, without disclosure. The case is often cited, and also sometimes overstated, so it is worth getting the details right.
 

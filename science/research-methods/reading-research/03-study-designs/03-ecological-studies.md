@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Case reports and case series](02-case-reports-and-case-series.md).
 
-@@IMG@@
+![John Snow's 1854 map of cholera deaths around the Broad Street pump in London](images/03-ecological-studies.jpg)
+
+*John Snow's 1854 map of cholera deaths around the Broad Street pump in London. Credit: John Snow. License: Public domain. Source: [File:Snow-cholera-map-1.jpg](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg).*
 
 An **ecological study** compares groups, usually countries, regions or time periods, rather than individuals. "Countries that eat more fat have more heart disease" and "towns with fluoridated water have fewer cavities" are ecological claims. These studies are quick and cheap and can reveal striking patterns, but they are prone to a special error that every reader should know.
 

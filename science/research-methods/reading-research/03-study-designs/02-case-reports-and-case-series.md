@@ -2,7 +2,9 @@
 
 **Prerequisites:** [The evidence hierarchy](01-the-evidence-hierarchy.md).
 
-@@IMG@@
+![The first issue of The Lancet (1823); medical journals have long published case reports](images/02-case-reports-and-case-series.jpg)
+
+*The first issue of The Lancet (1823); medical journals have long published case reports. Credit: The Lancet. License: Public domain. Source: [File:The Lancet first issue.jpg](https://commons.wikimedia.org/wiki/File:The_Lancet_first_issue.jpg).*
 
 A **case report** describes a single patient; a **case series** describes several patients with a similar condition, exposure or outcome. They sit near the bottom of the evidence hierarchy for causal questions, yet they have launched some of the most important discoveries in medicine. Knowing what they can and cannot show is essential, because they are also the most common source of health scares.
 

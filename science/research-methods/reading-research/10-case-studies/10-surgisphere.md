@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Peer review](../07-publishing/02-peer-review.md), [Retractions and corrections](../07-publishing/06-retractions-and-corrections.md) and [Supplementary material and data](../05-anatomy-of-a-paper/11-supplementary-material-and-data.md).
 
-@@IMG@@
+![Hydroxychloroquine tablets, the subject of the retracted Surgisphere-based Lancet paper](images/10-surgisphere.jpg)
+
+*Hydroxychloroquine tablets, the subject of the retracted Surgisphere-based Lancet paper. Credit: Whispyhistory. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:Hydroxychloroquine.jpg](https://commons.wikimedia.org/wiki/File:Hydroxychloroquine.jpg).*
 
 In the first months of the COVID-19 pandemic, two of the world's most prestigious medical journals published papers based on a huge international database of hospital patients supplied by a small company called Surgisphere. Within weeks, both papers were retracted because the data could not be verified. The case is a warning about speed, prestige and data provenance.
 

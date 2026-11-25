@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Reading graphs](06-reading-graphs.md), [Meta-analysis](../03-study-designs/15-meta-analysis.md) and [Confidence intervals](../02-statistics/07-standard-error-and-confidence-intervals.md).
 
-@@IMG@@
+![A forest plot from a meta-analysis](images/07-forest-plots.jpg)
+
+*A forest plot from a meta-analysis. Credit: Produnis. License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). Source: [File:Forestplot01.jpg](https://commons.wikimedia.org/wiki/File:Forestplot01.jpg).*
 
 A **forest plot** displays the results of several studies (or several subgroups) side by side, with a pooled summary at the bottom. It is the standard figure of meta-analysis, and once you can read one, you can absorb a whole systematic review in a minute. The name is often said to come from the "forest of lines" it produces.
 

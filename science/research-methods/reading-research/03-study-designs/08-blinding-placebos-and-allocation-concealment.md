@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Randomised controlled trials](07-randomised-controlled-trials.md).
 
-@@IMG@@
+![Tablets of the kind used in trials, where a placebo is made to look identical to the active drug](images/08-blinding-placebos-and-allocation-concealment.jpg)
+
+*Tablets of the kind used in trials, where a placebo is made to look identical to the active drug. Credit: epSos .de. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [File:Medicine Drug Pills on Plate.png](https://commons.wikimedia.org/wiki/File:Medicine_Drug_Pills_on_Plate.png).*
 
 Randomisation creates comparable groups at the start of a trial. Three further safeguards keep them comparable: **allocation concealment**, which protects the randomisation itself; **blinding**, which protects against people behaving or judging differently once they know who got what; and the **placebo**, which makes blinding possible.
 

@@ -2,7 +2,9 @@
 
 **Prerequisites:** [A step-by-step checklist](02-a-step-by-step-checklist.md), [Ecological studies](../03-study-designs/03-ecological-studies.md) and [Press releases and science journalism](../09-from-lab-to-headline/01-press-releases-and-science-journalism.md).
 
-@@IMG@@
+![Nobel Prize medals, from Popular Science Monthly (1907)](images/06-worked-example-a-news-story.jpg)
+
+*Nobel Prize medals, from Popular Science Monthly (1907). Credit: Unknown authorUnknown author. License: Public domain. Source: [File:PSM V70 D094 Nobel prize medals.jpg](https://commons.wikimedia.org/wiki/File:PSM_V70_D094_Nobel_prize_medals.jpg).*
 
 In October 2012 headlines around the world suggested that eating chocolate might make you smarter, or even help your country win Nobel prizes. They were based on a short article in one of the most prestigious medical journals. This worked example traces a news story back to its source.
 

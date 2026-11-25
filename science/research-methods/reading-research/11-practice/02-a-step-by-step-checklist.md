@@ -2,7 +2,9 @@
 
 **Prerequisites:** All previous sections; this lesson pulls them together.
 
-@@IMG@@
+![A completed checklist](images/02-a-step-by-step-checklist.jpg)
+
+*A completed checklist. Credit: https://pixabay.com/users/472301-472301/. License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: [File:Questionnaire-checklist-completed.png](https://commons.wikimedia.org/wiki/File:Questionnaire-checklist-completed.png).*
 
 This checklist brings the course together into a sequence of questions you can apply to any study or claim. You will not need every question every time; the point is to have a routine that catches the common problems. Each item links to the lesson that explains it.
 

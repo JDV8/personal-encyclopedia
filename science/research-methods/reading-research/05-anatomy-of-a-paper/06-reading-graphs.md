@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Results and Table 1](05-results-and-table-one.md).
 
-@@IMG@@
+![Anscombe's quartet: four datasets with nearly identical summary statistics but very different graphs](images/06-reading-graphs.jpg)
+
+*Anscombe's quartet: four datasets with nearly identical summary statistics but very different graphs. Credit: Anscombe.svg: Schutz (label using subscripts): Avenue. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [File:Anscombe's quartet 3.svg](https://commons.wikimedia.org/wiki/File:Anscombe's_quartet_3.svg).*
 
 Figures are often the most memorable part of a paper and the part most easily misread. A few habits will protect you from most graphical tricks and help you extract real information quickly.
 

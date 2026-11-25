@@ -2,7 +2,9 @@
 
 **Prerequisites:** [Base rates and Bayes' theorem](14-base-rates-and-bayes-theorem.md).
 
-@@IMG@@
+![Sensitivity, specificity and predictive values from a two-by-two table of test results](images/15-sensitivity-and-specificity.jpg)
+
+*Sensitivity, specificity and predictive values from a two-by-two table of test results. Credit: Original by Luigi Albert Maria. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [File:PPV, NPV, Sensitivity and Specificity.svg](https://commons.wikimedia.org/wiki/File:PPV,_NPV,_Sensitivity_and_Specificity.svg).*
 
 Diagnostic and screening tests are everywhere in medical research: blood tests, scans, rapid antigen tests, questionnaires for depression. Papers about them use a small set of terms that let you work out how useful a test really is.
 
