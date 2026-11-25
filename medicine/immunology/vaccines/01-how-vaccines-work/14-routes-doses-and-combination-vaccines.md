@@ -1,6 +1,6 @@
 # Routes, doses and combination vaccines
 
-**Prerequisites:** [[types-of-vaccines|Types of vaccines]]; [[immunological-memory|Immunological memory]]
+**Prerequisites:** [Types of vaccines](02-types-of-vaccines.md); [Immunological memory](../../07-immunological-memory.md)
 
 ![Medical illustration of the intramuscular injection site on a child's thigh, where most infant vaccines are given](images/14-routes-doses-and-combination-vaccines.jpg)
 
@@ -34,7 +34,7 @@ Longer intervals between doses often produce higher and more durable responses. 
 
 ## Simultaneous administration
 
-Children often receive several vaccines at one visit. National advisory committees recommend this because studies have found that giving the routine vaccines together does not reduce their effectiveness or meaningfully increase serious side effects, and it reduces missed opportunities and visits. Some parents prefer spacing them out ("alternative schedules"). The evidence and arguments on both sides, including the Institute of Medicine's 2013 review of the schedule as a whole ([[c:iom2013]]), are in [[too-many-too-soon|too many, too soon]] and [[alternative-and-delayed-schedules|alternative and delayed schedules]].
+Children often receive several vaccines at one visit. National advisory committees recommend this because studies have found that giving the routine vaccines together does not reduce their effectiveness or meaningfully increase serious side effects, and it reduces missed opportunities and visits. Some parents prefer spacing them out ("alternative schedules"). The evidence and arguments on both sides, including the Institute of Medicine's 2013 review of the schedule as a whole ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)), are in [[too-many-too-soon|too many, too soon]] and [[alternative-and-delayed-schedules|alternative and delayed schedules]].
 
 ## Combination vaccines
 
@@ -45,7 +45,7 @@ Combination vaccines put several antigens in one injection:
 - **Pentavalent** DTwP-HepB-Hib, the workhorse of low-income countries' programmes.
 - **Hepatitis A + B** (Twinrix).
 
-Benefits: fewer injections, fewer visits, better coverage. Challenges: combining antigens can alter immune responses to individual components (for example, some combinations produce lower Hib antibody levels), so each combination must be tested. Combinations can also change side-effect profiles: MMRV in toddlers roughly doubles the risk of febrile seizures compared with MMR and varicella given separately on the same day ([[c:klein2010]]), so the US and Canada recommend separate MMR and varicella for the first dose (in September 2025, ACIP voted against MMRV for children under 4 altogether).
+Benefits: fewer injections, fewer visits, better coverage. Challenges: combining antigens can alter immune responses to individual components (for example, some combinations produce lower Hib antibody levels), so each combination must be tested. Combinations can also change side-effect profiles: MMRV in toddlers roughly doubles the risk of febrile seizures compared with MMR and varicella given separately on the same day ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665)), so the US and Canada recommend separate MMR and varicella for the first dose (in September 2025, ACIP voted against MMRV for children under 4 altogether).
 
 ## Separate monovalent vaccines?
 
@@ -60,5 +60,5 @@ During the MMR scare, Andrew Wakefield recommended separate measles, mumps and r
 
 ## Where this leads
 
-- Next section: [[development-pipeline|Development, trials and regulation]].
+- Next section: [Development, trials and regulation](../02-development-and-regulation/01-development-pipeline.md).
 - Related: [[how-schedules-are-built|how schedules are built]].

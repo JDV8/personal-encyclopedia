@@ -52,7 +52,7 @@ A recurring criticism is that many vaccines were licensed without a "true" (iner
 - many vaccines did have saline placebo trials (the 1954 polio trial, early COVID-19 trials, rotavirus trials and others);
 - large post-licensure observational studies supplement the trials.
 
-The fuller argument is in [[placebo-controls-debate|the placebo controls debate]].
+The fuller argument is in [the placebo controls debate](../immunology/vaccines/02-development-and-regulation/03-placebo-controls-debate.md).
 
 ## Key ideas
 
@@ -64,4 +64,4 @@ The fuller argument is in [[placebo-controls-debate|the placebo controls debate]
 ## Where this leads
 
 - Next: [Cohort and case-control studies](08-cohort-and-case-control-studies.md).
-- Related: [[clinical-trial-phases|clinical trial phases]].
+- Related: [clinical trial phases](../immunology/vaccines/02-development-and-regulation/02-clinical-trial-phases.md).

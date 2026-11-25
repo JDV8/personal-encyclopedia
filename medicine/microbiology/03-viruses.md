@@ -62,4 +62,4 @@ Many viruses jump from animals to humans (**zoonoses**). Rabies comes from mamma
 ## Where this leads
 
 - Next: [Toxins and toxin-mediated disease](04-toxins-and-toxin-mediated-disease.md).
-- Later: [[live-attenuated-vaccines|live attenuated vaccines]], [[measles|measles]], [[influenza|influenza]].
+- Later: [live attenuated vaccines](../immunology/vaccines/01-how-vaccines-work/03-live-attenuated-vaccines.md), [[measles|measles]], [[influenza|influenza]].

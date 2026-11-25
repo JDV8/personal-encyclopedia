@@ -61,4 +61,4 @@ Antibiotics transformed the treatment of bacterial disease from the 1940s onward
 ## Where this leads
 
 - Next: [Viruses](03-viruses.md), then [toxins](04-toxins-and-toxin-mediated-disease.md).
-- Related: [[conjugate-vaccines|conjugate vaccines]], [[pneumococcal-disease|pneumococcal disease]], [[haemophilus-influenzae-type-b|Hib]].
+- Related: [conjugate vaccines](../immunology/vaccines/01-how-vaccines-work/07-conjugate-vaccines.md), [[pneumococcal-disease|pneumococcal disease]], [[haemophilus-influenzae-type-b|Hib]].

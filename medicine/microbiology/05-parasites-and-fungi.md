@@ -35,7 +35,7 @@ Parasitic worms (helminths), such as hookworm and schistosomes, infect over a bi
 
 ## Fungi
 
-Fungi (yeasts and moulds) mainly threaten people with weakened immune systems, such as those with advanced HIV, cancer chemotherapy or organ transplants. There are no licensed human vaccines against fungal infections. They matter here only for context: some vaccine-safety questions involve fungal products indirectly, because yeast (*Saccharomyces cerevisiae*) is used as a factory to make vaccine proteins. The hepatitis B vaccine and some HPV vaccines are produced in yeast cells, and trace yeast protein is listed as a possible residual. See [[how-vaccines-are-made|how vaccines are made]].
+Fungi (yeasts and moulds) mainly threaten people with weakened immune systems, such as those with advanced HIV, cancer chemotherapy or organ transplants. There are no licensed human vaccines against fungal infections. They matter here only for context: some vaccine-safety questions involve fungal products indirectly, because yeast (*Saccharomyces cerevisiae*) is used as a factory to make vaccine proteins. The hepatitis B vaccine and some HPV vaccines are produced in yeast cells, and trace yeast protein is listed as a possible residual. See [how vaccines are made](../immunology/vaccines/01-how-vaccines-work/12-how-vaccines-are-made.md).
 
 ## Vectors
 

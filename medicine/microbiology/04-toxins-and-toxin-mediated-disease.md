@@ -8,7 +8,7 @@
 
 ## When the poison is the problem
 
-For some bacterial diseases, the bacteria themselves do relatively little damage. The harm comes from a protein **toxin** they release. The toxin may act far from where the bacteria are growing. This is why these diseases need a special kind of vaccine, the [[toxoid-vaccines|toxoid]], which trains the immune system to neutralise the toxin rather than (or as well as) the bacterium.
+For some bacterial diseases, the bacteria themselves do relatively little damage. The harm comes from a protein **toxin** they release. The toxin may act far from where the bacteria are growing. This is why these diseases need a special kind of vaccine, the [toxoid](../immunology/vaccines/01-how-vaccines-work/05-toxoid-vaccines.md), which trains the immune system to neutralise the toxin rather than (or as well as) the bacterium.
 
 ## Exotoxins and endotoxins
 
@@ -52,4 +52,4 @@ Botulinum toxin (from *Clostridium botulinum*) is even more potent than tetanus 
 ## Where this leads
 
 - Next: [Parasites and fungi](05-parasites-and-fungi.md), then [infection and transmission](06-infection-and-transmission.md).
-- Later: [[toxoid-vaccines|toxoid vaccines]], [passive and active immunity](../immunology/08-passive-and-active-immunity.md).
+- Later: [toxoid vaccines](../immunology/vaccines/01-how-vaccines-work/05-toxoid-vaccines.md), [passive and active immunity](../immunology/08-passive-and-active-immunity.md).

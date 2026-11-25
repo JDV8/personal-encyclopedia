@@ -1,6 +1,6 @@
 # Inactivated vaccines
 
-**Prerequisites:** [[types-of-vaccines|Types of vaccines]]
+**Prerequisites:** [Types of vaccines](02-types-of-vaccines.md)
 
 ![Jonas Salk, developer of the inactivated polio vaccine](images/04-inactivated-vaccines.jpg)
 
@@ -26,7 +26,7 @@ Getting inactivation exactly right is critical. Too little, and live organisms s
 
 ## The Cutter incident: when inactivation failed
 
-The danger of incomplete inactivation was shown catastrophically in April 1955, weeks after the Salk polio vaccine was licensed. Some lots made by **Cutter Laboratories** in California contained live poliovirus. According to the CDC's investigation, the contaminated vaccine caused about 40,000 cases of abortive (mild) polio, 200 children were left with varying degrees of paralysis, and 10 died; the virus also spread to family members and contacts ([[c:offit2005]]). Inadequate filtration allowed virus clumps to survive formaldehyde treatment. The incident led to much stronger federal regulation of vaccine manufacture and testing, and to the legal precedent (*Gottsdanker v. Cutter Laboratories*, 1958) that a manufacturer could be held liable without negligence, which later shaped vaccine litigation. See [[salk-sabin-and-the-cutter-incident|Salk, Sabin and the Cutter incident]].
+The danger of incomplete inactivation was shown catastrophically in April 1955, weeks after the Salk polio vaccine was licensed. Some lots made by **Cutter Laboratories** in California contained live poliovirus. According to the CDC's investigation, the contaminated vaccine caused about 40,000 cases of abortive (mild) polio, 200 children were left with varying degrees of paralysis, and 10 died; the virus also spread to family members and contacts ([Offit, *NEJM* 2005, "The Cutter incident, 50 years later"](https://doi.org/10.1056/NEJMp048180)). Inadequate filtration allowed virus clumps to survive formaldehyde treatment. The incident led to much stronger federal regulation of vaccine manufacture and testing, and to the legal precedent (*Gottsdanker v. Cutter Laboratories*, 1958) that a manufacturer could be held liable without negligence, which later shaped vaccine litigation. See [[salk-sabin-and-the-cutter-incident|Salk, Sabin and the Cutter incident]].
 
 ## Strengths
 
@@ -55,5 +55,5 @@ Most injected influenza vaccines are not whole killed virus. They are **split** 
 
 ## Where this leads
 
-- Next: [[toxoid-vaccines|Toxoid vaccines]].
+- Next: [Toxoid vaccines](05-toxoid-vaccines.md).
 - Related: [[polio|polio]], [[jonas-salk|Jonas Salk]].

@@ -56,5 +56,5 @@ Reviews grade evidence using frameworks such as **GRADE** (high, moderate, low, 
 
 ## Where this leads
 
-- The main course: [[how-vaccines-work|How vaccines work]].
-- Related: [[expert-reviews-iom-nasem-cochrane|expert reviews (IOM, NASEM, Cochrane)]].
+- The main course: [How vaccines work](../immunology/vaccines/01-how-vaccines-work/01-how-vaccines-work.md).
+- Related: [expert reviews (IOM, NASEM, Cochrane)](../immunology/vaccines/02-development-and-regulation/11-expert-reviews-iom-nasem-cochrane.md).

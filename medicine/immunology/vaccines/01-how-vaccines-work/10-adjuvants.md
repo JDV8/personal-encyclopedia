@@ -1,6 +1,6 @@
 # Adjuvants
 
-**Prerequisites:** [[barriers-and-innate-immunity|Barriers and innate immunity]]; [[subunit-and-recombinant-vaccines|Subunit and recombinant vaccines]]
+**Prerequisites:** [Barriers and innate immunity](../../02-barriers-and-innate-immunity.md); [Subunit and recombinant vaccines](06-subunit-and-recombinant-vaccines.md)
 
 ![The soapbark tree, Quillaja saponaria, source of the QS-21 saponin used in the AS01 adjuvant of the Shingrix and Arexvy vaccines](images/10-adjuvants.jpg)
 
@@ -24,7 +24,7 @@ Live vaccines, whole inactivated bacteria and viral vectors usually do not need 
 | **CpG 1018** | Synthetic DNA sequence that stimulates TLR9 | Heplisav-B (hepatitis B, adults) |
 | **Matrix-M** | Saponin-based nanoparticles | Novavax COVID-19, R21 malaria |
 
-The [[c:fda-ingredients]] page lists the adjuvants in US-licensed vaccines.
+The [FDA, *Common Ingredients in FDA-Approved Vaccines*](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/common-ingredients-us-licensed-vaccines) page lists the adjuvants in US-licensed vaccines.
 
 ## How they work
 
@@ -64,5 +64,5 @@ Regulators evaluate adjuvants as part of each vaccine, not as stand-alone produc
 
 ## Where this leads
 
-- Next: [[excipients-and-ingredients|Excipients and ingredients]].
+- Next: [Excipients and ingredients](11-excipients-and-ingredients.md).
 - Related: [[aluminium-adjuvants|aluminium adjuvants]].

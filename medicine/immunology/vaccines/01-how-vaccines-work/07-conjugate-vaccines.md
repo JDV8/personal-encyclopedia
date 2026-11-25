@@ -1,6 +1,6 @@
 # Conjugate vaccines
 
-**Prerequisites:** [[subunit-and-recombinant-vaccines|Subunit and recombinant vaccines]]; [[antigens-and-antigen-presentation|Antigens and antigen presentation]]
+**Prerequisites:** [Subunit and recombinant vaccines](06-subunit-and-recombinant-vaccines.md); [Antigens and antigen presentation](../../04-antigens-and-antigen-presentation.md)
 
 ![Haemophilus influenzae colonies growing on chocolate agar; the type b strain (Hib) was the leading cause of bacterial meningitis in young children before conjugate vaccines](images/07-conjugate-vaccines.jpg)
 
@@ -10,7 +10,7 @@
 
 Several of the most dangerous childhood bacteria (*Haemophilus influenzae* type b, *Streptococcus pneumoniae*, *Neisseria meningitidis*, *Salmonella* Typhi) wear a **polysaccharide capsule**, a coat of long sugar chains that helps them evade phagocytes. Antibodies against the capsule protect. So why not vaccinate with purified capsule sugar?
 
-That was tried, and it works partly. Pure polysaccharide vaccines protect older children and adults. But as explained in [[antigens-and-antigen-presentation|antigen presentation]], sugars cannot be displayed on MHC molecules, so they cannot recruit helper T cells. They trigger **T-independent** B-cell responses, which:
+That was tried, and it works partly. Pure polysaccharide vaccines protect older children and adults. But as explained in [antigen presentation](../../04-antigens-and-antigen-presentation.md), sugars cannot be displayed on MHC molecules, so they cannot recruit helper T cells. They trigger **T-independent** B-cell responses, which:
 
 - are weak or absent in children under about 2 years, exactly the age group at greatest risk;
 - produce little immune memory, so boosters do not give a stronger second response (and repeated doses can even blunt responses, called hyporesponsiveness);
@@ -37,9 +37,9 @@ The principle was shown in the 1920s and 1930s by Oswald Avery and Walter Goebel
 ## The impact
 
 - **Hib**: before conjugate vaccines, Hib caused about 20,000 cases of invasive disease a year in US children under 5, according to the CDC, including meningitis that killed some and left others deaf or brain-damaged. After the conjugate vaccines (licensed for infants in 1990), invasive Hib disease in young children fell by more than 99%. See [[haemophilus-influenzae-type-b|Hib]].
-- **Pneumococcus**: the 7-valent conjugate vaccine (2000 in the US) sharply reduced invasive disease in vaccinated children and, through reduced carriage, in unvaccinated adults ([[c:whitney2003]]). Later versions cover 10, 13, 15, 20 and 21 serotypes.
+- **Pneumococcus**: the 7-valent conjugate vaccine (2000 in the US) sharply reduced invasive disease in vaccinated children and, through reduced carriage, in unvaccinated adults ([Whitney et al., *NEJM* 2003](https://doi.org/10.1056/NEJMoa022823)). Later versions cover 10, 13, 15, 20 and 21 serotypes.
 - **Meningococcus**: conjugate vaccines against group C (UK, 1999), groups A, C, W and Y, and the cheap MenAfriVac against group A, which nearly eliminated epidemic group A meningitis in Africa's "meningitis belt" after 2010.
-- **Typhoid**: typhoid conjugate vaccines prevent disease in young children ([[c:shakya2019]]).
+- **Typhoid**: typhoid conjugate vaccines prevent disease in young children ([Shakya et al., *NEJM* 2019](https://doi.org/10.1056/NEJMoa1905047)).
 
 ## Herd effects and serotype replacement
 
@@ -54,5 +54,5 @@ Because conjugate vaccines reduce carriage, they protect unvaccinated people. Bu
 
 ## Where this leads
 
-- Next: [[viral-vector-vaccines|Viral vector vaccines]].
+- Next: [Viral vector vaccines](08-viral-vector-vaccines.md).
 - Related: [[pneumococcal-disease|pneumococcal disease]], [[meningococcal-disease|meningococcal disease]].

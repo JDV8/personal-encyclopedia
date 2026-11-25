@@ -1,6 +1,6 @@
 # The cold chain
 
-**Prerequisites:** [[how-vaccines-are-made|How vaccines are made]]
+**Prerequisites:** [How vaccines are made](12-how-vaccines-are-made.md)
 
 ![A solar-powered clinic in Haiti that uses the electricity to refrigerate rabies vaccine](images/13-the-cold-chain.jpg)
 
@@ -46,6 +46,8 @@ The cold chain explains some apparent vaccine "failures" in outbreaks, particula
 
 Cold chain lapses occasionally lead to recalls or revaccination campaigns in rich countries too, when a clinic fridge fails or is set wrongly. Health agencies treat such vaccines as invalid doses that need repeating, which is one source of "extra" doses in some children's records.
 
+Freezing is as much a danger as heat. Vaccines containing aluminium adjuvants (such as DTaP, hepatitis B and many conjugate vaccines) can be damaged by freezing, which makes the adjuvant clump and reduces potency; health workers are taught a "shake test" to check for this. In domestic refrigerators the coldest spots near the freezer compartment can freeze vaccines, which is why clinics are told to use purpose-built vaccine fridges.
+
 ## Key ideas
 
 - Most vaccines lose potency if too warm, and aluminium-adjuvanted ones are damaged by freezing.
@@ -55,5 +57,5 @@ Cold chain lapses occasionally lead to recalls or revaccination campaigns in ric
 
 ## Where this leads
 
-- Next: [[routes-doses-and-combination-vaccines|Routes, doses and combination vaccines]].
+- Next: [Routes, doses and combination vaccines](14-routes-doses-and-combination-vaccines.md).
 - Related: [[global-immunisation-programmes|global immunisation programmes]].

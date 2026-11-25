@@ -1,6 +1,6 @@
 # How vaccines are made
 
-**Prerequisites:** [[types-of-vaccines|Types of vaccines]]; [[excipients-and-ingredients|Excipients and ingredients]]
+**Prerequisites:** [Types of vaccines](02-types-of-vaccines.md); [Excipients and ingredients](11-excipients-and-ingredients.md)
 
 ![Illustration of reassortment, used to make influenza vaccine seed viruses that combine the surface antigens of a target strain with genes that grow well in eggs](images/12-how-vaccines-are-made.jpg)
 
@@ -37,13 +37,13 @@ Manufacturers must show the product is:
 - **Safe**: for inactivated products, tests confirm no live organism remains (the lesson of the [[salk-sabin-and-the-cutter-incident|Cutter incident]]).
 - **Consistent**: each lot comparable to those tested in clinical trials.
 
-In the US, the FDA's Center for Biologics Evaluation and Research (CBER) reviews lot-release protocols; in Canada, Health Canada's Biologic and Radiopharmaceutical Drugs Directorate does this. See [[licensing-and-regulators|licensing and regulators]].
+In the US, the FDA's Center for Biologics Evaluation and Research (CBER) reviews lot-release protocols; in Canada, Health Canada's Biologic and Radiopharmaceutical Drugs Directorate does this. See [licensing and regulators](../02-development-and-regulation/05-licensing-and-regulators.md).
 
 ## Contamination episodes
 
 Testing standards have improved partly because of past contamination:
 
-- **SV40.** Between 1955 and 1963, some polio vaccine (both Salk's and early Sabin's) was made in rhesus monkey kidney cells contaminated with simian virus 40, which was discovered in 1960. An estimated 10–30 million Americans may have received contaminated doses. SV40 causes tumours in some laboratory animals. Whether it caused human cancers was investigated for decades; the Institute of Medicine concluded in 2002 ([[c:iom2002sv40]]) that the evidence was inadequate to accept or reject a causal relation with cancer, and large epidemiological studies did not find higher cancer rates in exposed birth cohorts. Critics continue to raise it; most researchers consider a large effect unlikely.
+- **SV40.** Between 1955 and 1963, some polio vaccine (both Salk's and early Sabin's) was made in rhesus monkey kidney cells contaminated with simian virus 40, which was discovered in 1960. An estimated 10–30 million Americans may have received contaminated doses. SV40 causes tumours in some laboratory animals. Whether it caused human cancers was investigated for decades; the Institute of Medicine concluded in 2002 ([Institute of Medicine, *SV40 Contamination of Polio Vaccine and Cancer* (2002)](https://doi.org/10.17226/10534)) that the evidence was inadequate to accept or reject a causal relation with cancer, and large epidemiological studies did not find higher cancer rates in exposed birth cohorts. Critics continue to raise it; most researchers consider a large effect unlikely.
 - **Porcine circovirus** DNA was found in Rotarix in 2010 using new sequencing techniques; it is not known to cause disease in humans. US use was briefly paused, then resumed.
 - **Manufacturing failures**: contamination at a Chiron plant in Liverpool caused the loss of nearly half the US flu vaccine supply in 2004; a 2021 mix-up at an Emergent BioSolutions plant in Baltimore ruined about 15 million doses of J&J COVID-19 vaccine.
 
@@ -60,5 +60,5 @@ Only a handful of companies make most of the world's vaccines (GSK, Merck/MSD, S
 
 ## Where this leads
 
-- Next: [[the-cold-chain|The cold chain]].
-- Related: [[development-pipeline|the development pipeline]].
+- Next: [The cold chain](13-the-cold-chain.md).
+- Related: [the development pipeline](../02-development-and-regulation/01-development-pipeline.md).

@@ -1,6 +1,6 @@
 # Live attenuated vaccines
 
-**Prerequisites:** [[types-of-vaccines|Types of vaccines]]; [[viruses|Viruses]]
+**Prerequisites:** [Types of vaccines](02-types-of-vaccines.md); [Viruses](../../../microbiology/03-viruses.md)
 
 ![Albert Sabin, developer of the live attenuated oral polio vaccine](images/03-live-attenuated-vaccines.jpg)
 
@@ -56,5 +56,5 @@ Modern methods can attenuate deliberately, for example by deleting genes or crea
 
 ## Where this leads
 
-- Next: [[inactivated-vaccines|Inactivated vaccines]].
+- Next: [Inactivated vaccines](04-inactivated-vaccines.md).
 - Related: [[measles|measles]], [[polio|polio]], [[maurice-hilleman|Maurice Hilleman]].

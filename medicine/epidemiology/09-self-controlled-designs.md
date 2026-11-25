@@ -45,7 +45,7 @@ SCCS assumes that the event does not itself change the chance of being vaccinate
 
 ## Rapid cycle analysis
 
-Self-controlled and similar comparisons are used for near-real-time monitoring. The Vaccine Safety Datalink runs weekly **rapid cycle analyses** on new vaccines, comparing observed with expected counts of pre-specified events. This is how a signal for febrile seizures after the combined MMRV vaccine was detected and confirmed ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665)). See [[active-surveillance-systems|active surveillance systems]].
+Self-controlled and similar comparisons are used for near-real-time monitoring. The Vaccine Safety Datalink runs weekly **rapid cycle analyses** on new vaccines, comparing observed with expected counts of pre-specified events. This is how a signal for febrile seizures after the combined MMRV vaccine was detected and confirmed ([Klein et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0665)). See [active surveillance systems](../immunology/vaccines/02-development-and-regulation/09-active-surveillance-systems.md).
 
 ## Key ideas
 

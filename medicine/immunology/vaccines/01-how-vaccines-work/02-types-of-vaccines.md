@@ -1,6 +1,6 @@
 # Types of vaccines
 
-**Prerequisites:** [[how-vaccines-work|How vaccines work]]
+**Prerequisites:** [How vaccines work](01-how-vaccines-work.md)
 
 ![Laboratory workers at the BioFarma vaccine facility in Bandung, Indonesia, inspecting vaccine vials](images/02-types-of-vaccines.jpg)
 
@@ -29,13 +29,13 @@ flowchart TD
 
 | Platform | How it works | Typical strengths | Typical limitations |
 |---|---|---|---|
-| [[live-attenuated-vaccines|Live attenuated]] | Weakened organism replicates briefly | Strong, broad, lasting immunity, often from 1–2 doses | Not for severely immunocompromised people or (mostly) pregnancy; rare reversion (oral polio); often needs cold storage |
-| [[inactivated-vaccines|Inactivated]] | Killed whole organism | Cannot cause infection; stable | Weaker response; boosters; mostly antibody, little killer-T-cell response |
-| [[subunit-and-recombinant-vaccines|Subunit / recombinant]] | Purified or lab-made proteins | Very defined; safe in immunocompromised | Usually needs adjuvant and several doses |
-| [[toxoid-vaccines|Toxoid]] | Inactivated toxin | Prevents toxin-mediated disease | No effect on bacterial carriage; boosters needed |
-| [[conjugate-vaccines|Conjugate]] | Capsule sugar chemically linked to a carrier protein | Works in infants; reduces carriage, giving herd effects | Covers only included serotypes; serotype replacement |
-| [[viral-vector-vaccines|Viral vector]] | Harmless virus delivers a gene | Strong T-cell and antibody response, one dose possible | Pre-existing immunity to the vector; rare VITT with adenovirus vectors |
-| [[mrna-vaccines|mRNA]] | Lipid nanoparticle delivers mRNA; cells make antigen | Fast to design and update; strong responses | Cold chain; reactogenicity; rare myocarditis, mainly in young males |
+| [Live attenuated](03-live-attenuated-vaccines.md) | Weakened organism replicates briefly | Strong, broad, lasting immunity, often from 1–2 doses | Not for severely immunocompromised people or (mostly) pregnancy; rare reversion (oral polio); often needs cold storage |
+| [Inactivated](04-inactivated-vaccines.md) | Killed whole organism | Cannot cause infection; stable | Weaker response; boosters; mostly antibody, little killer-T-cell response |
+| [Subunit / recombinant](06-subunit-and-recombinant-vaccines.md) | Purified or lab-made proteins | Very defined; safe in immunocompromised | Usually needs adjuvant and several doses |
+| [Toxoid](05-toxoid-vaccines.md) | Inactivated toxin | Prevents toxin-mediated disease | No effect on bacterial carriage; boosters needed |
+| [Conjugate](07-conjugate-vaccines.md) | Capsule sugar chemically linked to a carrier protein | Works in infants; reduces carriage, giving herd effects | Covers only included serotypes; serotype replacement |
+| [Viral vector](08-viral-vector-vaccines.md) | Harmless virus delivers a gene | Strong T-cell and antibody response, one dose possible | Pre-existing immunity to the vector; rare VITT with adenovirus vectors |
+| [mRNA](09-mrna-vaccines.md) | Lipid nanoparticle delivers mRNA; cells make antigen | Fast to design and update; strong responses | Cold chain; reactogenicity; rare myocarditis, mainly in young males |
 
 ## Live vs non-live
 
@@ -63,4 +63,4 @@ Many diseases have been targeted by several platforms over time, sometimes with 
 
 ## Where this leads
 
-- Next: [[live-attenuated-vaccines|Live attenuated vaccines]].
+- Next: [Live attenuated vaccines](03-live-attenuated-vaccines.md).

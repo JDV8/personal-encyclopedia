@@ -32,7 +32,7 @@ Examples for vaccine safety:
 - **No control group**: it cannot say whether events happened more often than in unvaccinated people.
 - **Unverified content**: reports may be incomplete, duplicated or wrong.
 
-The correct use of passive data is **signal detection**: spotting unusual patterns that need investigation in better systems. How to read VAERS specifically is covered in [[reading-vaers-correctly|reading VAERS correctly]].
+The correct use of passive data is **signal detection**: spotting unusual patterns that need investigation in better systems. How to read VAERS specifically is covered in [reading VAERS correctly](../immunology/vaccines/02-development-and-regulation/08-reading-vaers-correctly.md).
 
 ## Active surveillance
 
@@ -69,4 +69,4 @@ Disease surveillance uses mandatory notification of certain diseases, laboratory
 ## Where this leads
 
 - Next: [Efficacy, effectiveness and waning](13-efficacy-effectiveness-and-waning.md).
-- Related: [[post-market-surveillance|post-market surveillance]], [[reading-vaers-correctly|reading VAERS correctly]].
+- Related: [post-market surveillance](../immunology/vaccines/02-development-and-regulation/07-post-market-surveillance.md), [reading VAERS correctly](../immunology/vaccines/02-development-and-regulation/08-reading-vaers-correctly.md).

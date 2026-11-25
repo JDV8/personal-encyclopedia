@@ -63,4 +63,4 @@ Some vaccines show little waning against severe disease (measles, the conjugate 
 ## Where this leads
 
 - Next: [Systematic reviews and meta-analysis](14-systematic-reviews-and-meta-analysis.md).
-- Then the main course: [[how-vaccines-work|How vaccines work]].
+- Then the main course: [How vaccines work](../immunology/vaccines/01-how-vaccines-work/01-how-vaccines-work.md).

@@ -23,7 +23,7 @@ When a microbe breaches the barriers, innate immunity responds within minutes to
 
 Innate cells carry **pattern recognition receptors**, the best known being the **Toll-like receptors (TLRs)**. They detect molecular patterns that are common to microbes but absent from healthy human cells, such as bacterial lipopolysaccharide, flagellin, and double-stranded or unusual RNA. Cells also detect "danger signals" released by damaged tissue.
 
-This matters directly for vaccines. A purified protein on its own often provokes only a weak immune response, because it lacks these danger signals. **Adjuvants** are ingredients added to vaccines to supply them. Aluminium salts, oil-in-water emulsions, and newer adjuvants that stimulate specific TLRs all work, at least partly, by engaging innate immunity; see [[adjuvants|adjuvants]]. mRNA vaccines contain modified nucleosides partly to avoid an excessive innate reaction to the RNA itself.
+This matters directly for vaccines. A purified protein on its own often provokes only a weak immune response, because it lacks these danger signals. **Adjuvants** are ingredients added to vaccines to supply them. Aluminium salts, oil-in-water emulsions, and newer adjuvants that stimulate specific TLRs all work, at least partly, by engaging innate immunity; see [adjuvants](vaccines/01-how-vaccines-work/10-adjuvants.md). mRNA vaccines contain modified nucleosides partly to avoid an excessive innate reaction to the RNA itself.
 
 ### The responders
 
@@ -62,4 +62,4 @@ The same innate response that clears infection causes the symptoms people associ
 ## Where this leads
 
 - Next: [Inflammation and fever](03-inflammation-and-fever.md).
-- Related: [[adjuvants|adjuvants]], [[common-reactions|common vaccine reactions]].
+- Related: [adjuvants](vaccines/01-how-vaccines-work/10-adjuvants.md), [[common-reactions|common vaccine reactions]].

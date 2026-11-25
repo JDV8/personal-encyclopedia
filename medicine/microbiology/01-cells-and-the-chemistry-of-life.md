@@ -27,7 +27,7 @@ Living things are built mainly from four kinds of large molecule:
 
 1. **Proteins**: chains of amino acids folded into precise shapes. They do most of the work in a cell: enzymes speed up reactions, structural proteins hold things together, receptors sense the outside world. Antibodies are proteins, and so are most of the things antibodies recognise.
 2. **Nucleic acids**: DNA and RNA, long chains of four chemical "letters" that store and transmit genetic information.
-3. **Carbohydrates**: sugars and their chains (polysaccharides). Many bacteria wrap themselves in a slippery **polysaccharide capsule**, which becomes important when we reach [[conjugate-vaccines|conjugate vaccines]].
+3. **Carbohydrates**: sugars and their chains (polysaccharides). Many bacteria wrap themselves in a slippery **polysaccharide capsule**, which becomes important when we reach [conjugate vaccines](../immunology/vaccines/01-how-vaccines-work/07-conjugate-vaccines.md).
 4. **Lipids**: fats and oils, which form the membranes around every cell and around some viruses. The lipid nanoparticles in mRNA vaccines borrow this chemistry.
 
 ## From gene to protein
@@ -46,7 +46,7 @@ A **gene** is a stretch of DNA that carries the recipe for a protein. When the c
 Two points from this will matter later:
 
 - **Viruses hijack exactly this machinery.** A virus brings its own genetic instructions and uses the host cell's ribosomes to make viral proteins.
-- **mRNA vaccines use it too.** They deliver an mRNA recipe for one viral protein; the person's own cells read it and make that protein for a short time, which the immune system then learns to recognise. The mRNA does not enter the nucleus and is not built into DNA. The details are in [[mrna-vaccines|the mRNA lesson]].
+- **mRNA vaccines use it too.** They deliver an mRNA recipe for one viral protein; the person's own cells read it and make that protein for a short time, which the immune system then learns to recognise. The mRNA does not enter the nucleus and is not built into DNA. The details are in [the mRNA lesson](../immunology/vaccines/01-how-vaccines-work/09-mrna-vaccines.md).
 
 ## Shape is everything
 
@@ -62,4 +62,4 @@ The immune system does not read genetic sequences directly. It recognises **shap
 ## Where this leads
 
 - Next: [Bacteria](02-bacteria.md), then [viruses](03-viruses.md).
-- Later: [the immune system at a glance](../immunology/01-the-immune-system-at-a-glance.md) and [[mrna-vaccines|mRNA vaccines]].
+- Later: [the immune system at a glance](../immunology/01-the-immune-system-at-a-glance.md) and [mRNA vaccines](../immunology/vaccines/01-how-vaccines-work/09-mrna-vaccines.md).

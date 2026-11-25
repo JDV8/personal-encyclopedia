@@ -1,6 +1,6 @@
 # Excipients and ingredients
 
-**Prerequisites:** [[adjuvants|Adjuvants]]; [[how-vaccines-work|How vaccines work]]
+**Prerequisites:** [Adjuvants](10-adjuvants.md); [How vaccines work](01-how-vaccines-work.md)
 
 ![Chemical structure of thiomersal (thimerosal), an ethylmercury-containing preservative once common in multi-dose vaccine vials](images/11-excipients-and-ingredients.jpg)
 
@@ -24,13 +24,13 @@ flowchart TD
 
 Multi-dose vials can be contaminated each time a needle is inserted. In 1928, in Bundaberg, Australia, 12 of 21 children died after receiving diphtheria toxin–antitoxin from a vial contaminated with *Staphylococcus aureus*, an event that drove the use of preservatives.
 
-**Thimerosal** (thiomersal) is about 49.6% mercury by weight, in the form of ethylmercury. In the US, it was removed or reduced to trace amounts in all routinely recommended childhood vaccines by 2001, after a 1999 joint statement by the US Public Health Service and the American Academy of Pediatrics. That statement was precautionary: it was prompted by the realisation that cumulative infant exposure from the expanded schedule could exceed one federal guideline for *methyl*mercury, not by evidence of harm. Ethylmercury is cleared from the blood much faster than the methylmercury found in fish. Many large studies later found no link between thimerosal and autism ([[c:hviid2003]]; [[c:price2010]]; [[c:iom2004]]). Thimerosal remained in some multi-dose influenza vials until the US Department of Health and Human Services adopted an ACIP recommendation in July 2025 to use only thimerosal-free single-dose flu vaccines ([[c:hhs-thimerosal-2025]]). It is still used in multi-dose vials in many lower-income countries, where the WHO considers it safe and important for affordable vaccine supply. The debate is covered in [[thimerosal-and-autism|thimerosal and autism]].
+**Thimerosal** (thiomersal) is about 49.6% mercury by weight, in the form of ethylmercury. In the US, it was removed or reduced to trace amounts in all routinely recommended childhood vaccines by 2001, after a 1999 joint statement by the US Public Health Service and the American Academy of Pediatrics. That statement was precautionary: it was prompted by the realisation that cumulative infant exposure from the expanded schedule could exceed one federal guideline for *methyl*mercury, not by evidence of harm. Ethylmercury is cleared from the blood much faster than the methylmercury found in fish. Many large studies later found no link between thimerosal and autism ([Hviid et al., *JAMA* 2003 (thimerosal)](https://doi.org/10.1001/jama.290.13.1763); [Price et al., *Pediatrics* 2010](https://doi.org/10.1542/peds.2010-0309); [Institute of Medicine, *Immunization Safety Review: Vaccines and Autism* (2004)](https://doi.org/10.17226/10997)). Thimerosal remained in some multi-dose influenza vials until the US Department of Health and Human Services adopted an ACIP recommendation in July 2025 to use only thimerosal-free single-dose flu vaccines ([HHS press release on removing thimerosal from US influenza vaccines (23 July 2025)](https://www.hhs.gov/press-room/thimerosal-mercury-removed-from-us-flu-vaccines-acip.html)). It is still used in multi-dose vials in many lower-income countries, where the WHO considers it safe and important for affordable vaccine supply. The debate is covered in [[thimerosal-and-autism|thimerosal and autism]].
 
 Other preservatives include **2-phenoxyethanol** and **phenol**.
 
 ## Residuals from manufacturing
 
-- **Formaldehyde**, used to inactivate viruses and toxins, may remain in trace amounts. Formaldehyde is also a normal product of human metabolism. The FDA states that a newborn's body contains 50 to 70 times more formaldehyde than the upper amount they could receive from vaccines ([[c:fda-ingredients]]).
+- **Formaldehyde**, used to inactivate viruses and toxins, may remain in trace amounts. Formaldehyde is also a normal product of human metabolism. The FDA states that a newborn's body contains 50 to 70 times more formaldehyde than the upper amount they could receive from vaccines ([FDA, *Common Ingredients in FDA-Approved Vaccines*](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/common-ingredients-us-licensed-vaccines)).
 - **Antibiotics** such as neomycin, polymyxin B, streptomycin and gentamicin prevent bacterial contamination during production. The antibiotics most likely to cause allergies (penicillins, cephalosporins, sulfa drugs) are not used.
 - **Egg protein** from viruses grown in eggs (most flu vaccines, yellow fever). Current guidance in the US, Canada and UK is that people with egg allergy, even severe, can receive flu vaccines; the residual ovalbumin is tiny. Yellow fever vaccine has more egg protein and needs more caution.
 - **Yeast protein** from recombinant hepatitis B and HPV vaccines.
@@ -55,5 +55,5 @@ This raises genuine ethical questions for some people. The Catholic Church's Pon
 
 ## Where this leads
 
-- Next: [[how-vaccines-are-made|How vaccines are made]].
+- Next: [How vaccines are made](12-how-vaccines-are-made.md).
 - Related: [[anaphylaxis|anaphylaxis]], [[thimerosal-and-autism|thimerosal and autism]].

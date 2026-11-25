@@ -1,6 +1,6 @@
 # mRNA vaccines
 
-**Prerequisites:** [[cells-and-the-chemistry-of-life|Cells and the chemistry of life]]; [[types-of-vaccines|Types of vaccines]]
+**Prerequisites:** [Cells and the chemistry of life](../../../microbiology/01-cells-and-the-chemistry-of-life.md); [Types of vaccines](02-types-of-vaccines.md)
 
 ![Katalin Karikó, whose work with Drew Weissman on modified nucleosides made mRNA vaccines practical; they shared the 2023 Nobel Prize in Physiology or Medicine](images/09-mrna-vaccines.jpg)
 
@@ -29,19 +29,19 @@ The idea is decades old; making it work required several advances:
 
 ## The COVID-19 vaccines
 
-Moderna's mRNA-1273 and Pfizer–BioNTech's BNT162b2 were the first mRNA vaccines authorised, in December 2020, less than a year after the virus's genome was published. Their phase 3 trials reported about 94–95% efficacy against symptomatic COVID-19 over the first months ([[c:polack2020]]; [[c:baden2021]]). Effectiveness against infection later fell with waning and with the Omicron variants, while protection against severe disease was better maintained, particularly after boosters. Updated versions have targeted newer variants.
+Moderna's mRNA-1273 and Pfizer–BioNTech's BNT162b2 were the first mRNA vaccines authorised, in December 2020, less than a year after the virus's genome was published. Their phase 3 trials reported about 94–95% efficacy against symptomatic COVID-19 over the first months ([Polack et al., *NEJM* 2020 (BNT162b2 trial)](https://doi.org/10.1056/NEJMoa2034577); [Baden et al., *NEJM* 2021 (mRNA-1273 trial)](https://doi.org/10.1056/NEJMoa2035389)). Effectiveness against infection later fell with waning and with the Omicron variants, while protection against severe disease was better maintained, particularly after boosters. Updated versions have targeted newer variants.
 
 The speed raised understandable concerns. It was achieved by building on years of prior platform research, running trial phases in overlapping fashion, manufacturing at financial risk before results (see [[covid-19-vaccines-and-operation-warp-speed|Operation Warp Speed]]), and having very high case rates during trials, which yielded results quickly. The trials enrolled tens of thousands, but rarer side effects emerged only with wider use.
 
 ## Known risks
 
 - **Reactogenicity**: sore arm, fatigue, headache, fever and chills are common, especially after the second dose and with Moderna's higher dose.
-- **Anaphylaxis**: early US data suggested about 2.5–5 cases per million doses ([[c:shimabukuro2021]]).
-- **Myocarditis and pericarditis**: rare inflammation of the heart, concentrated in adolescent and young adult males within days of the second dose; highest estimates are in the order of 1 in several thousand to 1 in tens of thousands for young males after the second dose, depending on vaccine, interval and study ([[c:mevorach2021]]; [[c:oster2022]]). Most cases resolved, but long-term follow-up continues, and the size and seriousness of this risk in young, healthy people is central to debates about recommending boosters for them. See [[myocarditis-and-mrna-vaccines|myocarditis and mRNA vaccines]].
+- **Anaphylaxis**: early US data suggested about 2.5–5 cases per million doses ([Shimabukuro & Nair, *JAMA* 2021](https://doi.org/10.1001/jama.2021.0600)).
+- **Myocarditis and pericarditis**: rare inflammation of the heart, concentrated in adolescent and young adult males within days of the second dose; highest estimates are in the order of 1 in several thousand to 1 in tens of thousands for young males after the second dose, depending on vaccine, interval and study ([Mevorach et al., *NEJM* 2021](https://doi.org/10.1056/NEJMoa2109730); [Oster et al., *JAMA* 2022](https://doi.org/10.1001/jama.2021.24110)). Most cases resolved, but long-term follow-up continues, and the size and seriousness of this risk in young, healthy people is central to debates about recommending boosters for them. See [[myocarditis-and-mrna-vaccines|myocarditis and mRNA vaccines]].
 
 ## Beyond COVID-19
 
-Moderna's mRNA RSV vaccine (mRESVIA) was licensed for older adults in 2024. mRNA influenza, cytomegalovirus and personalised cancer vaccines are in trials. The platform's speed makes it attractive for pandemic response. It has also become politically contested: in August 2025 the US Department of Health and Human Services wound down 22 BARDA-funded mRNA vaccine projects worth nearly US$500 million ([[c:hhs-mrna-2025]]), with Secretary Kennedy citing concerns about the platform's effectiveness against upper respiratory infections; many scientists criticised the decision.
+Moderna's mRNA RSV vaccine (mRESVIA) was licensed for older adults in 2024. mRNA influenza, cytomegalovirus and personalised cancer vaccines are in trials. The platform's speed makes it attractive for pandemic response. It has also become politically contested: in August 2025 the US Department of Health and Human Services wound down 22 BARDA-funded mRNA vaccine projects worth nearly US$500 million ([HHS press release, "HHS Winds Down mRNA Vaccine Development Under BARDA" (5 August 2025)](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html)), with Secretary Kennedy citing concerns about the platform's effectiveness against upper respiratory infections; many scientists criticised the decision.
 
 ## Key ideas
 
@@ -52,5 +52,5 @@ Moderna's mRNA RSV vaccine (mRESVIA) was licensed for older adults in 2024. mRNA
 
 ## Where this leads
 
-- Next: [[adjuvants|Adjuvants]].
+- Next: [Adjuvants](10-adjuvants.md).
 - Related: [[covid-19|COVID-19]], [[myocarditis-and-mrna-vaccines|myocarditis]].

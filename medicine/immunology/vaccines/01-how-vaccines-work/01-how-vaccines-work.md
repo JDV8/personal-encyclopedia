@@ -1,6 +1,6 @@
 # How vaccines work
 
-**Prerequisites:** [[immunological-memory|Immunological memory]]; [[antigens-and-antigen-presentation|Antigens and antigen presentation]]; [[herd-immunity|Herd immunity]]
+**Prerequisites:** [Immunological memory](../../07-immunological-memory.md); [Antigens and antigen presentation](../../04-antigens-and-antigen-presentation.md); [Herd immunity](../../../epidemiology/04-herd-immunity.md)
 
 ![Components of a smallpox vaccination kit: diluent, a vial of Dryvax smallpox vaccine and a bifurcated needle](images/01-how-vaccines-work.jpg)
 
@@ -39,14 +39,14 @@ A good vaccine must balance several goals:
 5. **Be safe**: cause as few and as mild side effects as possible, with serious harms extremely rare.
 6. **Be practical**: stable, affordable, manufacturable at scale, deliverable in the places that need it.
 
-There are trade-offs. Live vaccines tend to give strong, lasting immunity but cannot be given to severely immunocompromised people. Highly purified subunit vaccines are very safe but may need adjuvants and boosters. The different approaches are described in [[types-of-vaccines|types of vaccines]].
+There are trade-offs. Live vaccines tend to give strong, lasting immunity but cannot be given to severely immunocompromised people. Highly purified subunit vaccines are very safe but may need adjuvants and boosters. The different approaches are described in [types of vaccines](02-types-of-vaccines.md).
 
 ## Direct and indirect protection
 
 Vaccines protect in two ways:
 
 - **Direct protection** of the vaccinated person.
-- **Indirect protection** of others, when vaccination reduces transmission. This produces [[herd-immunity|herd immunity]] and is why vaccinating children against pneumococcus reduced pneumococcal disease in elderly people, and why vaccinating girls against HPV reduced infection in unvaccinated boys.
+- **Indirect protection** of others, when vaccination reduces transmission. This produces [herd immunity](../../../epidemiology/04-herd-immunity.md) and is why vaccinating children against pneumococcus reduced pneumococcal disease in elderly people, and why vaccinating girls against HPV reduced infection in unvaccinated boys.
 
 Not every vaccine gives much indirect protection. Tetanus toxoid gives none; inactivated polio vaccine and acellular pertussis vaccine give less than the alternatives they replaced; COVID-19 vaccines gave only modest and short-lived reductions in transmission. This matters in ethical arguments: the case for requiring a vaccine to protect *others* is stronger when it actually reduces transmission. See [[mandates-and-ethics|mandates and ethics]].
 
@@ -59,7 +59,7 @@ Not every vaccine gives much indirect protection. Tetanus toxoid gives none; ina
 
 ## The overall record
 
-Measured by lives, vaccination is one of the most consequential health interventions in history. A modelling study for the WHO estimated that vaccination under the Expanded Programme on Immunization averted about 154 million deaths over the 50 years from 1974, most of them infants ([[c:shattock2024]]). Like all models, this depends on assumptions about what would have happened without vaccines; critics of such estimates point to the role of nutrition, sanitation and medical care, which is the subject of [[historical-mortality-decline-argument|the mortality-decline debate]]. Smallpox, which killed an estimated 300 million people in the 20th century alone, was eradicated by vaccination in 1980.
+Measured by lives, vaccination is one of the most consequential health interventions in history. A modelling study for the WHO estimated that vaccination under the Expanded Programme on Immunization averted about 154 million deaths over the 50 years from 1974, most of them infants ([Shattock et al., *Lancet* 2024](https://doi.org/10.1016/S0140-6736(24)00850-X)). Like all models, this depends on assumptions about what would have happened without vaccines; critics of such estimates point to the role of nutrition, sanitation and medical care, which is the subject of [[historical-mortality-decline-argument|the mortality-decline debate]]. Smallpox, which killed an estimated 300 million people in the 20th century alone, was eradicated by vaccination in 1980.
 
 ## Key ideas
 
@@ -70,5 +70,5 @@ Measured by lives, vaccination is one of the most consequential health intervent
 
 ## Where this leads
 
-- Next: [[types-of-vaccines|Types of vaccines]].
-- Related: [[jenner-and-cowpox|Jenner and cowpox]], [[development-pipeline|the development pipeline]].
+- Next: [Types of vaccines](02-types-of-vaccines.md).
+- Related: [[jenner-and-cowpox|Jenner and cowpox]], [the development pipeline](../02-development-and-regulation/01-development-pipeline.md).

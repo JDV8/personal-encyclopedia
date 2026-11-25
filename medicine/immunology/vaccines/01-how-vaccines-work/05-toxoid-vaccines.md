@@ -1,6 +1,6 @@
 # Toxoid vaccines
 
-**Prerequisites:** [[toxins-and-toxin-mediated-disease|Toxins and toxin-mediated disease]]; [[types-of-vaccines|Types of vaccines]]
+**Prerequisites:** [Toxins and toxin-mediated disease](../../../microbiology/04-toxins-and-toxin-mediated-disease.md); [Types of vaccines](02-types-of-vaccines.md)
 
 ![Gaston Ramon, the French veterinarian who developed diphtheria and tetanus toxoids in the 1920s](images/05-toxoid-vaccines.jpg)
 
@@ -36,7 +36,7 @@ The toxin–antitoxin mixtures used before toxoids could go badly wrong if impro
 
 ## Why boosters?
 
-Toxoid-induced antibody levels wane over years. In the US and Canada, adults are advised to have a tetanus-diphtheria booster every 10 years, and after certain wounds if more than 5 years have passed. The UK takes a different approach: after five doses in childhood and adolescence, routine adult boosters are not recommended, with boosters only for certain wounds or travel. Both approaches are evidence-informed; they reflect differing judgements about how much protection five doses provide. A 2016 study by Hammarlund, Slifka and colleagues ([[c:hammarlund2016]]) argued that adult boosters every 10 years could be extended to 20 or 30 years, and the WHO's 2017 position recommends six doses through adolescence.
+Toxoid-induced antibody levels wane over years. In the US and Canada, adults are advised to have a tetanus-diphtheria booster every 10 years, and after certain wounds if more than 5 years have passed. The UK takes a different approach: after five doses in childhood and adolescence, routine adult boosters are not recommended, with boosters only for certain wounds or travel. Both approaches are evidence-informed; they reflect differing judgements about how much protection five doses provide. A 2016 study by Hammarlund, Slifka and colleagues ([Hammarlund et al., *Clinical Infectious Diseases* 2016](https://doi.org/10.1093/cid/ciw066)) argued that adult boosters every 10 years could be extended to 20 or 30 years, and the WHO's 2017 position recommends six doses through adolescence.
 
 ## What toxoids do not do
 
@@ -46,7 +46,7 @@ Toxoid-induced antibody levels wane over years. In the US and Canada, adults are
 
 ## Safety notes
 
-Common reactions are local pain, redness and swelling, which become more frequent with repeated doses. Extensive limb swelling can follow the fourth or fifth DTaP dose. Too-frequent boosters can cause **Arthus reactions**. Guillain-Barré syndrome after tetanus toxoid has been reported; the 1994 IOM review accepted a causal relation on the basis of one well-documented patient who had GBS three times after three tetanus doses, but later large studies have not found a measurable population risk ([[c:iom1994]]; [[c:iom2011]]). Brachial neuritis is on the US [[the-vaccine-injury-table|Vaccine Injury Table]] for tetanus-containing vaccines.
+Common reactions are local pain, redness and swelling, which become more frequent with repeated doses. Extensive limb swelling can follow the fourth or fifth DTaP dose. Too-frequent boosters can cause **Arthus reactions**. Guillain-Barré syndrome after tetanus toxoid has been reported; the 1994 IOM review accepted a causal relation on the basis of one well-documented patient who had GBS three times after three tetanus doses, but later large studies have not found a measurable population risk ([Institute of Medicine, *Adverse Events Associated with Childhood Vaccines* (1994)](https://doi.org/10.17226/2138); [Institute of Medicine, *Adverse Effects of Vaccines: Evidence and Causality* (2011)](https://doi.org/10.17226/13164)). Brachial neuritis is on the US [[the-vaccine-injury-table|Vaccine Injury Table]] for tetanus-containing vaccines.
 
 ## Key ideas
 
@@ -57,5 +57,5 @@ Common reactions are local pain, redness and swelling, which become more frequen
 
 ## Where this leads
 
-- Next: [[subunit-and-recombinant-vaccines|Subunit and recombinant vaccines]].
+- Next: [Subunit and recombinant vaccines](06-subunit-and-recombinant-vaccines.md).
 - Related: [[tetanus|tetanus]], [[diphtheria|diphtheria]], [[pertussis|pertussis]].

@@ -1,6 +1,6 @@
 # Subunit and recombinant vaccines
 
-**Prerequisites:** [[types-of-vaccines|Types of vaccines]]; [[antigens-and-antigen-presentation|Antigens and antigen presentation]]
+**Prerequisites:** [Types of vaccines](02-types-of-vaccines.md); [Antigens and antigen presentation](../../04-antigens-and-antigen-presentation.md)
 
 ![Gardasil, a recombinant virus-like-particle vaccine against human papillomavirus, in a prefilled syringe](images/06-subunit-and-recombinant-vaccines.jpg)
 
@@ -8,13 +8,13 @@
 
 ## Just the part that matters
 
-If the immune system only needs to recognise one or a few proteins to protect against a pathogen, why give it the whole organism? **Subunit vaccines** contain only selected antigens: purified proteins, protein fragments, or polysaccharides. They cannot cause infection and they produce fewer reactions than whole-cell vaccines. The trade-off is that purified proteins lack the danger signals of a real infection, so subunit vaccines usually need [[adjuvants|adjuvants]] and several doses.
+If the immune system only needs to recognise one or a few proteins to protect against a pathogen, why give it the whole organism? **Subunit vaccines** contain only selected antigens: purified proteins, protein fragments, or polysaccharides. They cannot cause infection and they produce fewer reactions than whole-cell vaccines. The trade-off is that purified proteins lack the danger signals of a real infection, so subunit vaccines usually need [adjuvants](10-adjuvants.md) and several doses.
 
 ## Ways of making subunits
 
 1. **Purified from the pathogen.** Grow the organism and extract the protein. Acellular pertussis vaccines contain two to five purified *B. pertussis* proteins (inactivated pertussis toxin, filamentous haemagglutinin, pertactin, fimbriae). The first hepatitis B vaccine (Heptavax-B, licensed 1981) was made from surface-antigen particles purified from the blood plasma of chronically infected people, then heavily treated to kill any viruses; concerns about blood-borne infections, especially HIV in the early 1980s, hastened its replacement.
 2. **Recombinant DNA.** Insert the gene for the antigen into yeast, bacteria, insect or mammalian cells, which then produce the protein. The recombinant **hepatitis B vaccine** (Recombivax HB, 1986) was the first human vaccine made this way. Others: HPV vaccines (Gardasil in yeast, Cervarix in insect cells), Shingrix (glycoprotein E in hamster ovary cells), Novavax COVID-19 vaccine (spike protein in moth cells), RSV vaccines for older adults (prefusion F protein), meningococcal B vaccines, and recombinant influenza vaccine (Flublok).
-3. **Polysaccharide.** Purified capsule sugars, as in the old 23-valent pneumococcal polysaccharide vaccine (PPSV23) and typhoid Vi vaccine. These work poorly in young children unless conjugated; see [[conjugate-vaccines|conjugate vaccines]].
+3. **Polysaccharide.** Purified capsule sugars, as in the old 23-valent pneumococcal polysaccharide vaccine (PPSV23) and typhoid Vi vaccine. These work poorly in young children unless conjugated; see [conjugate vaccines](07-conjugate-vaccines.md).
 
 ```mermaid
 flowchart LR
@@ -47,5 +47,5 @@ A modern refinement is to engineer the antigen's shape. RSV's fusion (F) protein
 
 ## Where this leads
 
-- Next: [[conjugate-vaccines|Conjugate vaccines]].
+- Next: [Conjugate vaccines](07-conjugate-vaccines.md).
 - Related: [[hpv|HPV]], [[hepatitis-b|hepatitis B]].

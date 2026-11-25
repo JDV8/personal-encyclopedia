@@ -43,7 +43,7 @@ This split explains why different vaccine types produce different kinds of immun
 - **Live attenuated** vaccines and **mRNA** or **viral-vector** vaccines cause the body's own cells to make the antigen inside them, so it appears on MHC I as well as MHC II. They tend to produce strong killer T-cell responses as well as antibodies.
 - **Inactivated**, **subunit** and **toxoid** vaccines deliver ready-made antigen from outside. It is mostly taken up by antigen-presenting cells and shown on MHC II, favouring helper T cells and antibodies, with weaker killer T-cell responses.
 
-See [[types-of-vaccines|types of vaccines]] for the full comparison.
+See [types of vaccines](vaccines/01-how-vaccines-work/02-types-of-vaccines.md) for the full comparison.
 
 ## Dendritic cells: the bridge
 
@@ -51,7 +51,7 @@ Dendritic cells sit in the skin, the muscle's connective tissue and the mucosa. 
 
 ## Polysaccharides and the T-cell problem
 
-Sugars cannot be displayed on MHC, so pure polysaccharide antigens (such as a bacterial capsule) activate B cells *without* T-cell help. These **T-independent** responses are weak in children under about two years old and produce little memory. The fix, chemically linking the sugar to a carrier protein so that T cells can help, is the principle of [[conjugate-vaccines|conjugate vaccines]].
+Sugars cannot be displayed on MHC, so pure polysaccharide antigens (such as a bacterial capsule) activate B cells *without* T-cell help. These **T-independent** responses are weak in children under about two years old and produce little memory. The fix, chemically linking the sugar to a carrier protein so that T cells can help, is the principle of [conjugate vaccines](vaccines/01-how-vaccines-work/07-conjugate-vaccines.md).
 
 ## HLA diversity
 
@@ -67,4 +67,4 @@ Each person inherits a particular set of HLA genes, and there are thousands of v
 ## Where this leads
 
 - Next: [B cells and antibodies](05-b-cells-and-antibodies.md).
-- Related: [[types-of-vaccines|types of vaccines]].
+- Related: [types of vaccines](vaccines/01-how-vaccines-work/02-types-of-vaccines.md).

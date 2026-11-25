@@ -65,4 +65,4 @@ A newborn's immune system is immature in some ways but meets an enormous number 
 ## Where this leads
 
 - Next: [Barriers and innate immunity](02-barriers-and-innate-immunity.md).
-- Later: [[how-vaccines-work|How vaccines work]].
+- Later: [How vaccines work](vaccines/01-how-vaccines-work/01-how-vaccines-work.md).
