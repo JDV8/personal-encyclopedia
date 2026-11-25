@@ -24,7 +24,7 @@ Like diphtheria toxoid, tetanus toxoid mainly causes local reactions, more commo
 
 ## The Kenya controversy
 
-In 2014, Kenya's Catholic bishops alleged that a WHO- and UNICEF-supported tetanus vaccination campaign for women of childbearing age was a covert sterilisation programme, claiming that vials contained human chorionic gonadotropin (hCG), a hormone that could induce antibodies preventing pregnancy. The Kenyan government and WHO rejected the claim; testing of samples was disputed, with each side challenging the other's methods and chain of custody. The episode echoed earlier rumours about anti-fertility tetanus vaccines in Mexico, the Philippines and Nicaragua in the 1990s, and shows how real historical research into hCG-based contraceptive vaccines (pursued by WHO in the 1970s–90s) can feed suspicion. See [[trust-and-misinformation|trust and misinformation]].
+In 2014, Kenya's Catholic bishops alleged that a WHO- and UNICEF-supported tetanus vaccination campaign for women of childbearing age was a covert sterilisation programme, claiming that vials contained human chorionic gonadotropin (hCG), a hormone that could induce antibodies preventing pregnancy. The Kenyan government and WHO rejected the claim; testing of samples was disputed, with each side challenging the other's methods and chain of custody. The episode echoed earlier rumours about anti-fertility tetanus vaccines in Mexico, the Philippines and Nicaragua in the 1990s, and shows how real historical research into hCG-based contraceptive vaccines (pursued by WHO in the 1970s–90s) can feed suspicion. See [trust and misinformation](../07-controversies/19-trust-and-misinformation.md).
 
 ## Key ideas
 

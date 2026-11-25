@@ -30,7 +30,7 @@ Countries have chosen different strategies. Some first vaccinated only adolescen
 
 ## Fetal cell lines and religious objections
 
-Because the RA 27/3 strain was developed in a cell line from an aborted fetus, some religious people object to rubella vaccine. The Catholic Church's Pontifical Academy for Life (2005, reaffirmed 2017) and the Congregation for the Doctrine of the Faith (2020, on COVID-19 vaccines) have said Catholics may use such vaccines when no alternative exists. See [[religious-and-philosophical-exemptions|religious and philosophical exemptions]] and [excipients and ingredients](../01-how-vaccines-work/11-excipients-and-ingredients.md).
+Because the RA 27/3 strain was developed in a cell line from an aborted fetus, some religious people object to rubella vaccine. The Catholic Church's Pontifical Academy for Life (2005, reaffirmed 2017) and the Congregation for the Doctrine of the Faith (2020, on COVID-19 vaccines) have said Catholics may use such vaccines when no alternative exists. See [religious and philosophical exemptions](../07-controversies/15-religious-and-philosophical-exemptions.md) and [excipients and ingredients](../01-how-vaccines-work/11-excipients-and-ingredients.md).
 
 ## Key ideas
 

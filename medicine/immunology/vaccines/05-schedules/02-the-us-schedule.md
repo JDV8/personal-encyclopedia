@@ -29,7 +29,7 @@ By 2024 the CDC's routine childhood and adolescent schedule protected against 17
 | 16 years | MenACWY booster; MenB by shared decision |
 | Infants (RSV season) | Nirsevimab or maternal RSV vaccine |
 
-These recommendations mattered beyond medicine: under the Affordable Care Act most insurers had to cover them without cost-sharing; the Vaccines for Children programme bought vaccines for about half of US children; and each state used them to set school entry requirements, with exemptions varying by state (see [[religious-and-philosophical-exemptions|exemptions]]).
+These recommendations mattered beyond medicine: under the Affordable Care Act most insurers had to cover them without cost-sharing; the Vaccines for Children programme bought vaccines for about half of US children; and each state used them to set school entry requirements, with exemptions varying by state (see [exemptions](../07-controversies/15-religious-and-philosophical-exemptions.md)).
 
 ## The 2025–2026 changes
 

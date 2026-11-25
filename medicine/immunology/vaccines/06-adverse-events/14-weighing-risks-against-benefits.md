@@ -38,7 +38,7 @@ Benefit–risk judgements are not purely technical:
 - **Omission bias**: harms caused by acting (vaccinating) often feel worse than equal or larger harms from not acting.
 - **Visibility**: vaccine harms are concrete and identifiable; prevented diseases are invisible statistics.
 - **Free-riding**: when others are vaccinated, an individual's own risk of disease falls, so the individual calculation differs from the community one. This is the core of the ethical debate about mandates ([[mandates-and-ethics|mandates and ethics]]).
-- **Trust**: if people doubt official estimates of risk or benefit, the numbers carry less weight ([[trust-and-misinformation|trust and misinformation]]).
+- **Trust**: if people doubt official estimates of risk or benefit, the numbers carry less weight ([trust and misinformation](../07-controversies/19-trust-and-misinformation.md)).
 - **Uncertainty**: rare or long-term harms may not yet be known for new vaccines, while benefits may be overestimated from early studies. Critics argue that regulators underweight this uncertainty; regulators argue that delaying vaccines has costs too.
 
 ## Absolute versus relative risk
@@ -57,4 +57,4 @@ Because vaccination benefits society as well as the individual, many countries a
 
 ## Where this leads
 
-- Back to [the adverse events section](README.md); next section: [[d:immunology/vaccines/07-controversies|controversies]].
+- Back to [the adverse events section](README.md); next section: [controversies](../07-controversies/README.md).

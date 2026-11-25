@@ -29,7 +29,7 @@ Most contraindications are temporary or specific to one vaccine, so true reasons
 - **Live vaccines in pregnancy** (see [pregnancy vaccination](08-pregnancy-adult-and-travel-vaccination.md)).
 - **Encephalopathy within seven days** of a pertussis-containing vaccine, not explained by another cause, contraindicates further pertussis vaccine.
 - **Rotavirus vaccine**: SCID, or a history of intussusception ([intussusception](../06-adverse-events/05-intussusception-and-rotavirus-vaccines.md)).
-- **Dengue (Dengvaxia)**: no laboratory evidence of previous dengue infection, because the vaccine increases the risk of severe dengue in people never infected ([[dengvaxia-in-the-philippines|Dengvaxia]]).
+- **Dengue (Dengvaxia)**: no laboratory evidence of previous dengue infection, because the vaccine increases the risk of severe dengue in people never infected ([Dengvaxia](../07-controversies/16-dengvaxia-in-the-philippines.md)).
 
 ## Precautions
 
@@ -48,7 +48,7 @@ Guides list common misconceptions that lead to missed vaccinations: mild illness
 
 ## Medical exemptions
 
-In places with school requirements, a documented contraindication is grounds for a medical exemption. Some doctors have issued exemptions for reasons outside these guidelines; in California, after the 2015 removal of personal belief exemptions, medical exemptions rose sharply and some physicians were disciplined, including Bob Sears in 2018 ([Los Angeles Times, "California doctor critical of vaccines is punished for exempting 2-year-old boy from all childhood immunizations" (29 June 2018)](https://www.latimes.com/local/california/la-me-ln-sears-license-20180629-story.html)). See [[religious-and-philosophical-exemptions|exemptions]].
+In places with school requirements, a documented contraindication is grounds for a medical exemption. Some doctors have issued exemptions for reasons outside these guidelines; in California, after the 2015 removal of personal belief exemptions, medical exemptions rose sharply and some physicians were disciplined, including Bob Sears in 2018 ([Los Angeles Times, "California doctor critical of vaccines is punished for exempting 2-year-old boy from all childhood immunizations" (29 June 2018)](https://www.latimes.com/local/california/la-me-ln-sears-license-20180629-story.html)). See [exemptions](../07-controversies/15-religious-and-philosophical-exemptions.md).
 
 ## Key ideas
 

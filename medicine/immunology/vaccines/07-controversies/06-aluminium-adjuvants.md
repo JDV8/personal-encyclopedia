@@ -1,6 +1,6 @@
 # Aluminium adjuvants
 
-**Prerequisites:** [Adjuvants](../01-how-vaccines-work/10-adjuvants.md); [[vaccine-ingredients|Vaccine ingredients]]
+**Prerequisites:** [Adjuvants](../01-how-vaccines-work/10-adjuvants.md); [Vaccine ingredients](../01-how-vaccines-work/11-excipients-and-ingredients.md)
 
 ![Aluminium hydroxide, one of the aluminium salts used as vaccine adjuvants since the 1930s](images/06-aluminium-adjuvants.jpg)
 

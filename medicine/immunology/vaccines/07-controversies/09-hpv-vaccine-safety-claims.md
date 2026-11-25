@@ -1,6 +1,6 @@
 # HPV vaccine safety claims
 
-**Prerequisites:** [[hpv-and-cervical-cancer|HPV and cervical cancer]]; [Syncope and shoulder injuries](../06-adverse-events/04-syncope-and-shoulder-injuries.md)
+**Prerequisites:** [HPV and cervical cancer](../03-diseases/hpv.md); [Syncope and shoulder injuries](../06-adverse-events/04-syncope-and-shoulder-injuries.md)
 
 ```mermaid
 xychart-beta

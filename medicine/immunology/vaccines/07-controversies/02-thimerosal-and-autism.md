@@ -1,6 +1,6 @@
 # Thimerosal and autism
 
-**Prerequisites:** [MMR and autism](01-mmr-and-autism.md); [[vaccine-ingredients|Vaccine ingredients]]
+**Prerequisites:** [MMR and autism](01-mmr-and-autism.md); [Vaccine ingredients](../01-how-vaccines-work/11-excipients-and-ingredients.md)
 
 ```mermaid
 flowchart LR

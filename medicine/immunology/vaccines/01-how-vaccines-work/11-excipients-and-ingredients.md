@@ -44,7 +44,7 @@ Sugars (sucrose, lactose), amino acids, **gelatin** (from pigs, in some MMR, var
 
 Several vaccines are produced in cell lines descended from two elective abortions in the 1960s: **WI-38** (Sweden, developed by Leonard Hayflick in the US, 1962) and **MRC-5** (UK, 1966). These include rubella (RA 27/3 strain, Stanley Plotkin), varicella, shingles (Zostavax), hepatitis A and some rabies vaccines. No new fetal tissue is used; the cells have been grown in laboratories for decades. HEK293 (from 1973) and PER.C6 (from 1985) cells were used to produce the AstraZeneca and J&J COVID-19 vaccines, and HEK293 cells were used in laboratory testing of the mRNA vaccines. The history is told in Meredith Wadman's *The Vaccine Race*.
 
-This raises genuine ethical questions for some people. The Catholic Church's Pontifical Academy for Life (2005, 2017) and the Congregation for the Doctrine of the Faith (2008, 2020) concluded that using these vaccines is morally acceptable when no alternative exists, while urging the development of alternatives. Other religious authorities differ, and the issue features in religious exemption requests. See [[religious-and-philosophical-exemptions|religious and philosophical exemptions]].
+This raises genuine ethical questions for some people. The Catholic Church's Pontifical Academy for Life (2005, 2017) and the Congregation for the Doctrine of the Faith (2008, 2020) concluded that using these vaccines is morally acceptable when no alternative exists, while urging the development of alternatives. Other religious authorities differ, and the issue features in religious exemption requests. See [religious and philosophical exemptions](../07-controversies/15-religious-and-philosophical-exemptions.md).
 
 ## Key ideas
 

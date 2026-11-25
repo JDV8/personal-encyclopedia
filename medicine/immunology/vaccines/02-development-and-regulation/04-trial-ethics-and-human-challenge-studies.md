@@ -14,7 +14,7 @@ Vaccine research features in this history, and these episodes still shape trust:
 
 - **Willowbrook (1956–1971).** At a New York state institution for children with intellectual disabilities, Saul Krugman and colleagues deliberately infected children with hepatitis to study the disease and test protection. Parents consented, but admission to the overcrowded institution was at times linked to joining the study. The work distinguished hepatitis A from B and contributed to vaccines, but is widely cited as unethical.
 - **Tuskegee (1932–1972).** Not a vaccine study, but the US Public Health Service's decades-long observation of untreated syphilis in Black men, without informed consent and with treatment withheld even after penicillin became standard, is often cited as a reason for distrust of public health among Black Americans.
-- **Trovan, Kano, Nigeria (1996).** Pfizer tested an antibiotic during a meningitis epidemic; families alleged lack of consent, and the episode later fed into the Kano polio vaccine boycott. See [[trovan-kano-and-the-polio-boycott|Trovan, Kano and the polio boycott]].
+- **Trovan, Kano, Nigeria (1996).** Pfizer tested an antibiotic during a meningitis epidemic; families alleged lack of consent, and the episode later fed into the Kano polio vaccine boycott. See [Trovan, Kano and the polio boycott](../07-controversies/17-trovan-kano-and-the-polio-boycott.md).
 - **Early polio trials** tested vaccines on institutionalised children before the 1954 field trial, a common practice at the time.
 
 ## Informed consent in vaccine trials
@@ -34,7 +34,7 @@ Arguments for: speed, small numbers, detailed immune studies. Arguments against:
 Ethical questions continue after licensing:
 
 - **Placebos when an effective vaccine exists** (see [the placebo debate](03-placebo-controls-debate.md)).
-- **Trials in low-income countries**: questions about standards of care, consent and whether communities benefit. The Dengvaxia episode in the Philippines is a later example of deployment ethics; see [[dengvaxia-in-the-philippines|Dengvaxia in the Philippines]].
+- **Trials in low-income countries**: questions about standards of care, consent and whether communities benefit. The Dengvaxia episode in the Philippines is a later example of deployment ethics; see [Dengvaxia in the Philippines](../07-controversies/16-dengvaxia-in-the-philippines.md).
 - **Unblinding and crossover**: offering placebo recipients the vaccine once it is proven effective, as happened with COVID-19 trials, helps participants but ends long-term controlled comparison.
 
 ## Key ideas
@@ -47,4 +47,4 @@ Ethical questions continue after licensing:
 ## Where this leads
 
 - Next: [Licensing and regulators](05-licensing-and-regulators.md).
-- Related: [[trust-and-misinformation|trust and misinformation]].
+- Related: [trust and misinformation](../07-controversies/19-trust-and-misinformation.md).

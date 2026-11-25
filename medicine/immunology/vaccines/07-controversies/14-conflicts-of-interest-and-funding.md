@@ -59,4 +59,4 @@ Reading-research case studies show how to apply this in practice ([how funding s
 
 ## Where this leads
 
-- Next: [[religious-and-philosophical-exemptions|Religious and philosophical exemptions]].
+- Next: [Religious and philosophical exemptions](15-religious-and-philosophical-exemptions.md).
