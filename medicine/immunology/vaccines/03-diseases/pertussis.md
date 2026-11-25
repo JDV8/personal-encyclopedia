@@ -33,4 +33,4 @@ Because babies are most at risk before their first doses, many countries vaccina
 
 ## Where this leads
 
-- [DTP and whole-cell pertussis](../07-controversies/08-dtp-and-whole-cell-pertussis.md); [[the-1980s-dtp-lawsuits|the 1980s DTP lawsuits]]; [Diphtheria](diphtheria.md); [Tetanus](tetanus.md).
+- [DTP and whole-cell pertussis](../07-controversies/08-dtp-and-whole-cell-pertussis.md); [the 1980s DTP lawsuits](../08-litigation-and-compensation/01-the-1980s-dtp-lawsuits.md); [Diphtheria](diphtheria.md); [Tetanus](tetanus.md).

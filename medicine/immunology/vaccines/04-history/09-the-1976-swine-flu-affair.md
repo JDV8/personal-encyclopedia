@@ -12,7 +12,7 @@ In February 1976, an influenza outbreak at the Fort Dix army base in New Jersey 
 
 ## Liability
 
-Insurers refused to cover manufacturers against lawsuits from a mass campaign, and companies would not proceed without protection. In August Congress passed the National Swine Flu Immunization Program Act, which made the federal government the defendant for claims arising from the vaccine. It was an early example of the government taking on vaccine liability, foreshadowing the 1986 Act and the PREP Act; see [[the-national-childhood-vaccine-injury-act-1986|the 1986 Act]] and [[prep-act-and-cicp|the PREP Act]].
+Insurers refused to cover manufacturers against lawsuits from a mass campaign, and companies would not proceed without protection. In August Congress passed the National Swine Flu Immunization Program Act, which made the federal government the defendant for claims arising from the vaccine. It was an early example of the government taking on vaccine liability, foreshadowing the 1986 Act and the PREP Act; see [the 1986 Act](../08-litigation-and-compensation/02-the-national-childhood-vaccine-injury-act-1986.md) and [the PREP Act](../08-litigation-and-compensation/06-prep-act-and-cicp.md).
 
 ## The campaign and its end
 

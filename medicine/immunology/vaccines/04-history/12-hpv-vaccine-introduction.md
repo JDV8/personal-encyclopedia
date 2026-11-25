@@ -28,7 +28,7 @@ Boys were added to US recommendations in 2011 and later in many other countries,
 
 ## Safety scares
 
-Public alarms about chronic pain, fatigue and fainting in vaccinated girls arose in Japan, Denmark, Ireland and Colombia. Japan suspended its active recommendation in 2013, and coverage collapsed from about 70% to under 1% before the recommendation was restored in 2022. Regulators, including the European Medicines Agency in 2015, found no causal link between the vaccine and the syndromes reported. See [HPV vaccine safety claims](../07-controversies/09-hpv-vaccine-safety-claims.md). Lawsuits against Merck in the US over alleged Gardasil injuries are discussed in [[litigation-outside-the-vicp|litigation outside the VICP]].
+Public alarms about chronic pain, fatigue and fainting in vaccinated girls arose in Japan, Denmark, Ireland and Colombia. Japan suspended its active recommendation in 2013, and coverage collapsed from about 70% to under 1% before the recommendation was restored in 2022. Regulators, including the European Medicines Agency in 2015, found no causal link between the vaccine and the syndromes reported. See [HPV vaccine safety claims](../07-controversies/09-hpv-vaccine-safety-claims.md). Lawsuits against Merck in the US over alleged Gardasil injuries are discussed in [litigation outside the VICP](../08-litigation-and-compensation/08-litigation-outside-the-vicp.md).
 
 ## Evidence of cancer prevention, and one dose
 

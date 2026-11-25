@@ -48,7 +48,7 @@ The Andersson and Hviid paper's authors and journal rejected a request from the 
 
 ## The Hannah Poling case
 
-Supporters of the hypothesis often cite *Poling*, in which the US government in 2007–08 conceded a vaccine injury claim for a girl with an underlying mitochondrial disorder whose condition worsened after vaccines, including features of autism. The government did not concede that vaccines cause autism; it agreed that the vaccines significantly aggravated her mitochondrial disorder, which presented with autistic features ([Offit, *NEJM* 2008, "Vaccines and autism revisited: the Hannah Poling case"](https://doi.org/10.1056/NEJMp0802904)). The case is discussed in [[the-omnibus-autism-proceeding|the omnibus autism proceeding]].
+Supporters of the hypothesis often cite *Poling*, in which the US government in 2007–08 conceded a vaccine injury claim for a girl with an underlying mitochondrial disorder whose condition worsened after vaccines, including features of autism. The government did not concede that vaccines cause autism; it agreed that the vaccines significantly aggravated her mitochondrial disorder, which presented with autistic features ([Offit, *NEJM* 2008, "Vaccines and autism revisited: the Hannah Poling case"](https://doi.org/10.1056/NEJMp0802904)). The case is discussed in [the omnibus autism proceeding](../08-litigation-and-compensation/05-the-omnibus-autism-proceeding.md).
 
 ## Key ideas
 

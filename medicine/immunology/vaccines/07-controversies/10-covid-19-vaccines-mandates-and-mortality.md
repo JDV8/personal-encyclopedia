@@ -28,7 +28,7 @@ Even supporters of vaccination acknowledge that some public messaging was wrong 
 
 ## Mandates
 
-- **United States.** In January 2022 the Supreme Court blocked a federal rule requiring large employers to mandate vaccination or testing, but allowed a mandate for health workers in facilities funded by Medicare and Medicaid ([[mandate-cases-jacobson-to-covid|mandate cases]]).
+- **United States.** In January 2022 the Supreme Court blocked a federal rule requiring large employers to mandate vaccination or testing, but allowed a mandate for health workers in facilities funded by Medicare and Medicaid ([mandate cases](../08-litigation-and-compensation/09-mandate-cases-jacobson-to-covid.md)).
 - **Canada.** Vaccination was required for federal workers and for air and rail travel. Protests against mandates, including the trucker "Freedom Convoy" that occupied central Ottawa in early 2022, led the federal government to invoke the Emergencies Act; the Federal Court ruled in January 2024 that the invocation had been unreasonable.
 - **Europe.** Austria passed a general vaccine mandate for adults in 2022 and then suspended it before enforcement. Several countries used "vaccine passes" for venues.
 

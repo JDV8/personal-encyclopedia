@@ -44,7 +44,7 @@ Population studies now show large falls in cervical cancer. In Sweden, girls vac
 
 ## Litigation
 
-In the United States, product-liability suits against Merck alleging injuries from Gardasil have been brought by firms including Wisner Baum. Robert F. Kennedy Jr. had a contingency-fee interest in some of these cases and pledged to pass it to his son on becoming health secretary ([New York Times, "RFK Jr. says he won't keep financial stake in HPV vaccine lawsuits" (30 January 2025)](https://www.nytimes.com/2025/01/30/health/rfk-jr-hpv-vaccine-lawsuits-fees.html)). See [[litigation-outside-the-vicp|litigation outside the VICP]].
+In the United States, product-liability suits against Merck alleging injuries from Gardasil have been brought by firms including Wisner Baum. Robert F. Kennedy Jr. had a contingency-fee interest in some of these cases and pledged to pass it to his son on becoming health secretary ([New York Times, "RFK Jr. says he won't keep financial stake in HPV vaccine lawsuits" (30 January 2025)](https://www.nytimes.com/2025/01/30/health/rfk-jr-hpv-vaccine-lawsuits-fees.html)). See [litigation outside the VICP](../08-litigation-and-compensation/08-litigation-outside-the-vicp.md).
 
 ## Key ideas
 

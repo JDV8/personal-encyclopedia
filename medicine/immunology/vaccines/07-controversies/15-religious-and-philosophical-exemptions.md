@@ -33,7 +33,7 @@ All US states allow medical exemptions; most also allow religious ones, and some
 
 After the 2014–15 Disneyland measles outbreak, California removed personal-belief exemptions with law SB 277 in 2015. Coverage rose, but medical exemptions also increased, especially in areas that previously had many personal-belief exemptions, as some doctors wrote exemptions on doubtful grounds ([Delamater et al., *JAMA* 2017](https://doi.org/10.1001/jama.2017.9242)); the state later tightened oversight. New York removed religious exemptions in 2019 after its outbreak, Maine in 2019 (upheld by referendum in 2020) and Connecticut in 2021. Elsewhere the trend has been the other way, with some states expanding exemptions since the COVID-19 pandemic.
 
-Courts have generally held that states may require vaccination without religious exemptions, building on *Jacobson v. Massachusetts* (1905) ([*Jacobson v. Massachusetts*, 197 U.S. 11 (1905)](https://www.law.cornell.edu/supremecourt/text/197/11); [[mandate-cases-jacobson-to-covid|mandate cases]]), but recent Supreme Court religious-freedom decisions have prompted new challenges.
+Courts have generally held that states may require vaccination without religious exemptions, building on *Jacobson v. Massachusetts* (1905) ([*Jacobson v. Massachusetts*, 197 U.S. 11 (1905)](https://www.law.cornell.edu/supremecourt/text/197/11); [mandate cases](../08-litigation-and-compensation/09-mandate-cases-jacobson-to-covid.md)), but recent Supreme Court religious-freedom decisions have prompted new challenges.
 
 ## Canada and elsewhere
 

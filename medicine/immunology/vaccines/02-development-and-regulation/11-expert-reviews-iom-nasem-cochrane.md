@@ -12,7 +12,7 @@ Individual studies conflict. Expert reviews try to weigh all the evidence on a q
 
 ## The National Academies' vaccine-safety reviews
 
-The National Childhood Vaccine Injury Act of 1986 required reviews of vaccine adverse events, partly to inform the [[the-vaccine-injury-table|Vaccine Injury Table]]. Key reports:
+The National Childhood Vaccine Injury Act of 1986 required reviews of vaccine adverse events, partly to inform the [Vaccine Injury Table](../08-litigation-and-compensation/04-the-vaccine-injury-table.md). Key reports:
 
 | Year | Report | Main findings |
 |---|---|---|

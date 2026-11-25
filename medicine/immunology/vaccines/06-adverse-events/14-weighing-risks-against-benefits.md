@@ -47,7 +47,7 @@ Benefit–risk is best expressed in absolute terms: events per million doses, or
 
 ## Compensation as part of the balance
 
-Because vaccination benefits society as well as the individual, many countries accept a duty to compensate the rare people harmed. No-fault programmes are designed to acknowledge that vaccine injuries happen without requiring proof of negligence ([[vaccine-injury-compensation-program|VICP]]; [[canadas-compensation-programs|Canada's programmes]]).
+Because vaccination benefits society as well as the individual, many countries accept a duty to compensate the rare people harmed. No-fault programmes are designed to acknowledge that vaccine injuries happen without requiring proof of negligence ([VICP](../08-litigation-and-compensation/03-vaccine-injury-compensation-program.md); [Canada's programmes](../08-litigation-and-compensation/07-canadas-compensation-programs.md)).
 
 ## Key ideas
 

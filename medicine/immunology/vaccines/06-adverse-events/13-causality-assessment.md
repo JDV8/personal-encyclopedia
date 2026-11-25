@@ -44,7 +44,7 @@ Many illnesses happen by chance after vaccination simply because vaccines are gi
 
 ## Legal causation is different
 
-Compensation programmes and courts use their own standards. The US Vaccine Injury Table presumes causation for listed injuries in set time windows, and off-table claims need a "preponderance of evidence", which can be met with a plausible theory and a logical sequence of cause and effect even where science is uncertain. Legal findings of causation therefore do not necessarily mean scientific consensus, and vice versa ([[the-vaccine-injury-table|the vaccine injury table]]).
+Compensation programmes and courts use their own standards. The US Vaccine Injury Table presumes causation for listed injuries in set time windows, and off-table claims need a "preponderance of evidence", which can be met with a plausible theory and a logical sequence of cause and effect even where science is uncertain. Legal findings of causation therefore do not necessarily mean scientific consensus, and vice versa ([the vaccine injury table](../08-litigation-and-compensation/04-the-vaccine-injury-table.md)).
 
 ## Key ideas
 

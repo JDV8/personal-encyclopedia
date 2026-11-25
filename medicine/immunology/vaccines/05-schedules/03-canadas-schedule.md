@@ -47,7 +47,7 @@ Ontario also offers RSV protection to eligible infants and high-risk children in
 
 ## Mandatory reporting and compensation
 
-Canadian health professionals report adverse events following immunisation to public health (see [surveillance outside the US](../02-development-and-regulation/10-surveillance-outside-the-us.md)). Since 2021 Canada has had a federal no-fault compensation programme, now the Vaccine Impact Assistance Program, alongside Quebec's longstanding programme; see [[canadas-compensation-programs|Canada's compensation programs]].
+Canadian health professionals report adverse events following immunisation to public health (see [surveillance outside the US](../02-development-and-regulation/10-surveillance-outside-the-us.md)). Since 2021 Canada has had a federal no-fault compensation programme, now the Vaccine Impact Assistance Program, alongside Quebec's longstanding programme; see [Canada's compensation programs](../08-litigation-and-compensation/07-canadas-compensation-programs.md).
 
 ## Measles and Canada's coverage
 

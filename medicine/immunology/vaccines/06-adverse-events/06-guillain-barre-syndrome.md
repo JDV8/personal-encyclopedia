@@ -35,7 +35,7 @@ Influenza itself also triggers GBS, and much more strongly. In an Ontario study 
 
 ## What it means in practice
 
-GBS within six weeks of a previous dose of influenza or tetanus-containing vaccine is a **precaution** for those vaccines; people with GBS unrelated to vaccination can generally be vaccinated ([CDC, *General Best Practice Guidelines for Immunization*: contraindications and precautions](https://www.cdc.gov/vaccines/hcp/imz-best-practices/contraindications-precautions.html)). GBS after the 1976 vaccine and after some seasonal flu vaccines is on the US Vaccine Injury Table, and GBS claims are among the most frequently compensated ([[the-vaccine-injury-table|the vaccine injury table]]).
+GBS within six weeks of a previous dose of influenza or tetanus-containing vaccine is a **precaution** for those vaccines; people with GBS unrelated to vaccination can generally be vaccinated ([CDC, *General Best Practice Guidelines for Immunization*: contraindications and precautions](https://www.cdc.gov/vaccines/hcp/imz-best-practices/contraindications-precautions.html)). GBS after the 1976 vaccine and after some seasonal flu vaccines is on the US Vaccine Injury Table, and GBS claims are among the most frequently compensated ([the vaccine injury table](../08-litigation-and-compensation/04-the-vaccine-injury-table.md)).
 
 ## How GBS illustrates causality assessment
 

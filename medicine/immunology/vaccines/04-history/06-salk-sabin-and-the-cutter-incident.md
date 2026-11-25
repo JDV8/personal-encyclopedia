@@ -21,7 +21,7 @@ Within days, several manufacturers began producing vaccine. In April 1955, vacci
 The consequences shaped vaccines for decades:
 
 - **Regulation**: the federal Laboratory of Biologics Control was strengthened and manufacturing and testing standards tightened.
-- **Liability**: in *Gottsdanker v. Cutter Laboratories* (1958) a jury found Cutter not negligent but liable for breach of implied warranty, establishing that manufacturers could be liable without fault. Paul Offit argues this set the stage for the litigation that later drove companies out of vaccine making ([Offit, *NEJM* 2005, "The Cutter incident, 50 years later"](https://doi.org/10.1056/NEJMp048180)); see [[the-1980s-dtp-lawsuits|the 1980s DTP lawsuits]].
+- **Liability**: in *Gottsdanker v. Cutter Laboratories* (1958) a jury found Cutter not negligent but liable for breach of implied warranty, establishing that manufacturers could be liable without fault. Paul Offit argues this set the stage for the litigation that later drove companies out of vaccine making ([Offit, *NEJM* 2005, "The Cutter incident, 50 years later"](https://doi.org/10.1056/NEJMp048180)); see [the 1980s DTP lawsuits](../08-litigation-and-compensation/01-the-1980s-dtp-lawsuits.md).
 
 ## Sabin's oral vaccine
 

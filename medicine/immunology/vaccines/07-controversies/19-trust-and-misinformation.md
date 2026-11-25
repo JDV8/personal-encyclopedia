@@ -63,4 +63,4 @@ An unbiased reading of vaccine controversies requires holding two ideas at once:
 
 ## Where this leads
 
-- Next section: [[d:immunology/vaccines/08-litigation-and-compensation|Litigation and compensation]].
+- Next section: [Litigation and compensation](../08-litigation-and-compensation/README.md).

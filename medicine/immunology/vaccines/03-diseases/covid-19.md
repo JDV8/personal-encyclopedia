@@ -45,4 +45,4 @@ COVID-19 vaccines were the most politically divisive in modern history: mandates
 
 ## Where this leads
 
-- [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md); [mandates and mortality](../07-controversies/10-covid-19-vaccines-mandates-and-mortality.md); [[covid-19-litigation|COVID-19 litigation]].
+- [Operation Warp Speed](../04-history/13-covid-19-vaccines-and-operation-warp-speed.md); [mandates and mortality](../07-controversies/10-covid-19-vaccines-mandates-and-mortality.md); [COVID-19 litigation](../08-litigation-and-compensation/10-covid-19-litigation.md).

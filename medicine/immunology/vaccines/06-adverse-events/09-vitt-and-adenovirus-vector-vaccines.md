@@ -35,7 +35,7 @@ Countries responded in very different ways:
 
 ## Treatment and lessons
 
-Clinicians learned within weeks to recognise VITT, avoid heparin and platelet transfusions, and treat with non-heparin anticoagulants and intravenous immunoglobulin, which lowered mortality. Families of people who died or were injured have sought compensation; in the UK, a group legal action against AstraZeneca began in 2023, and the UK's Vaccine Damage Payment Scheme received many VITT claims ([[covid-19-litigation|COVID-19 litigation]]).
+Clinicians learned within weeks to recognise VITT, avoid heparin and platelet transfusions, and treat with non-heparin anticoagulants and intravenous immunoglobulin, which lowered mortality. Families of people who died or were injured have sought compensation; in the UK, a group legal action against AstraZeneca began in 2023, and the UK's Vaccine Damage Payment Scheme received many VITT claims ([COVID-19 litigation](../08-litigation-and-compensation/10-covid-19-litigation.md)).
 
 VITT illustrates several general points. It was too rare to appear in trials of about 20,000 people. Benefit–risk depended strongly on age and on how much COVID-19 was circulating: in older adults during a wave, the vaccine prevented far more deaths than it caused; in young adults with mRNA alternatives available, it did not. And how the harm was communicated affected trust in vaccines generally, especially in Europe ([weighing risks against benefits](14-weighing-risks-against-benefits.md)).
 

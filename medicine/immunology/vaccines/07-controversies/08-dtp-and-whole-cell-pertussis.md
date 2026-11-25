@@ -18,7 +18,7 @@ The UK's National Childhood Encephalopathy Study, a case-control study published
 
 ## The US: *DPT: Vaccine Roulette*
 
-In 1982 a Washington television documentary, *DPT: Vaccine Roulette*, presented children said to have been brain-damaged by the vaccine. Parents formed Dissatisfied Parents Together, which became the National Vaccine Information Center, an organisation still prominent in vaccine-safety advocacy. Lawsuits multiplied, liability insurance became scarce, and several manufacturers left the market, threatening supply. Congress responded with the National Childhood Vaccine Injury Act of 1986 ([[the-1980s-dtp-lawsuits|the 1980s DTP lawsuits]]; [[the-national-childhood-vaccine-injury-act-1986|the 1986 Act]]).
+In 1982 a Washington television documentary, *DPT: Vaccine Roulette*, presented children said to have been brain-damaged by the vaccine. Parents formed Dissatisfied Parents Together, which became the National Vaccine Information Center, an organisation still prominent in vaccine-safety advocacy. Lawsuits multiplied, liability insurance became scarce, and several manufacturers left the market, threatening supply. Congress responded with the National Childhood Vaccine Injury Act of 1986 ([the 1980s DTP lawsuits](../08-litigation-and-compensation/01-the-1980s-dtp-lawsuits.md); [the 1986 Act](../08-litigation-and-compensation/02-the-national-childhood-vaccine-injury-act-1986.md)).
 
 ## What the evidence later showed
 

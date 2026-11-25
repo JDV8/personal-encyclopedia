@@ -44,7 +44,7 @@ The growth reflects new technology (conjugate, recombinant and mRNA vaccines), n
 
 ## Why some think it grew too much
 
-Critics argue that the cumulative schedule has never been tested as a whole against an unvaccinated group, that each addition was judged on its own, and that liability protection for manufacturers after 1986 removed a brake on growth (see [[the-national-childhood-vaccine-injury-act-1986|the 1986 Act]]). Defenders note that each vaccine was tested with existing ones, that the IOM in 2013 found no evidence of harm from the schedule as a whole, and that diseases prevented by the additions (Hib meningitis, rotavirus hospitalisations, invasive pneumococcal disease) fell sharply after each was introduced ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)). The 2026 US cuts were the first large-scale reversal of this trend.
+Critics argue that the cumulative schedule has never been tested as a whole against an unvaccinated group, that each addition was judged on its own, and that liability protection for manufacturers after 1986 removed a brake on growth (see [the 1986 Act](../08-litigation-and-compensation/02-the-national-childhood-vaccine-injury-act-1986.md)). Defenders note that each vaccine was tested with existing ones, that the IOM in 2013 found no evidence of harm from the schedule as a whole, and that diseases prevented by the additions (Hib meningitis, rotavirus hospitalisations, invasive pneumococcal disease) fell sharply after each was introduced ([Institute of Medicine, *The Childhood Immunization Schedule and Safety* (2013)](https://doi.org/10.17226/13563)). The 2026 US cuts were the first large-scale reversal of this trend.
 
 ## Key ideas
 

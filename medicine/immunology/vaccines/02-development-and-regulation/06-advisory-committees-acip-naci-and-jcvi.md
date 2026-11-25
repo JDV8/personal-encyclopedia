@@ -20,7 +20,7 @@ Once a vaccine is licensed, an expert committee weighs the disease burden, vacci
 
 ## ACIP and why it matters
 
-ACIP recommendations, once adopted by the CDC director, set the US immunisation schedule. They have legal and financial effects: under the Affordable Care Act most private insurers must cover ACIP-recommended vaccines without cost-sharing; the **Vaccines for Children** program buys vaccines for about half of US children based on ACIP votes; and vaccines recommended for routine use in children or pregnant women are covered by the [[vaccine-injury-compensation-program|Vaccine Injury Compensation Program]] once Congress applies the excise tax. ACIP has used the GRADE framework and an "Evidence to Recommendations" process since 2010.
+ACIP recommendations, once adopted by the CDC director, set the US immunisation schedule. They have legal and financial effects: under the Affordable Care Act most private insurers must cover ACIP-recommended vaccines without cost-sharing; the **Vaccines for Children** program buys vaccines for about half of US children based on ACIP votes; and vaccines recommended for routine use in children or pregnant women are covered by the [Vaccine Injury Compensation Program](../08-litigation-and-compensation/03-vaccine-injury-compensation-program.md) once Congress applies the excise tax. ACIP has used the GRADE framework and an "Evidence to Recommendations" process since 2010.
 
 ## ACIP in 2025–2026
 

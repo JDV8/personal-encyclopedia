@@ -30,7 +30,7 @@ Many reactions labelled as anaphylaxis turn out on review to be anxiety reaction
 
 ## What follows an anaphylactic reaction
 
-A confirmed anaphylactic reaction to a vaccine or one of its components is a contraindication to further doses of that vaccine. Allergists can sometimes identify the component responsible and allow vaccination with a different product, or give a vaccine in divided doses under observation. Anaphylaxis after vaccination is listed on the US Vaccine Injury Table for compensation when it begins within four hours ([[the-vaccine-injury-table|the vaccine injury table]]).
+A confirmed anaphylactic reaction to a vaccine or one of its components is a contraindication to further doses of that vaccine. Allergists can sometimes identify the component responsible and allow vaccination with a different product, or give a vaccine in divided doses under observation. Anaphylaxis after vaccination is listed on the US Vaccine Injury Table for compensation when it begins within four hours ([the vaccine injury table](../08-litigation-and-compensation/04-the-vaccine-injury-table.md)).
 
 ## How critics and defenders use these numbers
 
