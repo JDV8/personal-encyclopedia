@@ -24,7 +24,7 @@ flowchart TD
 ```
 
 - **Innate immunity** is ready from birth. It recognises broad features shared by many microbes (bacterial cell-wall components, viral RNA) and responds within minutes to hours with inflammation, fever and cells that swallow and kill invaders. It does not improve much with repeated exposure. See [barriers and innate immunity](02-barriers-and-innate-immunity.md).
-- **Adaptive immunity** recognises very specific molecular shapes, called [[g:antigen|antigens]]. Its first response to a new pathogen takes days to a couple of weeks to build, but it leaves behind **memory**, so the next response is faster and stronger. This is the layer vaccines are designed to train.
+- **Adaptive immunity** recognises very specific molecular shapes, called [antigens](../glossary/immunology/antigen.md). Its first response to a new pathogen takes days to a couple of weeks to build, but it leaves behind **memory**, so the next response is faster and stronger. This is the layer vaccines are designed to train.
 
 The two layers depend on each other. Innate cells raise the alarm and present antigens to adaptive cells; adaptive cells produce antibodies and signals that make innate cells more effective.
 
@@ -36,7 +36,7 @@ All blood cells come from stem cells in the bone marrow. The white blood cells (
 - **Macrophages** (from monocytes): large eaters that clear debris and microbes and signal to other cells.
 - **Dendritic cells**: sentinels in skin and mucosa that capture antigens and carry them to lymph nodes. They are the crucial bridge from innate to adaptive immunity, and the main cells that vaccines need to activate.
 - **Natural killer (NK) cells**: kill virus-infected and tumour cells without prior training.
-- **Mast cells, eosinophils and basophils**: involved in defence against parasites and in allergy, including [[g:anaphylaxis|anaphylaxis]].
+- **Mast cells, eosinophils and basophils**: involved in defence against parasites and in allergy, including [anaphylaxis](../glossary/immunology/anaphylaxis.md).
 - **Lymphocytes**: the adaptive cells. **B cells** make antibodies; **T cells** help other cells and kill infected cells.
 
 ## Organs

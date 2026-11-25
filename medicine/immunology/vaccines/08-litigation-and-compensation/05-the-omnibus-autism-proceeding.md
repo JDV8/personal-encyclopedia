@@ -7,7 +7,7 @@ timeline
   title The autism omnibus in the vaccine court
   2002 : Omnibus proceeding created as autism petitions mount
   2007 : Hearings begin on test cases
-  2008 : HHS concedes the Hannah Poling case
+  2008 : HHS's late-2007 concession in the Hannah Poling case becomes public
   2009 : Cedillo, Hazlehurst, Snyder decisions reject MMR plus thimerosal theory
   2010 : King, Mead, Dwyer decisions reject thimerosal theory
   2011-13 : Thousands of remaining petitions dismissed
